@@ -1,0 +1,2801 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am810" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Triumph at Plattsburg
+    </title>
+    <author>
+     Smith, Richard Penn
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Wikisource
+     </name>
+     <idno>
+      https://en.wikisource.org/wiki/Representative_American_Plays/The_Triumph_at_Plattsburg
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Representative American Plays, ed. Arthur Hobson Quinn
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="landlord" sex="MALE">
+      <persName>Landlord</persName>
+     </person>
+     <person xml:id="colmccrea" sex="MALE">
+      <persName>Col. McCrea</persName>
+     </person>
+     <person xml:id="sentinel" sex="MALE">
+      <persName>Sentinel</persName>
+     </person>
+     <person xml:id="andremacklegraith" sex="MALE">
+      <persName>Andre Macklegraith</persName>
+     </person>
+     <person xml:id="elinormcrea" sex="FEMALE">
+      <persName>Elinor M'Crea</persName>
+     </person>
+     <person xml:id="mrsdrench" sex="FEMALE">
+      <persName>Mrs. Drench</persName>
+     </person>
+     <person xml:id="mrsmacklegraith" sex="FEMALE">
+      <persName>Mrs. Macklegraith</persName>
+     </person>
+     <person xml:id="drdrench" sex="MALE">
+      <persName>Dr. Drench</persName>
+     </person>
+     <person xml:id="captpeabody" sex="MALE">
+      <persName>Capt Peabody</persName>
+     </person>
+     <person xml:id="soldier-1" sex="MALE">
+      <persName>1st Soldier</persName>
+     </person>
+     <person xml:id="captstanley" sex="MALE">
+      <persName>Capt Stanley</persName>
+     </person>
+     <person xml:id="corporalpeabody" sex="MALE">
+      <persName>Corporal Peabody</persName>
+     </person>
+     <person xml:id="soldier-2" sex="MALE">
+      <persName>2nd Soldier</persName>
+     </person>
+     <personGrp xml:id="soldiers" sex="MALE">
+      <persName>Soldiers</persName>
+     </personGrp>
+     <person xml:id="majormcrea" sex="MALE">
+      <persName>Major M'Crea</persName>
+     </person>
+     <person xml:id="lucy" sex="FEMALE">
+      <persName>Lucy</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      History
+     </term>
+     <term subtype="am" type="genreTitle">
+      Drama
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1917">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <!--The Triumph at Plattsburg is here printed
+                            for the first time from the original manuscript through the courtesy of
+                            the Historical Society of Pennsylvania-->
+   <head>
+    THE TRIUMPH AT PLATTSBURG
+   </head>
+   <p>
+    The Triumph at Plattsburg represents the historical play dealing with the war of 1812. Richard Penn Smith, its author, was born in Philadelphia, March 13, 1779, the grandson of Provost William Smith, the patron of Thomas Godfrey. He was educated at Mount Airy, and was admitted to the Bar. He succeeded Duane as Editor of The Aurora , in 1822, but after five years spent in journalism, he returned to the practice of law. According to his biographers he had a wide knowledge of French and English drama which indeed is shown directly in several of the plays. He died August 11, 1854, at the family seat at the Falls of Schuylkill, near Philadelphia.
+   </p>
+   <p>
+    He wrote twenty plays, fifteen of which were performed. His first play to be acted, Quite Correct , was produced at the Chestnut Street Theatre, Philadelphia, May 27, 1828. It is a farce altered from the French, as was also Is She a Brigand , played at the Arch Street Theatre, in 1833. The largest group of Smith's plays may be called romantic comedy or melodrama. The most important plays in this group are The Disowned , a melodrama, played first at the Baltimore Theatre, March 26, 1829, and printed in Philadelphia in 1830, A Wife at a Venture , an oriental comedy, played first at the Walnut Street Theatre, Philadelphia, July 25, 1829, The Sentinels, or the Two Sergeants , a clever play on the theme of fidelity, adapted from the French, performed at the Chestnut Street Theatre, December, 1829, and The Deformed , a verse play, based on Dekker's Honest Whore , played first at the Chestnut Street Theatre, February 4, 1830, and printed the same year. According to Durang and Rees, The Disowned and The Deformed were afterwards acted in London.
+   </p>
+   <p>
+    Smith also wrote a blank verse tragedy, Caius Marius , for Edwin Forrest, which the latter produced at the Arch Street Theatre, on January 12, 1831, and later in other places. It has not survived, except in fragments.
+   </p>
+   <p>
+    Smith did his most significant work, however, in the field of historical drama. The Eighth of January , in which General Jackson is the central figure, was played at the Chestnut Street Theatre, January 8, 1829, and was very popular, being repeated in New York, Baltimore and Washington, and, as late as 1848, being put on at the Broadway Theatre, New York. It was printed in Philadelphia in 1829. William Penn , a play in three acts, has as central theme the intervention of Penn to save the life of an Indian chief, Tammany, by name. It was first played at the Walnut Street Theatre, Dec. 26, 1829, and seems to have been revived as late as 1842.
+   </p>
+   <p>
+    The Triumph at Plattsburg is the best of the national plays of Smith. He has avoided actual historical characters, and the conflict is kept in the background, while McCrea's danger keeps the element of suspense alive. It was first, played at the Chestnut Street Theatre, January 8, 1830, with a strong cast, and was repeated. Apparently the scenery was quite effective and the national appeal met with a response.
+   </p>
+   <p>
+    For biography of Richard Penn Smith, see a sketch by Morton McMichael in The Miscellaneous Works of the late Richard Penn Smith , edited by H. W. Smith, Philadelphia, 1856, and an anonymous sketch in Burton's Gentleman's Magazine , Vol. V, p. 119 (September, 1839). For accounts of the performances of the plays, see Charles Durang, History of the Philadelphia Stage , Series 2, Chaps. 51, 55, 56.
+   </p>
+   <p>
+    The published plays of Penn Smith, The Eighth of January , (1829), The Disowned , (1830), The Deformed , (1830), Quite Correct , (1835), Is She a Brigand , (1835), and The Daughter , (1836), all printed in Philadelphia, are hard to obtain. The following plays are in manuscript form in the Historical Society of Pennsylvania, in Philadelphia: The Pelican, A Wife at a Venture, The Sentinels, William Penn, The Triumph at Plattsburg, The Bombardment of Algiers, The Solitary or the Man of Mystery, Shakespeare in Love , and The Last Man . Smith's novel The Forsaken was published in Philadelphia in 1831.
+   </p>
+   <p>
+    The present text is based on the manuscript copy, for whose use the editor is indebted to the courtesy of the Historical Society of Pennsylvania, especially of the Librarian, Dr. John W. Jordan, and of the Assistant Librarian, Mr. Ernest Spofford. The original program, found with the manuscript, has been reprinted here.
+   </p>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      CHARACTERS
+     </head>
+     <castItem>
+      Major M'Crea Mr. Foot
+     </castItem>
+     <castItem>
+      Captain Stanley [Mr.] Rowbotham
+     </castItem>
+     <castItem>
+      Andre Macklegraith [Mr.] Maywood
+     </castItem>
+     <castItem>
+      Captain Peabody [Mr.] J. Jefferson
+     </castItem>
+     <castItem>
+      Corporal Peabody [Mr.] M'Dougal
+     </castItem>
+     <castItem>
+      Dr. Drench [Mr.] Hathwell
+     </castItem>
+     <castItem>
+      Elinor M'Crea Mrs. Roper
+     </castItem>
+     <castItem>
+      Mrs. Macklegraith Mrs. Turner
+     </castItem>
+     <castItem>
+      Lucy Miss Waring
+     </castItem>
+     <castItem>
+      Mrs. Drench Miss Armstrong
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     ACT FIRST.
+    </head>
+    <div type="scene">
+     <head>
+      1.
+     </head>
+     <stage>
+      The village of Plattsburg, in front of Fort Moreau. The fort practicable. Flag flying, Sentinel on duty; villagers cross stage removing property .
+     </stage>
+     <stage>
+      ( Enter Corporal Peabody with soldiers .)
+     </stage>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       Halt. Stand at ease. Good people, what is the meaning of all this confusion and consternation? You could not be more alarmed if the whole village were already in flames about your ears.
+      </p>
+     </sp>
+     <sp who="#drdrench">
+      <speaker>
+       Dr. Drench
+       .
+      </speaker>
+      <p>
+       And so it will be, corporal, if we stay here a few hours longer. The case is a desperate one I assure you, beyond the reach of medicine. Is not Sir George Prevost, with many thousand troops, already within a few miles of the village?
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       Very true, but I calculate he will have to come nearer before he takes the village, and that you know he cannot do without having a taste of the quality of the Green Mountain Boys.
+      </p>
+     </sp>
+     <sp who="#drdrench">
+      <speaker>
+       Dr. Drench
+       .
+      </speaker>
+      <p>
+       Exactly as you say, but I would just as leave be down at Whitehall during the operation, so I'll move myself and plunder out of harm's way. Must have an eye to the main chance, corporal, and take care of my property, you know.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       The surest way to take care of it is to defend it with a musket in your hand. I have one at your service, doctor.
+      </p>
+     </sp>
+     <sp who="#drdrench">
+      <speaker>
+       Dr. Drench
+       .
+      </speaker>
+      <p>
+       Thank ye, thank ye kindly, just as much as though I had accepted of it; but no occasion at present.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       What, doctor, not afraid to look upon death at this time of day?
+      </p>
+     </sp>
+     <sp who="#drdrench">
+      <speaker>
+       Dr. Drench
+       .
+      </speaker>
+      <p>
+       Afraid! La! no, that's my trade, and that I may continue to exercise it, I decline your polite offer.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <stage>
+       ( Without .)
+      </stage>
+      <p>
+       Stand out o' the way, man, and make room for Andre Macklegraith, who would see the general.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       What noise is that?
+      </p>
+     </sp>
+     <sp who="#drdrench">
+      <speaker>
+       Dr. Drench
+       .
+      </speaker>
+      <p>
+       It is Andre Macklegraith, the miller.
+      </p>
+     </sp>
+     <stage>
+      ( Enter Andre .)
+     </stage>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Corporal Peabody, it warms the cockles o' my heart to see your good natured face at this present speaking, though you ken weel enow, that the time ha' been, and that na lang syne, when I would ha' preferred your room to your company any day in the week, and ha' been the gainer by it.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       Twist me, but I guessed as much, Andre, but what has worked this sudden change in your feelings?
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Our feud's at an end, corporal, — Our feud's at an end. Take a pinch o' sneezer out o' my mull, and that you ken will be as binding as though we drank out o' the same cup together, and the ceremony is more economical — take a good pinch, man, you're welcome. — Ah! doctor, I cry you mercy, it glads one to see your gracious physiognomy; and how does the world wag with you, man?
+      </p>
+     </sp>
+     <sp who="#drdrench">
+      <speaker>
+       Dr. Drench
+       .
+      </speaker>
+      <p>
+       Only so, so.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       The war is about to drive him from the village, Andre.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       The doctor is right. It is an old saw, ye ken, that twa of a trade can never agree, and the war I am thinking will do business upon a larger scale than the doctor. — Ha! Ha! do you take my meaning?
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       Yes, and so does the doctor too; but he makes a wry face in taking it.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Well I have done as much in swallowing his nostrums. — Ha! Ha! — Never look vexed, doctor. — A harmless jest will break no bones, and Andre, you ken right weel, is not the churl that would hurt as much as a hair upon his neighbor's head. Well, Corporal Peabody, as I was saying, our feud's at an end. You know I always counted you a bonnie laddie when you used to come to my mill on Dead Creek with your grist of white wheat, and as fine wheat it was as any that grew in Clinton County, that I will say for it.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       And heavy tolls came out of it too, Andre.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Ha! Ha! Let Andre alone for that man; but de'il a grain more did he take than his lawful toll. Ye canna say that ever Andre Macklegraith lost sight of the golden rule, which bids him do as
+       <pb n="172"/>
+       he would be done by. Well, as I was saying, ye came oft to the mill with your grist, and ye came often without any grist at all, and by my troth you soon wore out your welcome, for I found out that Lucy my handmaid was the attraction. Ha! laddie, say I not true?
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       Why now I reckon you had some reason for you[r] suspicion.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Ah! let Andre alone for seeing as far into a millstone as he that picks it. I had taken a fancy to the lassie mysel, and with my old mither's consent, will make Lucy, Mrs. Macklegraith, before we are many days older. — So, corporal, our feud's at an end.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       But have you Lucy's consent out and out?
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Why you simpleton, do you think she could refuse Andre Macklegraith? I should like to see the lassie who would turn her back upon a man of my substance. — Take another pinch o' sneezer. Take it, you're welcome, and should be glad to see you at the mill again when Lucy and mysel are bone of one bone — but not till then, mind ye.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       You are what I call a shocking polite feller.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Let Andre alone for that, he kens bravely how to conduct himself in a beseeming manner in all company. But where is General Macomb; I have come here in person to speak to the general himself.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       You speak to the general; you?
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Yes, Andre Macklegraith the miller would speak to General Macomb. What's wonderful in all that? We live in a free land, man, and it would be strange indeed if the voice of the lowly could not reach the ears of those above them.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       And what would you say to the general?
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       An affair of interest, but as he is not here I will even open my budget to you. Some scouts of the enemy have appeared in the neighborhood of my mill, and as I am afraid they may set fire to my property, and in one hour consume the rakings and scrapings of many toilsome years, of a painstaking man, I would just ask the general to be so obliging as to send a company or two to protect me and mine from the fire and sword of the invader.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       And you think that he will grant your request?
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Think, man! Hoot, hoot awa! how can he get over it? Does not your constitution protect every man, rich and poor, in the peaceful enjoyment of his property, and if you let an honest citizen suffer in this manner, how can you hope for emigration?
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       Why now there is something in that.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Something. — A mickle deal. Let him refuse my reasonable request, and by the cross of Saint Andrew, I'll come John Doe and Richard Roe over him.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       And do you wish the soldiers to guard Lucy also? If you do, I'm your man.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       And do you think Andre daft or dighted, to set a fox to take care of his pullet. — She would be in good hands, by my truly. — No, no, if they only keep the Philistines out of the mill, they may let me alone to take care of the lassie. Come, show me the way to the general's headquarters that I may speak to him with my own tongue, for I never liked doing things by deputy. Come along, Doctor; never look so gloomy, man; my jest was a keen one, it must be allowed, but heed it not, it broke no bones, and if it had, you have the skill to make all whole again. —
+      </p>
+     </sp>
+     <stage>
+      ( March. Exeunt .)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      2.
+     </head>
+     <stage>
+      A street in Plattsburg .
+     </stage>
+     <stage>
+      ( Enter Elinor followed by Mrs. Drench .)
+     </stage>
+     <sp who="#mrsdrench">
+      <speaker>
+       Mrs. Drench
+       .
+      </speaker>
+      <p>
+       Why do you leave us? and whither are you going, Miss Elinor?
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       I have already told you, to the enemy's camp, to seek a husband whom, I fear has deserted me. Six weeks have elapsed since I heard from him — My foreboding heart tells me that a fearful destiny awaits me. — O! Stanley, I did not merit this cruel treatment at your hands.
+      </p>
+     </sp>
+     <sp who="#mrsdrench">
+      <speaker>
+       Mrs. D.
+      </speaker>
+      <p>
+       Let him go for a good for nothing fellow as he is.
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       Alas, you did not know him or you would not speak thus harshly. He appeared to me to be the very soul of honor. —
+      </p>
+     </sp>
+     <sp who="#mrsdrench">
+      <speaker>
+       Mrs. D.
+      </speaker>
+      <p>
+       And so they all appear until they are found out. Never trust to appearances.
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       He had been taken prisoner, and while on his parol, he boarded at my
+       <pb n="173"/>
+       father's farm in Vermont. He was so kind and obliging that my father and all of us looked upon him as one of the family. We were much together; he became particular in his attentions to me, and my inexperienced heart was alas! but too sensible to his accomplishments.
+      </p>
+     </sp>
+     <sp who="#mrsdrench">
+      <speaker>
+       Mrs. D.
+      </speaker>
+      <p>
+       Well, miss, I sympathize with you for before I married Dr. Drench I was precisely in the same
+       sitiation
+       with a young cornet in the militia. These military men!
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       He pressed me to consent to a secret marriage, urging as an excuse that my father would never sanction our union during the continuance of hostilities. My heart was his, and I finally gave him my hand without my father's knowledge. He left me shortly after our marriage and I have not heard from him since. O! Stanley!
+      </p>
+     </sp>
+     <sp who="#mrsdrench">
+      <speaker>
+       Mrs. D.
+      </speaker>
+      <p>
+       O! the Bluebeard. I should like. him to serve me so once. He'd find his match, I war'nt him.
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       My situation now became daily more irksome. I felt that I had been betrayed; I feared to make known the dreadful secret to my father; I fled from my paternal roof, in quest of my husband. — I have not heard from my home since I left it, which is now more than a week; my father is ignorant of my fate, and perhaps he mourns me for dead. Bitterly do I repent of the imprudent step I have taken.
+      </p>
+     </sp>
+     <sp who="#mrsdrench">
+      <speaker>
+       Mrs. D.
+      </speaker>
+      <p>
+       Will you not return, ma'am, to our house?
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       No, accept my gratitude for the protection you have already given me. — My determination is made. I will search out my husband and satisfy myself whether I am his lawful wife, or a wretch indeed.
+      </p>
+     </sp>
+     <sp who="#mrsdrench">
+      <speaker>
+       Mrs. D.
+      </speaker>
+      <p>
+       But the soldiers, ma'am.
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       They are men, and being such, they will not insult a woman in distress.
+      </p>
+     </sp>
+     <stage>
+      ( Exeunt .)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      3.
+     </head>
+     <stage>
+      Andre's Mill. View of the Lake. Boat near the mill. Distant cannon .
+     </stage>
+     <stage>
+      ( Enter Mrs. Macklegraith and Lucy from mill .)
+     </stage>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Hark! Lucy, a skirmish is taking place and at no great distance from us. This war is a dreadful thing; it destroys everything like peace and comfort. And my poor son Andre, what can prevent his return? I fear some ill has befallen him. —
+      </p>
+     </sp>
+     <sp who="#lucy">
+      <speaker>
+       Lucy
+       .
+      </speaker>
+      <p>
+       No danger of that, ma'am; Mr. Macklegraith is too wise and prudent.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       He would go to Plattsburg in spite of all I could say. He had better have staid at home to protect us. — See, Lucy, a soldier approaches in haste.
+      </p>
+     </sp>
+     <stage>
+      ( Enter Major McCrea .)
+     </stage>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       At length I have eluded their pursuit. Good woman, do you inhabit this mill?
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Yes, sir.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Are you alone?
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       For the present. My son Andre has gone to the village.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       I am pursued and my fate is inevitable unless you afford me an asylum and conceal me from my enemies.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       It is impossible. We every instant expect a guard to take possession of the mill and they will certainly discover you.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       You are from Scotland and several years ago lived in Vermont upon the estate of Major McCrea. Is it not so?
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       It is, but how have you learnt my history?
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Look at me well. — Ten years and recent affliction may have wrought great change in me. He who gave you shelter in your time of need, now request[s] protection in his turn.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Major McCrea! Never can I repay the debt of gratitude that I owe. But by what chance do I see you here alone?
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       A melancholy one. You remember my little Elinor — she was but a little flaxen headed girl when you knew her — She grew up as beautiful as her mother — She was the pride of my heart — the comfort of my age — at least, I thought so, but what is blinder than parental love! — O! who would be a father, and in his dotage fondly nourish a viper in his bosom until it gains sufficient strength to sting him to the soul!
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Nay sir, give not way to your feelings.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       She left me. Can you credit it; fled from her fond father's house — reckless of the misery she entailed upon me — O! the ungrateful — but I will
+       <pb n="174"/>
+       not curse her — She has broke[n] my heart, but she is still my child and I will not curse her.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Have you received no tidings of her yet, sir?
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       This morning I heard that she had just left the village, and hoping that she might have sought protection under your roof, I left my station and came in pursuit of her, but she is not here, alas! she is not here.
+      </p>
+     </sp>
+     <stage>
+      ( Distant drums .)
+     </stage>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Hark! sir, the enemy approaches. If you remain here you will certainly he taken prisoner. Is there nothing we can do to save you?
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       You have said that your son is not here. Get me a suit of his apparrel; I will pass for your son.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Pass for my son!
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Where are his clothes? We have no time to lose.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Follow me, sir, and I will get you a suit.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <stage>
+       ( To Mrs. M. )
+      </stage>
+      <p>
+       Do you remain here and give me timely notice when danger approaches.
+      </p>
+     </sp>
+     <stage>
+      ( Exit with Lucy into the mill .)
+     </stage>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       What an astonishing adventure. I am thankful that an opportunity has occurred for me to evince my gratitude to him who protected the widow and her son for years. What, so soon returned?
+      </p>
+     </sp>
+     <stage>
+      ( Enter Lucy .)
+     </stage>
+     <sp who="#lucy">
+      <speaker>
+       Lucy
+       .
+      </speaker>
+      <p>
+       I have given him the cloathes, ma'am, but I did not stay to help him on with them because he is a man.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       You are a prudent girl. A young woman ought not to expose herself. Ah! the soldiers here already. We are lost. —
+       <stage>
+        ( Goes to mill .)
+       </stage>
+       Major, have you finished? Hasten or your fate is inevitable.
+      </p>
+     </sp>
+     <stage>
+      ( Enter Captain Stanley and soldiers .)
+     </stage>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Halt. — Be not alarmed, good woman. No injury is intended; I have merely come to station a sentinel at this place. Have you any men in your family?
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       My son Andre, sir.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Where is he?
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       He is —
+      </p>
+     </sp>
+     <sp who="#lucy">
+      <speaker>
+       Lucy
+       .
+      </speaker>
+      <p>
+       In the mill, sir.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       I would speak to him. —
+       <stage>
+        ( Goes to mill .)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Do not put yourself to the trouble sir: I will go in search of him.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       No; I wish to satisfy myself that he is alone in the mill. My friends, follow me.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Heavens! what shall we do!
+      </p>
+     </sp>
+     <sp who="#lucy">
+      <speaker>
+       Lucy
+       .
+      </speaker>
+      <p>
+       He is lost.
+      </p>
+     </sp>
+     <stage>
+      ( As soldiers are about to go into mill, Enter from mill Major McCrea in a miller's dress .)
+     </stage>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Here I am, my friends — what would you have? — Captain Stanley. — I most be on my guard.
+       <stage>
+        ( Aside .)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       O! fortunate! Capt. Stanley. Are you the owner of this mill?
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       No, not as long as my mother lives.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Well, friend, I ought to advise you that I have orders to place an advance sentinel on this spot.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Then address alone can save me.
+       <stage>
+        ( Aside .)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Be not concerned; the females of your family shall be respected.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       I doubt it not; you do not wage war with women. Well I am glad of the measure, it will protect my mill from depredators. — Captain, my mother is a fine fresh looking old lady for sixty five, is she not?
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       The captain can see plain enough, son, that you don't know my age. I am not sixty-five.
+      </p>
+     </sp>
+     <sp who="#lucy">
+      <speaker>
+       Lucy
+       .
+      </speaker>
+      <p>
+       She must be that full out if she intends to pass for the mother of the Major. —
+       <stage>
+        ( Aside .)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       I think, mother, you would take off a few years.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Women are liable to those mistakes. — Have you any spirits in the house, my good fellow?
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Certainly, and good too. Mother, give us some brandy.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       But, my son, we have none.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Have none? Ah! true, it is all out, but if you would like some whiskey —
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Anything.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       We have a little whiskey still left.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Then let us have it. —
+       <stage>
+        ( Exit Mrs. M. )
+       </stage>
+       You appear fatigued.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Yes; we have had some skirmishing on Cumberland Head, and no rest since.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       The first virtue of a soldier is to endure fatigue.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Why, comrade, from your
+       <pb n="175"/>
+       step, I should guess that you have been a soldier in your time.
+      </p>
+     </sp>
+     <stage>
+      ( Re-enter Mrs. Mack. — with bottle &amp;.mp;c. )
+     </stage>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       I have served a campaign and know something of the world. At the age of fifteen I left my father's house; a juvenile frolic — you recollect, mother.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Yes, the libertine, but he is now likely to be settled in life for this is his intended.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       A charming creature. — Here ['s] to a speedy and happy marriage.
+       <stage>
+        ( Drinks .)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#lucy">
+      <speaker>
+       Lucy
+       .
+      </speaker>
+      <p>
+       Happy. O! never fear, sir, after our marriage we shall never quarrel.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       That's well, an excellent resolution, but more frequently made than kept, my pretty one.
+      </p>
+     </sp>
+     <stage>
+      ( Enter Andre .)
+     </stage>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       At last I am at home again, thanks to as good a pair of shanks as ever grew among the highlands o' bonny Scotland.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       How unfortunate! See, my son has returned.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       No matter. —
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Do not betray yourself.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Fear nothing; be on your guard and take your cue from me.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       The detachment here already! This General Macomb is a practical man in the way of business, and kens right weel what is due from the government to an honest citizen who pays his taxes on the nail when called upon. But how is this! the carls have red coats upon their backs. Are ye the volunteers from York, gentlemen?
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       No, we are his majesty's soldiers from the Eighty-second.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       The de'il's blessings on you for the information.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Ah! brother, I am delighted that you have returned so soon.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Brother! and who may this oily tongued carl he with my ane clothes upon his back, and Lucy hanging on his arm with as little shame as if she were a canty quean. And these desperado soldiers here! — My mill's besieged and Andre Macklegraith's a mined man.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Don't be alarmed, friend, you have nothing to fear from us.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Yes, Andre, these gentlemen have told your, brother that they have come to protect us.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       My brother! How, mother, are you, too, in the same ridiculous story?
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Come, my boy, and take a social cup with us.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       No; I'm not athirst. A bonny kettle o' fish is this'. The first steals my liquor and then asks me to drink with him. I would not as much as take a pinch o' sneezer with such a knave, and that's more economical.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Why, brother, you will not be such a churl as to refuse?
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Brother again! and what the de'il man made you my brother? You are none of my father's begetting unless indeed over the left shoulder, and such it would not be beseeming in me to acknowledge in my good mother's presence.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Your folly will anger me.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       My folly! Hoot awa! I take myself to be as wise a man as ever stood upon your shanks.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Go brother, go into the house; you know not what you say. Go into the house.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       I won't. I'm not a fool. Hear me.
+      </p>
+     </sp>
+     <sp who="#lucy">
+      <speaker>
+       Lucy
+       .
+      </speaker>
+      <p>
+       Come Andre, come with me.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       I won't; and the de'il fly away with me if I stir a peg until I see the sittings of the plot against me.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Poor fellow. — Captain, he is sometimes a little touched — you understand me.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Oh! perfectly!
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       He is a good hearted boy, but when he takes a drop too much. —
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       A drop too much! Why, mother, not a mouthful has passed my windpipe since breakfast, saving and excepting an cup of molasses and water, which I swallowed out of pure friendship for Dr. Drench. And well you know that a hale man might swill a pale
+       full of such like taplash
+       and not become heady. — But how is this, mother, that you combine with my enemies against your own flesh and blood? — And Lucy too, whom I intend at no distant day to make Mistress Macklegraith —
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Ha! Ha! An odd fellow! why he'll take your sweetheart from you presently, comrade.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       His sweetheart! Am I awake!
+      </p>
+     </sp>
+     <sp who="#lucy">
+      <speaker>
+       Lucy
+       .
+      </speaker>
+      <p>
+       This is one of the causes of his strange behaviour. He loves me, but as
+       <pb n="176"/>
+       I give the preference to his brother, he disowns him, and acts in a manner that frightens us all.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       What a shocking lie! It's gross enough to choak
+       the throat of the Witch of Endor.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Go in, my friend, and compose yourself. A little sleep will do you good.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       I dinna want to sleep. By my troth, a pretty piece of work. Here comes a thief that I never before set my eyes upon, who calls himself my brother, steals the betrothed of my heart from me, seduces my mother, wears my clothes and uses my mill, and then I am told to go to sleep for it will do me good. Who the de'il could sleep with all that upon his conscience?
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Pray keep your temper, son.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Poor fellow, he is very far gone.
+      </p>
+     </sp>
+     <sp who="#lucy">
+      <speaker>
+       Lucy
+       .
+      </speaker>
+      <p>
+       Very far gone indeed, sir. — Ah! do not come nigh me.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Take care, he is dangerous.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       But, mother, I am in my sound senses. Can't you put in a word to show that you have not quite cast me off?
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       Why are you so unwilling to acknowledge your brother then?
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Simply because I can't exactly remember him, never having had the pleasure of seeing him before. Indeed, mother, if you say he is my brother it does not become me to gainsay it, and I, like a dutiful son, will acknowledge the kin, provided he will get about his business speedily and leave me my cloathes, my lassie and my mill in no worse condition than he found them.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       It is dangerous to let him run at large — I wonder you have the courage to trust him so near you.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       The fault's on his side, it is he that's near me.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       My friend, my brother, I beg of you to go in for a moment with your mother.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       And leave the lassie alone in your clutches! Andre may be confounded, but he is nae sic &amp;.t;in&amp;.t; a fool as that.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Get in, comrade, or do you require the help of my foot to assist you?
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       No, I can walk on my own shanks well enow. —
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Charge. —
+       <stage>
+        ( The platoon charge bayonet and advance toward Andre .)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       How, do you make me a prisoner in my own house! Horrible, horrible! and all this in a free country, and towards an honest and harmless citizen, who pays his lawful taxes regular down upon the nail. Ken ye what ye do upon your own responsibility. I shall make it all known to General Macomb, and if he don't call you to a severe account, by the cross of Saint Andrew, I'll come John Doe and Richard Roe over you at the next assizes.
+      </p>
+     </sp>
+     <stage>
+      ( They push him in and close the door .)
+     </stage>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Ha, ha, ha! a comical fellow.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Thanks, comrade, he is more violent than usual, but a few moments' reflection and he will become pacified.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       I hope so. — I must leave you sooner than I would wish in order to station the sentinels. —
+       <stage>
+        ( Selects one soldier from the platoon and stations him .)
+       </stage>
+       — A dieu, comrade. Platoon, to the right face; forward march.
+      </p>
+     </sp>
+     <stage>
+      ( Exit with soldiers .)
+     </stage>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Good woman, I shall never forget this proof of your attachment. Sooner or later I will recompense your generosity.
+      </p>
+     </sp>
+     <sp who="#mrsmacklegraith">
+      <speaker>
+       Mrs. Mack.
+      </speaker>
+      <p>
+       I am paid, sir, in the opportunity of serving you.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Go to your son and dissipate the alarm that this strange adventure has occasioned. Tell him who I am, and doubtless he will aid in my escape.
+      </p>
+     </sp>
+     <stage>
+      ( Exeunt Mrs. Mack. &amp; Lucy into the mill .)
+     </stage>
+     <stage>
+      ( Enter Elinor .)
+     </stage>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       I am faint with fatigue and fright. Here is a place of shelter where I may rest until I recover sufficient strength to pursue my search. Alas! how severely is my disobedience punished.
+      </p>
+     </sp>
+     <sp who="#sentinel">
+      <speaker>
+       Sentinel
+       .
+      </speaker>
+      <p>
+       Stand, give the word.
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       I know it not.
+      </p>
+     </sp>
+     <sp who="#sentinel">
+      <speaker>
+       Sentinel
+       .
+      </speaker>
+      <p>
+       You cannot pass, then.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Elinor, my child.
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       Whose voice is that. My father!
+      </p>
+     </sp>
+     <sp who="#sentinel">
+      <speaker>
+       Sentinel
+       .
+      </speaker>
+      <p>
+       His child! This is not the miller then.
+      </p>
+     </sp>
+     <sp who="#colmccrea">
+      <speaker>
+       Col. McCrea
+       .
+      </speaker>
+      <p>
+       She faints. A glass of water, for heaven's sake.
+      </p>
+     </sp>
+     <sp who="#sentinel">
+      <speaker>
+       Sentinel
+       .
+      </speaker>
+      <p>
+       I cannot leave my post.
+      </p>
+     </sp>
+     <stage>
+      ( Enter Andre .)
+     </stage>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       What noise is this?
+      </p>
+     </sp>
+     <sp who="#colmccrea">
+      <speaker>
+       Col. McCrea
+       .
+      </speaker>
+      <p>
+       Look up, my child; you are in your father's arms once more and he forgives you all. — Look up. She revives. Andre Macklegraith, some water for the love of heaven.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Ye ken me for Andre weel enough now, and I ken ye too. Why call ye so loud for water man, when the lake is so near at hand? Carry your bairn to the shore and help yourself to what you need.
+      </p>
+     </sp>
+     <sp who="#colmccrea">
+      <speaker>
+       Col. McCrea
+       .
+      </speaker>
+      <p>
+       Unfeeling monster!
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Nay, no abuse, but follow Andre's advice. — Even a fool may at times give good advice to a wise man. — Help yourself, I say, and ye'll have no cause to find fault with your servant. Hoot man, to the shore, you'll find a boat there, make the best use on't and trust to me.
+      </p>
+     </sp>
+     <stage>
+      ( Apart .)
+     </stage>
+     <stage>
+      ( Col. McCrea supports Elinor to the shore .)
+     </stage>
+     <sp who="#sentinel">
+      <speaker>
+       Sentinel
+       .
+      </speaker>
+      <p>
+       I reckon, friend, you are not much troubled with christian charity.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       That's my affair — Charity is a fine topic to talk about and preach about too, but I have remarked that where there is a large stock of charity, there is usually a small stock to answer its demands. Charity is an ungrateful guest, for it is sure to rob the man who entertains it. Take a pinch o' sneezer. A large pinch man, you[']r[e] hearty welcome.
+      </p>
+     </sp>
+     <stage>
+      ( Boat pushes off .)
+     </stage>
+     <sp who="#sentinel">
+      <speaker>
+       Sentinel
+       .
+      </speaker>
+      <p>
+       Death! He has escaped. Hold on, or I'll fire.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Fire at a lassie? Shame, where's your manhood. —
+       <stage>
+        ( Fires . — Andre strikes the gun up. Enter soldiers , Mrs. Mack. and Lucy . Boat disappears. Curtain drops .)
+       </stage>
+      </p>
+     </sp>
+     <stage>
+      End of Act First.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT SECOND.
+    </head>
+    <div type="scene">
+     <head>
+      1.
+     </head>
+     <stage>
+      A tavern on Cumberland Head. Folding window through which is seen a view of the lake. Discovered. Four British soldiers drinking, and Captain Peabody , the Landlord. Cannon at intervals .)
+     </stage>
+     <sp who="#soldier-1">
+      <speaker>
+       1st Soldier
+       .
+      </speaker>
+      <p>
+       Well, comrades, the army is prepared to commence the grand assault, and in a few hours we shall behold his majesty's flag waving over the fortress of Plattsburg.
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       I'll bet you all the grog in my bar to a chew tobacco that you have missed a figure in your calculation, Corporal.
+      </p>
+     </sp>
+     <sp who="#soldier-1">
+      <speaker>
+       1st Soldier
+       .
+      </speaker>
+      <p>
+       What's that you say, Landlord!
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       I am thinking that if you ever march into Plattsburg it will be under a flag of a different color than that you display at present.
+      </p>
+     </sp>
+     <sp who="#soldier-1">
+      <speaker>
+       1st Soldier
+       .
+      </speaker>
+      <p>
+       Ha! Ha! why, you don't suppose that experienced soldiers are to be beaten by a handful of ragged militia, do you?
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       Yes, I do, and they will be switched like tarnation too. Take my word for it, corporal, you'll have your red jackets drubbed off of your backs, and if you are so fortunate as to return alive, I calculate you'll cut a more sorry figure than the ragged militia you jeer at.
+      </p>
+     </sp>
+     <sp who="#soldier-2">
+      <speaker>
+       2d Soldier
+       .
+      </speaker>
+      <p>
+       The fellow's mad.
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       Cuter than you think for. You seem not to reflect that the enemy you despise are fighting for their homes, and remember 't is the nature of a man to fight
+       despert
+       fierce when a foe's at his threshold.
+      </p>
+     </sp>
+     <sp who="#soldier-1">
+      <speaker>
+       1st Soldier
+       .
+      </speaker>
+      <p>
+       Then why don't you turn out with your rifle on your shoulder, since you are surrounded with your enemies?
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       Mayhap I'll answer that question when occasion offers, but business in the mean time, you know, must be attended to, and if I can make an honest penny or two out of you before your affairs are settled, it's nothing to Uncle Sam, you know. Old Captain Peabody will make it up to him in the long run I'll war'nt it.
+      </p>
+     </sp>
+     <stage>
+      ( Enter Major McCrea and Elinor .)
+     </stage>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       We have mistaken the path, my child, and here we are on Cumberland Head instead of approaching Plattsburg. Cheer up, Elinor.
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       I am faint, very faint.
+      </p>
+     </sp>
+     <stage>
+      ([ He ] supports her to a chair .)
+     </stage>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       Landlord, some wine. — The walk has been too much for you. Yield not to your feelings. A few moments' rest will refresh you.
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       O, my father, this unmerited kindness overwhelms me with confusion.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       You are still my child, Elinor, though a villain persuaded you for a time to forget your father.
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       Take a glass of Mrs. Peabody's
+       <pb n="178"/>
+       currant wine, miss; it is the right stuff, I'll war'nt it, and a glass or two will make you feel all over quite a different person.
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       You are very kind, but I had rather not.
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       Then here's your health. Help yourself sir, there's not a headache in a hogshead, as the saying is, — Bless me the young women is rather faintish. Lead her into that room and Mrs. Peabody will comfort the poor critur. —
+      </p>
+     </sp>
+     <stage>
+      ( Exeunt Major and Elinor .)
+     </stage>
+     <stage>
+      ( Enter Captain Stanley .)
+     </stage>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Soldiers, really it is time for you to be upon duty, if you wish to partake of the brilliant achievement that is about to crown his majesty's arms.
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       Now I calculate they had better be off of duty, lest the brilliant achievement turn out like that affair of General Proctor's. You've heard tell on't, I reckon? If you ha'n't, I'll give you the whole story from first to last.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Pon honor, landlord, you should confine your conversation to gin slings and apple toddy, and such professional topics as you understand, and not hazard an opinion on military matters.
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       Now that beats all nature that Captain Peabody's opinion on military affairs should go for nothing. I reckon, captain, that you are yet to learn that I was a major in the Vermont militia for ten years, and never missed a training day, that my father served under old Ethan Allen and was at the taking of Ticonderoga, and that my son Nathan is a corporal in the sarvice at this present speaking. Rat it, we are a military family, root and branch, and you will find that I can look upon a field of battle with the eye of a soldier though I do not carry a laced coat upon my back.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       I will not dispute the judgment of so experienced an officer, but I will lay my honor to a brass farthing that I sup in Plattsburg tonight.
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       An even bet I reckon, and no doubt you will win it, for you will certainly sup there if you have any appetite for supper.
+       <stage>
+        ( Cannon .)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Hark! the British fleet is already under weigh. The attack soon begins. — A fine sight that, Landlord.
+      </p>
+     </sp>
+     <stage>
+      ( Looking out .)
+     </stage>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       Why they do sail trim enough for sartin, but I calculate they'll follow the example set by the squadron on Lake Erie.
+      </p>
+     </sp>
+     <stage>
+      ( Enter Major McCrea .)
+     </stage>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       Captain Peabody, my daughter has recovered sufficient strength to walk. Can you direct us the shortest route to the village.
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       That I can for sartin, — but wait a few moments and I'll be your guide, for I guess I may have a little business in that quarter myself.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Ha! what do I see? The fellow who escaped from the mill this morning. This time, however, your Yankee ingenuity shall not avail. Ho, there guards.
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       Why, captain, for sartin you dont want a platoon of red coats to take an unarmed man.
+      </p>
+     </sp>
+     <stage>
+      ( Stanley approaches [ the ] Major .)
+     </stage>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       Stand back, come not within the reach of my arm or you will receive a token that you will remember the longest day you live.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Why, what a ruffian it is. Ho, guards —
+       <stage>
+        ( Enter soldiers .)
+       </stage>
+       seize upon that spy. —
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       No, I reckon you don't. Young man, you forget that I'm the landlord of this inn, that I keep an orderly house, and I'll just inform you that if you are for kicking up a dust here, by zounds I'll be for turning you out neck and heels.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Obey my orders.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       Let them come on, Major,
+       I fear not now all that he can do; he has done his worst already.
+      </p>
+     </sp>
+     <stage>
+      ( Enter Elinor .)
+     </stage>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       My father's voice. — soldiers here — Ah! Stanley.
+      </p>
+     </sp>
+     <stage>
+      ( Sinks in her father's arms .)
+     </stage>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Elinor! — Her father.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       Look on me, villain, you know me now, and look here upon the victim of your treachery. — I received you beneath my humble roof in full confidence, my hospitality was extended towards you, and like the serpent that had been warmed into life you spread dismay into my little family. — You stung me to the heart, but the hour of retribution has come.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Confusion!
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       I did hope to have met you in battle, and there have glutted my private vengeance, but the cup that my soul thirsted for is within my grasp sooner than I anticipated. I knew you not this morning when we met, as the villain who had betrayed my child, or we had not parted as we did. She has since confessed all to me, — I know the full extent of my debt to you — the account between us is a fearful one, and now it must be settled. — Take your choice. —
+       <stage>
+        ( Producing pistols .)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       O! my father — Stanley!
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Hear me speak, sir.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       It is useless. The shame of my child can only be washed out with your blood. — Come, sir, we lose time.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Her shame? Colonel McCrea, in what instance has my conduct been such as to inflict shame upon those connected with me?
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       Insolence! Look there, and thy conscience if not seared with crime, will answer the question.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       I do look there and find no cause to blush either for myself or for my wife.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       Your wife!
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Yes, as firmly as a heart overflowing with love and the marriage ceremony can make.
+       <stage>
+        ( Embrace .)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       Why, father, I am sure that I told you we were privately married.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       True, true, I remember now, but I supposed it nothing more than the common artifice of a seducer. Then you did not intend to desert my child?
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Desert her! not while I have life. I married her secretly, fearing that under existing circumstances you would not consent. I was at Montreal when I received word that my exchange had been effected, and at the same time instructions to join my regiment without delay. I obeyed, and though I have written repeatedly to Elinor, repeating my vows of unalterable affection, it seems that all my letters have miscarried.
+      </p>
+     </sp>
+     <sp who="#elinormccrea">
+      <speaker>
+       Elinor
+       .
+      </speaker>
+      <p>
+       Forgive me, Stanley, that I could for a single moment doubt your truth.
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       Appearances were against me, 't is true, but frequently the most innocent appear the most guilty, since a temporary shade was cast even upon the spotless fame of my Elinor. —
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <p>
+       As true a saying as ever passed the lips of Deacon Tibbets.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major
+       .
+      </speaker>
+      <p>
+       Young man, your deportment is such as to command my confidence. — Take her, she is yours. — Should you survive the approaching conflict, remember, I depend upon your honor. —
+       <stage>
+        ( Cannon .)
+       </stage>
+       — Hark! the conflict has begun. — Major —
+       <stage>
+        ( Apart .)
+       </stage>
+       it is time for us to be elsewhere — Can you accompany me. —
+      </p>
+     </sp>
+     <sp who="#landlord">
+      <speaker>
+       Landlord
+       .
+      </speaker>
+      <stage>
+       ( Apart .)
+      </stage>
+      <p>
+       I will but get my rifle. — I may have use for it, you know. This way. —
+      </p>
+     </sp>
+     <stage>
+      ( Exeunt Major and Landlord . The British fleet is seen through the large window sailing on the lake. Tableau. — scene closes .)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      2.
+     </head>
+     <stage>
+      A street in Plattsburg. Alarm .
+     </stage>
+     <stage>
+      ( Enter Corporal Peabody with soldiers .)
+     </stage>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal Peabody
+       .
+      </speaker>
+      <stage>
+       ( Enter Dr. Drench .)
+      </stage>
+      <p>
+       Here, boys, we can take a breathing spell and then to it again. Our forts stand it bravely, and the enemies' assault has already diminished in vigor. Look out on our little fleet. Every shot tells. —
+       <stage>
+        ( Cannon .)
+       </stage>
+       Huzza, there goes the main mast of the brig Linnet. —
+      </p>
+      <p>
+       What's the matter, doctor?
+      </p>
+     </sp>
+     <sp who="#drdrench">
+      <speaker>
+       Dr. Drench
+       .
+      </speaker>
+      <p>
+       I wish I was safe down at Whitehall with all my plunders as I had intended. The town will be taken, and then the jig's up with the whole of us. Corporal Peabody. Stay where you are, man.
+      </p>
+     </sp>
+     <sp who="#drdrench">
+      <speaker>
+       Dr. Drench
+       .
+      </speaker>
+      <p>
+       O! there's no danger of my going away at present. Never fear that. Corporal Peabody. Stay and you will have practice plenty before sunset. Huzza! — Look there! — The Confiance has struck.
+      </p>
+     </sp>
+     <stage>
+      ( Enter Andre .)
+     </stage>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       The Saranac runs blood. The days of Culloden and Falkirk have come upon us. At the bridge the fight was fearful, and our men played the part of Samson among the Philistines and slew their thousands. Take a pinch o' sneezer, and tell me where will I find General Macomb.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       In Fort Moreau I reckon. But what would you have with the general at such a time?
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Nothing more than to gratulate him. — A slight breaking out o' family
+       <pb n="180"/>
+       pride, for you must know that the General and myself are cousins.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       It's the first I heard of it. How do you make it out?
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Plain enough, man. He's a Macomb and I am a Macklegraith, and that's sufficient to make us Scotch cousins all the world over.
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       And what do you say to Commodore Macdonough?
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       I have no doubt that he is ane of the same family. — Doctor, I am glad to see you again, but I must be bold to say, the beveridge you gave me this morning was but ill adapted to the condition of my stomach, but then 't was better than your physic.
+       <stage>
+        ( Alarm .)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#corporalpeabody">
+      <speaker>
+       Corporal
+       .
+      </speaker>
+      <p>
+       Hark, the attack on Fort Brown is renewed. Forward, Comrades. —
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Go on, Corporal, I'll follow you. Dr. Drench. I won't.
+      </p>
+     </sp>
+     <stage>
+      ( Exeunt , Drench [ on ] opposite side .)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      .
+     </head>
+     <stage>
+      View of Lake Champlain, and shipping .
+     </stage>
+     <stage>
+      ( Enter Major McCrea, Captain Peabody, Capt. Stanley, Elinor , soldiers and prisoners .)
+     </stage>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       My countrymen, another wreath has been added to the chaplet of American glory. A never dying wreath. Two brilliant victories at the same moment have been achieved. The invader has been driven back, with great loss, and their leader has fled in consternation and dismay. The hostile fleet is ours; they attacked our little armament confident of success, but behold the valiant Macdonough now bringing the crestfallen enemy in triumph into the harbor of Plattsburg. —
+      </p>
+     </sp>
+     <stage>
+      ( The fleet appears. Music .)
+     </stage>
+     <sp who="#captpeabody #captstanley #elinormccrea #soldiers">
+      <speaker>
+       All
+       .
+      </speaker>
+      <p>
+       Huzza! huzza! —
+      </p>
+     </sp>
+     <sp who="#captpeabody">
+      <speaker>
+       Capt. Peabody
+       .
+      </speaker>
+      <p>
+       Well, captain, you see I understood something about military matters though I was educated in the militia. —
+       <stage>
+        ( To Stanley .)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#captstanley">
+      <speaker>
+       Capt. Stanley
+       .
+      </speaker>
+      <p>
+       You have fought bravely, and I feel it no disgrace to be conquered by so magnanimous a foe. For myself I have but little cause to regret being a prisoner, as I shall no longer be separated from her whom most I love.
+      </p>
+     </sp>
+     <stage>
+      ( Enter Andre .)
+     </stage>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Bless you, my children, bless you, my days will close in peace. — Andre, I must ask your pardon for the dilemma in which I placed you this morning. —
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Hoot, think no more of it, Major, think no more of it, but join your voice with mine in a wish which no one here will say nay to.
+      </p>
+     </sp>
+     <sp who="#majormcrea">
+      <speaker>
+       Major McCrea
+       .
+      </speaker>
+      <p>
+       Name it.
+      </p>
+     </sp>
+     <sp who="#andremacklegraith">
+      <speaker>
+       Andre
+       .
+      </speaker>
+      <p>
+       Long life to Ma[c]donnough, Macomb, and Macklegraith, three as brave men as ever trod in shoe leather.
+      </p>
+     </sp>
+     <sp who="#captpeabody #captstanley #elinormccrea #soldiers">
+      <speaker>
+       All
+       .
+      </speaker>
+      <p>
+       Huzza, Huzza. —
+      </p>
+     </sp>
+    </div>
+   </div>
+  </body>
+  <back>
+   <p>
+    The End
+   </p>
+  </back>
+ </text>
+</TEI>

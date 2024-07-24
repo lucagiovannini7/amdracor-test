@@ -1,0 +1,2104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am643" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Blockheads
+    </title>
+    <author>
+     Anon., 1765-1830 (Dramas of the Revolutionary and Early American
+                Period)
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Project Gutenberg
+     </name>
+     <idno>
+      https://www.gutenberg.org/ebooks/39828
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Early American Plays, 1714-1830, ed. Oscar Wegelin
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="president" sex="MALE">
+      <persName>PRESIDENT</persName>
+     </person>
+     <person xml:id="americana" sex="FEMALE">
+      <persName>AMERICANA</persName>
+     </person>
+     <person xml:id="deception" sex="FEMALE">
+      <persName>DECEPTION</persName>
+     </person>
+     <person xml:id="thirdmember" sex="UNKNOWN">
+      <persName>THIRD MEMBER</persName>
+     </person>
+     <person xml:id="englishsailor" sex="UNKNOWN">
+      <persName>ENGLISH SAILOR</persName>
+     </person>
+     <person xml:id="amita" sex="FEMALE">
+      <persName>AMITA</persName>
+     </person>
+     <person xml:id="prodigiator" sex="MALE">
+      <persName>PRODIGIATOR</persName>
+     </person>
+     <person xml:id="john" sex="MALE">
+      <persName>JOHN</persName>
+     </person>
+     <person xml:id="mynheer" sex="MALE">
+      <persName>MYNHEER</persName>
+     </person>
+     <person xml:id="secondmember" sex="MALE">
+      <persName>SECOND MEMBER</persName>
+     </person>
+     <person xml:id="oldwig" sex="MALE">
+      <persName>OLD WIG</persName>
+     </person>
+     <person xml:id="fifthmember" sex="MALE">
+      <persName>FIFTH MEMBER</persName>
+     </person>
+     <person xml:id="meanwell" sex="MALE">
+      <persName>MEANWELL</persName>
+     </person>
+     <person xml:id="fourthmember" sex="MALE">
+      <persName>FOURTH MEMBER</persName>
+     </person>
+     <person xml:id="gander" sex="MALE">
+      <persName>GANDER</persName>
+     </person>
+     <person xml:id="youngwig" sex="MALE">
+      <persName>YOUNG WIG</persName>
+     </person>
+     <person xml:id="shaver" sex="MALE">
+      <persName>OLD SHAVER</persName>
+     </person>
+     <person xml:id="liberta" sex="FEMALE">
+      <persName>LIBERTA</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Opera
+     </term>
+     <term subtype="am" type="genreTitle">
+      Drama
+     </term>
+     <term subtype="am" type="playtype">
+      prose
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1782">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <head>
+    TO THE  EDITOR.
+   </head>
+   <p>
+    He that is always wise is no Blockhead; nor does it follow, that he who is not always wise is a Blockhead. — A Blockhead will scarely be claimed by any body in the universe — consequently you will find no one to own the heads I have described; of course you can be in no danger of a claimant, who will call you to an account for meddling with his head. — Yet Blockheads sometimes govern, and are governed, though not all times in their proper persons — a Deputy does the business best who is no Blockhead, and it please you if he does his own business under a Blockhead's nomination. — Contractors are no Blockheads, though Contractees often are. — It is strange there should be such a difference between Buyer and Buyee. — Who is in the wrong? No matter who — he is a Blockhead that owns it. Ergo, A wise man may be a Blockhead if he enters his claim to any of the heads in this petit piece.
+   </p>
+   <!--The-->
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      Dramatic Characters.
+     </head>
+     <head>
+      MEN.
+     </head>
+     <castItem>
+      PRODIGIATOR.
+     </castItem>
+     <castItem>
+      MEMBERS OF CONGRESS.
+     </castItem>
+     <castItem>
+      ENGLISH SAILOR.
+     </castItem>
+     <castItem>
+      DUTCHMAN.
+     </castItem>
+     <castItem>
+      FRENCH PHYSICIAN.
+     </castItem>
+     <castItem>
+      ENGLISH PHYSICIAN.
+     </castItem>
+     <castItem>
+      AMERICAN WARRIORS.
+     </castItem>
+     <castItem>
+      OLD SHAVER.
+     </castItem>
+     <castItem>
+      JOHN, HIS MAN.
+     </castItem>
+     <castItem>
+      YOUNG WIG.
+     </castItem>
+     <castItem>
+      OLD WIG.
+     </castItem>
+     <castItem>
+      GANDER.
+     </castItem>
+     <castItem>
+      Customers to SHAVER.
+     </castItem>
+     <castItem>
+      WOMEN.
+     </castItem>
+     <castItem>
+      AMERICANA. (America personified.)
+     </castItem>
+     <castItem>
+      LIBERTA. (Liberty personified.)
+     </castItem>
+     <castItem>
+      AMITA. (Friendship personified.)
+     </castItem>
+     <castItem>
+      Followers of AMITA, Attendants, &amp;.mp;c.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     ACT I.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      A Temple dedicated to the Goddess of Peace.
+     </stage>
+     <stage>
+      Peace in the form of a matron, ears of corn in one hand, crowned with roses, and a caduceus in the other hand.
+     </stage>
+     <stage>
+      Enter AMITA and Followers, With baskets of flowers and fruits, to make their offerings to the Goddess of Peace.
+     </stage>
+     <sp who="#amita">
+      <speaker>
+       AMITA.
+      </speaker>
+      <p>
+       Hail
+       ! gentle Goddess! source of
+       human love! — protectress of the
+       spring renewing fields, and bounteous
+       fruits — Accept these offerings of our earliest
+       <pb/>
+       produce — May each returning year
+       renew our grateful praise, and keep the
+       peaceful scene in view.
+      </p>
+     </sp>
+     <sp who="#amita #chorus">
+      <speaker>
+       AMITA, and
+                                                Chorus.
+      </speaker>
+      <stage>
+       SONG by
+      </stage>
+      <l n="8">
+       With each revolving year we bring,
+      </l>
+      <l n="9">
+       Our chearful produce of the Spring
+      </l>
+      <l n="10">
+       To thee. Oh! gentle Goddess, hear!
+      </l>
+      <l n="11">
+       These Off'rings may we ever bear.
+      </l>
+      <l n="12">
+       Our fields with plent'ous fruits abound,
+      </l>
+      <l n="13">
+       Our golden harvests view around;
+      </l>
+      <l n="14">
+       The offsprings of a bounteous peace;
+      </l>
+      <l n="15">
+       Oh! may these offsprings never cease.
+      </l>
+      <l n="16">
+       May war's rude hand for ever spare,
+      </l>
+      <l n="17">
+       To stop these pledges of our care.
+      </l>
+      <l n="18">
+       (Without thy aid we sue in vain)
+      </l>
+      <l n="19">
+       May peace and plenty ever reign.
+      </l>
+     </sp>
+     <stage>
+      Exeunt all but Amita.
+     </stage>
+     <sp who="#amita">
+      <speaker>
+       AMITA.
+      </speaker>
+      <stage>
+       (Thunder and lightening, the Temple of Peace vanishes in a dark cloud.)
+      </stage>
+      <stage>
+       AMITA.
+      </stage>
+      <p>
+       What blessings does not peace bestow?
+       the gentle Goddess claims our utmost
+       praise.
+      </p>
+      <p>
+       This dismal storm some mischief doth
+       portend! Oh, heaven! avert the evil —
+       dispel the gloomy cloud that hangs so
+       heavy o'er our heads.
+      </p>
+     </sp>
+     <stage>
+      (More thunder.)
+     </stage>
+     <stage>
+      Enter PRODIGIATOR.
+     </stage>
+     <sp who="#prodigiator">
+      <speaker>
+       PRODIGIATOR.
+      </speaker>
+      <p>
+       Mirth shall fly, nor more attend ye —
+       commerce shall cease, and envious war
+       extend it's baneful power — discord shall
+       reign and rule this hapless land — friendship
+       shall fly — plenty shall be no more —
+       <pb n="4"/>
+       all the delights of peace shall vanish —
+       the awful time is come when wretched
+       mortals, weltering in blood, shall add sad
+       encrease to the flowing flood — conquering
+       grief shall rob the widows and the
+       orphans of their tears, and hollow caverns
+       of despair burst forth in dismal
+       shrieks that rend the ambient air.
+      </p>
+     </sp>
+     <sp who="#amita">
+      <speaker>
+       AMITA.
+      </speaker>
+      <p>
+       Dread horror! can I forbear the mournful
+       sigh, when dire distress bears such a
+       powerful sway? — Anguish is full — my
+       blood is chill'd — words are too feeble to
+       express my grief — the passions combat
+       which shall first break forth, whilst each
+       maintain an equal claim, and leave no
+       powers to express my anguish.
+      </p>
+     </sp>
+     <sp who="#prodigiator">
+      <speaker>
+       PRODIGIATOR.
+      </speaker>
+      <stage>
+       AIR by
+      </stage>
+      <l n="48">
+       Bleeding empires in distress,
+      </l>
+      <l n="49">
+       Sue to tyrants for redress;
+      </l>
+      <l n="50">
+       Hapless sons! that pant for breath,
+      </l>
+      <l n="51">
+       Seek to find an end in death.
+      </l>
+      <l n="52">
+       Freedom's sons, by fetters ty'd,
+      </l>
+      <l n="53">
+       Curb'd in all their boasted pride,
+      </l>
+      <l n="54">
+       Shall to distant shores proclaim,
+      </l>
+      <l n="55">
+       Freemen will be free again.
+      </l>
+      <l n="56">
+       Twice ten thousand torments bear,
+      </l>
+      <l n="57">
+       E'er they pass the circling year;
+      </l>
+      <l n="58">
+       May Halcyon days return once more,
+      </l>
+      <l n="59">
+       And glad for aye this hapless shore.
+      </l>
+      <l n="60">
+       Forth thy sleeping mansion rise,
+      </l>
+      <l n="61">
+       And open thy unwilling eyes;
+      </l>
+      <l n="62">
+       Return bless'd Peace, thy empire keep,
+      </l>
+      <l n="63">
+       And haste to lull rude Mars to sleep.
+      </l>
+     </sp>
+     <sp who="#amita">
+      <speaker>
+       AMITA.
+      </speaker>
+      <p>
+       Friendship, child of Heaven! — how
+       are all thy ties destroyed when gratitude
+       is fled!
+      </p>
+     </sp>
+     <sp who="#prodigiator">
+      <speaker>
+       PRODIGIATOR.
+      </speaker>
+      <p>
+       Who feels not for
+       Amita's
+       bosom,
+       feels not for distress — Time shall renew
+       what discord has destroyed, and happiness
+       descend again.
+      </p>
+     </sp>
+     <sp who="#amita">
+      <speaker>
+       AMITA.
+      </speaker>
+      <stage>
+       AIR by
+      </stage>
+      <l n="71">
+       Shall gladness quit the human heart?
+      </l>
+      <l n="72">
+       Shall sorrow all her griefs impart?
+      </l>
+      <l n="73">
+       Shall commerce fly? — Ah, hapless shore!
+      </l>
+      <l n="74">
+       And mirth and freedom be no more?
+      </l>
+      <l n="75">
+       Shall martial gluttony destroy
+      </l>
+      <l n="76">
+       The mother's and the infant's joy?
+      </l>
+      <l n="77">
+       Till then, alas! I sue in vain,
+      </l>
+      <l n="78">
+       With tears I view the slaughter'd plain.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      A Village.
+     </stage>
+     <stage>
+      Enter AMITA, musing.
+     </stage>
+     <stage>
+      Enter LIBERTA.
+     </stage>
+     <sp who="#liberta">
+      <speaker>
+       LIBERTA.
+      </speaker>
+      <p>
+       My dear
+       Amita
+       , why so pensive? —
+       Fame is on the wing, and calls forth
+       Freedom — In every countenance doth joy
+       appear, big with events more glad'ning
+       to the heart than all the soft delights of
+       rural sports; yet you alone seem destin'd
+       to distress.
+      </p>
+     </sp>
+     <sp who="#amita">
+      <speaker>
+       AMITA.
+      </speaker>
+      <p>
+       Distress shall reign triumphant o'er the
+       realms of peace, and wretched war bring
+       famine on this land — Oh, then, alas!
+       shall poor expiring victims pant to quit
+       their native land, in hope to meet with
+       peace in death. — Alas! why heaves my
+       <pb n="8"/>
+       bosom thus? till now I never felt the
+       power of love; freedom had taken possession
+       of my heart, but fancy's wings
+       have borne the lover to my mind, and
+       social love's the idol of my heart.
+      </p>
+     </sp>
+     <sp who="#liberta">
+      <speaker>
+       LIBERTA.
+      </speaker>
+      <stage>
+       SONG by LIBERTA.
+      </stage>
+      <p>
+       Go! imitate the turtle dove — cherish
+       the fond idea, but I'll be ever free — No
+       proud insulting swain shall e'er beguile
+       my heart — No, no, I'll ne'er sustain the
+       loss of liberty.
+      </p>
+      <l n="24">
+       Dear liberty possess my breast,
+      </l>
+      <l n="25">
+       Nor let the pleasing phantom rest,
+      </l>
+      <l n="26">
+       Lest some sad fate produce a tear,
+      </l>
+      <l n="27">
+       And make
+       Liberta
+       sink
+                                                  with fear.
+      </l>
+      <l n="28">
+       In vain shall mischief take a part,
+      </l>
+      <l n="29">
+       And prove the partner of my heart;
+      </l>
+      <l n="30">
+       No jealous thought my breast possess,
+      </l>
+      <l n="31">
+       No wanton swain I'll e'er caress.
+      </l>
+      <l n="32">
+       But you, who trust to fortune's
+                                                  chance,
+      </l>
+      <l n="33">
+       And catch the eye, and court the
+                                                  glance;
+      </l>
+      <l n="34">
+       To those I yield the fickle glee,
+      </l>
+      <l n="35">
+       But bless me still with Liberty.
+      </l>
+     </sp>
+     <sp who="#amita">
+      <speaker>
+       AMITA.
+      </speaker>
+      <p>
+       Oh!
+       Liberta
+       ! must the peaceful
+       scene be changed for discord and distress?
+       — Is there no medium can be found to
+       save a sinking state? — The mournful
+       cloud moves on with hasty strides, and
+       sprinkling showers give notice of approach —
+       Unable longer to contain the
+       dire contents, it bursts with fury, and
+       proclaims the event; yet shall the poor
+       shepherd brave the powerful storm, and
+       bid defiance in expiring moments.
+      </p>
+     </sp>
+     <stage>
+      Thunder and lightening.
+     </stage>
+     <sp who="#liberta">
+      <speaker>
+       LIBERTA.
+      </speaker>
+      <p>
+       I must this moment hence — The signal's
+       given, and all repair — the standard's
+       <pb n="10"/>
+       fix'd — reas'nings in vain — The scene begins,
+       and merriment's no more — Freedom
+       forgets her mother's care — Love
+       flies before our banners — Discord appears
+       and hunts her from her rest — No cause
+       but freedom fills the human heart — Who
+       does not join's a traitor to mankind.
+      </p>
+     </sp>
+     <stage>
+      Exeunt Liberta.
+     </stage>
+     <sp who="#amita">
+      <speaker>
+       AMITA.
+      </speaker>
+      <stage>
+       (sola.)
+      </stage>
+      <p>
+       When love is fled society's no more,
+       her ties are broke, and friendship's at a
+       stand.
+      </p>
+     </sp>
+     <stage>
+      Exit. Amita.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      A Barber's Shop in New York.
+     </stage>
+     <stage>
+      The shop is full of customers, wigs of different sorts on blocks, with masks painted. Over the door OLD SHAVER.
+     </stage>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER
+      </speaker>
+      <stage>
+       (in a waistcoat.)
+      </stage>
+      <stage>
+       (See Fig. 1. )
+      </stage>
+      <stage>
+       (See Fig. 2 .)
+      </stage>
+      <stage>
+       (See Fig. 3 .)
+      </stage>
+      <p>
+       Old wigs, gentlemen! short wigs!
+       bobbs! grizzles! tyes, and no tyes!
+       Pick and chase, the price is fix'd. — This
+       is a simple head of hair, not indebted to
+       nature for a curl; the wearer was suspected
+       of less courage than he possessed; he
+       was provident in his principles, and
+       sought for an independance.
+      </p>
+      <p>
+       This head had a great deal of good-nature,
+       and wore it upon all occasions;
+       but at last, influenced by the habit of the
+       times, resolved on a change.
+      </p>
+      <p>
+       This wig cover'd the head of a lawyer
+       — the tyes nearly gone; his principles
+       induced him to turn his back on his best
+       friends.
+      </p>
+     </sp>
+     <sp who="#oldwig">
+      <speaker>
+       OLD WIG.
+      </speaker>
+      <p>
+       I will have a tye.
+      </p>
+     </sp>
+     <sp who="#youngwig">
+      <speaker>
+       YOUNG WIG.
+      </speaker>
+      <p>
+       So will I.
+      </p>
+     </sp>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER.
+      </speaker>
+      <p>
+       Gentlemen, tyes are quite out of fashion
+       — I have but one left, and that's so
+       worn by time
+       <stage>
+        (shews the wig)
+       </stage>
+       that the tyes
+       <stage>
+        (holds the tyes up)
+       </stage>
+       are grown quite slender.
+      </p>
+     </sp>
+     <sp who="#oldwig">
+      <speaker>
+       OLD WIG.
+      </speaker>
+      <p>
+       So much the better.
+      </p>
+     </sp>
+     <sp who="#youngwig">
+      <speaker>
+       YOUNG WIG.
+      </speaker>
+      <p>
+       And so say I.
+      </p>
+     </sp>
+     <sp who="#oldwig">
+      <speaker>
+       OLD WIG.
+      </speaker>
+      <p>
+       I like not strong ties.
+      </p>
+     </sp>
+     <sp who="#youngwig">
+      <speaker>
+       YOUNG WIG.
+      </speaker>
+      <p>
+       Nor I:
+      </p>
+     </sp>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER.
+      </speaker>
+      <p>
+       Gentlemen, I have but one — there
+       'tis
+       <stage>
+        (holds out the wig)
+       </stage>
+       — settle the business
+       between yourselves.
+      </p>
+     </sp>
+     <stage>
+      Old and Young Wig lay hold of the tye.
+     </stage>
+     <stage>
+      DIALOGUE between YOUNG WIG, OLD WIG, and SHAVER.
+     </stage>
+     <sp who="#oldwig #youngwig">
+      <speaker>
+       O. and Y.
+      </speaker>
+      <l n="30">
+       The wig you see
+      </l>
+     <sp who="#wig">
+      <speaker>
+       Wig.
+      </speaker>
+      <l n="31">
+       Was bought by me,
+      </l>
+      <l n="32">
+       You lie! you lie! you lie!
+      </l>
+      <l n="33">
+       Behold this wig,
+      </l>
+      <l n="34">
+       For you's too big —
+      </l>
+     </sp>
+     <sp who="#shaver">
+      <speaker>
+       Shaver.
+      </speaker>
+      <l n="35">
+       Oh fie! oh fie! oh fie!
+      </l>
+     </sp>
+     <sp who="#oldwig #youngwig">
+      <speaker>
+       O. and Y.
+      </speaker>
+      <l n="36">
+       Come yield to me,
+      </l>
+      <speaker>
+       Wig.
+      </speaker>
+      <l n="37">
+       That shall not be,
+      </l>
+      <l n="38">
+       Then, zounds, let's both resign;
+      </l>
+      <l n="39">
+       I'll ne'er agree,
+      </l>
+      <l n="40">
+       Without a fee —
+      </l>
+     </sp>
+     <sp who="#shaver">
+      <speaker>
+       Shaver.
+      </speaker>
+      <l n="41">
+       The wig, kind sirs, is mine.
+      </l>
+     </sp>
+     <stage>
+      Exeunt all but Shaver.
+     </stage>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER,
+      </speaker>
+      <stage>
+       solus, with tye wig on his hand.
+      </stage>
+      <stage>
+       Exit.
+      </stage>
+      <l n="42">
+       What a shocking convulsion of late,
+      </l>
+      <l n="43">
+       This old wig has produc'd in the state;
+      </l>
+      <l n="44">
+       The heads can't agree,
+      </l>
+      <l n="45">
+       For which it shou'd be,
+      </l>
+      <l n="46">
+       Both grumble and groul in despair,
+      </l>
+      <l n="47">
+       Each swears t'others claim is unfair.
+      </l>
+      <l n="48">
+       Tho' now they have left it to me,
+      </l>
+      <l n="49">
+       They swear that they will not agree:
+      </l>
+      <l n="50">
+       What can a man do
+      </l>
+      <l n="51">
+       With such a sad crew?
+      </l>
+      <l n="52">
+       I will not decide on it's fate,
+      </l>
+      <l n="53">
+       But try all the heads in the state.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IV.
+     </head>
+     <stage>
+      A Room in Mynheer Van Braken Peace's House.
+     </stage>
+     <stage>
+      Mynheer Van Braken Peace lying on a couch, a pair of very large spectacles (that are smoaked) on his nose.
+     </stage>
+     <stage>
+      Enter MEANWELL, an English Physician.
+     </stage>
+     <sp who="#meanwell">
+      <speaker>
+       MEANWELL.
+      </speaker>
+      <p>
+       My friend, Mynheer, what makes you
+       so sad?
+      </p>
+     </sp>
+     <sp who="#mynheer">
+      <speaker>
+       MYNHEER.
+      </speaker>
+      <p>
+       Mine sight! mine sight! mine sight!
+       Oh, mine friend! the Grand Monarch
+       be very good, he send me spectacles to
+       see clear.
+      </p>
+     </sp>
+     <sp who="#meanwell">
+      <speaker>
+       MEANWELL.
+      </speaker>
+      <p>
+       What's the matter with your sight?
+       your ancestors saw clear without French
+       spectacles — they lived to a good old age,
+       <pb n="16"/>
+       and scorned the assistance of a French occulist
+       — take the advice of a friend, throw
+       off your Gallic assistants, and I'll answer
+       for your seeing as well as ever.
+      </p>
+     </sp>
+     <sp who="#mynheer">
+      <speaker>
+       MYNHEER.
+      </speaker>
+      <p>
+       Vat! drow off mine French doctor?
+       no! no! mine French doctor know mine
+       constitution — he be too good to let me
+       find mine way in the dark.
+      </p>
+     </sp>
+     <sp who="#meanwell">
+      <speaker>
+       MEANWELL.
+      </speaker>
+      <stage>
+       Exit . Meanwell.
+      </stage>
+      <p>
+       I am heartily sorry to find you trust
+       yourself to a quack — I attended you out
+       of pure regard for your health, but, since
+       you give no attention to my advice, I
+       take my leave. Farewell!
+      </p>
+     </sp>
+     <sp who="#mynheer">
+      <speaker>
+       MYNHEER.
+      </speaker>
+      <p>
+       Oh, mine sight! mine sight! where be
+       mine good French doctor?
+      </p>
+     </sp>
+     <stage>
+      Enter DECEPTION, a French Physician.
+     </stage>
+     <sp who="#deception">
+      <speaker>
+       DECEPTION.
+      </speaker>
+      <p>
+       Mon cher friend! me see you have
+       follow mon advice — You be soon see
+       your
+       way from home.
+      </p>
+     </sp>
+     <sp who="#mynheer">
+      <speaker>
+       MYNHEER.
+      </speaker>
+      <p>
+       Oh, mine friend! me be vary glad to
+       hear you be come to me; mine sight be
+       vary weak.
+      </p>
+     </sp>
+     <sp who="#deception">
+      <speaker>
+       DECEPTION.
+      </speaker>
+      <p>
+       An verite! so much de better — Vous
+       et in very good way of seeing right —
+       me vill cure you quite — me have brought
+       cet un band for your eyes.
+       <stage>
+        ( takes a black band out of his pocket .)
+       </stage>
+       — Apropo! vous
+       prenez cet un band pour one year — Vot
+       constitution
+       vill be settle for your life — me
+       vill be your friend to lead you.
+      </p>
+     </sp>
+     <stage>
+      The Doctor takes off the spectacles and puts on the bandage.
+     </stage>
+     <sp who="#mynheer">
+      <speaker>
+       MYNHEER.
+      </speaker>
+      <stage>
+       Gets up and takes hold of the Frenchman's arm.
+      </stage>
+      <p>
+       Dank you, mine good friend.
+      </p>
+     </sp>
+     <sp who="#deception">
+      <speaker>
+       DECEPTION.
+      </speaker>
+      <p>
+       Me vill give you de French air, and
+       teach to dance a-la-mode de Paris. You
+       no more see the Englois, and me vill cure
+       you quite — me vill
+       see for you.
+      </p>
+     </sp>
+     <sp who="#mynheer">
+      <speaker>
+       MYNHEER.
+      </speaker>
+      <p>
+       Vat shall I do vor mine house?
+      </p>
+     </sp>
+     <sp who="#deception">
+      <speaker>
+       DECEPTION.
+      </speaker>
+      <p>
+       Nefer mind your house — me vill mind
+       it for you. — Alon, mon cher ami, dance
+       avec moi.
+      </p>
+     </sp>
+     <sp who="#mynheer">
+      <speaker>
+       MYNHEER.
+      </speaker>
+      <p>
+       Me can no see to dance.
+      </p>
+     </sp>
+     <sp who="#deception">
+      <speaker>
+       DECEPTION.
+      </speaker>
+      <p>
+       Alon! alon! me vill lead you von
+       dance.
+      </p>
+     </sp>
+     <stage>
+      Exeunt capering.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE V.
+     </head>
+     <stage>
+      A French Dispensary.
+     </stage>
+     <stage>
+      Enter DECEPTION,
+     </stage>
+     <sp who="#deception">
+      <speaker>
+       DECEPTION.
+      </speaker>
+      <stage>
+       SONG by DECEPTION.
+      </stage>
+      <p>
+       Me have done for Mynheer, me vill
+       blind him quite, and me vill
+       see for him.
+      </p>
+      <l n="3">
+       Von't the varld be much surprize,
+      </l>
+      <l n="4">
+       Dat me cure von Dutchman's eyes?
+      </l>
+      <l n="5">
+       Me pursuade him he be blind,
+      </l>
+      <l n="6">
+       Monsieur Dutchman now vill find
+      </l>
+      <l n="7">
+       Dat he got no eyes to see,
+      </l>
+      <l n="8">
+       He has left his eyes vit me.
+      </l>
+      <l n="9">
+       Let him stumble,
+      </l>
+      <l n="10">
+       Let him grumble,
+      </l>
+      <l n="11">
+       Let him in von passion fly;
+      </l>
+      <l n="12">
+       The more he grumble,
+      </l>
+      <l n="13">
+       More he'll stumble,
+      </l>
+      <l n="14">
+       Me have now put out both eye!
+      </l>
+     </sp>
+     <stage>
+      END of the FIRST ACT.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT II.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE VI.
+     </head>
+     <stage>
+      Shaver's Shop, without Wigs or Blocks.
+     </stage>
+     <stage>
+      Enter SHAVER, singing Tol de rol. Enter his Man JOHN.
+     </stage>
+     <sp who="#john">
+      <speaker>
+       JOHN.
+      </speaker>
+      <p>
+       Oh, master, master! how can you be
+       so merry in such sad times?
+      </p>
+     </sp>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER.
+      </speaker>
+      <p>
+       What's the matter,
+       John
+       ? What's the
+       matter?
+      </p>
+     </sp>
+     <sp who="#john">
+      <speaker>
+       JOHN.
+      </speaker>
+      <p>
+       Matter enough, I think — They are
+       going to let a tax on blockheads; but,
+       master, what's become of yours?
+      </p>
+     </sp>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER.
+      </speaker>
+      <p>
+       Go to Holland, there you'll find 'em.
+       — A fig for the tax, my shop is clear'd
+       of blockheads — Mynheer
+       Van Braken
+       Peace
+       has purchased all my stock. — My
+       wigs are gone to shift for themselves, and
+       I am turn'd Contractor.
+      </p>
+     </sp>
+     <sp who="#shaver #john">
+      <speaker>
+       SHAVER and JOHN.
+      </speaker>
+      <stage>
+       DUET by
+      </stage>
+      <l n="14">
+       You know for who
+      </l>
+      <l n="15">
+       This trade will do,
+      </l>
+      <l n="16">
+       Of blockeads there are store;
+      </l>
+      <l n="17">
+       The blocks just sold,
+      </l>
+      <l n="18">
+       Were bad and old,
+      </l>
+      <l n="19">
+       Gone to return no more.
+      </l>
+      <l n="20">
+       The wigs must shift,
+      </l>
+      <l n="21">
+       They're turn'd adrift,
+      </l>
+      <l n="22">
+       Of numbers many score;
+      </l>
+      <l n="23">
+       'Tis very true,
+      </l>
+      <l n="24">
+       The numbers grew,
+      </l>
+      <l n="25">
+       But now they'll grow no more.
+      </l>
+     </sp>
+     <stage>
+      Exit John.
+     </stage>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER
+      </speaker>
+      <stage>
+       (solus.)
+      </stage>
+      <stage>
+       Exit Shaver.
+      </stage>
+      <p>
+       I have dispos'd of all my stock of wigs
+       except old caxen; he sticks to my head
+       like a leech, though it has not a crooked
+       hair in't. — Time has done it's worst
+       there — an old wig defies all their keen
+       touches. — The buckle is gone, and caxen
+       would, but for me, have been thrown
+       aside, consigned to the unwholsome occupation
+       of a shoe-black's basket — but
+       that ne'er shall be whilst I have a head
+       to bear it. — As for the rest of the wigs,
+       if they want heads, they must
+       shift.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VII.
+     </head>
+     <stage>
+      A Presence Chamber in a Palace.
+     </stage>
+     <stage>
+      Americana seated in a chair of state, with suitable attendants. Trumpets sound from without, and shrieks.
+     </stage>
+     <sp who="#americana">
+      <speaker>
+       AMERICANA.
+      </speaker>
+      <p>
+       What means this warlike sound, and
+       dreadful shrieks? Has civil war broke
+       forth and ripen'd to rebellion?
+      </p>
+     </sp>
+     <stage>
+      Enter LIBERTA, with hair dishevelled.
+     </stage>
+     <sp who="#liberta">
+      <speaker>
+       LIBERTA.
+      </speaker>
+      <p>
+       The foul deed is done! Your sons
+       expiring call for liberty and help. — The
+       silver brook that bore a purling stream,
+       and panted for encrease, is now become
+       a rapid torrent, flowing with the blood
+       of poor departed souls! — Freedom is
+       lost, and liberty's no more.
+      </p>
+     </sp>
+     <sp who="#americana">
+      <speaker>
+       AMERICANA.
+      </speaker>
+      <p>
+       Forbid it heaven! but if the baneful
+       deed is o'er,
+       Americana
+       feels the power
+       of sad distress,
+       <stage>
+        (pauses)
+       </stage>
+       — Pity doth
+       stretch forth her hands, and calls to administer
+       relief. — I come! I come! — The
+       precious moment of redress, big with
+       the fate of mighty empires, shall not be
+       delay'd. — Warriors, arouse — bring forth
+       your bows, your quivers fill — let pointed
+       arrows prove your wonted skill! — Prepare
+       with speed to take the field — beat
+       the drums — let trumpets sound — for war
+       prepare.
+      </p>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VIII.
+     </head>
+     <stage>
+      A Forest.
+     </stage>
+     <stage>
+      Enter AMERICANA,
+     </stage>
+     <stage>
+      Her train supported by blacks, attendant warriors of copper colour, with bows and arrows, preceded by trumpets, drums, &amp;.mp;c. playing martial music A flag carried before, the inscription LIBERTY.
+     </stage>
+     <sp who="#americana">
+      <speaker>
+       AMERICANA.
+      </speaker>
+      <p>
+       My faithful warriors! the time is come
+       when all your skill shall brave the insulting
+       foe — Valor puts forth his hand, and
+       points at
+       Freedom
+       — The chaste goddess
+       calls you to her aid, and shews you realms
+       of liberty in view. — Lead on! lead on!
+       — Who'd not be foremost in the cause?
+       — Draw, archers! draw your bows! —
+       Success shall crown, though 'gainst unequal
+       foes.
+      </p>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IX.
+     </head>
+     <stage>
+      A Street, a Poulterer's Shop in view.
+     </stage>
+     <stage>
+      Enter SHAVER,
+     </stage>
+     <stage>
+      Dressed in a gold laced coat and waistcoat, and his old wig.
+     </stage>
+     <stage>
+      Enter GANDER, a Poulterer, In his blue apron tucked up, and a long beard, from his shop.
+     </stage>
+     <sp who="#gander">
+      <speaker>
+       GANDER.
+      </speaker>
+      <p>
+       What, my old friend,
+       Shaver
+       !
+      </p>
+     </sp>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER.
+      </speaker>
+      <p>
+       Shaver
+       ! — I'm a Knight! — Sir
+       John
+       Shaver
+       , at your service.
+      </p>
+     </sp>
+     <sp who="#gander">
+      <speaker>
+       GANDER,
+      </speaker>
+      <stage>
+       bursts into a laugh.
+      </stage>
+      <p>
+       Sir
+       Shaver
+       ! what masquerade are you
+       going to? How the devil am I to get
+       shav'd, and my wig powder'd for Sunday?
+      </p>
+     </sp>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER.
+      </speaker>
+      <p>
+       If you wear your beard till I shave it,
+       you may challenge the Grand Turk for
+       whiskers.
+      </p>
+     </sp>
+     <sp who="#gander">
+      <speaker>
+       GANDER.
+      </speaker>
+      <p>
+       Indeed! Sir
+       Shaver
+       ! How comes it
+       that you got into such good fortune?
+      </p>
+     </sp>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER.
+      </speaker>
+      <p>
+       I turn'd contractor — dealt in a profitable
+       commodity — charg'd enough —
+       cheated not a little — and now I am come
+       to what you see,
+       <stage>
+        (looks at his laced coat.)
+       </stage>
+       I thriv'd till I turn'd parliament man;
+       but the devil take the luck, I must either
+       be turn'd out of doors, or give up
+       my contract.
+      </p>
+     </sp>
+     <sp who="#gander">
+      <speaker>
+       GANDER.
+      </speaker>
+      <p>
+       Aye! aye! I fancy you had best put
+       off your masquerade, for your own good
+       and the sake of your customers.
+      </p>
+     </sp>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER.
+      </speaker>
+      <stage>
+       AIR by
+      </stage>
+      <l n="23">
+       You wou'd not suppose,
+      </l>
+      <l n="24">
+       That I, with these cloaths,
+      </l>
+      <l n="25">
+       Cou'd e'er think of shaving again;
+      </l>
+      <l n="26">
+       Or lay hold of the nose,
+      </l>
+      <l n="27">
+       Both of friends and of foes,
+      </l>
+      <l n="28">
+       And the feuds of the nation explain.
+      </l>
+      <l n="29">
+       Now they've dubb'd me a Knight,
+      </l>
+      <l n="30">
+       You'd not think it right,
+      </l>
+      <l n="31">
+       That I shou'd deal open and plain;
+      </l>
+      <l n="32">
+       No! shake hands with my foes,
+      </l>
+      <l n="33">
+       Take my friends by the nose,
+      </l>
+      <l n="34">
+       I long to be shaving again.
+      </l>
+     </sp>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER.
+      </speaker>
+      <p>
+       Gander
+       , you have a devilish long
+       beard, let me shave you,
+       <stage>
+        (takes a case of razors out of his pocket.)
+       </stage>
+       I have no objection
+       to shaving a friend.
+      </p>
+     </sp>
+     <sp who="#gander">
+      <speaker>
+       GANDER.
+      </speaker>
+      <p>
+       Odd so! I shou'd never recover my
+       senses again was I shav'd by a Knight in
+       a lac'd coat — I thank you Knight, but I
+       must go mind my customers. — Farewell!
+      </p>
+     </sp>
+     <sp who="#shaver">
+      <speaker>
+       SHAVER.
+      </speaker>
+      <stage>
+       Cries, and takes up the flap of his coat to wipe his eyes.
+      </stage>
+      <stage>
+       SHAVER (solus.)
+      </stage>
+      <stage>
+       SONG by SHAVER.
+      </stage>
+      <p>
+       Farewell,
+       Gander
+       !
+      </p>
+      <p>
+       Gander
+       is gone! — My friends won't
+       keep me company — I'm left to wander
+       about like an exil'd monarch without
+       subjects.
+      </p>
+      <l n="48">
+       When a man success is meeting,
+      </l>
+      <l n="49">
+       He can scarcely then believe,
+      </l>
+      <l n="50">
+       That good fortune is not cheating,
+      </l>
+      <l n="51">
+       Like punks tip you on the sleeve.
+      </l>
+      <l n="52">
+       What tho' her smiles inviting prove,
+      </l>
+      <l n="53">
+       Little can you hope for joy;
+      </l>
+      <l n="54">
+       You may be inclin'd to love,
+      </l>
+      <l n="55">
+       That love your happiness destroy.
+      </l>
+      <l n="56">
+       I have ponder'd well the case,
+      </l>
+      <l n="57">
+       Tho' the case seems full of doubt;
+      </l>
+      <l n="58">
+       I'll seek for another place,
+      </l>
+      <l n="59">
+       Since Contractors are turn'd out.
+      </l>
+     </sp>
+     <stage>
+      Exit in the last strain of the air.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE X.
+     </head>
+     <stage>
+      A Sea Shore.
+     </stage>
+     <stage>
+      Enter DUTCHMAN, Blindfold, groping his way.
+     </stage>
+     <stage>
+      Enter ENGLISH SAILOR, With a coil of rope in his hand.
+     </stage>
+     <sp who="#englishsailor">
+      <speaker>
+       SAILOR.
+      </speaker>
+      <p>
+       Hollo, Mynheer! where are you bound
+       to?
+      </p>
+     </sp>
+     <sp who="#mynheer">
+      <speaker>
+       MYNHEER.
+      </speaker>
+      <p>
+       Vor Brest, to consult with mine physician,
+       dat promise make me see long.
+      </p>
+     </sp>
+     <sp who="#englishsailor">
+      <speaker>
+       SAILOR.
+      </speaker>
+      <stage>
+       Gives the end of the rope to the Dutchman.
+      </stage>
+      <stage>
+       RONDO by SAILOR.
+      </stage>
+      <p>
+       Damn the French pilot — You've lost
+       sight of Ceylon, and taken your departure
+       from the Cape of Good Hope. —
+       Your steerage is gone — you beat about
+       like a skiff in a squall. — Lay hold of this
+       <pb n="32"/>
+       hawfer — I'll take ye in tow, and moor
+       you safe in port.
+      </p>
+      <l n="12">
+       No more, Mynheer, pine at your fate,
+      </l>
+      <l n="13">
+       We'll both again be friends;
+      </l>
+      <l n="14">
+       But for Monsieur he has my hate,
+      </l>
+      <l n="15">
+       He fail'd to gain his ends.
+      </l>
+      <l n="16">
+       Mynheer, French arts had made you
+                                                  blind,
+      </l>
+      <l n="17">
+       When first you join'd the Gaul;
+      </l>
+      <l n="18">
+       He's found to's cost 'tis an ill wind
+      </l>
+      <l n="19">
+       That blows no good at all.
+      </l>
+      <l n="20">
+       No more, Mynheer, pine at your fate,
+      </l>
+      <l n="21">
+       We'll both again be friends;
+      </l>
+      <l n="22">
+       But for Monsieur he has my hate,
+      </l>
+      <l n="23">
+       He fail'd to gain his ends.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE XI.
+     </head>
+     <stage>
+      A Council Chamber,
+     </stage>
+     <stage>
+      Where the Congress are sitting at the Council Board.
+     </stage>
+     <sp who="#president">
+      <speaker>
+       PRESIDENT.
+      </speaker>
+      <p>
+       All is in the wrong. — The Gaul has
+       fix'd his eye on the provinces of Maryland
+       and Virginia — he has already got a
+       footing there — we shall find him too obstinate
+       to relinquish his claim; but the
+       blame is not mine.
+      </p>
+     </sp>
+     <sp who="#secondmember">
+      <speaker>
+       SECOND MEMBER.
+      </speaker>
+      <p>
+       Nor mine.
+      </p>
+     </sp>
+     <sp who="#thirdmember">
+      <speaker>
+       THIRD MEMBER.
+      </speaker>
+      <p>
+       Nor mine.
+      </p>
+     </sp>
+     <sp who="#fourthmember">
+      <speaker>
+       FOURTH MEMBER.
+      </speaker>
+      <p>
+       It is too late to shift the blame. — A
+       Frenchman is like a maggot in a nut —
+       <pb n="34"/>
+       put him in the middle, he'll work his way
+       through, and leave you nothing but the
+       shell to whistle to.
+      </p>
+     </sp>
+     <sp who="#fifthmember">
+      <speaker>
+       FIFTH MEMBER.
+      </speaker>
+      <p>
+       We shall lose shell and kernel too, if
+       we trust much longer to French faith — I
+       declare for Britain, and an expulsion of
+       the French — I
+      </p>
+     </sp>
+     <sp who="#congress">
+      <speaker>
+       [CONGRESS]
+      </speaker>
+      <stage>
+       A general confusion, and cry of Traitor!
+      </stage>
+      <p>
+       Traitor! Traitor! Hear him! Hear him!
+       Hear him!
+      </p>
+     </sp>
+     <sp who="#president">
+      <speaker>
+       PRESIDENT.
+      </speaker>
+      <stage>
+       AIR by the
+      </stage>
+      <l n="20">
+       Stop your bawling,
+      </l>
+      <l n="21">
+       And this squalling,
+      </l>
+      <l n="22">
+       It ne'er will do us good;
+      </l>
+      <l n="23">
+       Each did his best,
+      </l>
+      <l n="24">
+       The cash we prest,
+      </l>
+      <l n="25">
+       And did whate'er we wou'd:
+      </l>
+      <l n="26">
+       My friends have done,
+      </l>
+      <l n="27">
+       With this sad fun,
+      </l>
+      <l n="28">
+       Nor matter who is right;
+      </l>
+      <l n="29">
+       Be rul'd by me,
+      </l>
+      <l n="30">
+       We'll all agree,
+      </l>
+      <l n="31">
+       'Tis better bawl than fight.
+      </l>
+     </sp>
+     <stage>
+      PRODIGIATOR, Enter Invisible to the Congress ; he waves his wand, they gape and yawn, and fall asleep.
+     </stage>
+     <sp who="#prodigiator">
+      <speaker>
+       PRODIGIATOR.
+      </speaker>
+      <stage>
+       AIR by
+      </stage>
+      <stage>
+       [Fiends appear, some dance, whilst others metamorphise the Congress with long tails tied to their hair behind, and cocked hats, with fleur de lis as cockades.
+      </stage>
+      <stage>
+       Exeunt Fiends.
+      </stage>
+      <stage>
+       AIR continued by PRODIGIATOR.
+      </stage>
+      <l n="32">
+       Fiends now appear,
+      </l>
+      <l n="33">
+       Discord is here,
+      </l>
+      <l n="34">
+       Employ your wonted skill;
+      </l>
+      <l n="35">
+       Put off the veil,
+      </l>
+      <l n="36">
+       Give each a tail,
+      </l>
+      <l n="37">
+       My magic pow'rs fulfill,
+      </l>
+      <l n="38">
+       Grave looks no more,
+      </l>
+      <l n="39">
+       The Congress o'er,
+      </l>
+      <l n="40">
+       Behold the Prot'ous face;
+      </l>
+      <l n="41">
+       From freedom broke,
+      </l>
+      <l n="42">
+       To Gallic yoke,
+      </l>
+      <l n="43">
+       They're conscious of disgrace.
+      </l>
+     </sp>
+     <stage>
+      [PRODIGIATOR waves his wand and the Congress awake.
+     </stage>
+     <stage>
+      Exit . PRODIGIATOR.
+     </stage>
+     <sp who="#congress">
+      <speaker>
+       CONGRESS,
+      </speaker>
+      <stage>
+       QUINTET by the in Unison.
+      </stage>
+      <l n="44">
+       What's the members all fled,
+      </l>
+      <l n="45">
+       Or have got a new head?
+      </l>
+      <l n="46">
+       The de'il has sure been here;
+      </l>
+      <l n="47">
+       He has alter'd each face,
+      </l>
+      <l n="48">
+       And supply'd a new grace,
+      </l>
+      <l n="49">
+       And made each a Monsieur.
+      </l>
+     </sp>
+     <sp who="#president">
+      <speaker>
+       PRESIDENT.
+      </speaker>
+      <stage>
+       AIR by
+      </stage>
+      <l n="50">
+       Our friend and ally
+      </l>
+      <l n="51">
+       Was cursedly sly,
+      </l>
+      <l n="52">
+       By all his fair promises led;
+      </l>
+      <l n="53">
+       But since that's the case,
+      </l>
+      <l n="54">
+       This room's in disgrace,
+      </l>
+      <l n="55">
+       Our body ill suits with our head.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE the Last.
+     </head>
+     <stage>
+      A Forest.
+     </stage>
+     <stage>
+      Enter AMERICANA and Attendants, in chains.
+     </stage>
+     <sp who="#americana">
+      <speaker>
+       AMERICANA
+      </speaker>
+      <p>
+       Perfidy assum'd the face of friendship
+       — the Gaul profess'd he lov'd, and I belive'd.
+       — Oh! cursed hour that first betray'd
+       my heart — the fatal chains were
+       then in embiyo, but now, alas! they're
+       forg'd. — Behold these Gaulic fetters,
+       <stage>
+        (pauses.)
+       </stage>
+       — The sad tear, impal'd in overwhelming
+       grief, has stopp'd it's course,
+       and I'm denied relief.
+      </p>
+     </sp>
+     <sp who="#americana #chorus">
+      <speaker>
+       AMERICANA
+      </speaker>
+      <stage>
+       AIR by , and CHORUS by her Followers.
+      </stage>
+      <l n="65">
+       Gallic flav'ry hence! no more!
+      </l>
+      <l n="66">
+       Flee again to Gallic shore;
+      </l>
+      <l n="67">
+       Gallic sons may bear the chain,
+      </l>
+      <l n="68">
+       I'll to Albion haste again.
+      </l>
+      <l n="69">
+       Gallic sons may bear the chain,
+      </l>
+      <l n="70">
+       We'll to Albion haste again.
+      </l>
+      <l n="71">
+       Freedom, child of Albion's isle,
+      </l>
+      <l n="72">
+       Haste, my sorrows to beguile;
+      </l>
+      <l n="73">
+       Gallic tyrants rule no more
+      </l>
+      <l n="74">
+       On Americana's shore.
+      </l>
+      <l n="75">
+       Gallic tyrants rule no more;
+      </l>
+      <l n="76">
+       Freedom dwell upon our shore.
+      </l>
+      <l n="77">
+       Dear Albion come, my love to prove,
+      </l>
+      <l n="78">
+       These galling fetters (proofs of love)
+      </l>
+      <l n="79">
+       From Gallic faith these friends I find,
+      </l>
+      <l n="80">
+       They bind these hands, but not my mind;
+      </l>
+      <l n="81">
+       Dear Freedom come and ease my care,
+      </l>
+      <l n="82">
+       In Albion's isle doth dwell the fair.
+      </l>
+      <l n="83">
+       Bless'd Albion's name, for aye rever'd,
+      </l>
+      <l n="84">
+       By'thee Americana's chear'd,
+      </l>
+      <l n="85">
+       With parent fondess ease my woes,
+      </l>
+      <l n="86">
+       Assist to crush our mutual foes;
+      </l>
+      <l n="87">
+       For thee I sigh, for thee complain,
+      </l>
+      <l n="88">
+       Haste and destroy this Gallic chain.
+      </l>
+     </sp>
+     <stage>
+      Exeunt omnes.
+     </stage>
+    </div>
+   </div>
+  </body>
+  <back>
+   <p>
+    FINIS.
+                    
+                    
+                        The Author to the Door-Keeper
+                            of the Theatre.
+When Fancy's on the wing, and takes her flight,
+She'll steal your picture, whether wrong or right.
+You're now appriz'd, nor think my muse to blame,
+She shews each feature, yet conceals your name.
+The picture's striking, who can fail to guess
+The awkward portrait in a lively dress.
+The features fit, tho' hundreds may oppose,
+And swear 'tis not your head, or eyes, or nose.
+Your chief supporters daub me with their wit,
+Yet all shall own the likeness is well hit.
+
+So , Sir, you say the Blockheads
+                            shall not appear on your Theatre. — Strange, indeed! You have only read
+                            the title page, and yet venture to guess at the whole of the business. I
+                            give you my word not a single auditor can possibly discover a line in
+                            the features of any of my Blockheads, that conveys the most distant hint
+                            at your head. You oblige me to confess, I never entertained a  thought of your being a conjuror! But you have gone a great way to
+                            impress such a conclusion on my mind, by venturing to guess at the whole
+                            of the piece from the title. You have reconsidered the business, and
+                            find it is not in your power, on account of your own productions, to
+                            exhibit the Blockheads. If the old veterans have been discharged without
+                            assigning a reason, surely I may think myself fortunate in having
+                            extorted two in support of my expulsion; but still
+                            the Blockheads shall appear, so shall the sequel, together with the
+                            pigmies and anti-pigmies. The heads are nearly ready for exhibition; the
+                            moment I can compleat them, you shall have the honor of appearing the
+                            first of the groupe, if you will condescend to stand still whilst I draw
+                            your picture; if not, I'll take it flying. But should you be at a loss
+                            to distinguish one Blockhead from another, the Editor may assist you
+                            with a hint or two for your  instruction. You cannot be at a
+                            loss for the definition of a Blockhead; but, to assist your memory — he
+                            has no brains, no argument can penetrate beyond the surface — The
+                            surface is a mere block that surely will never be own'd, though the
+                            likeness may provoke risibility in the by-standers. For the present I
+                            drop the curtain, that the next scene may appear with more lusture, in
+                            which I have the pleasure to assure you, no pains shall be spared to
+                            give a striking likeness; and
+                        I am,  Your most devoted servant, 
+                            The AUTHOR.
+                        Middle Row, New York.
+   </p>
+  </back>
+ </text>
+</TEI>

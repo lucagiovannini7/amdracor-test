@@ -1,0 +1,8192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am530" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Indian Princess
+    </title>
+    <author>
+     Barker, James Nelson
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Project Gutenberg
+     </name>
+     <idno>
+      http://www.gutenberg.org/ebooks/29230
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Representative Plays by American Dramatists: Vol 1, 1765-1819, ed. Montrose J. Moses
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+<particDesc>
+    <listPerson>
+     <person xml:id="alice" sex="FEMALE">
+      <persName>Alice</persName>
+     </person>
+     <person xml:id="miami" sex="MALE">
+      <persName>Miami</persName>
+     </person>
+     <person xml:id="larry" sex="MALE">
+      <persName>Larry</persName>
+     </person>
+     <personGrp xml:id="chorus" sex="UNKNOWN">
+      <persName>Chorus</persName>
+     </personGrp>
+     <person xml:id="firstindian" sex="UNKNOWN">
+      <persName>First Indian</persName>
+     </person>
+     <person xml:id="kate" sex="FEMALE">
+      <persName>Kate</persName>
+     </person>
+     <person xml:id="robin" sex="MALE">
+      <persName>Robin</persName>
+     </person>
+     <person xml:id="secondindian" sex="MALE">
+      <persName>Second Indian</persName>
+     </person>
+     <person xml:id="nima" sex="UNKNOWN">
+      <persName>Nima</persName>
+     </person>
+     <person xml:id="powhatan" sex="UNKNOWN">
+      <persName>Powhatan</persName>
+     </person>
+     <person xml:id="delawar" sex="UNKNOWN">
+      <persName>Delawar</persName>
+     </person>
+     <person xml:id="percy" sex="MALE">
+      <persName>Percy</persName>
+     </person>
+     <person xml:id="indian" sex="UNKNOWN">
+      <persName>Indian</persName>
+     </person>
+     <person xml:id="lieutenantrolfe" sex="MALE">
+      <persName>Lieutenant Rolfe</persName>
+     </person>
+     <person xml:id="talman" sex="UNKNOWN">
+      <persName>Talman</persName>
+     </person>
+     <person xml:id="geraldine" sex="FEMALE">
+      <persName>Geraldine</persName>
+     </person>
+     <person xml:id="pocahontas" sex="FEMALE">
+      <persName>Pocahontas</persName>
+     </person>
+     <person xml:id="nantaquas" sex="UNKNOWN">
+      <persName>Nantaquas</persName>
+     </person>
+     <person xml:id="grimosco" sex="UNKNOWN">
+      <persName>Grimosco</persName>
+     </person>
+     <person xml:id="walter" sex="MALE">
+      <persName>Walter</persName>
+     </person>
+     <person xml:id="captainsmith" sex="MALE">
+      <persName>Captain Smith</persName>
+     </person>
+     <personGrp xml:id="adventurers" sex="UNKNOWN">
+      <persName>[Adventurers]</persName>
+     </personGrp>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Melodrama
+     </term>
+     <term subtype="am" type="genreTitle">
+      Opera
+     </term>
+     <term subtype="am" type="playtype">
+      prose
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1808">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <head>
+    PREFACE.
+   </head>
+   <p>
+    distant hint that the child of my brain deserves a better fate; that it may meet with it I might, however, be indulged in hoping, under the profession that the hope proceeds from considerations distinct from either it or myself. Dramatic genius, with genius of every other kind, is assuredly native of our soil, and there wants but the wholesome and kindly breath of favour to invigorate its delicate frame, and bid it rapidly arise from its cradle to blooming maturity. But alas! poor weak ones! what a climate are ye doomed to draw your first breath in! the teeming press has scarcely ceased groaning at your delivery, ere you are suffocated with the stagnant atmosphere of entire apathy, or swept out of existence by the hurricane of unsparing, indiscriminating censure!
+   </p>
+   <p>
+    Good reader, I begin to suspect that I have held you long enough by the button. Yet, maugre my terror of being tiresome, and in despite of my clear anticipation of the severe puns which will be made in this punning city, on my childish preface, I must push my allusion a little further, to deprecate the wrath of critics, and arouse the sympathies of the ladies. Then, O ye sage censors! ye goody gossips at poetic births! I vehemently importune ye to be convinced, that for my bantling I desire neither rattle nor bells; neither the lullaby of praise, nor the pap of patronage, I may nor the hobby-horse of honour. 'Tis a plain-palated, home-bred, and I may add independent urchin, who laughs at sugar plumbs, and from its little heart disdains gilded gingerbread. If you like it — so; if not — why so; yet, without being mischievous, it would fain be amusing; therefore, if its gambols be pleasant, and your gravities permit, laugh; if not, e'en turn aside your heads, and let the wanton youngling laugh by itself. If it speak like a sensible child, prithee pat its cheek, and say so; but if it be ridiculous when it would be serious, smile, and permit the foolish attempt to pass. But do not, O goody critic, apply the birch, because its unpracticed tongue cannot lisp the language of Shakspeare, nor be very much enraged, if you find it has to creep before it can possibly walk.
+   </p>
+   <p>
+    To your bosoms, ladies, sweet ladies! the little stranger flies with confidence for protection; shield it, I pray you, from the iron rod of rigour, and scold it yourselves, as much as you will, for on your smooth and polished brows it can never read wrinkled cruelty; the mild anger of your eye will not blast it like the fierce scowl of the critic; the chidings of your voice will be soothing music to it, and it will discover the dimple of kindness in your very frowns. Caresses it does not ask; its modesty would shrink from that it thought it deserved not; but of its faults be infantile, its punishment should be gentle, and from you, dear ladies, correction would be as thrillingly sweet as that the little Jean Jacques received from the fair hand of made moiselle Lambereier.
+   </p>
+   <head>
+    ADVERTISEMENT.
+   </head>
+   <p>
+    THE principal materials that from this dramatic trifle are extracted from the General History of Virginia, written by captain Smith, and printed London, folio, 1624; and as close an adherence to historic truth has been preserved as dramatic rules would allow of. The music [Footnote: 1Kb The music is now published and sold by Mr. G. E. Blake, No. 1, South Third-street, Philadelphia. was furnished by Mr. John Bray, of the New Theatre.
+   </p>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      DRAMATIS PERSONÆ.
+     </head>
+     <head>
+      EUROPEANS.
+     </head>
+     <castItem>
+      Delawar, Mr . Warren ,
+     </castItem>
+     <castItem>
+      Captain Smith, Rutherford,
+     </castItem>
+     <castItem>
+      Lieutenant Rolfe, Wood,
+     </castItem>
+     <castItem>
+      Percy, Charnock,
+     </castItem>
+     <castItem>
+      Walter, Bray,
+     </castItem>
+     <castItem>
+      Larry, Webster,
+     </castItem>
+     <castItem>
+      Robin, Jefferson,
+     </castItem>
+     <castItem>
+      Talman, Durang.
+     </castItem>
+     <castItem>
+      Geraldine, Mrs . Francis ,
+     </castItem>
+     <castItem>
+      Kate, Miss . Hunt ,
+     </castItem>
+     <castItem>
+      Alice, Mrs . Mills.
+     </castItem>
+     <castItem>
+      Soldiers and adventurers.
+     </castItem>
+     <castItem>
+      VIRGINIANS.
+     </castItem>
+     <castItem>
+      Powhatan, king, Mr . Serson ,
+     </castItem>
+     <castItem>
+      Nantaquas, his son, Cone,
+     </castItem>
+     <castItem>
+      Miami, a prince, Mills,
+     </castItem>
+     <castItem>
+      Grimosco, a priest, Cross.
+     </castItem>
+     <castItem>
+      Pocahontas, the princess, Mrs . Wilmot ,
+     </castItem>
+     <castItem>
+      Nima, her attendant, Miss , Mullen.
+     </castItem>
+     <castItem>
+      Warriors and Indian girls.
+     </castItem>
+    </castList>
+   </div>
+   <set>
+    <p>
+     Scene , Virginia.
+    </p>
+   </set>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     ACT I.
+    </head>
+    <div type="scene">
+     <head>
+      Scene I.
+     </head>
+     <sp who="#smith #rolfe #percy #walter #larry #robin #alice">
+      <speaker>
+       Smith, Rolfe, Percy,
+                                                  Walter, Larry, Robin, Alice
+       , &amp;.mp;c.
+      </speaker>
+      <stage>
+       — Powhatan River: wild and picturesque Ships appear. Barges approach the shore, from which land CHORUS.
+      </stage>
+      <l n="1">
+       Jolly comrades, raise the glee,
+      </l>
+      <l n="2">
+       Chorus it right cheerily;
+      </l>
+      <l n="3">
+       For the tempest's roar is heard no more,
+      </l>
+      <l n="4">
+       And gaily we tread the wish'd-for shore:
+      </l>
+      <l n="5">
+       Then raise the glee merrily,
+      </l>
+      <l n="6">
+       Chorus it cheerily,
+      </l>
+      <l n="7">
+       For past are the perils of the
+                                            blust'ring sea.
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="8">
+       ONCE more, my bold associates, welcome Mark
+      </l>
+      <l n="9">
+       What cheery aspects look upon our landing:
+      </l>
+      <l n="10">
+       The face of Nature dimples o'er with smiles,
+      </l>
+      <l n="11">
+       The heav'ns are cloudless, whiles the princely
+                                        sun,
+      </l>
+      <l n="12">
+       As glad to greet us in his fair domain,
+      </l>
+      <l n="13">
+       Gives us gay salutation —
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <stage>
+       ( to Walter )
+      </stage>
+      <l n="14">
+       By St. Patrick
+      </l>
+      <l n="15">
+       His fiery majesty does give warm welcome.
+      </l>
+      <l n="16">
+       Arrah! his gracious smiles are melting —
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="17">
+       Plague!
+      </l>
+      <l n="18">
+       He burthens us with favours till we sweat.
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="19">
+       What think ye, Percy, Rolfe, have we not found
+      </l>
+      <l n="20">
+       Sir Walter Raleigh faithful in his tale?
+      </l>
+      <l n="21">
+       Is't not a goodly land? Along the bay,
+      </l>
+      <l n="22">
+       How gay and lovely lie its skirting shores,
+      </l>
+      <l n="23">
+       Fring'd with the summer's rich embroidery!
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="24">
+       Believe me, sir, I ne'er beheld that spot
+      </l>
+      <l n="25">
+       Where Nature holds more sweet varieties.
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="26">
+       The gale was kind that blew us hitherward.
+      </l>
+      <l n="27">
+       This noble bay were undiscover'd still,
+      </l>
+      <l n="28">
+       Had not that storm arose propitious,
+      </l>
+      <l n="29">
+       And, like the ever kindly breath of heav'n,
+      </l>
+      <l n="30">
+       Which sometimes rides upon the tempest's wing,
+      </l>
+      <l n="31">
+       Driv'n us to happiest destinies, e'en then
+      </l>
+      <l n="32">
+       When most we fear'd destruction from the blast.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="33">
+       Let our dull sluggish countrymen at home
+      </l>
+      <l n="34">
+       Still creep around their little isle of fogs,
+      </l>
+      <l n="35">
+       Drink its dank vapours, and then hang themselves.
+      </l>
+      <l n="36">
+       In this free atmosphere and ample range
+      </l>
+      <l n="37">
+       The bosom can dilate, the pulses play,
+      </l>
+      <l n="38">
+       And man, erect, can walk a manly round.
+      </l>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <stage>
+       (aside)
+      </stage>
+      <l n="39">
+       Ay, and be scalp'd and roasted by the Indians.
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="40">
+       Now, gallant cavalier adventurers,
+      </l>
+      <l n="41">
+       On this our landing spot we'll rear a town
+      </l>
+      <l n="42">
+       Shall bear our good king's name to after-time,
+      </l>
+      <l n="43">
+       And yours along with it; for ye are men
+      </l>
+      <l n="44">
+       Well worth the handing down; whose paged names
+      </l>
+      <l n="45">
+       Will not disgrace posterity to read:
+      </l>
+      <l n="46">
+       Men born for acts of hardihood and valour,
+      </l>
+      <l n="47">
+       Whose stirring spirits scorn'd to lie inert,
+      </l>
+      <l n="48">
+       Base atoms in the mass of population
+      </l>
+      <l n="49">
+       That rots in stagnant Europe. Ye are men
+      </l>
+      <l n="50">
+       Who a high wealth and fame will bravely win,
+      </l>
+      <l n="51">
+       And wear full worthily. I still shall be
+      </l>
+      <l n="52">
+       The foremost in all troubles, toll, and danger,
+      </l>
+      <l n="53">
+       Your leader and your captain, nought exacting
+      </l>
+      <l n="54">
+       Save strict obedience to the watchful care
+      </l>
+      <l n="55">
+       Which points to your own good: be wary then,
+      </l>
+      <l n="56">
+       And let not any mutinous hand unravel
+      </l>
+      <l n="57">
+       Our close knit compact. Union is its strength:
+      </l>
+      <l n="58">
+       Be that remember'd ever. Gallant gentlemen,
+      </l>
+      <l n="59">
+       We have a noble stage, on which to act
+      </l>
+      <l n="60">
+       A noble drama; let us then sustain
+      </l>
+      <l n="61">
+       Our sev'ral parts with credit and with honour.
+      </l>
+      <l n="62">
+       Now, sturdy comrades, cheerly to our tasks!
+      </l>
+     </sp>
+     <stage>
+      Exeunt Smith, Rolfe, &amp;.mp;c.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Scene II.
+     </head>
+     <stage>
+      — A grove.
+     </stage>
+     <stage>
+      Enter Walter and Larry.
+     </stage>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Now by the black eyes of my Katy, but
+       that master of yours and captain of mine is a
+       prince!
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       Tut, you hav'n't seen an inch yet of the
+       whole hero. Had you followed him as I have, from
+       a knee-high urchin, you'd confess that there never
+       was soldier fit to cry comrade to him. O! 'twould
+       have made your blood frisk to your veins to have
+       seen him in Turkey and Tartary, when he made the
+       clumsy infidels dance to the music of his broad
+       sword!
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Troth now, the mussulmans may have
+       been mightily amused by the caper; but for my
+       <pb n="10"/>
+       part I should modestly prefer skipping to the simple
+       jig of an Irish bag-pipe.
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       Then he had the prettiest mode of forming
+       their manners —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Arrah, how might that be?
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       For example: whenever they were so
+       ill-bred as to appear with their turbans on before
+       him, he uses me this keen argument to convince
+       them they showed discourtesy. He whips me out
+       his sword, and knocks their turbans off —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Knocks their turbans off?
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       Ay, egad, and their heads to boot.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       A dev'lish cutting way of reasoning indeed;
+       that argument cou'dn't be answered asily.
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <stage>
+       Enter Alice.
+      </stage>
+      <p>
+       Devil a tongue ever wagg'd in replication,
+       Larry. — Ah! my fairy of felicity — my mouthful
+       of melody — my wife —
+      </p>
+      <p>
+       Well, Alice, we are now in the wilds of Virginia,
+       and, tell me truly, doesn't repent following me over
+       the ocean, wench? wilt be content in these wild
+       woods, with only a little husband, and a great deal of
+       love, pretty Alice?
+      </p>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <stage>
+       SONG. — Alice.
+      </stage>
+      <p>
+       Can you ask that? are not all places alike
+       if you are with me, Walter?
+      </p>
+      <l n="38">
+       In this wild wood will I range;
+      </l>
+      <l n="39">
+       Listen, listen, dear!
+      </l>
+      <l n="40">
+       Nor sigh for towns so fine, to change
+      </l>
+      <l n="41">
+       This forest drear.
+      </l>
+      <l n="42">
+       Toils and dangers I'll despise,
+      </l>
+      <l n="43">
+       Never, never weary;
+      </l>
+      <l n="44">
+       And be, while love is in thine eyes,
+      </l>
+      <l n="45">
+       Ever cheery.
+      </l>
+      <l n="46">
+       Ah! what to me were cities gay;
+      </l>
+      <l n="47">
+       Listen, listen, dear!
+      </l>
+      <l n="48">
+       If from me thou wert away,
+      </l>
+      <l n="49">
+       Alas! how drear!
+      </l>
+      <l n="50">
+       O! still o'er sea, o'er land I'll
+                                                  rove,
+      </l>
+      <l n="51">
+       Never, never weary;
+      </l>
+      <l n="52">
+       And follow on where leads my love,
+      </l>
+      <l n="53">
+       Ever cheery.
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Och! the creature!
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <stage>
+       kiss.
+      </stage>
+      <p>
+       Let my lips tell thee what my tongue
+       cannot.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Ay do, do stop her mellifluous mouth;
+       for the little nightingale warbles so like my Kate,
+       she makes me sigh for Ballinamone; ah! just so
+       would the constant creature carol all day about, roving
+       through the seas and over the woods.
+      </p>
+     </sp>
+     <stage>
+      Enter Robin.
+     </stage>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Master Walter, the captain is a going to
+       explore the country, and you must along.
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       That's our fine captain, always stirring.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Plague on his industry! would you think
+       it, we are all incontinently to fall a chopping down
+       trees, and building our own houses, like the beavers.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Well, sure, that's the fashionable mode of
+       paying rent in this country.
+      </p>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <p>
+       O, Walter, these merciless savages! I
+       shan't be merry till you return —
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       I warrant ye, mistress Alice — Lord love
+       you I shall be here.
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       Cheerly, girl; our captain will make the
+       red rogues scamper like so many dun deer. Savages,
+       quotha! at sight of him, their copper skins will
+       <pb n="12"/>
+       turn pale as silver, with the very alchemy of fear.
+       Come, a few kisses, en passant, and then away!
+       cheerly, my dainty Alice.
+      </p>
+     </sp>
+     <stage>
+      Exeunt Walter and Alice.
+     </stage>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Ay, go yoar ways, master Walter, and
+       when you are gone —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       What then! I suppose you'll be after
+       talking nonsense to his wife. But if ever I catch
+       you saying your silly things —
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Mum, Lord love you, how can you think
+       it? But hark ye, master Larry, in this same drama
+       that our captain spoke of, you and I act parts, do we
+       not?
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Arrah, to be sure, we are men of parts.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Shall I tell you in earnest what we play in
+       this merry comedy?
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Be doing it.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Then we play the parts of two fools, look
+       you, to part with all at home, and come to these savage
+       parts, where, Heaven shield us, our heads may
+       be parted from our bodies. Think what a catastrophe,
+       master Larry!
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       So the merry comedy ends a doleful tragedy,
+       and exit fool in the character of a hero!
+       That's glory, sirrah, a very feather in our cap.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       A light gain to weigh against the heavy
+       loss of one's head. Feather quotha! what use of a
+       plumed hat without a head to wear it withal?
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Tut man, our captain will lead us through
+       all dangers.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Will he? an' he catch me following him
+       through these same dangers —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Och, you spalpeen! I mean he'll lead us out
+       of peril.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Thank him for nothing; for I've predetermined,
+       look you, not to be led into peril. Oh, master
+       Larry, what a plague had I to do to leave my
+       snug cot and my brown lass, to follow master Rolfe
+       to this devil of a country, where there's never a girl
+       nor a house!
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Out, you driveller! didn't I leave as neat
+       a black-ey'd girl, and as pretty a prolific potatoe-path
+       all in tears —
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Your potatoe-patch in tears! that's a bull,
+       master Larry —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <stage>
+       SONG. — Larry.
+      </stage>
+      <stage>
+       ( Sings )
+      </stage>
+      <p>
+       You're a calf, master Robin. Wasn't it
+       raining? Och, I shall never forget it; the thunder
+       rolling, and her tongue a going, and her tears and
+       the rain; och bother, but it was a dismal morning!
+      </p>
+      <l n="125">
+       Och! dismal and dark was the day, to be
+                                                  sure,
+      </l>
+      <l n="126">
+       When Larry took leave of sweet Katy
+                                                  Maclure;
+      </l>
+      <l n="127">
+       And clouds dark as pitch hung just like
+                                                  a black lace
+      </l>
+      <l n="128">
+       O'er the sweet face of Heav'n and my
+                                                  Katy's sweet face.
+      </l>
+      <l n="129">
+       Then, while the wind blow'd, and she
+                                                  sigh'd might and main.
+      </l>
+      <l n="130">
+       Drops from the black skies
+      </l>
+      <l n="131">
+       Fell — and from her black eyes:
+      </l>
+      <l n="132">
+       Och! how I was soak'd with her tears — —
+                                                  and the rain.
+      </l>
+      <p>
+       <stage>
+        ( Speaks )
+       </stage>
+       And then she gave me this beautiful keep-sake
+       <stage>
+        ( shows a pair of scissors )
+       </stage>
+       , which if ever I part with, may
+       a taylor clip me in two with his big shears. Och!
+       when Katy took you in hand, how nicely did you snip
+       and snap my bushy, carroty locks; and now you're cutting
+       the hairs of my heart to pieces, you tieves you —
+      </p>
+      <l n="139">
+       <stage>
+        ( Sings )
+       </stage>
+       Och! Hubbaboo — Gramachree — Hone!
+      </l>
+      <l n="140">
+       When I went in the garden, each bush
+                                                  seem'd to sigh
+      </l>
+      <l n="141">
+       Becase I was going — and nod me good
+                                                  bye;
+      </l>
+      <l n="142">
+       Each stem hung its head, drooping bent
+                                                  like a bow,
+      </l>
+      <l n="143">
+       With the weight of the water — or else
+                                                  of its woe;
+      </l>
+      <l n="144">
+       And while sorrow, or wind, laid some
+                                                  flat on the ground,
+      </l>
+      <l n="145">
+       Drops of rain, or of grief,
+      </l>
+      <l n="146">
+       Fell from every leaf,
+      </l>
+      <l n="147">
+       Till I thought in a big show'r of tears
+                                                  I was drown'd.
+      </l>
+      <p>
+       <stage>
+        ( Speaks )
+       </stage>
+       And then each bush and leaf seem'd to sigh,
+       and say, "don't forget us, Larry." I won't, sa'd I. —
+       "But arrah, take something for remembrance," said
+       they; and then I dug up this neat jewel
+       <stage>
+        ( shows a potatoe )
+       </stage>
+       ;
+       you're a little withered to be sure, but if ever I forget
+       your respectable family, or your delightful dwelling
+       place — may I never again see any of your beautiful brothers
+       and plump sisters! — Och! my darling, if you had
+       come hot from the hand of Katy, how my mouth would
+       have watered at ye; now, you divil, you bring the water
+       into my eyes.
+      </p>
+      <l n="159">
+       Och! Hubbaboo — Gramachree — Hone!
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Scene III.
+     </head>
+     <stage>
+      — Werocomoco, the royal village of Powhatan. Indian girls arranging ornaments for a bridal dress. Music.
+     </stage>
+     <sp who="#nima">
+      <speaker>
+       Nima.
+      </speaker>
+      <p>
+       Let us make haste, my companions, to
+       finish the dress of the bride; to-day the prince Miami
+       returns with our hunters from the chase; to-morrow
+       he will bear away our princess to his own
+       nation.
+      </p>
+     </sp>
+     <stage>
+      Enter Pocahontas from the wood, with bow and arrow, and a flamingo (red lird). Music as she enters.
+     </stage>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       See, Nima, a flamingo.
+      </p>
+     </sp>
+     <stage>
+      Indian girls crowd around, and admire the bird.
+     </stage>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       O Nima! I will use my bow no longer; I
+       go out to the wood, and my heart is light; but
+       while my arrow flies, I sorrow; and when the bird
+       drops through the branches, tears come into mine
+       eyes. I will no longer use my bow.
+      </p>
+     </sp>
+     <stage>
+      Distant hunting-horn. Music. They place themselves in attitudes of listening. Hunting-horn nearer.
+     </stage>
+     <sp who="#nima">
+      <speaker>
+       Ni.
+      </speaker>
+      <p>
+       'Tis Miami and our hunters. Princess, why
+       are your looks sad?
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       O Nima! the prince comes to bear me far
+       from my father and my brother. I must quit for
+       ever the companions, and the woods that are dear to
+       me. Nima, the Susquehannocks are a powerful
+       nation, and my father would have them for his
+       friends. He gives his daughter to their prince, but
+       his daughter trembles to look upon the fierce Miami.
+      </p>
+     </sp>
+     <stage>
+      Music. Hunters seen winding down the hills; they are met by the women of the village; Miami approaches Pocahontas, and his attendants lay skins at her feet.
+     </stage>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <p>
+       Princess, behold the spoils I bring thee.
+       Our hunters are laden with the deer and the soft
+       furred beaver. But Miami scorned such prey: I
+       watched for the mighty buffaloe and the shaggy
+       bear; my club felled them to the ground, and I
+       tore their skins from their backs. The fierce carcajou
+       had wound himself around the tree, ready to
+       <pb n="16"/>
+       dart upon the hunter; but the hunter's eyes were
+       not closed, and the carcajou quivered on the point
+       of my spear. I heard the wolf howl as he looked at
+       the moon, and the beams that fell upon his upturned
+       face showed my tomahawk the spot it was to enter.
+       I marked where the panther had couched, and, before
+       he could spring, my arrow went into his heart.
+       Behold the spoil the Susquehannock brings thee!
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Pr.
+      </speaker>
+      <p>
+       Susquehannock, thou'rt a mighty hunter.
+       Powhatan shall praise thee for his daughter. But
+       why returns not my brother with thee?
+      </p>
+     </sp>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <p>
+       Nantaquas still finds pleasure in the hunt, but
+       the soul of Miami grew weary of being away from
+       Werocomoco, for there dwelt the daughter of Powhatan.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Pr.
+      </speaker>
+      <p>
+       Let us go to my father.
+      </p>
+     </sp>
+     <stage>
+      Music. Exeunt Princess and Miami into palace, followed by Nima and train; the others into their several cabins.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Scene IV.
+     </head>
+     <stage>
+      — A Forest. Smith enters, bewildered in its mazes. Music, expressive of his situation.
+     </stage>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <stage>
+       music. Exit Smith.
+      </stage>
+      <l n="1">
+       'Tis all in vain! no clue to guide my steps.
+      </l>
+      <l n="2">
+       <stage>
+        [ music.
+       </stage>
+      </l>
+      <l n="3">
+       By this the explorers have return'd despairing,
+      </l>
+      <l n="4">
+       And left their forward leader to his fate.
+      </l>
+      <l n="5">
+       The rashness is well punish'd, that, alone,
+      </l>
+      <l n="6">
+       Would brave the entangling mazes of these wilds.
+      </l>
+      <l n="7">
+       The night comes on, and soon these gloomy woods
+      </l>
+      <l n="8">
+       Will echo to the yell of savage beasts,
+      </l>
+      <l n="9">
+       And savage men more merciless. Alas!
+      </l>
+      <l n="10">
+       And am I, after all my golden dreams
+      </l>
+      <l n="11">
+       Of laurel'd glory, doom'd in wilds to fall,
+      </l>
+      <l n="12">
+       Ignobly and obscure, the prey of brutes!
+       <stage>
+        [ music.
+       </stage>
+      </l>
+      <l n="13">
+       Fie on these coward thoughts! this trusty sword,
+      </l>
+      <l n="14">
+       That made the Turk and Tartar crouch beneath me,
+      </l>
+      <l n="15">
+       Will stead me well, e'en in this wilderness.
+      </l>
+      <l n="16">
+       <stage>
+        [ music.
+       </stage>
+      </l>
+      <l n="17">
+       O glory! thou who led'st me fearless on,
+      </l>
+      <l n="18">
+       Where death stalk'd grimly over slaughter'd
+                                        heaps,
+      </l>
+      <l n="19">
+       Or drank the drowning shrieks of shipwreck'd
+                                        wretches,
+      </l>
+      <l n="20">
+       Swell high the bosom of thy votary!
+      </l>
+     </sp>
+     <sp who="#nantaquas">
+      <speaker>
+       Nantaquas,
+      </speaker>
+      <stage>
+       Music. A party of Indians enter, as following Smith , and steal cautiously after him. The Indian yell within. Music, hurried. Re-enter Smith , engaged with the Indians; several fall. Exeunt, fighting, and enter from the opposite side the Prince who views with wonder the prowess of Smith ; when the music has ceased he speaks.
+      </stage>
+      <stage>
+       music.
+      </stage>
+      <p>
+       Sure 'tis our war-god, Aresqui himself, who lays
+       our chiefs low! Now they stop; he fights no
+       longer; he stands terrible as the panther, which the
+       fearful hunter dares not approach. Stranger, brave
+       stranger, Nantaquas must know thee!
+      </p>
+     </sp>
+     <stage>
+      He rushes out, and re-enters with Smith.
+     </stage>
+     <sp who="#pocahontas">
+      <speaker>
+       Pr.
+      </speaker>
+      <p>
+       Art thou not then a God?
+      </p>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <p>
+       As thou art, warriors, but a man.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Pr.
+      </speaker>
+      <p>
+       Then art thou a man like a God; thou shalt
+       be the brother of Nantaquas. Stranger, my father
+       <pb n="18"/>
+       is king of the country, and many nations obey him:
+       will thou be the friend of the great Powhatan?
+      </p>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <p>
+       Freely, prince; I left my own country to be
+       the red man's friend.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Pr.
+      </speaker>
+      <p>
+       Wonderful man, where is thy country?
+      </p>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <p>
+       It lies far beyond the wide water.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Pr.
+      </speaker>
+      <p>
+       Is there then a world beyond the wide water?
+       I thought only the sun had been there: thou comest
+       then from behind the sun?
+      </p>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <p>
+       Not so, prince.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Pr.
+      </speaker>
+      <p>
+       Listen to me. Thy country lies beyond the
+       wide water, and from it do mine eyes behold the
+       sun rise each morning.
+      </p>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <p>
+       Prince, to your sight he seems to rise from
+       thence, but your eyes are deceived, they reach not
+       over the wilderness of waters.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Pr.
+      </speaker>
+      <p>
+       Where sleeps the sun then?
+      </p>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <p>
+       The sun never sleeps. When you see
+       him sink behind the mountains, he goes to give
+       light to other countries, where darkness flies before
+       him, as it does here, when you behold him rise in
+       the east: thus he chases Night for ever round the
+       world.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Pr.
+      </speaker>
+      <p>
+       Tell me, wise stranger, how came you
+       from your country across the wide water? when
+       our canoes venture but a little from the shore, the
+       waves never fail to swallow them up.
+      </p>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <p>
+       Prince, the Great Spirit is the friend of
+       the white men, and they have arts which the red
+       men know not.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Pr.
+      </speaker>
+      <p>
+       My brother, will you teach the red men?
+      </p>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <p>
+       I come to do it. My king is a king of
+       a mighty nation; he is great and good: go, said
+       he, go and make the red men wise and happy.
+      </p>
+     </sp>
+     <stage>
+      During the latter part of the dialogue, the Indians had crept in, still approaching till they had almost surrounded Smith. A burst of savage music. They seize and bear him off, the prince in vain endeavouring to prevent it.
+     </stage>
+     <sp who="#pocahontas">
+      <speaker>
+       Pr.
+      </speaker>
+      <stage>
+       he rushes out.
+      </stage>
+      <p>
+       Hold! the white man is the brother of your
+       prince; hold, coward warriors!
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Scene V.
+     </head>
+     <stage>
+      — Powhatan River, as the first scene.
+     </stage>
+     <sp who="#larry">
+      <speaker>
+       Larry.
+      </speaker>
+      <stage>
+       Enter
+      </stage>
+      <stage>
+       retires behind a tree.
+      </stage>
+      <p>
+       Now do I begin to suspect, what, to be sure,
+       I've been certain of a long time, that master Robin's
+       a little bit of a big rogue. I just now observed
+       him with my friend Walter's wife. Arrah! here
+       they come. By your leave, fair dealing, I'll play
+       the eavesdropper behind this tree.
+      </p>
+     </sp>
+     <stage>
+      Enter Alice , followed by Robin.
+     </stage>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       But, mistress Alice, pretty Alice.
+      </p>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <p>
+       Ugly Robin, I'll not hear a syllable.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       But plague, prithee, Alice, why, so coy
+      </p>
+     </sp>
+     <stage>
+      Enter Walter ; observing them, stops.
+     </stage>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <p>
+       Master Robin, if you follow me about any
+       longer with your fooleries, my Walter shall know
+       of it.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       A fig for Walter! is he to be mentioned
+       the same day with the dapper Robin? can Walter
+       make sonnets and madrigals, and set them, and
+       sing them? besides, the Indians have eat him by
+       this, I hope.
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       O the rascal!
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Come, pretty one, quite alone, no one near,
+       even that blundering Irishman away.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       O you spalpeen! I'll blunder on you anon.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Shall we, Alice, shall we?
+      </p>
+     </sp>
+     <stage>
+      Quartetto.
+     </stage>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <l n="23">
+       Mistress Alice, say,
+      </l>
+      <l n="24">
+       Walter's far away,
+      </l>
+      <l n="25">
+       Pretty Alice!
+      </l>
+      <l n="26">
+       Nay now — prithee, pray,
+      </l>
+      <l n="27">
+       Shall we, Alice? hey!
+      </l>
+      <l n="28">
+       Mistress Alice?
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="29">
+       Master Robin, nay —
+      </l>
+      <l n="30">
+       Prithee go your way,
+      </l>
+      <l n="31">
+       Saucy Robin!
+      </l>
+      <l n="32">
+       If you longer stay,
+      </l>
+      <l n="33">
+       You may rue the day,
+      </l>
+      <l n="34">
+       Master Robin.
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <stage>
+       (aside)
+      </stage>
+      <l n="35">
+       True my Alice is.
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <stage>
+       (aside)
+      </stage>
+      <l n="36">
+       Wat shall know of this.
+      </l>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <stage>
+       (struggling)
+      </stage>
+      <l n="37">
+       Pretty Alice!
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <stage>
+       (aside)
+      </stage>
+      <l n="38">
+       What a rascal 'tis!
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <stage>
+       (aside)
+      </stage>
+      <l n="39">
+       He'll kill poor Rob, I wish
+      </l>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <stage>
+       (struggling)
+      </stage>
+      <stage>
+       attempts to kiss her.
+      </stage>
+      <l n="40">
+       Mistress Alice,
+      </l>
+      <l n="41">
+       Let me taste the bliss —
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <stage>
+       slaps his face.
+      </stage>
+      <l n="42">
+       Taste the bliss of this,
+      </l>
+      <l n="43">
+       Saucy Robin!
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <stage>
+       (advancing)
+      </stage>
+      <l n="44">
+       O, what wond'rous bliss!
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <stage>
+       (advancing)
+      </stage>
+      <l n="45">
+       How d'ye like the kiss?
+      </l>
+     </sp>
+     <sp who="#alice #walter #larry">
+      <speaker>
+       Al., Wal., Lar.
+      </speaker>
+      <l n="46">
+       Master Robin?
+      </l>
+     </sp>
+     <stage>
+      Robin steals off.
+     </stage>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       Jackanapes!
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Ay, hop off, cock robin! Blood and thunder
+       now, that such a sparrow should try to turn
+       hawk, and pounce on your little pullet here.
+      </p>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <p>
+       Welcome, my bonny Walter.
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       A sweet kiss, Alice, to season my bitter tidings.
+       Our captain's lost.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Har.
+      </speaker>
+      <p>
+       Lost!
+      </p>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <p>
+       Lost!
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       You shall hear. A league or two below
+       this, we entered a charming stream, that seemed to
+       glide through a fairy land of fertility. I must know
+       more of this, said our captain. Await my return
+       here. So bidding us moor the pinnace in a broad
+       bason, where the Indian's arrows could reach us from
+       neither side, away he went, alone in his boat, to
+       explore the river to its head.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Har.
+      </speaker>
+      <p>
+       Gallant soul!
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       What devil prompted us to disobey his
+       command I know not, but scarce was he out of sight,
+       when we landed; and mark the end on't: up from
+       their ambuscado started full three hundred black
+       fiends, with a yell that might have appaled Lucifer,
+       and whiz came a cloud of arrows about our ears.
+       <pb n="22"/>
+       Three tall fellows of ours fell; Cassen, Emery, and
+       Robinson. Our lieutenant, with Percy and myself,
+       fought our way to the water side, where, leaving
+       our canoe as a trophy to the victors, we plunged in,
+       ducks, and, after swimming, dodging, and diving like
+       regained the pinnace that we had left like geese.
+      </p>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <p>
+       Heaven be praised, you are safe; but our poor
+       captain —
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       Ay; the day passed and he returned not;
+       we came back for a reinforcement, and to-morrow
+       we find him, or perish.
+      </p>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <p>
+       Perish! —
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       Ay; shame seize the poltroon who wou'dn't
+       perish in such a cause; wou'dn't you, Larry?\\
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       By saint Patrick, it's the thing I would do,
+       and hould my head the higher for it all the days of
+       my life after.
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       But see, our lieutenant and master Percy.
+      </p>
+     </sp>
+     <stage>
+      Enter Rolfe and Percy.
+     </stage>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="89">
+       Good Walter look to the barge, see it be ready
+      </l>
+      <l n="90">
+       By the earliest dawn.
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="91">
+       I shall, sir.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="92">
+       And be careful,
+      </l>
+      <l n="93">
+       This misadventure be not buzz'd abroad,
+      </l>
+      <l n="94">
+       Where 't may breed mutiny and mischief. Say
+      </l>
+      <l n="95">
+       We've left the captain waiting our return,
+      </l>
+      <l n="96">
+       Safe with the other three; meantime, chuse out
+      </l>
+      <l n="97">
+       Some certain trusty fellows, who will swear
+      </l>
+      <l n="98">
+       Bravely to find their captain or their death.
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="99">
+       I'll hasten, sir, about it.
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <l n="100">
+       Good lieutenant,
+      </l>
+      <l n="101">
+       Shall I along?
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="102">
+       In truth, brave Irishman,
+      </l>
+      <l n="103">
+       We cannot have a better. Pretty Alice,
+      </l>
+      <l n="104">
+       Will you again lose Walter for a time?
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="105">
+       I would I were a man, sir, then, most willingly
+      </l>
+      <l n="106">
+       I'd lose myself to do our captain service.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="107">
+       An Amazon!
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="108">
+       O 'tis a valiant dove.
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <l n="109">
+       But come; Heaven and St. Patrick prosper us.
+      </l>
+     </sp>
+     <stage>
+      Exeunt Walter, Larry, Alice.
+     </stage>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="110">
+       Now, my sad friend, cannot e'en this arouse you?
+      </l>
+      <l n="111">
+       Still bending with the weight of shoulder'd
+                                        Cupid?
+      </l>
+      <l n="112">
+       Fie! throw away that bauble, love, my friend:
+      </l>
+      <l n="113">
+       That glist'ning toy of listless laziness,
+      </l>
+      <l n="114">
+       Fit only for green girls and growing boys
+      </l>
+      <l n="115">
+       T'amuse themselves withal. Can an inconstant,
+      </l>
+      <l n="116">
+       A fickle changeling, move a man like Percy?
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="117">
+       Cold youth, how can you speak of that you feel
+                                        not?
+      </l>
+      <l n="118">
+       You never lov'd.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="119">
+       Hum! yes, in mine own way;
+      </l>
+      <l n="120">
+       Marry, 'twas not with sighs and folded arms;
+      </l>
+      <l n="121">
+       For mirth I sought in it, not misery.
+      </l>
+      <l n="122">
+       Sir, I have ambled through all love's gradations
+      </l>
+      <l n="123">
+       Most jollily, and seriously the whilst.
+      </l>
+      <l n="124">
+       I have sworn oaths of love on my knee, yet laugh'd
+                                        not;
+      </l>
+      <l n="125">
+       Complaints and chidings heard, but heeded not;
+      </l>
+      <l n="126">
+       Kiss'd the cheek clear from tear'd ops, and yet wept
+                                        not;
+      </l>
+      <l n="127">
+       Listen'd to vows of truth, which I believed not;
+      </l>
+      <l n="128">
+       And after have heen jilted —
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="129">
+       Well!
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="130">
+       And car'd not.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="131">
+       Call you this loving?
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="132">
+       Ay, and wisely loving.
+      </l>
+      <l n="133">
+       Not, sir, to have the current of one's blood
+      </l>
+      <l n="134">
+       Froz'n with a frown, and molten with a smile;
+      </l>
+      <l n="135">
+       Make ebb and flood under a lady Luna,
+      </l>
+      <l n="136">
+       Liker the moon in changing than in chasteness.
+      </l>
+      <l n="137">
+       'Tis not to be a courier, posting up
+      </l>
+      <l n="138">
+       To the seventh Heav'n, or down to the gloomy
+                                        centre,
+      </l>
+      <l n="139">
+       On the fool's errand of a wanton — pshaw!
+      </l>
+      <l n="140">
+       Women! they're made of whimsies and caprice,
+      </l>
+      <l n="141">
+       So variant and so wild, that, ty'd to a God,
+      </l>
+      <l n="142">
+       They'd dally with the devil for a change. —
+      </l>
+      <l n="143">
+       Rather than wed a European dame,
+      </l>
+      <l n="144">
+       I'd take a squaw o' the woods, and get papooses.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="145">
+       If Cupid burn thee not for heresy,
+      </l>
+      <l n="146">
+       Love is no longer catholic religion.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="147">
+       An' if he do, I'll die a sturdy martyr.
+      </l>
+      <l n="148">
+       And to the last preach to thee, pagan Percy,
+      </l>
+      <l n="149">
+       Till I have made a convert. Answer me,
+      </l>
+      <l n="150">
+       Is not this idol of thy heathen worship
+      </l>
+      <l n="151">
+       That sent thee hither a despairing pilgrim;
+      </l>
+      <l n="152">
+       Thy goddess, Geraldine, is she not false?
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="153">
+       Most false!
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="154">
+       For shame, then; cease adoring her;
+      </l>
+      <l n="155">
+       Untwine the twisted cable of your arms,
+      </l>
+      <l n="156">
+       Heave from your freighted bosom all its charge,
+      </l>
+      <l n="157">
+       In one full sigh, and puff it strongly from you;
+      </l>
+      <l n="158">
+       Then, raising your earth-reading eyes to Heaven.
+      </l>
+      <l n="159">
+       Laud your kind stars you were not married to
+                                        her,
+      </l>
+      <l n="160">
+       And so forget her.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="161">
+       Ah! my worthy Rolfe,
+      </l>
+      <l n="162">
+       'Tis not the hand of infant Resolution
+      </l>
+      <l n="163">
+       Can pluck this rooted passion from my heart:
+      </l>
+      <l n="164">
+       Yet what I can I will; by heaven! I will.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="165">
+       Why, cheerly said; the baby Resolution
+      </l>
+      <l n="166">
+       Will grow apace; time will work wonders in him.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="167">
+       Did she not, after interchange of vows —
+      </l>
+      <l n="168">
+       But let the false one go, I will forget her.
+      </l>
+      <l n="169">
+       Your hand, my friend; now will I act the man.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="170">
+       Faith, I have seen thee do't, and burn'd with
+                                        shame,
+      </l>
+      <l n="171">
+       That he who so could fight should ever sigh.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="172">
+       Thinkst thou our captain lives?
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="173">
+       Tush! he must live;
+      </l>
+      <l n="174">
+       He was not born to perish so. Believe't,
+      </l>
+      <l n="175">
+       He'll hold these dingy devils at the bay,
+      </l>
+      <l n="176">
+       Till we come up and succour him.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="177">
+       And yet.
+      </l>
+      <l n="178">
+       A single arm against a host — alas!
+      </l>
+      <l n="179">
+       I fear me he has fallen.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="180">
+       Then never fell
+      </l>
+      <l n="181">
+       A nobler soul, more valiant, or more worthy,
+      </l>
+      <l n="182">
+       Or fit to govern men. If he be gone,
+      </l>
+      <l n="183">
+       Heaven save our tottering colony from falling!
+      </l>
+      <l n="184">
+       But see, th' adventurers from their daily toil.
+      </l>
+     </sp>
+     <stage>
+      Enter adventurers, Walter, Larry, Robin, Alice , &amp;.mp;c.
+     </stage>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       Now, gentlemen labourers, a lusty roundelay
+       after the toils of the day; and then to a sound
+       sleep, in houses of our own building.
+      </p>
+     </sp>
+     <sp who="#adventurers">
+      <speaker>
+       [Adventurers, &amp;.mp;c.]
+      </speaker>
+      <stage>
+       Roundelay chorus.
+      </stage>
+      <l n="188">
+       Now crimson sinks the setting sun,
+      </l>
+      <l n="189">
+       And our tasks are fairly done.
+      </l>
+      <l n="190">
+       Jolly comrades, home to bed,
+      </l>
+      <l n="191">
+       Taste the sweets by labour shed;
+      </l>
+      <l n="192">
+       Let his poppy seal your eyes,
+      </l>
+      <l n="193">
+       'Till another day arise,
+      </l>
+      <l n="194">
+       For our tasks are fairly done,
+      </l>
+      <l n="195">
+       As crimson sinks the setting sun.
+      </l>
+     </sp>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT II.
+    </head>
+    <div type="scene">
+     <head>
+      Scene I.
+     </head>
+     <stage>
+      — Inside the palace at Werocomoco. Powhatan in state, Grimosco , &amp;.mp;c., his wives, and warriors, ranged on each side. Music.
+     </stage>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       My people, strange beings have appeared
+       among us; they come from the bosom of the
+       waters, amid fire and thunder; one of them has
+       our war-god delivered into our hands: behold the
+       white being!
+      </p>
+     </sp>
+     <stage>
+      Music. Smith is brought in; his appearance excites universal wonder; Pocahontas expresess peculiar admiration.
+     </stage>
+     <sp who="#pocahontas">
+      <speaker>
+       Poc.
+      </speaker>
+      <p>
+       O Nima! is it not a God!
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Miami, though thy years are few, thou
+       art experienced as age; give us thy voice of counsel.
+      </p>
+     </sp>
+     <sp who="#miami">
+      <speaker>
+       Mia.
+      </speaker>
+      <p>
+       Brothers, this stranger is of a fearful
+       race of beings; their barren hunting grounds lie
+       <pb n="27"/>
+       beneath the world, and they have risen, in monstrous
+       canoes, through the great water, to spoil
+       and ravish from us our fruitful inheritance. Brothers,
+       this stranger must die; six of our brethren
+       have fall'n by his hand. Before we lay their bones
+       in the narrow house, we must avenge them: their
+       unappeased spirits will not go to rest beyond the
+       mountains; they cry out for the stranger's blood.
+      </p>
+     </sp>
+     <sp who="#nantaquas">
+      <speaker>
+       Nan.
+      </speaker>
+      <p>
+       Warriors, listen to my words; listen, my
+       father, while your son tells the deeds of the brave
+       white man. I saw him when 300 of our fiercest
+       chiefs formed the war-ring around him. But he
+       defied their arms; he held lightning in his hand.
+       Wherever his arm fell, there sunk a warriors: as the
+       tall tree falls, blasted and riven, to the earth, when
+       the angry Spirit darts his fires through the forest.
+       I thought him a god; my feet grew to the ground;
+       I could not move!
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Poc.
+      </speaker>
+      <p>
+       Nima, dost thou hear the words of my
+       brother?
+      </p>
+     </sp>
+     <sp who="#nantaquas">
+      <speaker>
+       Nan.
+      </speaker>
+      <p>
+       The battle ceased, for courage left the bosom
+       of our warriors; their arrows rested in their
+       quivers; their bowstrings no longer sounded; the
+       tired chieftains leaned on their war-clubs, and gazed
+       at the terrible stranger, whom they dared not approach.
+       Give an ear to me, king: 'twas then I
+       held out the hand of peace to him, and he became
+       my brother; he forgot his arms, for he trusted to
+       his brother; he was discoursing wonders to his
+       friend, when our chiefs rushed upon him, and
+       bore him away. But oh! my father, he must not
+       die; for he is not a war captive; I promised that
+       the chain of friendship should be bright between us.
+       <pb n="28"/>
+       Chieftains, your prince must not falsify his word;
+       father, your son must not be a liar!
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Poc.
+      </speaker>
+      <p>
+       Listen, warriors; listen, father; the white man
+       is my brother's brother!
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       King! when last night our village shook
+       with the loud noise, it was the Great Spirit who
+       talk'd to his priest; my mouth shall speak his
+       commands: King, we must destroy the strangers,
+       for they are not our God's children; we must take
+       their scalps, and wash our hands in the white man's
+       blood, for he is an enemy to the Great Spirit.
+      </p>
+     </sp>
+     <sp who="#nantaquas">
+      <speaker>
+       Nan.
+      </speaker>
+      <p>
+       O priest, thou hast dreamed a false dream;
+       Miami, thou tellest the tale that is not. Hearken,
+       my father to my true words! the white man is beloved
+       by the Great Spirit; his king is like you, my
+       father, good and great; and he comes from a land
+       beyond the wide water, to make us wise and happy!
+      </p>
+     </sp>
+     <stage>
+      Powhatan deliberates. Music.
+     </stage>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <l n="61">
+       Stranger, thou must prepare for death.
+      </l>
+      <l n="62">
+       Six of our brethren fell by thy hand. Thou must
+                                        die.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Poc.
+      </speaker>
+      <l n="63">
+       Father, O father!
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="64">
+       Had not your people first beset me, king,
+      </l>
+      <l n="65">
+       I would have prov'd a friend and brother to them:
+      </l>
+      <l n="66">
+       Arts I'd have taught, that should have made them
+                                        gods,
+      </l>
+      <l n="67">
+       And gifts would I have given to your people,
+      </l>
+      <l n="68">
+       Richer than red men ever yet beheld.
+      </l>
+      <l n="69">
+       Think not I fear to die. Lead to the block.
+      </l>
+      <l n="70">
+       The soul of the white warriors shall shrink not.
+      </l>
+      <l n="71">
+       Prepare the stake! amidst your fiercest tortures,
+      </l>
+      <l n="72">
+       You'll find its fiery pains as nobly scorned,
+      </l>
+      <l n="73">
+       As when the red man sings aloud his death-song.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Poc.
+      </speaker>
+      <l n="74">
+       Oh! shall that brave man die!
+      </l>
+     </sp>
+     <stage>
+      Music. The king motions with his hand, and Smith is led to the block.
+     </stage>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <stage>
+       ( to executioners )
+      </stage>
+      <p>
+       Warriors, when the third
+       signal strikes, sink your tomahawks in his head.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Poc.
+      </speaker>
+      <p>
+       Oh, do not, warriors, do not! Father, incline
+       your heart to mercy; he will win your battles, he
+       will vanquish your enemies.
+       <stage>
+        (1 st signal )
+       </stage>
+       Brother,
+       speak! save your brother! Warriors, are you brave?
+       preserve the brave man!
+       <stage>
+        (2 d signal )
+       </stage>
+       Miami, priest,
+       sing the song of peace; ah! strike not, hold!
+       mercy!
+       <stage>
+        Music. The 3d signal is struck, the hatchets are lifted up: when the princess, shrieking, runs distractedly to the block, and presses Smith's head to her bosom.
+       </stage>
+       White man, thou shalt not die; or I will die with
+       thee.
+       <stage>
+        Music. She leads Smith to the throne, and kneels.
+       </stage>
+       My father, dost thou love thy daughter? listen to
+       her voice; look upon her tears: they ask for mercy
+       to the captive. Is thy child dear to thee, my father?
+       Thy child will die with the white man.
+       <stage>
+        Plaintive music. She bows her head to his feet. Powhatan, after some deliberation, looking on his daughter with tenderness, presents her with a string of white wampum. Pocahontas, with the wildest expression of joy, rushes forward with Smith, presenting the beads of peace.
+       </stage>
+       <pb n="30"/>
+       Captive! thou art free! —
+      </p>
+     </sp>
+     <stage>
+      Music. General joy is diffused — Miami and Grimosco only appear discontented. The prince Nantaquas congratulates Smith. The princess shows the most extravagant emotions of rapture.
+     </stage>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <stage>
+       he bows upon her hand.
+      </stage>
+      <l n="91">
+       O woman! angel sex! where'er thou art,
+      </l>
+      <l n="92">
+       Still art thou heavenly. The rudest clime
+      </l>
+      <l n="93">
+       Robs not thy glowing bosom of it's nature.
+      </l>
+      <l n="94">
+       Thrice blessed lady, take a captive's thanks!
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Poc.
+      </speaker>
+      <p>
+       My brother! —
+      </p>
+     </sp>
+     <stage>
+      music. Smith expresses his gratitude.
+     </stage>
+     <sp who="#nantaquas">
+      <speaker>
+       Nan.
+      </speaker>
+      <p>
+       Father, hear the design that fill my breast.
+       I will go among the white men; I will learn their
+       arts; and my people shall be made wise and happy.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Poc.
+      </speaker>
+      <p>
+       I too will accompany my brother.
+      </p>
+     </sp>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <p>
+       Princess! —
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Poc.
+      </speaker>
+      <p>
+       Away, cruel Miami; you would have murdered
+       my brother! —
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Poc.
+      </speaker>
+      <p>
+       Go, my son; take thy warriors, and go with
+       the white men. Daughter, I cannot lose thee from
+       mine eyes; accompany thy brother but a little on
+       his way. Stranger, depart in peace; I entrust my
+       son to thy friendship.
+      </p>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <p>
+       Gracious sir,
+       He shall return with honours and with wonders;
+       My beauteous sister! noble brother come!
+      </p>
+     </sp>
+     <stage>
+      Music. Exeunt, on one side, Smith, princess, Nantaquas, Nima, and train. On the other, king, priest, Miami, &amp;.mp;c. The two latter express angry discontent.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Scene II.
+     </head>
+     <stage>
+      — A forest.
+     </stage>
+     <stage>
+      Enter Percy, Rolfe.
+     </stage>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="1">
+       So far indeed 'tis fruitless, yet we'll on.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="2">
+       Ay, to the death.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="3">
+       Brave Percy, come, confess
+      </l>
+      <l n="4">
+       You have forgot your love.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="5">
+       Why faith, not quite;
+      </l>
+      <l n="6">
+       Despite of me, it sometimes through my mind
+      </l>
+      <l n="7">
+       Flits like a dark cloud o'er a summer sky;
+      </l>
+      <l n="8">
+       But passes off like that, and leaves me cloudless.
+      </l>
+      <l n="9">
+       I can't forget that she was sweet as spring;
+      </l>
+      <l n="10">
+       Fair as the day.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="11">
+       Ay, ay, like April weather;
+      </l>
+      <l n="12">
+       Sweet, fair, and faithless.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <stage>
+       SONG — Percy.
+      </stage>
+      <l n="13">
+       True, alas! like April!
+      </l>
+      <l n="14">
+       Fair Geraldine each charm of spring
+                                                  possest,
+      </l>
+      <l n="15">
+       Her cheek glow'd with the rose and
+                                                  lily's strife;
+      </l>
+      <l n="16">
+       Her breath was perfume, and each winter'd
+                                                  breast
+      </l>
+      <l n="17">
+       Felt that her sunny eyes beam'd light
+                                                  and life.
+      </l>
+      <l n="18">
+       Alas! that in a form of blooming May,
+      </l>
+      <l n="19">
+       The mind should April's changeful liv'ry
+                                                  wear!
+      </l>
+      <l n="20">
+       Yet ah! like April, smiling to
+                                                  betray,
+      </l>
+      <l n="21">
+       Is Geraldine, as false as she is
+                                                  fair!
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       Beshrew the little gipsey! let us on.
+      </p>
+     </sp>
+     <stage>
+      Exeunt Percy, Rolfe.
+     </stage>
+     <stage>
+      Enter Larry, Walter, Robin , &amp;.mp;c.
+     </stage>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Go no further? Och! you hen-hearted cock
+       robin!
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       But, master Larry —
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       Prithee, thou evergreen aspen leaf, thou
+       non-intermittent ague! why didst along with us?
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Why, you know, my master Rolfe desired it;
+       and then you were always railing out on me for
+       chicken-heartedness. I came to show ye I had valour.
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       But forgetting to bring it with thee, thou
+       wouldst now back for it; well, in the name of Mars,
+       go; return for thy valour, Robin.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       What! alone?
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Arrah! then stay here till it come to you,
+       and then follow us.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Stay here! O Lord, methinks I feel an arrow
+       sticking in my gizzard already! Harkye, my
+       sweet master, let us sing.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Sing?
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Sing; I'm always valiant when I sing. Beseech
+       you, let us chaunt the glee that I dish'd up
+       for us three.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       It has a spice of your cowardly cookery in it.
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       But since 'tis a provocative to Robin's valour —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Go to: give a lusty hem, and fall on.
+      </p>
+     </sp>
+     <stage>
+      Glee.
+     </stage>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Well, how do you feel?
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       As courageous as, as a —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       As a wren, little Robin. Are you sure, now
+       you won't be after fancying every deer that skip
+       by you a devil, and every bush a bear?
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       I defy the devil; but havn't you heard, my
+       masters, how the savages go a hunting, drest out
+       in deer-skin? How could you put one in mind, master
+       Larry? O Lord! that I should come a captain-hunting!
+       the only game we put up is deer that
+       carry scalping knives! or if we beat the bush to
+       start a bold commander, up bolts a bloody bear!
+      </p>
+     </sp>
+     <stage>
+      Walter and Larry exchange significant nods
+     </stage>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       To be sure we're in a parlous case. The
+       forest laws are dev'lish severe here: an they catch
+       us trespassing upon their hunting ground, we
+       shall pay a neat poll-tax: nothing less than our
+       heads will serve.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Our heads?
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="77">
+       Yes, faith! they'll soon collect their
+                                        capitation.
+      </l>
+      <l n="78">
+       They wear men's heads, sir, hanging at the breast
+      </l>
+      <l n="79">
+       Instead of jewels; and at either ear,
+      </l>
+      <l n="80">
+       Most commonly, a child's, by way of ear-drop.
+      </l>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <l n="81">
+       O! curse their finery! jewels, heads, O Lord!
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <l n="82">
+       Pshaw man! don't fear. Perhaps they'll only burn
+                                        us.
+      </l>
+      <l n="83">
+       What a delicate roasted Robin you wou'd make!
+      </l>
+      <l n="84">
+       Troth! they'd so lick their lips!
+      </l>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <l n="85">
+       A roasted robin! —
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="86">
+       Tut! if they only burn us, 'twill be brave.
+      </l>
+      <l n="87">
+       Robin shall make our death-songs.
+      </l>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <stage>
+       Robin stands motionless with fear.
+      </stage>
+      <l n="88">
+       Death-songs, oh!
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <stage>
+       looking out.
+      </stage>
+      <l n="89">
+       By the good looking right eye of Saint Patrick,
+      </l>
+      <l n="90">
+       There's Rolfe and Percy, with a tribe of Indians,
+      </l>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <l n="91">
+       Indians! they're pris'ners, and we — we're dead
+                                        men!
+      </l>
+      <l n="92">
+       <stage>
+        While Walter and Larry exeunt, Robin gets up into a tree.
+       </stage>
+      </l>
+      <l n="93">
+       O Walter, Larry! ha! what gone, all gone!
+      </l>
+      <l n="94">
+       Poor Robin, what is to become of thee?
+      </l>
+     </sp>
+     <stage>
+      Enter Smith, Pocahontas, Nantaquas, Percy, Rolfe, Nima and Indians, Larry , and Walter.
+     </stage>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="95">
+       At hazard of her own dear life she saved me.
+      </l>
+      <l n="96">
+       E'en the warm friendship of the prince had
+                                        fail'd,
+      </l>
+      <l n="97">
+       And death, inevitable death, hung over me.
+      </l>
+      <l n="98">
+       O had you seen her fly, like Pity's herald,
+      </l>
+      <l n="99">
+       To stay the uplifted hatchet in its flight;
+      </l>
+      <l n="100">
+       Or heard her, as with cherub voice she pled,
+      </l>
+      <l n="101">
+       Like Heav'n's own angel-advocate, for mercy.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Poc.
+      </speaker>
+      <l n="102">
+       My brother, speak not so.
+      </l>
+     </sp>
+     <stage>
+      bashfully
+     </stage>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="103">
+       What gentleness!
+      </l>
+      <l n="104">
+       What sweet simplicity! what angel softness!
+      </l>
+     </sp>
+     <stage>
+      Rolfe goes to her. She, timidly, but with evident pleasure, receives his attentions. During this scene the princess discovers the first advance of love in a heart of perfect simplicity. Smith, &amp;.mp;c., converse apart.
+     </stage>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <stage>
+       (in the tree)
+      </stage>
+      <stage>
+       getting down.
+      </stage>
+      <p>
+       Egad! there's never a head
+       hanging to their ears; and their ears hang to their
+       heads, for all the world as if they were christians;
+       I'll venture down among them.
+      </p>
+     </sp>
+     <sp who="#nima">
+      <speaker>
+       Ni.
+      </speaker>
+      <p>
+       Ah!
+      </p>
+     </sp>
+     <stage>
+      bends her bow, and is about to shoot at him.
+     </stage>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Arrah! my little dark Diana, choose noble
+       game, that's only little Robin.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <stage>
+       jumps down.
+      </stage>
+      <p>
+       Ay, bless you, I'm only little Robin.
+      </p>
+     </sp>
+     <stage>
+      Nima examines him curiously, but fearfully.
+     </stage>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Gad, she's taken with my figure; ah! there
+       it is now; a personable fellow shall have his wench
+       any where. Yes, she's admiring my figure. Well,
+       my dusky dear, how could you like such a man
+       as I am?
+      </p>
+     </sp>
+     <sp who="#nima">
+      <speaker>
+       Ni.
+      </speaker>
+      <p>
+       Are you a man?
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <stage>
+       attempts to whisper.
+      </stage>
+      <p>
+       I'll convince you of it some day. Hark ye,
+       my dear.
+      </p>
+     </sp>
+     <sp who="#nima">
+      <speaker>
+       Ni.
+      </speaker>
+      <p>
+       Ah! don't bite.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Bite! what do you take me for?
+      </p>
+     </sp>
+     <sp who="#nima">
+      <speaker>
+       Ni.
+      </speaker>
+      <p>
+       A racoon.
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       A racoon! Why so?
+      </p>
+     </sp>
+     <sp who="#nima">
+      <speaker>
+       Ni.
+      </speaker>
+      <stage>
+       motions as if climbing.
+      </stage>
+      <p>
+       You run up the tree.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Well said, my little pagan I Pythagoras! —
+       ha! ha!
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <stage>
+       retires disconcerted.
+      </stage>
+      <p>
+       Hum!
+      </p>
+     </sp>
+     <stage>
+      Rolfe and Percy come forward.
+     </stage>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="129">
+       Tell me, in sooth, didst ever mark such
+                                        sweetness!
+      </l>
+      <l n="130">
+       Such winning — such bewitching gentleness!
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="131">
+       What, caught, my flighty friend, love-lim'd at
+                                        last?
+      </l>
+      <l n="132">
+       O Cupid, Cupid! thou'rt a skilful birder.
+      </l>
+      <l n="133">
+       Although thou spread thy net, i' the wilderness,
+      </l>
+      <l n="134">
+       Or shoot thy bird-bolt from an Indian bow,
+      </l>
+      <l n="135">
+       Or place thy light in savage ladies' eyes,
+      </l>
+      <l n="136">
+       Or pipe thy call in savage ladies' voices,
+      </l>
+      <l n="137">
+       Alas! each tow'ring tenant of the air
+      </l>
+      <l n="138">
+       Must fall heart pierc'd — or stoop, at thy
+                                        command,
+      </l>
+      <l n="139">
+       To sigh his sad notes in thy cage, O Cupid!
+      </l>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <l n="140">
+       A truce; a truce! O, friend, her guiltless
+                                        breast
+      </l>
+      <l n="141">
+       Seems Love's pavilion, where, in gentle sleep,
+      </l>
+      <l n="142">
+       The unrous'd boy has rested. O, my Percy!
+      </l>
+      <l n="143">
+       Could I but wake the slumb'rer —
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="144">
+       Nay, i' faith,
+      </l>
+      <l n="145">
+       Take courage; thou hast given the alarm:
+      </l>
+      <l n="146">
+       Methinks the drowsy god gets up apace.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="147">
+       Say'st thou?
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="148">
+       Come, gentlemen, we'll toward the
+                                        town.
+      </l>
+     </sp>
+     <sp who="#nantaquas">
+      <speaker>
+       Nan.
+      </speaker>
+      <p>
+       My sister, you will now return to our father.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Return, my brother?
+      </p>
+     </sp>
+     <sp who="#nantaquas">
+      <speaker>
+       Nan.
+      </speaker>
+      <p>
+       Our father lives but while you are near him.
+       Go, my sister, make him happy with the knowledge
+       of his son's happiness. Farewell. my sister!
+      </p>
+     </sp>
+     <stage>
+      the princess appears dejected.
+     </stage>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="154">
+       Once more, my guardian angel, let me thank thee.
+      </l>
+      <l n="155">
+       <stage>
+        [ kissing her hand.
+       </stage>
+      </l>
+      <l n="156">
+       Ere long we will return to thee, with presents
+      </l>
+      <l n="157">
+       Well worth a princess' and a king's acceptance.
+      </l>
+      <l n="158">
+       Meantime, dear lady, tell the good Powhatan
+      </l>
+      <l n="159">
+       We'll show the prince such grace and
+                                        entertainment,
+      </l>
+      <l n="160">
+       As shall befit our brother and his son.
+      </l>
+      <l n="161">
+       Adieu, sweet sister.
+      </l>
+     </sp>
+     <stage>
+      Music. They take leave of the princess; she remains silently dejected; her eyes anxiously follow Rolfe, who lingers behind, and is the last to take leave.
+     </stage>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Stranger, wilt thou too come to Werocomoco?
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       Dost thou wish it,lady?
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <stage>
+       (eagerly)
+      </stage>
+      <p>
+       O yes!
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       And why, lovely lady?
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       My eyes are pleased to see thee, and my
+       cars to hear thee, stranger.
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       And did not the others who were here also
+       please thy sight and hearing?
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       O! they were all goodly; but — their eyes
+       looked not like thine; their voices sounded not like
+       thine; and their speeches were not like thy speeches,
+       stranger.
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       Enchanting simplicity! But why call me
+       stranger? Captain Smith thou callest brother. Call
+       me so too.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Ah, no!
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       Then thou thinkest not of me as thou dost
+       of him?
+       <stage>
+        (she shakes her head and sighs)
+       </stage>
+       Is captain
+       Smith dear to thee?
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       O yes! very dear;
+       <stage>
+        (Rolfe is uneasy)
+       </stage>
+       and
+       Nantaquas too: they are my brothers; — but — that
+       name is not thine — thou art —
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       What, lovely lady?
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       I know not; I feel the name thou art, but I
+       cannot speak it.
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       I am thy lover, dear princess.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Yes, thou art my lover. But why call me
+       princess?
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       Dear lady, thou art a king's daughter.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       And if I were not, what would'st thou call
+       me?
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       Oh! if thou wert a beggar's, I would call
+       thee love!
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       I know not what a beggar is; but oh! I
+       would I were a beggar's daughter, so thou wouldst
+       call me love. Ah! do not any longer call me king's
+       daughter. If thou feelest the name as I do, call me
+       as I call thee: thou shalt be
+       my
+       lover; I will be
+       thy
+       lover.
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <stage>
+       Kisses her ardently.
+      </stage>
+      <p>
+       Enchanting, lovely creature!
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Lover, thou hast made my cheek to burn,
+       and my heart to beat! Mark it.
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <stage>
+       Putting his hand to her heart.
+      </stage>
+      <p>
+       Dear innocence!
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <stage>
+       Leaning on him with innocent confidence.
+      </stage>
+      <p>
+       Lover, why is it so? To day before my
+       heart beat, and mine eyes were full of tears; but
+       then my white brother was in danger. Thou art
+       not in danger, and yet behold —
+       <stage>
+        (Wipes a tear from her eye.)
+       </stage>
+       Besides, then, my heart me, but
+       now! O now! — Lover why is it so?
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       Angel of purity! thou didst to day feel pity
+       <pb n="39"/>
+       and now — O rapturous task to teach thee the difference!
+       — now, thou dost feel love.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Love!
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       Love: the noblest, the sweetest passion that
+       could swell thy angel bosom.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       O! I feel that 'tis very sweet. Lover,
+       with thy lips thou didst make me feel it. My lips
+       shall teach thee sweet love.
+       <stage>
+        (Kisses him, and artlessly looks up in his face; placing her hand upon his heart.)
+       </stage>
+       Does thy heart beat?
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       Beat! O heaven! —
+      </p>
+     </sp>
+     <stage>
+      Robin, who had been with Nima, comes forward.
+     </stage>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Gad! we must end our amours, or we shall
+       be left. Sir, my master, hadn't we better —
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       Booby! ideot!
+      </p>
+     </sp>
+     <stage>
+      Enter Walter.
+     </stage>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       Sir, lieutenant, the captain awaits your
+       coming up.
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       I'll follow on the instant.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Thou wilt not go?
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       But for a time, love.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       I do not wish thee to leave me.
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       I must, love; but I will return.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Soon — very soon?
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       Very — very soon.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       I am not pleased now — and yet my heart
+       beats. Oh, lover!
+      </p>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <p>
+       My angel! there shall not a sun rise and
+       set, ere I am with thee. Adieu! thy own heavenly
+       innocence be thy safeguard. Farewell, sweet love!
+      </p>
+     </sp>
+     <stage>
+      Music. He embraces her and exit, followed by Robin and Walter. Princess looks after him. A pause.
+     </stage>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       O Nima!
+      </p>
+     </sp>
+     <sp who="#nima">
+      <speaker>
+       Ni.
+      </speaker>
+      <stage>
+       putting her hand to her heart.
+      </stage>
+      <p>
+       Princess, white men are pow-wows. The
+       white man put his lips here, and I felt something —
+       here —
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       O lover!
+      </p>
+     </sp>
+     <stage>
+      She runs to the place whence Rolfe went out, and gazes after him. Music. Enter from opposite side, Miami.
+     </stage>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <stage>
+       (sternly)
+      </stage>
+      <p>
+       Princess!
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <stage>
+       (turning)
+      </stage>
+      <p>
+       Ah!
+      </p>
+     </sp>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <p>
+       Miami has followed thy steps. Thou art the
+       friend of the white men.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Yes, for they are good and godlike.
+      </p>
+     </sp>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <stage>
+       struggling with jealousy.
+      </stage>
+      <p>
+       Mine eyes beheld the pale youth part from
+       you; your arms were entwined, your lips were together!
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       He is my lover; I am his lover.
+      </p>
+     </sp>
+     <stage>
+      still looking after Rolfe.
+     </stage>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <stage>
+       (stamps with anger)
+      </stage>
+      <p>
+       Hear me! In what
+       do the red yield to the white men? and who among
+       the red men is like Miami? While I was yet a
+       child, did the dart which my breath blew through
+       my sarbacan ever fail to pierce the eye of the bird?
+       What youth dared, like Miami, to leap from the
+       precipice, and drag the struggling bear from the
+       foaming torrent? Is there a hunter — is there a
+       warrior — skilful and brave as Miami? Come to my
+       cabin, and see the scalps and the skins that adorn it.
+       They are the trophies of the Susquehannock!
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Man, mine eyes will never behold thy trophies.
+       They are not pleased to look on thee.
+      </p>
+     </sp>
+     <stage>
+      averting her eyes with disgust.
+     </stage>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <p>
+       Ha!
+       <stage>
+        (pause — he resumes in a softened tone.)
+       </stage>
+       Princess, I have crossed many woods and waters,
+       that I might bear the daughter of Powhatan to my
+       nation. Shall my people cry out, with scorn, "behold!
+       our prince returns without his bride!" In
+       what is the pale youth above the red Miami?
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Thine eyes are as the panther's; thy voice
+       like the voice of the wolf. Thou shouldst make my
+       heart beat with joy; and I tremble before thee. O
+       no! Powhatan shall give me to my lover. I will be
+       my lover's bride!
+      </p>
+     </sp>
+     <stage>
+      Music. Miami stamps furiously; his actions betray the most savage rage of jealousy;he rushes to seize the princess, but, recollecting that her attendants are by, he goes out in an agony, by his gestures menacing revenge. The princess exit on the opposite side, followed by train.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      — Werocomoco.
+     </stage>
+     <stage>
+      Music. Enter from the palace Powhatan and Grimosco ; met by the Princess , who runs to her father.
+     </stage>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       My daughter!
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       O father! the furious Miami!
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       What of the prince?
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Father, my father! do not let the fierce
+       prince bear me to his cruel nation!
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       How!
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       By the spirit of my mother, I implore my
+       father. Oh! if thou deliver me to the Susquehannock,
+       think not thine eyes shall ever again behold
+       me; the first kind stream that crosses our path
+       shall be the end of my journey; my soul shall seek
+       the soul of the mother that loyed me, far beyond
+       the mountains.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Daughter, mention not thy mother!
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <stage>
+       weeping.
+      </stage>
+      <p>
+       Her shade will pity her unhappy child, and
+       I shall be at rest in her bosom.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Rest in my bosom, my child;
+       <stage>
+        (she starts with joyful emotion.)
+       </stage>
+       Thou shalt not go from thy
+       father.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <stage>
+       seizing his hand.
+      </stage>
+      <p>
+       Father; dear father!
+      </p>
+     </sp>
+     <stage>
+      Music. An indian enters, bearing a red hatchet.
+     </stage>
+     <sp who="#indian">
+      <speaker>
+       In.
+      </speaker>
+      <p>
+       King!
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Thou art of the train of the Susquehannock:
+       speak.
+      </p>
+     </sp>
+     <sp who="#indian">
+      <speaker>
+       In.
+      </speaker>
+      <p>
+       My prince demands his bride.
+      </p>
+     </sp>
+     <stage>
+      the princess clings fearfully to the king.
+     </stage>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Tell thy prince, my daughter will not leave
+       her father.
+      </p>
+     </sp>
+     <sp who="#indian">
+      <speaker>
+       In.
+      </speaker>
+      <p>
+       Will Powhatan forget his promise to Miami?
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Powhatan will not forget his promise to
+       her mother; and he vowed, while the angel of death
+       hovered over her, that the eye of tender care should
+       never be averted from her darling daughter.
+      </p>
+     </sp>
+     <sp who="#indian">
+      <speaker>
+       In.
+      </speaker>
+      <p>
+       Shall not then my prince receive his bride?
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       The daughter of Powhatan — never.
+      </p>
+     </sp>
+     <sp who="#indian">
+      <speaker>
+       In.
+      </speaker>
+      <stage>
+       music. He presents the red hatchet.
+      </stage>
+      <p>
+       Take then his defiance.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       The red hatchet! 'Tis well. Grimosco,
+       summon our warriors.
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Gri.
+      </speaker>
+      <p>
+       O king! might I —
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Speak not. Tell our chiefs to assemble;
+       and show them the war-signal.
+       <stage>
+        (Exit Grimosco)
+       </stage>
+       Go, tell your master, the great Powhatan will soon
+       meet him, terrible as the minister of vengeance.
+       <stage>
+        (exit Indian.)
+       </stage>
+       The chiefs approach. My child,
+       retire from this war scene.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       O dear parent! thine age should have been
+       passed in the shade of peace; and do I bring my
+       father to the bloody war-path?
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Not so; the young prince has often dared
+       my power, and merited my vengeance; he shall
+       now feel both.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Alas! his nation is numerous and warlike.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Fear not, my child; we will call the valiant
+       Nantaquas from his brothers; the brave English
+       too will join us.
+      </p>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Ah! then is thy safety and success certain.
+      </p>
+     </sp>
+     <stage>
+      exit into palace, followed by Nima, &amp;.mp;c.
+     </stage>
+     <stage>
+      Music. Enter Grimosco and Warriors.
+     </stage>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Brave chieftains! need I remind you of
+       the victories you have gained; the scalps you have
+       borne from your enemies? Chieftains, another victory
+       must be won; more trophies from you foes
+       must deck your cabins; the insolent Miami has
+       braved your king, and defied him with the crimson
+       tomahawk. Warriors! we will not bury it till his
+       nation is extinct. Ere we tread the war-path, raise
+       <pb n="44"/>
+       to or god Aresqui the song of battle, then march
+       to triumph and to glory.
+      </p>
+     </sp>
+     <p>
+      Song to Aresqui.
+      War Song.
+     </p>
+     <sp who="#firstindian">
+      <speaker>
+       First Ind.
+      </speaker>
+      <l n="73">
+       See the cautious warrior creeping!
+      </l>
+     </sp>
+     <sp who="#secondindian">
+      <speaker>
+       Second Ind.
+      </speaker>
+      <l n="74">
+       See the tree-hid warrior creeping!
+      </l>
+     </sp>
+     <sp who="#firstindian">
+      <speaker>
+       First Ind.
+      </speaker>
+      <l n="75">
+       Mark! Mark!
+      </l>
+      <l n="76">
+       Their track is here; now breathless go!
+      </l>
+     </sp>
+     <sp who="#secondindian">
+      <speaker>
+       Second Ind.
+      </speaker>
+      <l n="77">
+       Hark! Hark!
+      </l>
+      <l n="78">
+       The branches rustle — 'tis the foe!
+      </l>
+     </sp>
+     <sp who="#chorus">
+      <speaker>
+       Chorus.
+      </speaker>
+      <l n="79">
+       Now we bid the arrow fly —
+      </l>
+      <l n="80">
+       Now we raise the hatched high.
+      </l>
+      <l n="81">
+       Where is urg'd the deadly dart,
+      </l>
+      <l n="82">
+       There is pierced a chieftain's heart;
+      </l>
+      <l n="83">
+       Where the war-club swift descends,
+      </l>
+      <l n="84">
+       A hero's race of glory ends!
+      </l>
+     </sp>
+     <sp who="#firstindian">
+      <speaker>
+       First Ind.
+      </speaker>
+      <l n="85">
+       In vain the warrior flies —
+      </l>
+      <l n="86">
+       From his brow the scalp we tear
+      </l>
+     </sp>
+     <sp who="#secondindian">
+      <speaker>
+       Second Ind.
+      </speaker>
+      <l n="87">
+       Or home the captiv'd prize,
+      </l>
+      <l n="88">
+       A stake-devoted victim, hear.
+      </l>
+     </sp>
+     <sp who="#firstindian #secondindian">
+      <speaker>
+       First &amp;.mp; Sec. Ind.
+      </speaker>
+      <l n="89">
+       The victors advance —
+      </l>
+      <l n="90">
+       And while amidst the curling blaze,
+      </l>
+      <l n="91">
+       Our foe his death-song tries to raise —
+      </l>
+      <l n="92">
+       Dance the warriors' dance.
+      </l>
+     </sp>
+     <stage>
+      War-dance.
+     </stage>
+     <sp who="#chorus">
+      <speaker>
+       Grand Chorus.
+      </speaker>
+      <l n="93">
+       Aresqui! Aresqui!
+      </l>
+      <l n="94">
+       Through the war-path lead aright —
+      </l>
+      <l n="95">
+       Lo! we're ready for the fight.
+      </l>
+     </sp>
+     <stage>
+      March to battle.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT III.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      — Jamestown — built.
+     </stage>
+     <stage>
+      Walter and Alice.
+     </stage>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       One mouthful more
+       <stage>
+        (kiss)
+       </stage>
+       . Oh! after a
+       long lent of absence, what a charming relish is a
+       kiss, served from the lips of a pretty wife, to a hungry
+       husband.
+      </p>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <p>
+       And, believe me, I banquet at the high festival
+       of return with equal pleasure. But what has
+       made your absence so tedious, prithee?
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <p>
+       Marry, girl, thus it was: when we had given
+       the enemies of our ally, Powhatan, defeature,
+       and sent the rough Miami in chains to Werocomoco,
+       our captain dispatches his lieutenant, Rolfe, to
+       supply his place, here, in the town; and leading us
+       to the water's edge, and leaping into the pinnace,
+       away went we on a voyage of discovery. Some
+       thousand miles we sailed, and many strange nations
+       discovered; and for our exploits, if posterity reward
+       us not, there is no faith in history.
+      </p>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="18">
+       And what were your exploits?
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="19">
+       Rare ones egad!
+      </l>
+      <l n="20">
+       We took the devil, Okee, prisoner.
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="21">
+       And have you brought him hither?
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="22">
+       No: his vot'ries
+      </l>
+      <l n="23">
+       Redeem'd him with some score or two of
+                                        deer-skins.
+      </l>
+      <l n="24">
+       Then we've made thirty kings our tributaries:
+      </l>
+      <l n="25">
+       Such sturdy rogues, that each could easily
+      </l>
+      <l n="26">
+       Fillip a buffaloe to death with 's finger.
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="27">
+       But have you got their treasures?
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="28">
+       All, my girl
+      </l>
+      <l n="29">
+       Imperial robes of raccoon, crowns of feather;
+      </l>
+      <l n="30">
+       Besides the riches of their sev'ral kingdoms —
+      </l>
+      <l n="31">
+       A full boat load of corn.
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="32">
+       O wonderful!
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="33">
+       Ay, is it not? But, best of all, I've kiss'd
+      </l>
+      <l n="34">
+       The little finger of a mighty queen.
+      </l>
+      <l n="35">
+       Sweet soul! among the court'sies of her court,
+      </l>
+      <l n="36">
+       She gave us a Virginian mascarado.
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="37">
+       Dost recollect the fashion of it?
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="38">
+       Oh!
+      </l>
+      <l n="39">
+       Were I to live till Time were in his dotage,
+      </l>
+      <l n="40">
+       'Twould never from mine eyes. Imagine first,
+      </l>
+      <l n="41">
+       The scene, a gloomy wood; the time, midnight;
+      </l>
+      <l n="42">
+       Her squawship's maids of honour were the
+                                        masquers;
+      </l>
+      <l n="43">
+       Their masks were wolves' heads curiously set on,
+      </l>
+      <l n="44">
+       And, bating a small difference of hue,
+      </l>
+      <l n="45">
+       Their dress e'en such as madam Eve had on
+      </l>
+      <l n="46">
+       Or ere she eat the apple.
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="47">
+       Pshaw!
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="48">
+       These dresses,
+      </l>
+      <l n="49">
+       All o'er perfum'd with the self-same pomado
+      </l>
+      <l n="50">
+       Which our fine dames at home buy of old Bruin,
+      </l>
+      <l n="51">
+       Glisten'd most gorgeously unto the moon.
+      </l>
+      <l n="52">
+       Thus, each a firebrand brandishing aloft,
+      </l>
+      <l n="53">
+       Rush'd they all forth, with shouts and frantic
+                                        yells,
+      </l>
+      <l n="54">
+       In dance grotesque and diabolical,
+      </l>
+      <l n="55">
+       Madder than mad Bacchantes.
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="56">
+       O the powers'
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="57">
+       When they had finished the divertisement
+      </l>
+      <l n="58">
+       A beauteous Wolf-head came to me — .
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="59">
+       To you?
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="60">
+       And lit me with her pine-knot torch to bedward,
+      </l>
+      <l n="61">
+       Where, as the custom of the court it was,
+      </l>
+      <l n="62">
+       The beauteous Wolf-head blew the flambeau out,
+      </l>
+      <l n="63">
+       And then —
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="64">
+       Well!
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <stage>
+       kiss.
+      </stage>
+      <l n="65">
+       Then, the light being out, you know.
+      </l>
+      <l n="66">
+       To all that follow'd I was in the dark.
+      </l>
+      <l n="67">
+       Now you look grave. In faith I went to sleep.
+      </l>
+      <l n="68">
+       Could a grim wolf rival my gentle lamb?
+      </l>
+      <l n="69">
+       No, truly, girl: though in this wilderness
+      </l>
+      <l n="70">
+       The trees hang full of divers colour'd fruit,
+      </l>
+      <l n="71">
+       From orange-tawny to sloe-black, egad,
+      </l>
+      <l n="72">
+       They'll hang until they rot or ere I pluck them,
+      </l>
+      <l n="73">
+       While I've my melting, rosy nonpareil.
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="74">
+       O! you're a Judas!
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="75">
+       Then am I a Jew!
+      </l>
+     </sp>
+     <stage>
+      Enter Smith, Percy, Nantaquas, Larry , &amp;.mp;c.
+     </stage>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="76">
+       Yet, prince, accept at least my ardent thanks:
+      </l>
+      <l n="77">
+       A thousand times told over, they would fail
+      </l>
+      <l n="78">
+       To pay what you and your dear sister claim.
+      </l>
+      <l n="79">
+       Through my long absence from my people here.
+      </l>
+      <l n="80">
+       You have sustain'd their feebleness.
+      </l>
+     </sp>
+     <sp who="#nantaquas">
+      <speaker>
+       Nan.
+      </speaker>
+      <l n="81">
+       O, brother.
+      </l>
+      <l n="82">
+       To you, the conqueror of our father's foes;
+      </l>
+      <l n="83">
+       To you, the sun which from our darken'd minds
+      </l>
+      <l n="84">
+       Has chas'd the clouds of error, what can we
+      </l>
+      <l n="85">
+       Not to remain your debtors?
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="86">
+       Gen'rous soul!
+      </l>
+      <l n="87">
+       Your friendship is my pride. But who knows aught
+      </l>
+      <l n="88">
+       Of our young Rolfe?
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="89">
+       This morning, sir, I hear,
+      </l>
+      <l n="90">
+       An hour ere our arrival, the lieutenant
+      </l>
+      <l n="91">
+       Accompanied the princess to her father's.
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="92">
+       Methinks our laughing friend has found at last
+      </l>
+      <l n="93">
+       The power of sparkling eyes. What say you,
+                                        prince,
+      </l>
+      <l n="94">
+       To a brave, worthy soldier for your brother?
+      </l>
+     </sp>
+     <sp who="#nantaquas">
+      <speaker>
+       Nan.
+      </speaker>
+      <l n="95">
+       Were I to chuse, I'd put all others by
+      </l>
+      <l n="96">
+       To make his path-way clear unto my sister.
+      </l>
+      <l n="97">
+       But come, sir, shall we to my father's banquet?
+      </l>
+      <l n="98">
+       One of my train I've sent to give him tidings
+      </l>
+      <l n="99">
+       Of your long-wish'd for coming.
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="100">
+       Gentle prince,
+      </l>
+      <l n="101">
+       You greet my fresh return with welcome summons,
+      </l>
+      <l n="102">
+       And I obey it cheerfully. Good Walter,
+      </l>
+      <l n="103">
+       And, worthy sir
+       <stage>
+        ( to Larry ),
+       </stage>
+       be it your care
+      </l>
+      <l n="104">
+       To play the queen bee here, and keep the swarm
+      </l>
+      <l n="105">
+       Still gathering busily. Look to it well:
+      </l>
+      <l n="106">
+       Our new-raised hive must hold no drones within
+                                        it.
+      </l>
+      <l n="107">
+       Now, forward, sirs, to Werocomoco.
+      </l>
+     </sp>
+     <stage>
+      exeunt Smith, Prince, Percy, &amp;.mp;c.
+     </stage>
+     <stage>
+      Manent Walter and Larry.
+     </stage>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="108">
+       So, my compeer in honour, we must hold
+      </l>
+      <l n="109">
+       The staff of sway between us.
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <l n="110">
+       Arrah, man,
+      </l>
+      <l n="111">
+       If we hould it between us, any rogue
+      </l>
+      <l n="112">
+       Shall run clean off before it knocks him down,
+      </l>
+      <l n="113">
+       While at each end we tug for mastery.
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="114">
+       Tush man! we'll strike in unison.
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <l n="115">
+       Go to —
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="116">
+       And first, let's to the forest — the young
+                                        sparks
+      </l>
+      <l n="117">
+       In silken doublets there are felling trees,
+      </l>
+      <l n="118">
+       Poor gentle masters, with their soft palms
+                                        blister'd;
+      </l>
+      <l n="119">
+       And, while they chop and chop, they swear and
+                                        swear,
+      </l>
+      <l n="120">
+       Drowning with oaths the echo of their axe.
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <l n="121">
+       Are they so hot in choler?
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="122">
+       Ay.
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <l n="123">
+       We'll cool 'em;
+      </l>
+      <l n="124">
+       And pour cold patience down their silken
+                                        sleeves.
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="125">
+       Cold patience!
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <l n="126">
+       In the shape of water, honey.
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="127">
+       A notable discovery; come away!
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <l n="128">
+       Ha! isn't that a sail?
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <stage>
+       looking toward the river.
+      </stage>
+      <l n="129">
+       A sail! a fleet!
+      </l>
+     </sp>
+     <stage>
+      Enter Talman.
+     </stage>
+     <sp who="#talman">
+      <speaker>
+       Tal.
+      </speaker>
+      <l n="130">
+       We have discovered nine tall ships.
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <l n="131">
+       Discovered!
+      </l>
+      <l n="132">
+       Away, you rogue, we have discovered them,
+      </l>
+      <l n="133">
+       With natures telescopes. Run — scud — begone —
+      </l>
+      <l n="134">
+       Down to the river! Och, St. Pat, I thank you!
+      </l>
+     </sp>
+     <stage>
+      Go toward the river. Huzza within Music expresses joyful bustle. Scene closes.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Scene II.
+     </head>
+     <stage>
+      — A grove.
+     </stage>
+     <stage>
+      Enter Robin and Nima.
+     </stage>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       Ay, bless you, I knew I should creep into
+       your heart at last, my little dusky divinity.
+      </p>
+     </sp>
+     <sp who="#nima">
+      <speaker>
+       Ni.
+      </speaker>
+      <p>
+       Divinity! what's that?
+      </p>
+     </sp>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <stage>
+       retire.
+      </stage>
+      <p>
+       Divinity — it's a — O it's a pretty title that
+       we lords of the creation bestow upon our playthings.
+       But bist! here they come. Now is it a
+       knotty point to be argued, whether this parting
+       doth most affect the mistress and master, or the
+       maid and man. Let Cupid be umpire, and steal
+       the scales of Justice to weight our heavy sighs.
+      </p>
+     </sp>
+     <stage>
+      Enter Rolfe and Pocahontas.
+     </stage>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="11">
+       Nay, let me on —
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="12">
+       No further, gentle love;
+      </l>
+      <l n="13">
+       The rugged way has wearied you already.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="14">
+       Feels the wood pigeon weariness, who flies,
+      </l>
+      <l n="15">
+       Mated with her beloved? Ah! lover, no.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="16">
+       Sweet! in this grove we will exchange adieus;
+      </l>
+      <l n="17">
+       My steps should point straight onward; were thou with
+                                        me,
+      </l>
+      <l n="18">
+       Thy voice would bid me quit the forward path
+      </l>
+      <l n="19">
+       At every pace, or fix my side-long look,
+      </l>
+      <l n="20">
+       Spell-bound, upon thy beauties.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="21">
+       Ah! you love not
+      </l>
+      <l n="22">
+       The wild-wood prattle of the Indian maid,
+      </l>
+      <l n="23">
+       As once you did.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="24">
+       By heaven! my thirsty ear,
+      </l>
+      <l n="25">
+       Could ever drink its liquid melody.
+      </l>
+      <l n="26">
+       Oh! I could talk with thee, till hasty night,
+      </l>
+      <l n="27">
+       Ere yet the centinel day had done his watch:
+      </l>
+      <l n="28">
+       Veil'd like a spy, should steal on printless
+                                        feet,
+      </l>
+      <l n="29">
+       To listen to our parley! Dearest love!
+      </l>
+      <l n="30">
+       My captain has arrived, and I do know,
+      </l>
+      <l n="31">
+       When honour and when duty call upon me,
+      </l>
+      <l n="32">
+       Thou wouldst not have me child for tardiness.
+      </l>
+      <l n="33">
+       But, ere the matin of to-morrow's lark,
+      </l>
+      <l n="34">
+       Do echo from the roof of nature's temple,
+      </l>
+      <l n="35">
+       Sweetest, expect me.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="36">
+       Wilt thou surely come?
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="37">
+       To win thee from thy father will I come;
+      </l>
+      <l n="38">
+       And my commander's voice shall join with mine,
+      </l>
+      <l n="39">
+       To woo Powhatan to resign his treasure.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="40">
+       Go then, but ah! forget not —
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="41">
+       I'll forget
+      </l>
+      <l n="42">
+       All else, to think on thee!
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="43">
+       Thou art my life!
+      </l>
+      <l n="44">
+       I lived not till I saw thee, love; and now,
+      </l>
+      <l n="45">
+       I live not in thine absence. Long, O! long
+      </l>
+      <l n="46">
+       I was the savage child of savage Nature;
+      </l>
+      <l n="47">
+       And when her flowers sprang up, while each green,
+                                        bough
+      </l>
+      <l n="48">
+       Sang with the passing west wind's rustling
+                                        breath;
+      </l>
+      <l n="49">
+       When her warm visitor, flush'd Summer, came,
+      </l>
+      <l n="50">
+       Or Autumn strew'd her yellow leaves around,
+      </l>
+      <l n="51">
+       Or the shrill north wind pip'd his mournful
+                                        music,
+      </l>
+      <l n="52">
+       I saw the changing brow of my wild mother
+      </l>
+      <l n="53">
+       With neither love nor dread, But now, O! now,
+      </l>
+      <l n="54">
+       I could entreat her for eternal smiles.
+      </l>
+      <l n="55">
+       So thou might'st range through groves of loveliest
+                                        flowers,
+      </l>
+      <l n="56">
+       Where never Winter, with his icy lip,
+      </l>
+      <l n="57">
+       Should dare to press thy cheek.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="58">
+       My sweet enthusiast!
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="59">
+       O! 'tis from thee that I have drawn my being:
+      </l>
+      <l n="60">
+       Thou'st ta'en me from the path of savage error,
+      </l>
+      <l n="61">
+       Blood-stain'd and rude, where rove my countrymen,
+      </l>
+      <l n="62">
+       And taught me heavenly truths, and fill'd my
+                                        heart
+      </l>
+      <l n="63">
+       With sentiments sublime, and sweet, and social.
+      </l>
+      <l n="64">
+       Oft has my winged spirit, following thine,
+      </l>
+      <l n="65">
+       Cours'd the bright day-beam, and the star of
+                                        night,
+      </l>
+      <l n="66">
+       And every rolling planet of the sky,
+      </l>
+      <l n="67">
+       Around their circling orbits. O, my love!
+      </l>
+      <l n="68">
+       Guided by thee, has not my daring soul,
+      </l>
+      <l n="69">
+       O'ertopt the far off mountains of the east,
+      </l>
+      <l n="70">
+       Where, as our fathers fable, shad'wy hunters
+      </l>
+      <l n="71">
+       Pursue the deer, or clasp the melting maid,
+      </l>
+      <l n="72">
+       Mid ever blooming spring? Thence, soaring high
+      </l>
+      <l n="73">
+       From the deep vale of legendary fiction,
+      </l>
+      <l n="74">
+       Hast thou not heaven-ward turn'd my dazzled
+                                        sight,
+      </l>
+      <l n="75">
+       Where sing the spirits of the blessed good
+      </l>
+      <l n="76">
+       Around the bright throne of the Holy One?
+      </l>
+      <l n="77">
+       This thou hast done; and ah! what couldst thou
+                                        more.
+      </l>
+      <l n="78">
+       Belov'd preceptor, but direct that ray,
+      </l>
+      <l n="79">
+       Which beams from heaven to animate existence,
+      </l>
+      <l n="80">
+       And bid my swelling bosom beat with love!
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="81">
+       O, my dear scholar!
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="82">
+       Prithee chide me, love:
+      </l>
+      <l n="83">
+       My idle prattle holds thee from thy purpose.
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="84">
+       O! speak more music! and I'll listen to it,
+      </l>
+      <l n="85">
+       Like stilly midnight to sweet Philomel.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="86">
+       Nay, now begone; for thou must go: ah fly,
+      </l>
+      <l n="87">
+       The sooner to return —
+      </l>
+     </sp>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="88">
+       Thus, then, adieu!
+       <stage>
+        [ embrace.
+       </stage>
+      </l>
+      <l n="89">
+       But ere the face of morn blush rosy red,
+      </l>
+      <l n="90">
+       To see the dew-besprent, cold virgin ground
+      </l>
+      <l n="91">
+       Stain'd by licentious step; O, long before
+      </l>
+      <l n="92">
+       The foot of th' earliest furred forrester,
+      </l>
+      <l n="93">
+       Do mark its imprint on morn's misty sheet,
+      </l>
+      <l n="94">
+       With sweet good morrow will I wake my love.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="95">
+       To bliss thou'lt wake me, for I sleep till then
+      </l>
+      <l n="96">
+       Only with sorrow's poppy on my lids.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Princess
+      </speaker>
+      <stage>
+       Music. Embrace; and exit Rolfe, followed by Robin; looks around despondingly.
+      </stage>
+      <stage>
+       Song.
+      </stage>
+      <l n="97">
+       But now, how gay and beauteous was this grove!
+      </l>
+      <l n="98">
+       Sure ev'ning's shadows have enshrouded it,
+      </l>
+      <l n="99">
+       And 'tis the screaming bird of night I hear,
+      </l>
+      <l n="100">
+       Not the melodious mock-bird. Ah! fond girl!
+      </l>
+      <l n="101">
+       'Tis o'er thy soul the gloomy curtain hangs;
+      </l>
+      <l n="102">
+       'Tis in thy heart the rough-toned raven sings.
+      </l>
+      <l n="103">
+       O, lover! haste to my benighted breast;
+      </l>
+      <l n="104">
+       Come like the glorious sun, and bring me day!
+      </l>
+      <l n="105">
+       When the midnight of absence the day-scene
+                                                pervading
+      </l>
+      <l n="106">
+       Distils its chill dew o'er the bosom of
+                                                love,
+      </l>
+      <l n="107">
+       O how fast then the gay tints of nature are
+                                                fading!
+      </l>
+      <l n="108">
+       How harsh seems the music of joy in the
+                                                grove!
+      </l>
+      <l n="109">
+       While the tender flow'r droops till return
+                                                of the light,
+      </l>
+      <l n="110">
+       Steep'd in tear drops that fall from the eye
+                                                of the night.
+      </l>
+      <l n="111">
+       But O, when the lov'd-one appears,
+      </l>
+      <l n="112">
+       Like the sun a bright day to impart,
+      </l>
+      <l n="113">
+       To kiss off those envious tears,
+      </l>
+      <l n="114">
+       To give a new warmth to the heart;
+      </l>
+      <l n="115">
+       Soon the flow'ret seeming dead
+      </l>
+      <l n="116">
+       Raises up its blushing head,
+      </l>
+      <l n="117">
+       Glows again the breast of love,
+      </l>
+      <l n="118">
+       Laughs again the joyful grove;
+      </l>
+      <l n="119">
+       While once more the mock-bird's throat
+      </l>
+      <l n="120">
+       Trolls the sweetly various note.
+      </l>
+      <l n="121">
+       But ah! when dark absence the day-scene
+                                                pervading
+      </l>
+      <l n="122">
+       Distils its chill dew o'er the bosom of
+                                                love,
+      </l>
+      <l n="123">
+       O! fast then the gay tints of nature are
+                                                fading!
+      </l>
+      <l n="124">
+       O! harsh seems the music of joy in the
+                                                grove!
+      </l>
+      <l n="125">
+       And the tender flow'r droops till return of
+                                                the light,
+      </l>
+      <l n="126">
+       Steep'd in tear drops that fall from the eye
+                                                of the night.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="127">
+       Look, Nima, surely I behold our captive,
+      </l>
+      <l n="128">
+       The prince Miami, and our cruel priest.
+      </l>
+     </sp>
+     <sp who="#nima">
+      <speaker>
+       Ni.
+      </speaker>
+      <l n="129">
+       Lady, 'tis they; and now they move this way.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="130">
+       How earnest are their gestures; ah! my Nima,
+      </l>
+      <l n="131">
+       When souls like theirs mingle in secret council,
+      </l>
+      <l n="132">
+       Stern murder's voice alone is listen'd to.
+      </l>
+      <l n="133">
+       Miami too at large — O! trembling heart,
+      </l>
+      <l n="134">
+       Most sad are thy forebodings; they are here —
+      </l>
+      <l n="135">
+       Haste, Nima; let us veil us from their view.
+      </l>
+     </sp>
+     <stage>
+      they retire.
+     </stage>
+     <stage>
+      Enter Miami and Grimosco.
+     </stage>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       Be satisfied; I cannot fail — hither the
+       king will soon come. This deep shade have I chosen
+       for our place of meeting. Hush! he comes.
+       Retire, and judge if Grimosco have vainly boasted —
+       away!
+      </p>
+     </sp>
+     <stage>
+      Miami retire.
+     </stage>
+     <stage>
+      Enter Powhatan.
+     </stage>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Now, priest, I attend the summons of thy
+       voice.
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       So you consult your safety, for 'tis the
+       voice of warning.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Of what would you warn me?
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       Danger.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       From whom?
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       Your enemies.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Old man, these have I conquered.
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       The English still exist.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       The English!
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       The nobler beast of the forest issues boldly
+       from his den, and the spear of the powerful pierces
+       his heart. The deadly adder lurks in his covert till
+       the unwary footstep approach him.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       I see no adder near me.
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       No, for thine eyes rest only on the flowers
+       under which he glides.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Away, thy sight is dimmed by the shadows
+       of age.
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       King, for forty winters hast thou heard the
+       voice of counsel from my lips, and never did its
+       sound deceive thee; never did my tongue raise the
+       war cry, and the foe appeared not. Be warned then
+       to beware the white man. He has fixed his serpent
+       eye upon you, and, like the charmed bird, you
+       flutter each moment nearer to the jaw of death.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       How, Grimosco?
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       Do you want proof of the white man's hatred
+       to the red? Follow him along the bay; count
+       <pb n="56"/>
+       the kings he has conquered, and the nations that his
+       sword has made extinct.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Like a warrior he subdued them, for the
+       chain of friendship bound them not to each other.
+       The white man is brave as Aresqui; and can the
+       brave be treacherous?
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       Like the red feather of the flamingo is
+       craft, the brightest plume that graces the warrior's
+       brow. Are not your people brave? Yet does the
+       friendly tree shield them while the hatchet is thrown.
+       Who doubts the courage of Powhatan? Yet has the
+       eye of darkness seen Powhatan steal to the surprise
+       of the foe.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Ha! priest, thy words are true. I will be
+       satisfied. Even now I received a swift messenger
+       from my son: to day he will conduct the English to
+       my banquet. I will demand of him if he be the
+       friend of Powhatan.
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       Yes; but demand it of him as thou drawest
+       thy recking hatchet from his cleft head.
+       <stage>
+        (king starts)
+       </stage>
+       The despoilers of our land must die!
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       What red man can give his eye-ball the
+       glare of defiance when the white chief is nigh? He
+       who stood alone amidst seven hundred foes, and,
+       while he spurned their king to the ground, dared
+       them to shoot their arrows; who will say to him,
+       "White man, I am thine enemy?" No one. My
+       chiefs would be children before him.
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       The valour of thy chiefs may slumber, but
+       the craft of thy priest shall watch. When the
+       English sit at that banquet from which they shall
+       never rise; when their eyes read nothing but
+       friendship in thy looks, there shall hang a hatchet
+       <pb n="57"/>
+       over each victim head, which, at the silent signal of
+       Grimosco —
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Forbear, counsellor of death! Powhatan
+       cannot betray those who have vanquished his enemies;
+       who are his friends, his brothers.
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       Impious! Can the enemies of your God
+       be your friends? Can the children of another parent
+       be your brethren? You are deaf to the counsellor:
+       'tis your priest now speaks. I have heard the angry
+       voice of the Spirit you have offended; offended
+       by your mercy to his enemies. Dreadful was his
+       voice; fearful were his words. Avert his wrath, or
+       thou art condemned; and the white men are the ministers
+       of his vengeance.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Priest!
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       From the face of the waters will he send
+       them, in mighty tribes, and our shores will scarce
+       give space for their footsteps. Powhatan will fly before
+       them; his beloved child, his wives, all that is
+       dear to him, he will leave behind. Powhatan will
+       fly; but whither? which of his tributary kings will
+       shelter him? Not one. Already they cry, "Powhatan
+       is ruled by the white; we will no longer be
+       the slaves of a slave!"
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Ha!
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       Despoiled of his crown, Powhatan will be
+       hunted from the land of his ancestors. To strange
+       woods will the fugitive be pursued by the Spirit
+       whom he has angered —
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       O dreadful!
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       And at last, when the angel of death obeys
+       his call of anguish, whither will go his condemned
+       soul? Not to the fair forests, where his brave fathers
+       <pb n="58"/>
+       are. O! never will Powhatan clasp the dear
+       ones who have gone before him. His exiled, solitary
+       spirit will for ever how; on the barren heath
+       where the wings of darkness rest. No ray of hope
+       shall visit him; eternal will be his night of despair.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Forbear, forbear! O, priest, teach me to
+       avert the dreadful doom.
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       Let the white men be slaughtered.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <stage>
+       exit
+      </stage>
+      <p>
+       The angry Spirit shall be appeased. Come.
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       Thy priest will follow thee.
+      </p>
+     </sp>
+     <stage>
+      Enter Miami.
+     </stage>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <p>
+       Excellent Grimosco! Thy breath, priest, is
+       a deadly pestilence, and hosts fall before it. Yet —
+       still is Miami a captive.
+      </p>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       Fear not. Before Powhatan reach Werocomoco
+       thou shalt be free. Come.
+      </p>
+     </sp>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <p>
+       O, my soul hungers for the banquet; for
+       then shall Miami feast on the heart of his rival!
+      </p>
+     </sp>
+     <stage>
+      exeunt with savage triumph.
+     </stage>
+     <stage>
+      Music. The Princess rushes forward, terror depicted in her face. After running alternately to to each side, and stopping undetermined and bewildered, speaks.
+     </stage>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <stage>
+       exit Nima.
+      </stage>
+      <stage>
+       music. Exit Princess.
+      </stage>
+      <l n="254">
+       O whither shall I fly? what course pursue?
+      </l>
+      <l n="255">
+       At Werocomoco, my phrenzied looks
+      </l>
+      <l n="256">
+       Would sure betray me. What if hence I haste?
+      </l>
+      <l n="257">
+       I may o'ertake my lover, or encounter
+      </l>
+      <l n="258">
+       My brother and his friends. Away, my Nima!
+      </l>
+      <l n="259">
+       O holy Spirit! thou whom my dear lover
+      </l>
+      <l n="260">
+       Has taught me to adore and think most merciful,
+      </l>
+      <l n="261">
+       Wing with thy lightning's speed my flying feet!
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Scene III.
+     </head>
+     <stage>
+      — Near Jamestown.
+     </stage>
+     <stage>
+      Enter Larry , and Kate as a page.
+     </stage>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Nine ships, five hundred men, and a lord
+       governor! Och! St. Patrick's blessing be upon
+       them; they'll make this land flow with buttermilk
+       like green Erin. What say you, master page, isn't
+       this a nice neat patch to plant potatoes — I mean, to
+       plant a nation in?
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       There's but one better.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       And which might that be?
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       E'en little green Erin that you spoke of.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       And were you ever — och, give me your
+       fist — were you ever in Ireland?
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       It's there I was born —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       I saw its bloom on your cheek.
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       And bred.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       I saw it in your manners.
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       O, your servant, sir.
+       <stage>
+        ( bows )
+       </stage>
+       And there,
+       too, I fell in love.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       And, by the powers, so did I; and if a man
+       don't fall into one of the beautiful bogs that Cupid
+       has digged there, faith he may stand without
+       tumbling, though he runs over all the world beside.
+       Och, the creatures, I can see them now —
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       Such sparkling eyes —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Rosy cheeks —
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       Pouting lips —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Tinder hearts! Och, sweet Ireland!
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <stage>
+       Song —
+                                                Kate.
+      </stage>
+      <p>
+       Ay, it was there that I fixed my affections
+       after all my wanderings.
+      </p>
+      <l n="29">
+       Young Edward, through many a distant
+                                                  place,
+      </l>
+      <l n="30">
+       Had wandering pass'd, a thoughtless
+                                                  ranger;
+      </l>
+      <l n="31">
+       And, cheer'd by a smile from beauty's
+                                                  face,
+      </l>
+      <l n="32">
+       Had laugh'd at the frowning face of
+                                                  danger.
+      </l>
+      <l n="33">
+       Fearless Ned,
+      </l>
+      <l n="34">
+       Careless Ned,
+      </l>
+      <l n="35">
+       Never with foreign dames was a
+                                                  stranger;
+      </l>
+      <l n="36">
+       And huff,
+      </l>
+      <l n="37">
+       Bluff,
+      </l>
+      <l n="38">
+       He laugh'd at the frowning face of
+                                                  danger.
+      </l>
+      <l n="39">
+       But journeying on to his native
+                                                  place,
+      </l>
+      <l n="40">
+       Through Ballinamoné pass'd the
+                                                  stranger;
+      </l>
+      <l n="41">
+       Where, fix'd by the charms of Katy's
+                                                  face,
+      </l>
+      <l n="42">
+       He swore he'd no longer be a ranger.
+      </l>
+      <l n="43">
+       Pretty Kate,
+      </l>
+      <l n="44">
+       Witty Kate,
+      </l>
+      <l n="45">
+       Vow'd that no time could ever change
+                                                  her;
+      </l>
+      <l n="46">
+       And kiss,
+      </l>
+      <l n="47">
+       Bliss —
+      </l>
+      <l n="48">
+       O, she hugg'd to her heart the welcome
+                                                  stranger.
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       How's that? Ballinamone, Kate, did you say,
+       Kate?
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       Ay, Katy Maclure; as neat a little wanton
+       tit —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       My wife a wanton tit! — Hark ye, master
+       Whipper-snapper, do you pretend —
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       Pretend! No, faith, sir, I scorn to
+       pretend
+       ,
+       sir; I am above boasting of ladies' favours, unless I
+       receive 'em. Pretend, quotha!
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Fire and faggots! Favours! —
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       You seem to know the girl, mister — a —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Know her! she's my wife.
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       Your wife! Ridiculous! I thought, by
+       your pother, that she had been
+       your friend's wife
+       ,
+       or your mistress. Hark ye, mister — a — cuckoo —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Cuckoo!
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       Your ear. Your wife loved me as she did
+       herself.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       She did?
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       Couldn't live without me; all day we were
+       together.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       You were!
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       As I'm a cavalier; and all night — we lay —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       How?
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       How! why, close as two twin potatoes; in
+       the same bed, egad!
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Tunder and turf! I'll split you from the
+       coxcomb to the —
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       Ay, do split the twin potatoe asunder, do.
+      </p>
+     </sp>
+     <stage>
+      discovers herself.
+     </stage>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       It is — no — what! Och, is it nobody but yourself?
+       O, my darling! —
+       <stage>
+        ( catches her in his arms .)
+       </stage>
+       And so — But how did you? — And where — and
+       what — O, boderation!
+       <stage>
+        ( kisses )
+       </stage>
+       And how d'ye
+       do? and how's your mother? and the pigs and praties,
+       and — kiss me, Kate
+       <stage>
+        (kiss).
+       </stage>
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       So; now may I speak?
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Ay, do be telling me — but stop every now
+       <pb n="62"/>
+       and then, that I may point your story with a grammatical
+       kiss.
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       O, hang it! you'll be for putting nothing
+       but periods to my discourse.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Faith, and I should be for counting —
+       <stage>
+        (kisses)
+       </stage>
+       — four. — Arrah! there, then; I've done
+       with that sentence.
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       You remember what caused me to stay behind,
+       when you embarked for America?
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Ay, 'twas because of your old sick mother.
+       And how does the good lady?
+       <stage>
+        (Kate weeps)
+       </stage>
+       Ah!
+       well, Heaven rest her soul. — Cheerly, cheerly. To
+       be sure, I can't give
+       you
+       a mother; but I tell you
+       what I'll do, I'll give your children one; and that's
+       the same thing, you know. So, kiss me, Kate.
+       Cheerly.
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       One day, as I sat desolate in my cottage, a
+       carriage broke down near it, from which a young
+       lady was thrown with great violence. My humble
+       cabin received her, and I attended her till she was
+       able to resume her journey.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       My kind Kate!
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       The sweet young lady promised me her
+       protection, and pressed me to go with her. So,
+       having no mother — nor Larry to take care of —
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       You let the pigs and praties take care of
+       themselves.
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       I placed an honest, poor neighbour in my
+       cottage, and followed the fortunes of my mistress —
+       and — oh Larry, such an angel!
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       But where is she?
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       Here, in Virginia.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Here?
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       Ay, but that's a secret.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Oh! is it so? that's the reason then you
+       won't tell it me.
+      </p>
+     </sp>
+     <stage>
+      Geraldine , as a page, and Walter appear behind.
+     </stage>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       That's she.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Where?
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       There.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Bother! I see no one but a silken cloaked
+       spark, and our Wat; devil a petticoat!
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       That spark is my mistress.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Be asy. Are you sure you arn't his mistress?
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       Tut, now you've got the twin potatoes in
+       your head.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Twins they must be, if any, for faith I
+       hav'n't had a
+       single
+       potatoe in my head this many a
+       long day. But come, my Kate, tell me how you and
+       your mistress happened to jump into —
+      </p>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <p>
+       Step aside then.
+      </p>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <p>
+       Have with you, my dapper page.
+      </p>
+     </sp>
+     <stage>
+      they retire.
+     </stage>
+     <stage>
+      Geraldine and Walter advance.
+     </stage>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <p>
+       You know this Percy, then?
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="138">
+       Know him! O yes!
+      </l>
+      <l n="139">
+       He makes this wild wood, here, a past'ral grove.
+      </l>
+      <l n="140">
+       He is a love-lorn shepherd; an Orlando,
+      </l>
+      <l n="141">
+       Carving love-rhymes and cyphers on the trees,
+      </l>
+      <l n="142">
+       And warbling dying ditties of a lady
+      </l>
+      <l n="143">
+       He calls false Geraldine.
+      </l>
+     </sp>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <stage>
+       aside.
+      </stage>
+      <l n="144">
+       O my dear Percy!
+      </l>
+      <l n="145">
+       How has one sad mistake marr'd both our joys!
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="146">
+       Yet, though a shepherd, he can wield a sword
+      </l>
+      <l n="147">
+       As easy as a crook.
+      </l>
+     </sp>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <l n="148">
+       Oh! he is brave.
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="149">
+       As Julius Cæsar, sir, or Hercules;
+      </l>
+      <l n="150">
+       Or any other hero that you will,
+      </l>
+      <l n="151">
+       Except our captain.
+      </l>
+     </sp>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <l n="152">
+       Is your captain, then,
+      </l>
+      <l n="153">
+       Without his peer?
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="154">
+       Ay, marry is he, sir,
+      </l>
+      <l n="155">
+       Sans equal in this world. I've follow'd him
+      </l>
+      <l n="156">
+       Half o'er the globe, and seen him do such deeds!
+      </l>
+      <l n="157">
+       His shield is blazon'd with three Turkish heads.
+      </l>
+     </sp>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <l n="158">
+       Well, sir.
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="159">
+       And I, boy, saw him win the arms:
+      </l>
+      <l n="160">
+       O 'twas the bravest act!
+      </l>
+     </sp>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <l n="161">
+       Prithee, recount it.
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="162">
+       It was at Regal, close beleaguer'd then
+      </l>
+      <l n="163">
+       By the duke Sigismund of Transylvania,
+      </l>
+      <l n="164">
+       Our captain's general. One day, from the gate
+      </l>
+      <l n="165">
+       There issued a gigantic mussulman,
+      </l>
+      <l n="166">
+       And threw his gauntlet down upon the ground,
+      </l>
+      <l n="167">
+       Daring our christian knights to single combat.
+      </l>
+      <l n="168">
+       It was our captain, sir, pick'd up the glove,
+      </l>
+      <l n="169">
+       And scarce the trump had sounded to the onset,
+      </l>
+      <l n="170">
+       When the Turk Turbisha had lost his head.
+      </l>
+      <l n="171">
+       His brother, fierce Grualdo, enter'd next,
+      </l>
+      <l n="172">
+       But left the lists sans life or turban too.
+      </l>
+      <l n="173">
+       Last came black Bonamolgro, and he paid
+      </l>
+      <l n="174">
+       The same dear forfeit for the same attempt.
+      </l>
+      <l n="175">
+       And now my master, like a gallant knight,
+      </l>
+      <l n="176">
+       His sabre studded o'er with ruby gems,
+      </l>
+      <l n="177">
+       Prick'd on his prancing courser round the field,
+      </l>
+      <l n="178">
+       In vain inviting fresh assailants; while
+      </l>
+      <l n="179">
+       The beauteous dames of Regal, who, in throngs
+      </l>
+      <l n="180">
+       Lean'd o'er the rampart to behold the tourney,
+      </l>
+      <l n="181">
+       Threw show'rs of scarfs and favours from the
+                                        wall,
+      </l>
+      <l n="182">
+       And wav'd their hands, and bid swift Mercuries
+      </l>
+      <l n="183">
+       Post from their eyes with messages of love;
+      </l>
+      <l n="184">
+       While manly modesty and graceful duty
+      </l>
+      <l n="185">
+       Wav'd on his snowy plume, and, as he rode,
+      </l>
+      <l n="186">
+       Bow'd down his casque unto the saddle bow.
+      </l>
+     </sp>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <l n="187">
+       It was a deed of valour, and you've dress'd it
+      </l>
+      <l n="188">
+       In well-beseeming terms. And yet, methinks,
+      </l>
+      <l n="189">
+       I wonder at the ladies' strange delight;
+      </l>
+      <l n="190">
+       And think the spectacle might better suit
+      </l>
+      <l n="191">
+       An audience of warriors than of women.
+      </l>
+      <l n="192">
+       I'm sure I should have shudder'd — that is, sir,
+      </l>
+      <l n="193">
+       If I were woman.
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="194">
+       Cry your mercy, page;
+      </l>
+      <l n="195">
+       Were you a woman, you would love the brave.
+      </l>
+      <l n="196">
+       You're yet but boy; you'll know the truth of
+                                        this,
+      </l>
+      <l n="197">
+       When father Time writes man upon your chin.
+      </l>
+     </sp>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <p>
+       No doubt I shall, sir, when I get a beard.
+      </p>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <stage>
+       Song —
+                                                Walter.
+      </stage>
+      <l n="199">
+       My master, boy, has made it chrystal clear:
+      </l>
+      <l n="200">
+       Be but a Mars, and you shall have your Venus.
+      </l>
+      <l n="201">
+       Captain Smith is a man of might,
+      </l>
+      <l n="202">
+       In Venus' soft wars or in Mars' bloody
+                                                  fight.
+      </l>
+      <l n="203">
+       For of widow, or wife, or of damsel
+                                                  bright,
+      </l>
+      <l n="204">
+       A bold blade, you know, is all the
+                                                  dandy.
+      </l>
+      <l n="205">
+       One day his sword he drew,
+      </l>
+      <l n="206">
+       And a score of Turks he slew;
+      </l>
+      <l n="207">
+       When done his toil,
+      </l>
+      <l n="208">
+       He snatch'd the spoil,
+      </l>
+      <l n="209">
+       And, as a part,
+      </l>
+      <l n="210">
+       The gentle heart
+      </l>
+      <l n="211">
+       Of the lovely lady Tragabizandy.
+      </l>
+      <l n="212">
+       Captain Smith trod the Tartar land;
+      </l>
+      <l n="213">
+       While before him, in terror, fled the
+                                                  turban'd band,
+      </l>
+      <l n="214">
+       With his good broad-sword, that he
+                                                  whirl'd in his hand,
+      </l>
+      <l n="215">
+       To a three-tail'd bashaw he gave a pat
+                                                  — a.
+      </l>
+      <l n="216">
+       The bashaw, in alarm,
+      </l>
+      <l n="217">
+       Turn'd tails, and fled his arm.
+      </l>
+      <l n="218">
+       But face to face,
+      </l>
+      <l n="219">
+       With lovely grace,
+      </l>
+      <l n="220">
+       In all her charms,
+      </l>
+      <l n="221">
+       Rush'd to his arms
+      </l>
+      <l n="222">
+       The beautiful lady Calamata.
+      </l>
+      <l n="223">
+       Captain Smith, from the foaming
+                                                  seas,
+      </l>
+      <l n="224">
+       From pirates, and shipwreck, and
+                                                  miseries,
+      </l>
+      <l n="225">
+       In a French lady's arms found a haven of
+                                                  ease;
+      </l>
+      <l n="226">
+       Her name — pshaw! from memory quite
+                                                  gone 't has.
+      </l>
+      <l n="227">
+       And on this savage shore,
+      </l>
+      <l n="228">
+       Where his faulchion stream'd with
+                                                  gore,
+      </l>
+      <l n="229">
+       His noble heart
+      </l>
+      <l n="230">
+       The savage dart
+      </l>
+      <l n="231">
+       Had quiver'd through;
+      </l>
+      <l n="232">
+       But swifter flew
+      </l>
+      <l n="233">
+       To his heart the pretty princess
+                                                  Pocahontas.
+      </l>
+     </sp>
+     <stage>
+      exit Walter.
+     </stage>
+     <stage>
+      Enter Kate.
+     </stage>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <l n="234">
+       Now, brother page —
+      </l>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <l n="235">
+       Dear mistress, I have found
+      </l>
+      <l n="236">
+       My faithful Larry.
+      </l>
+     </sp>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <l n="237">
+       Happy girl! and I
+      </l>
+      <l n="238">
+       Hope soon to meet my heart's dear lord, my
+                                        Percy.
+      </l>
+      <l n="239">
+       Hist! the lord governor —
+      </l>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <l n="240">
+       He little thinks
+      </l>
+      <l n="241">
+       Who is the page he loves so —
+      </l>
+     </sp>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <l n="242">
+       Silence.
+      </l>
+     </sp>
+     <sp who="#kate">
+      <speaker>
+       Kate.
+      </speaker>
+      <l n="243">
+       Mum.
+      </l>
+     </sp>
+     <stage>
+      Enter Delawar, Walter, Larry ,&amp;.mp;c.
+     </stage>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="244">
+       Each noble act of his that you recite
+      </l>
+      <l n="245">
+       Challenges all my wonder and applause.
+      </l>
+      <l n="246">
+       Your captain is a brave one; and I long
+      </l>
+      <l n="247">
+       To press the hero's hand. But look, my friends,
+      </l>
+      <l n="248">
+       What female's this, who, like the swift Camilla,
+      </l>
+      <l n="249">
+       On airy step flies hitherward?
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="250">
+       My lord,
+      </l>
+      <l n="251">
+       This is the lovely princess you have heard of;
+      </l>
+      <l n="252">
+       Our infant colony's best patroness;
+      </l>
+      <l n="253">
+       Nay, sir, its foster-mother.
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="254">
+       Mark how wild —
+      </l>
+     </sp>
+     <stage>
+      Music. The Princess enters, with wild anxiety in her looks; searches eagerly around for Smith and Rolfe.
+     </stage>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="255">
+       Whom do you look for, lady?
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="256">
+       They are gone!
+      </l>
+      <l n="257">
+       Gone to be slaughter'd!
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="258">
+       If you seek our captain,
+      </l>
+      <l n="259">
+       He has departed for your father's banquet.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="260">
+       Then they have met, and they will both be lost,
+      </l>
+      <l n="261">
+       My lover and my friend. O! faithless path,
+      </l>
+      <l n="262">
+       That led me from my lover! Strangers, fly!
+      </l>
+      <l n="263">
+       If you're the white man's friends —
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="264">
+       Lady, we are.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="265">
+       Then fly to save them from destruction!
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="266">
+       How?
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="267">
+       Inquire not; speak not; treachery and death
+      </l>
+      <l n="268">
+       Await them at the banquet.
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="269">
+       Haste, my friends,
+      </l>
+      <l n="270">
+       Give order for immediate departure.
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="271">
+       E'en now perhaps they bleed! O lover! brother!
+      </l>
+      <l n="272">
+       Fly, strangers, fly!
+      </l>
+     </sp>
+     <stage>
+      Music. Drum beats; a bustic; scene closes.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Scene IV.
+     </head>
+     <stage>
+      At Werocomoco; banquet. Smith, Rolfe, Percy, Nantaquas, Powhatan , &amp;.mp;c., seated. Grimosco, Miami , and a number of Indians attending.
+     </stage>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       White warriors, this is the feast of peace,
+       and yet you wear your arms. Will not my friends
+       lay by their warlike weapons? They fright our
+       fearful people.
+      </p>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="5">
+       Our swords are part of our apparel, king;
+      </l>
+      <l n="6">
+       Nor need your people fear them. They shall rest
+      </l>
+      <l n="7">
+       Peaceful within their scabbards, if Powhatan
+      </l>
+      <l n="8">
+       Call them not forth, with voice of enmity.
+      </l>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <l n="9">
+       O that can never be! feast then in peace
+      </l>
+      <l n="10">
+       Children and friends —
+      </l>
+      <l n="11">
+       <stage>
+        Leaves his place and comes forward to Grimosco.
+       </stage>
+      </l>
+      <l n="12">
+       O priest! my soul is afraid it will be stained with
+                                        dishonour.
+      </l>
+     </sp>
+     <sp who="#grimosco">
+      <speaker>
+       Grim.
+      </speaker>
+      <p>
+       Away! the Great Spirit commands you.
+       Resume your seat; hold the white men in discourse;
+       I will but thrice wave my hand, and your
+       foes are dead.
+       <stage>
+        ( King resumes his seat )
+       </stage>
+       <stage>
+        ( to Miami )
+       </stage>
+       Now, prince, has the hour of vengeance arrived.
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <stage>
+       ( with a faltering voice )
+      </stage>
+      <p>
+       Think not, white
+       men, that Powhatan wants the knowledge to prize
+       your friendship. Powhatan has seen three generations
+       pass away; and his locks of age do not
+       float upon the temples of folly.
+       <stage>
+        Grimosco waves his hand: the Indians steal behind the English, Miami behind Rolfe. King proceeds.
+       </stage>
+       If a leaf but fall in the forest, my people cry out
+       with terror, "hark! the white warrior comes!"
+       Chief, thou art terrible as an enemy, and Powhatan
+       knows the value of thy friendship.
+       <stage>
+        Grimosco waves his hand again; the Indians seize their tomahawks, and prepare to strike. king goes on.
+       </stage>
+       Think not, therefore, Powhatan can attempt to
+       deceive thee —
+      </p>
+     </sp>
+     <stage>
+      The king's voice trembles; he stops, unable to proceed. The Indians' eyes are fixed on Grimosco, waiting for the last signal. At this moment the Princess rushes in.
+     </stage>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <p>
+       Trea chery to the white men!
+      </p>
+     </sp>
+     <stage>
+      At the same instant, drum and trumpet without. Music. The English seize the uplifted arms of the Indians, and form a tableau, as enter Delawar and his party. After the music, the soldiers take charge of the Indians. Pocahontas flies to the arms of Rolfe.
+     </stage>
+     <sp who="#nantaquas">
+      <speaker>
+       Nan.
+      </speaker>
+      <p>
+       Oh father!
+      </p>
+     </sp>
+     <stage>
+      Powhatan is transfixed with confusion.
+     </stage>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <p>
+       Wretched king! what fiend could
+       urge you?
+      </p>
+     </sp>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <p>
+       Shame ties the tongue of Powhatan.
+       Ask of that fiend-like priest, how, to please the
+       angry Spirit, I was to massacre my friends.
+      </p>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="38">
+       Holy Religion! still beneath the veil
+      </l>
+      <l n="39">
+       Of sacred piety what crimes lie hid!
+      </l>
+      <l n="40">
+       Bear hence that monster. Thou ferocious prince —
+      </l>
+     </sp>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <stage>
+       stabbing himself.
+      </stage>
+      <l n="41">
+       Miami's tortures shall not feast your eyes!
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="42">
+       Rash youth, thou mightst have liv'd —
+      </l>
+     </sp>
+     <sp who="#miami">
+      <speaker>
+       Mi.
+      </speaker>
+      <l n="43">
+       Liv'd! man, look there!
+      </l>
+     </sp>
+     <stage>
+      pointing to Rolfe and princess. He is borne off.
+     </stage>
+     <sp who="#powhatan">
+      <speaker>
+       Pow.
+      </speaker>
+      <l n="44">
+       Oh, if the false Powhatan might —
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="45">
+       No more.
+      </l>
+      <l n="46">
+       Wiser than thou have been the dupes of
+                                        priesthood.
+      </l>
+      <l n="47">
+       Your hand. The father of this gen'rous pair
+      </l>
+      <l n="48">
+       I cannot chuse but love. My noble lord,
+      </l>
+      <l n="49">
+       I pray you pardon my scant courtesy
+      </l>
+      <l n="50">
+       And sluggish duty, which so tardy-paced
+      </l>
+      <l n="51">
+       Do greet your new arrival —
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <stage>
+       embrace.
+      </stage>
+      <l n="52">
+       Valiant captain:
+      </l>
+      <l n="53">
+       Virtue-ennobled sir, a hero's heart
+      </l>
+      <l n="54">
+       Will make mine proud by its most near
+                                        acquaintance.
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="55">
+       Your coming was most opportune, my lord.
+      </l>
+      <l n="56">
+       One moment more —
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="57">
+       Nay, not to us the praise.
+      </l>
+      <l n="58">
+       Behold the brilliant star that led us on.
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="59">
+       Oh! blest is still its kindly influence!
+      </l>
+      <l n="60">
+       Could a rough soldier play the courtier, lady,
+      </l>
+      <l n="61">
+       His practis'd tongue might grace thy various
+                                        goodness,
+      </l>
+      <l n="62">
+       With proper phrase of thanks; but oh! reward
+                                        thee!
+      </l>
+      <l n="63">
+       Heaven only can —
+      </l>
+     </sp>
+     <sp who="#pocahontas">
+      <speaker>
+       Prs.
+      </speaker>
+      <l n="64">
+       And has, my brother. See!
+      </l>
+      <l n="65">
+       I have its richest gift.
+      </l>
+     </sp>
+     <stage>
+      turning to Rolfe.
+     </stage>
+     <sp who="#lieutenantrolfe">
+      <speaker>
+       Rol.
+      </speaker>
+      <l n="66">
+       My dearest love!
+      </l>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="67">
+       Her brother, sir, and worthy of that name.
+      </l>
+     </sp>
+     <stage>
+      Introduces Nantaquas to Delawar; Percy and Geraldine, who had been conversing, advance.
+     </stage>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="68">
+       You tell me wonders.
+      </l>
+     </sp>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <l n="69">
+       But not miracles.
+      </l>
+      <l n="70">
+       Being near the uncle, sir, I knew the lady.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="71">
+       And was I then deceived?
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="72">
+       What, gentle Percy!
+      </l>
+      <l n="73">
+       Young man, 'twas not well done, in idle pique,
+      </l>
+      <l n="74">
+       To wound the heart that lov'd you.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="75">
+       O sir! speak!
+      </l>
+      <l n="76">
+       My Geraldine. your niece, is she not married?
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="77">
+       Nor like to be, poor wench, but to her grave,
+      </l>
+      <l n="78">
+       If mourning for false lovers break maids' hearts.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="79">
+       Was she then true? O madman! ideot!
+      </l>
+      <l n="80">
+       To let the feeble breath of empty rumour
+      </l>
+      <l n="81">
+       Drive me from heavenly happiness!
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="82">
+       Poor girl!
+      </l>
+      <l n="83">
+       She fain would have embark'd with me.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="84">
+       Ah, sir!
+      </l>
+      <l n="85">
+       Why did she not?
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="86">
+       Marry sir, I forbade her:
+      </l>
+      <l n="87">
+       The rough voyage would have shook her slender
+                                        health
+      </l>
+      <l n="88">
+       To dissolution.
+      </l>
+     </sp>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <l n="89">
+       Pardon, sir; not so —
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="90">
+       How now, pert page?
+      </l>
+     </sp>
+     <sp who="#geraldine">
+      <speaker>
+       Ger.
+      </speaker>
+      <l n="91">
+       For here she is, my lord.
+      </l>
+      <l n="92">
+       And the rough voyage has giv'n her a new life.
+      </l>
+     </sp>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="93">
+       My Geraldine!
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="94">
+       My niece! O, brazenface!
+      </l>
+      <l n="95">
+       Approach me not; fly from your uncle's anger;
+      </l>
+      <l n="96">
+       Fly to your husband's arms for shelter, hussey.
+      </l>
+     </sp>
+     <stage>
+      Geraldine flies so Percy's embrace.
+     </stage>
+     <sp who="#percy">
+      <speaker>
+       Per.
+      </speaker>
+      <l n="97">
+       Oh! speechless transport! mute let me infold
+                                        thee!
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <stage>
+       (to Kate)
+      </stage>
+      <l n="98">
+       And you, my little spark, perhaps your cloak
+      </l>
+      <l n="99">
+       Covers another duteous niece — or daughter
+      </l>
+      <l n="100">
+       Speak, lady: for I see that title writ
+      </l>
+      <l n="101">
+       In crimson characters upon your cheek.
+      </l>
+      <l n="102">
+       Art of my blood?
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Lar.
+      </speaker>
+      <l n="103">
+       No, sir, she's of my flesh;
+      </l>
+      <l n="104">
+       Flesh of my flesh, my lord. Now, arrah, Kate,
+      </l>
+      <l n="105">
+       Don't blush. This goodly company all knows
+      </l>
+      <l n="106">
+       My flesh may wear the breeches, without scandal.
+      </l>
+     </sp>
+     <sp who="#walter">
+      <speaker>
+       Wal.
+      </speaker>
+      <l n="107">
+       Listen not, Alice, to his sophistry.
+      </l>
+      <l n="108">
+       Sir, if our good wives learn this argument,
+      </l>
+      <l n="109">
+       They'll logically pluck away our — .
+      </l>
+     </sp>
+     <sp who="#alice">
+      <speaker>
+       Al.
+      </speaker>
+      <l n="110">
+       Tut:
+      </l>
+      <l n="111">
+       Fear ye not that; for when a woman would,
+      </l>
+      <l n="112">
+       She'll draw them on without a rule of reason.
+      </l>
+     </sp>
+     <sp who="#delawar">
+      <speaker>
+       Del.
+      </speaker>
+      <l n="113">
+       Methinks 'tis pairing time among the turtles.
+      </l>
+      <l n="114">
+       Who have we here?
+      </l>
+     </sp>
+     <stage>
+      Robin and Nima come forward.
+     </stage>
+     <sp who="#robin">
+      <speaker>
+       Rob.
+      </speaker>
+      <p>
+       A pair of pigeons, sir; or rather a robin
+       and a dove. A wild thing, sir, that I caught in the
+       wood here. But when I have clipt her wings, and
+       tamed her, I hope (without offence to this good
+       company) that we shall bill without biting more
+       than our neighbours.
+      </p>
+     </sp>
+     <sp who="#captainsmith">
+      <speaker>
+       Sm.
+      </speaker>
+      <l n="121">
+       Joy to ye, gentle lovers; joy to all;
+      </l>
+      <l n="122">
+       A goodly circle, and a fair. Methinks
+      </l>
+      <l n="123">
+       Wild Nature smooths apace her savage frown
+      </l>
+      <l n="124">
+       Moulding her features to a social smile.
+      </l>
+      <l n="125">
+       Now flies my hope-wing'd fancy o'er the gulf
+      </l>
+      <l n="126">
+       That lies between us and the aftertime,
+      </l>
+      <l n="127">
+       When this fine portion of the globe shall teem
+      </l>
+      <l n="128">
+       With civiliz'd society; when arts,
+      </l>
+      <l n="129">
+       And industry, and elegance shall reign,
+      </l>
+      <l n="130">
+       As the shrill war-cry of the savage man
+      </l>
+      <l n="131">
+       Yields to the jocund shepherd's roundelay.
+      </l>
+      <l n="132">
+       Oh, enviable country! thus disjoin'd
+      </l>
+      <l n="133">
+       From old licentious Europe! may'st thou rise,
+      </l>
+      <l n="134">
+       Free from those bonds which fraud and
+                                        superstition
+      </l>
+      <l n="135">
+       In barbarous ages have enchain'd
+       her
+       with;
+      </l>
+      <l n="136">
+       Bidding the antique world with wonder view
+      </l>
+      <l n="137">
+       A great, yet virtuous empire in the west!
+      </l>
+     </sp>
+     <stage>
+      Finale.
+     </stage>
+     <sp who="#captainsmith">
+      <speaker>
+       [Sm.]
+      </speaker>
+      <l n="138">
+       Freedom, on the western shore
+      </l>
+      <l n="139">
+       Float thy banner o'er the brave;
+      </l>
+      <l n="140">
+       Plenty, here thy blessings pour;
+      </l>
+      <l n="141">
+       Peace, thy olive sceptre wave!
+      </l>
+     </sp>
+     <sp who="#percy #walter">
+      <speaker>
+       Percy, Walter, &amp;.mp;c.
+      </speaker>
+      <l n="142">
+       Fire-eyed Valour, guard the land;
+      </l>
+      <l n="143">
+       Here uprear thy fearless crest;
+      </l>
+     </sp>
+     <sp who="#pocahontas #kate #alice">
+      <speaker>
+       Prs. Kate, Al, &amp;.mp;c.
+      </speaker>
+      <l n="144">
+       Love, diffuse thy influence bland
+      </l>
+      <l n="145">
+       O'er the regions of the west.
+      </l>
+     </sp>
+     <sp who="#chorus">
+      <speaker>
+       Chorus.
+      </speaker>
+      <l n="146">
+       Freedom, &amp;.mp;c.
+      </l>
+     </sp>
+     <sp who="#larry">
+      <speaker>
+       Larry.
+      </speaker>
+      <l n="147">
+       Hither, lassie, frank and pretty,
+      </l>
+      <l n="148">
+       Come and live without formality.
+      </l>
+      <l n="149">
+       Thou, in English christen'd Pity,
+      </l>
+      <l n="150">
+       But call'd, in Irish, Hospitality
+      </l>
+     </sp>
+     <sp who="#chorus">
+      <speaker>
+       Chorus.
+      </speaker>
+      <l n="151">
+       Freedom, &amp;.mp;c.
+      </l>
+     </sp>
+    </div>
+   </div>
+  </body>
+  <back>
+   <p>
+    THE END.
+   </p>
+  </back>
+ </text>
+</TEI>

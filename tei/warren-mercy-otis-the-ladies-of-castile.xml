@@ -1,0 +1,7728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am706" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Ladies of Castile
+    </title>
+    <author>
+     Warren, Mercy Otis
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Wikisource
+     </name>
+     <idno>
+      https://en.wikisource.org/wiki/The_Ladies_of_Castile
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Otis Warren, Mecy: The Ladies of Castile
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+<particDesc>
+    <listPerson>
+     <person xml:id="donnamaria" sex="FEMALE">
+      <persName>Donna Maria</persName>
+     </person>
+     <person xml:id="donjuandepadilla" sex="MALE">
+      <persName>Don Juan de Padilla</persName>
+     </person>
+     <person xml:id="donfrancis" sex="MALE">
+      <persName>Don Francis</persName>
+     </person>
+     <person xml:id="donpedroghiron" sex="MALE">
+      <persName>Don Pedro Ghiron</persName>
+     </person>
+     <person xml:id="donvelasco" sex="MALE">
+      <persName>Don Velasco</persName>
+     </person>
+     <person xml:id="condeharo" sex="MALE">
+      <persName>Conde Haro</persName>
+     </person>
+     <person xml:id="donnalouisa" sex="FEMALE">
+      <persName>Donna Louisa</persName>
+     </person>
+     <person xml:id="socia" sex="MALE">
+      <persName>Socia</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Tragedy
+     </term>
+     <term subtype="am" type="genreTitle">
+      Drama
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Verse
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1790">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <head>
+    To a Young Gentleman in Europe , at whose Request a regular Dramatick
+                                Work was first attempted.
+   </head>
+   <p>
+    MY DEAR SIR,
+   </p>
+   <p>
+    You have often requested something in the stile of the drama, from the hand of one ever fond of gratifying her friends; though not certain whether this request arose from a love of literary productions; from a curiosity that has affection for its basis; or the strong attachment of friendship; yet I have no doubt you will be pleased with the compliance.
+   </p>
+   <p>
+    I am sensible the writing an unexceptionable Tragedy, requires judgement, genius, and taste; and have felt such a diffidence in the attempt, as nothing would have overcome but the repeated request of a very dear friend.
+   </p>
+   <p>
+    Though the piece now put into your hand may not afford equal entertainment with the compositions of a Corneille, a Racine, or a Crebillon, yet I dare say, from your partiality, you will find pleasure in your closet, though it should not be encored on the stage.
+   </p>
+   <p>
+    You have never named me a subject, though you prohibited an American, and seemed to have no predilection in favour of British incident; therefore, notwithstanding events in the western world have outran imagination; notwithstanding the magnitude of prospect a rising empire displays, and the many tragical scenes exhibited on an island whence it derived its origin, I have recurred to an ancient story in the annals of Spain, in her last struggles for liberty, previous to the complete establishment of despotism by the family of Ferdinand.
+   </p>
+   <p>
+    The history of Charles the fifth, the tyranny of his successors, and the exertions of the Spanish Cortes, will ever be interesting to an American ear, so long as they triumph in their independence, pride themselves in the principles that instigated their patriots, and glory in the characters of their heroes, whose valour completed a revolution that will be the wonder of ages.
+   </p>
+   <p>
+    What a field for genius! What a display of capacity, both in science, in business, and in politics, does this revolution exhibit! Certainly, enough to fire the ambition, and light up every noble spark in the bosom of those who are in the morning of life.
+   </p>
+   <p>
+    The nations have now resheathed the sword; the European world is hushed in peace; America stands alone: — May she long stand, independent of every foreign power; superiour to the spirit of intrigue, or the corrupt principles of usurpation that may spring from the successful exertions of her own sons: — May their conduct never contradict the professions of the patriots who have asserted the rights of human nature; nor cause a blush to pervade the cheek of the children of the martyrs who have fallen in defence of the liberties of their country.
+   </p>
+   <p>
+    Perhaps the subject I have chosen for the machinery of a tragedy, may be more proper for an epic, than a dramatic poem; yet I hope it will be acceptable in its present garb, and that the candor of the public will be exercised, not so much for the sake of the sex, as the design of the writer, who wishes only to cultivate the sentiments of public and private virtue in whatsoever falls from her pen.
+   </p>
+   <!--I am-->
+   <!--February-->
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      DRAMATIS PERSONÆ
+     </head>
+     <head>
+      MEN.
+     </head>
+     <castItem>
+      DON VELASCO — Regent of Spain in the absence of Charles fifth.
+     </castItem>
+     <castItem>
+      CONDE HARO — Son to Velasco, Commander of the royal Army.
+     </castItem>
+     <castItem>
+      DON JUAN DE PADILLA — Commander of the Troops raised by the States of Spain.
+     </castItem>
+     <castItem>
+      DON FRANCIS — Friend to Padilla, Brother of Donna Maria, in love with Louisa.
+     </castItem>
+     <castItem>
+      DON PEDRO GHIRON — a young Nobleman in love with Louisa.
+     </castItem>
+     <castItem>
+      ZAMORA — Bishop of Toledo.
+     </castItem>
+     <castItem>
+      SOCIA — confidential Servant to Don Juan de Padilla.
+     </castItem>
+     <castItem>
+      WOMEN.
+     </castItem>
+     <castItem>
+      DONNA MARIA — Wife of Don Juan de Padilla, Sister to Don Francis.
+     </castItem>
+     <castItem>
+      DONNA LOUISA — Daughter of Don Velasco.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     ACT I.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      Near Toledo.
+     </stage>
+     <stage>
+      DON JUAN DE PADILLA and DON FRANCIS.
+     </stage>
+     <sp who="#donfrancis">
+      <speaker>
+       Don Francis.
+      </speaker>
+      <l n="1">
+       The
+       furious courser lists his
+                                        dauntless head,
+      </l>
+      <l n="2">
+       Fierce snaps the bit, and rolls his eye abroad,
+      </l>
+      <l n="3">
+       Sees death and carnage mark th' empurpled field,
+      </l>
+      <l n="4">
+       Neighs for his prey, and tramples o'er the dead.
+      </l>
+      <l n="5">
+       The happy steed may bite the blood stain'd
+                                        ground,
+      </l>
+      <l n="6">
+       Untaught by reason, sympathy or love —
+      </l>
+      <l n="7">
+       Unconscious of the pains — the ten fold pangs,
+      </l>
+      <l n="8">
+       That check the warrior in his bold career.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan de Padilla.
+      </speaker>
+      <l n="9">
+       Methinks some languor hangs about thy steps,
+      </l>
+      <l n="10">
+       Too like despair, though not alli'd to fear;
+      </l>
+      <l n="11">
+       When virtue arms, and liberty's the prize,
+      </l>
+      <l n="12">
+       No cloud should set on brave Don Francis' brow.
+      </l>
+      <l n="13">
+       The love of glory, victory and same,
+      </l>
+      <l n="14">
+       A noble sense of dignify and worth,
+      </l>
+      <l n="15">
+       Is the best birth right of Castilia's sons: —
+      </l>
+      <l n="16">
+       Inur'd to glory, and the feats of war,
+      </l>
+      <l n="17">
+       Our fathers held their freedom from the gods.
+      </l>
+      <l n="18">
+       A jealousy for freedom kept alive
+      </l>
+      <l n="19">
+       Precludes the softer passions of the mind.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Don Francis.
+      </speaker>
+      <l n="20">
+       Nurs'd in the fierce and hostile field of war,
+      </l>
+      <l n="21">
+       I, from long ancestry, may boldly claim
+      </l>
+      <l n="22">
+       That innate force and vigour of the mind
+      </l>
+      <l n="23">
+       Which mocks the sense of danger or of death;
+      </l>
+      <l n="24">
+       But yet Louisa wakes my soul to love.
+      </l>
+      <l n="25">
+       De Haro's sister has ten thousand charms;
+      </l>
+      <l n="26">
+       But ah! — the daughter of Velasco chills,
+      </l>
+      <l n="27">
+       And horror opes the gates of wild despair,
+      </l>
+      <l n="28">
+       As if the fates forbad a distant hope.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan de Padilla.
+      </speaker>
+      <l n="29">
+       Spurn these soft fetters — fly the fond
+                                        disguise,
+      </l>
+      <l n="30">
+       Ere it unnerves the vigour of thine arm —
+      </l>
+      <l n="31">
+       Let freedom be the mistress of thy heart: —
+      </l>
+      <l n="32">
+       She calls to arms, and bids us draw the sword: —
+      </l>
+      <l n="33">
+       Come, clear thy brow, and whet the pointed steel,
+      </l>
+      <l n="34">
+       To crush the foes of liberty and Spain.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Don Francis.
+      </speaker>
+      <l n="35">
+       I would suspend, but ne'er exterminate
+      </l>
+      <l n="36">
+       The noblest passion of the human soul;
+      </l>
+      <l n="37">
+       That softens the ferocious brest of man,
+      </l>
+      <l n="38">
+       And checks the ruder billows of the mind.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan de Padilla.
+      </speaker>
+      <l n="39">
+       Not like the lover, but the hero talk —
+      </l>
+      <l n="40">
+       The sword must rescue, or the nation sink,
+      </l>
+      <l n="41">
+       And self degraded, wear the badge of slaves.
+      </l>
+      <l n="42">
+       We boast a cause of glory and renown;
+      </l>
+      <l n="43">
+       We arm to purchase the sublimest gift
+      </l>
+      <l n="44">
+       The mind of man is capable to taste.
+      </l>
+      <l n="45">
+       'Tis not a factious, or a sickle rout,
+      </l>
+      <l n="46">
+       That calls their kindred out to private war,
+      </l>
+      <l n="47">
+       With hearts envenom'd by a thirst of blood —
+      </l>
+      <l n="48">
+       Nor burns ambition, rancour, or revenge,
+      </l>
+      <l n="49">
+       As in the bosom of some lordly chief
+      </l>
+      <l n="50">
+       Who throws his gauntlet at his sov'reign's foot,
+      </l>
+      <l n="51">
+       And bids defiance in his wanton rage: —
+      </l>
+      <l n="52">
+       'Tis freedom's genius, nurs'd from age to age,
+      </l>
+      <l n="53">
+       Matur'd in schools of liberty and law,
+      </l>
+      <l n="54">
+       On virtue's page from fire to son convey'd,
+      </l>
+      <l n="55">
+       E'er since the savage, fierce, barbarian hords,
+      </l>
+      <l n="56">
+       Pour'd in, and chas'd beyond Narvasia's mount,
+      </l>
+      <l n="57">
+       The hardy chiefs who govern'd ancient Spain.
+      </l>
+      <l n="58">
+       Our independent ancestors disdain'd
+      </l>
+      <l n="59">
+       All servile homage to despotick lords.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Don Francis.
+      </speaker>
+      <l n="60">
+       I own my weakness — yet forgive my love;
+      </l>
+      <l n="61">
+       My life and honour sacredly I plight,
+      </l>
+      <l n="62">
+       To aid a brave and veteran band of chiefs,
+      </l>
+      <l n="63">
+       Whose fathers fearless, dip'd the glittering
+                                        sword,
+      </l>
+      <l n="64">
+       Whet with revenge, in tides of Moorish blood,
+      </l>
+      <l n="65">
+       To save their sons from servitude and chains.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan de Padilla.
+      </speaker>
+      <l n="66">
+       But we have not a moment's time to lose.
+      </l>
+      <l n="67">
+       The pageant mounted on his gilded car,
+      </l>
+      <l n="68">
+       Sweeps all the fickle multitude along:
+      </l>
+      <l n="69">
+       Inaction or delay will ruin all,
+      </l>
+      <l n="70">
+       And place the fav'rite nurs'd in fortune's lap,
+      </l>
+      <l n="71">
+       Beyond the reach of aught but heaven itself,
+      </l>
+      <l n="72">
+       To teach him what from man to man is due.
+      </l>
+      <l n="73">
+       A battle ere tomorrow's sun retires
+      </l>
+      <l n="74">
+       Shall shew the world our pedigree and fame;
+      </l>
+      <l n="75">
+       The Celtiberian race shall ne'er be slaves,
+      </l>
+      <l n="76">
+       Nor blush to own Don Juan for their son.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      Place of Velasco.
+     </stage>
+     <stage>
+      Enter DON VELASCO and CONDE HARO.
+     </stage>
+     <sp who="#donvelasco">
+      <speaker>
+       Don Velasco.
+      </speaker>
+      <l n="1">
+       The
+       brighten'd dawn lifts up its
+                                        cheerful face;
+      </l>
+      <l n="2">
+       The sun beams play to lighten thee to fame;
+      </l>
+      <l n="3">
+       hill tops smile, and each propitious gale,
+      </l>
+      <l n="4">
+       Wafts victory onward, with expanded wing,
+      </l>
+      <l n="5">
+       To crown the glory of Velasco's house.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       Conde Haro.
+      </speaker>
+      <l n="6">
+       Unhappy Spain, by civil factions torn,
+      </l>
+      <l n="7">
+       Assaulting friends, while foreigners invade.
+      </l>
+      <l n="8">
+       Her burning cities, and her reeking sons,
+      </l>
+      <l n="9">
+       Are drench'd in blood, our valour should protect;
+      </l>
+      <l n="10">
+       While fierce disunion scowls on every brow,
+      </l>
+      <l n="11">
+       And rancour whets the sword against ourselves,
+      </l>
+      <l n="12">
+       The Turkish banners spread the German plains,
+      </l>
+      <l n="13">
+       And France, resolv'd to humble Charles's pride,
+      </l>
+      <l n="14">
+       Unites the crescent with the sacred cross.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Don Velasco.
+      </speaker>
+      <l n="15">
+       Francis indeed may triumph at our gates,
+      </l>
+      <l n="16">
+       Unless Don Juan, and the restless Cortes,
+      </l>
+      <l n="17">
+       Are soon subdu'd, and peace restor'd to Spain.
+      </l>
+      <l n="18">
+       One glorious conflict, one successful day,
+      </l>
+      <l n="19">
+       Will shew the world the heir of Ferdinand
+      </l>
+      <l n="20">
+       For empire born, in spite of all his foes.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       Conde Haro.
+      </speaker>
+      <l n="21">
+       The sword is drawn, and down the gulph of time,
+      </l>
+      <l n="22">
+       Perhaps, its useless scabbard may be toss'd,
+      </l>
+      <l n="23">
+       'Till years roll on, and revolution's wheel
+      </l>
+      <l n="24">
+       Whirls nations down, and empire sweeps away,
+      </l>
+      <l n="25">
+       Ere peace benignant smiles on hapless Spain.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Don Velasco.
+      </speaker>
+      <l n="26">
+       Then lose no time to crush this rebel race.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       Conde Haro.
+      </speaker>
+      <l n="27">
+       The noblest blood that ancient Spain can boast,
+      </l>
+      <l n="28">
+       Thrills through their veins, and warms their gallant
+                                        chiefs
+      </l>
+      <l n="29">
+       With great ideas of liberty and law.
+      </l>
+      <l n="30">
+       They claim the rights their ancient fires
+                                        possess'd,
+      </l>
+      <l n="31">
+       When, ere allegiance sworn, or fealty paid,
+      </l>
+      <l n="32">
+       They bade the sov'reign recollect the claim,
+      </l>
+      <l n="33">
+       That each, as good by nature as himself,
+      </l>
+      <l n="34">
+       Were, when united, arm'd with power replete,
+      </l>
+      <l n="35">
+       To smite the brow, and dath the scepter'd hand
+      </l>
+      <l n="36">
+       That dare invade the meanest subject's right.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Don Velasco.
+      </speaker>
+      <l n="37">
+       'Tis but a faction of cabal an strife,
+      </l>
+      <l n="38">
+       Bound by no ties of dignity or worth;
+      </l>
+      <l n="39">
+       Devoid of honour, discipline, or faith;
+      </l>
+      <l n="40">
+       Discord will waste, and jealousy divide,
+      </l>
+      <l n="41">
+       And drive them backward from the routed field,
+      </l>
+      <l n="42">
+       Dispers'd by thee, as dust before the wind.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       Conde Haro.
+      </speaker>
+      <l n="43">
+       Inur'd to arms, my foul's estrang'd to fear;
+      </l>
+      <l n="44">
+       Yet I lament my fate; — my fire and prince,
+      </l>
+      <l n="45">
+       Point me to glory, combating my will,
+      </l>
+      <l n="46">
+       And make my duty lead to deeds I hate.
+      </l>
+      <l n="47">
+       This contest is no democratic rage,
+      </l>
+      <l n="48">
+       No lewd tumultuous fury just let loose —
+      </l>
+      <l n="49">
+       Dauntless and bold as fam'd Numantia's sons,
+      </l>
+      <l n="50">
+       They wield the lance and bear the target high,
+      </l>
+      <l n="51">
+       And boast their ancient independent race;
+      </l>
+      <l n="52">
+       Unfold their pedigree, in freedom's line,
+      </l>
+      <l n="53">
+       E'er since for liberty, the haughty Celts
+      </l>
+      <l n="54">
+       In blood contested with the furious Goths.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Don Velasco.
+      </speaker>
+      <l n="55">
+       Methinks some latent cause beclouds thy zeal
+      </l>
+      <l n="56">
+       And checks the vigour of thy val'rous arm,
+      </l>
+      <l n="57">
+       Retards thy glory, and may blast thy fame.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       Conde Haro.
+      </speaker>
+      <l n="58">
+       Not less resolv'd, or fearless than thyself,
+      </l>
+      <l n="59">
+       No tongue shall e'er reproach thy house or name
+      </l>
+      <l n="60">
+       With glory tarnish'd, by De Haro's fall
+      </l>
+      <l n="61">
+       From valour, virtue, dignity, or fame,
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Don Velasco.
+      </speaker>
+      <l n="62">
+       Then haste, and chase these miscreants from the land
+                                        —
+      </l>
+      <l n="63">
+       Cut down their line, and blast their idle hopes,
+      </l>
+      <l n="64">
+       And extirpate the bold seditious race.
+      </l>
+      <l n="65">
+       Their houses wrap in one devouring flame —
+      </l>
+      <l n="66">
+       The sword shall quell all factions in the land.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       Conde Haro.
+      </speaker>
+      <l n="67">
+       When virtue's vanquish'd, justice bids us spare,
+      </l>
+      <l n="68">
+       And lend compassion to an hapless foe.
+      </l>
+      <l n="69">
+       I ne'er will tinge the field with human blood,
+      </l>
+      <l n="70">
+       If milder means can bloodless victory win.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Don Velasco.
+      </speaker>
+      <l n="71">
+       Adieu, my son — my soul is all on fire.
+      </l>
+      <l n="72">
+       Proud glory waits to make thy name immortal,
+      </l>
+      <l n="73">
+       By promis'd triumphs ere the morrow close.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="74">
+       Urg'd on by thee, by glory and renown,
+      </l>
+      <l n="75">
+       I'll serve my sov'reign as a soldier ought,
+      </l>
+      <l n="76">
+       And take the field against my former friends,
+      </l>
+      <l n="77">
+       But in the hero ne'er forget the man.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      DON JUAN DE PADILLA and DON PEDRO.
+     </stage>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="1">
+       The
+       kingdoms of great Ferdinand
+                                        are left,
+      </l>
+      <l n="2">
+       To hunt for crowns in Germany and France,
+      </l>
+      <l n="3">
+       While here Velasco plunders all the states.
+      </l>
+      <l n="4">
+       Our delegates have yesterday return'd,
+      </l>
+      <l n="5">
+       Without an audience at the sov'reign's court;
+      </l>
+      <l n="6">
+       Stop'd on the way — forbid on pain of death,
+      </l>
+      <l n="7">
+       With their complaints — their idle tales of wrong —
+      </l>
+      <l n="8">
+       T' invade the regal dignity of thrones,
+      </l>
+      <l n="9">
+       Or whisper murmurs in a monarch's ear.
+      </l>
+      <l n="10">
+       Resentment, and a noble thirst of fame,
+      </l>
+      <l n="11">
+       Must rouse the bold, reanimate the brave,
+      </l>
+      <l n="12">
+       And brace the arm with vigour to repel
+      </l>
+      <l n="13">
+       These bold invasions on great nature's rights.
+      </l>
+     </sp>
+     <sp who="#donpedroghiron">
+      <speaker>
+       Pedro.
+      </speaker>
+      <l n="14">
+       Has then the band of Dutch and Flemish race,
+      </l>
+      <l n="15">
+       Who hover round, clos'd up the monarch's ear,
+      </l>
+      <l n="16">
+       And steel'd his heart against the cries of Spain?
+      </l>
+      <l n="17">
+       Ambition low' ring on a lordly brow
+      </l>
+      <l n="18">
+       May yet subdue the citizens of Spain.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="19">
+       Valencia arm'd, and Arragon arous'd,
+      </l>
+      <l n="20">
+       Hold theirs and Castile's righteous cause the
+                                        same.
+      </l>
+      <l n="21">
+       The trump of war is echo'd through the land,
+      </l>
+      <l n="22">
+       Wrought up to tempests by the cruel arm
+      </l>
+      <l n="23">
+       Of base oppression, breaking o'er the mounds
+      </l>
+      <l n="24">
+       Of law — of justice — equity and truth.
+      </l>
+      <l n="25">
+       Is thy mind firm — irrevocably fix'd,
+      </l>
+      <l n="26">
+       Or, to secure the sacred rights of Spain,
+      </l>
+      <l n="27">
+       Or die a martyr in her glorious cause.
+      </l>
+     </sp>
+     <sp who="#donpedroghiron">
+      <speaker>
+       Pedro.
+      </speaker>
+      <l n="28">
+       The storm beats high — yet, will I hazard all,
+      </l>
+      <l n="29">
+       My honour, fortune, freedom and my fame: —
+      </l>
+      <l n="30">
+       I, by thy side, all danger will defy.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="31">
+       Then reconnoitre round De Haro's posts;
+      </l>
+      <l n="32">
+       The noble house of Albert's overcome,
+      </l>
+      <l n="33">
+       Navarre's subdu'd — dismantled all her towns —
+      </l>
+      <l n="34">
+       Peasants and nobles, citizens and slaves,
+      </l>
+      <l n="35">
+       Promiscuously enroll'd in Charles's pay,
+      </l>
+      <l n="36">
+       Sullen and fierce, disdain th' ignoble service:
+      </l>
+      <l n="37">
+       Ripe for revolt, they, at my signal join,
+      </l>
+      <l n="38">
+       And list themselves in a more noble cause:
+      </l>
+      <l n="39">
+       Prepare their leaders for tomorrow's work.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IV.
+     </head>
+     <stage>
+      DON JUAN DE PADILLA and DON FRANCIS.
+     </stage>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="1">
+       Hast
+       thou yet seen th' unhappy
+                                        queen of Spain?
+      </l>
+      <l n="2">
+       The vulgar ear, forever caught by sound,
+      </l>
+      <l n="3">
+       Allur'd by pomp, by pageantry and show,
+      </l>
+      <l n="4">
+       Revere her person and adore her name;
+      </l>
+      <l n="5">
+       Her standard planted on the field of war,
+      </l>
+      <l n="6">
+       Would sanction give to every bold design.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="7">
+       I have beheld the ruins of a queen,
+      </l>
+      <l n="8">
+       A sight too piteous for a soldier's eye —
+      </l>
+      <l n="9">
+       Whose heart, unsteel'd by scenes of human woe,
+      </l>
+      <l n="10">
+       Has yet a tender corner left for grief.
+      </l>
+      <l n="11">
+       Rob'd of her crown, authority and peace —
+      </l>
+      <l n="12">
+       Dethron'd, immur'd, neglected by her son,
+      </l>
+      <l n="13">
+       Shut up in widow'd solitude to weep
+      </l>
+      <l n="14">
+       Ungrateful Philip, who despis'd her charms,
+      </l>
+      <l n="15">
+       She's but the weeping image of despair.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="16">
+       Does she yet know the miseries of Spain?
+      </l>
+      <l n="17">
+       The indignant wrongs and injuries we feel,
+      </l>
+      <l n="18">
+       Beneath the reign of her oppressive son? —
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="19">
+       She, all attentive, listen'd to the tale;
+      </l>
+      <l n="20">
+       And rous'd at once as from lethargic dreams,
+      </l>
+      <l n="21">
+       And starting, cry'd — is Ferdinand no more! —
+      </l>
+      <l n="22">
+       Is that great monarch slumbering in the tomb,
+      </l>
+      <l n="23">
+       While I, a wretched prisoner of state,
+      </l>
+      <l n="24">
+       Stand the sad monument of human ills? —
+      </l>
+      <l n="25">
+       She wept and sigh'd, till strong resentment rose,
+      </l>
+      <l n="26">
+       And kindled in her breast a noble flame.
+      </l>
+      <l n="27">
+       With all the powers of eloquence and truth,
+      </l>
+      <l n="28">
+       I strove to sooth her wandering mind to rest.
+      </l>
+      <l n="29">
+       In justice' sacred name I urg'd her aid
+      </l>
+      <l n="30">
+       To counteract the cruelties of Charles,
+      </l>
+      <l n="31">
+       To reassume her rights, and reign again,
+      </l>
+      <l n="32">
+       To extricate her subjects from despair; —
+      </l>
+      <l n="33">
+       She gave assent with dignity and ease,
+      </l>
+      <l n="34">
+       And, spite of nature, seem'd to be a queen.
+      </l>
+      <l n="35">
+       I nam'd Calabria's injur'd noble prince,
+      </l>
+      <l n="36">
+       The heir of Arragon, long since depriv'd
+      </l>
+      <l n="37">
+       Of his paternal crown, and princely rights,
+      </l>
+      <l n="38">
+       Which Ferdinand, by violence, had seiz'd,
+      </l>
+      <l n="39">
+       And justice bade his daughter to restore;
+      </l>
+      <l n="40">
+       I urg'd her marriage with so brave a prince,
+      </l>
+      <l n="41">
+       Entitled, both by virtue and by blood,
+      </l>
+      <l n="42">
+       To wield the sceptre that his fathers won,
+      </l>
+      <l n="43">
+       And shield her person from all future wrongs;
+      </l>
+      <l n="44">
+       But naming love, her dormant passions wak'd,
+      </l>
+      <l n="45">
+       And kindled up her former flame for Philip;
+      </l>
+      <l n="46">
+       She sunk despondent, and refus'd to aid,
+      </l>
+      <l n="47">
+       To act in council, or to guide the realm.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="48">
+       Unhappy queen! thus to her people lost.
+      </l>
+      <l n="49">
+       In melancholy's cell, let her remain,
+      </l>
+      <l n="50">
+       While her son raves at large about the world,
+      </l>
+      <l n="51">
+       Not less a madman than the Macedon,
+      </l>
+      <l n="52">
+       Who kindled up the Grecian world in flame,
+      </l>
+      <l n="53">
+       And rear'd a pile o'er all his murder'd friends.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="54">
+       She, rescu'd from her guards, my prisoner is,
+      </l>
+      <l n="55">
+       And, if we need, her signet is obtain'd.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="56">
+       But malice whispers murmurs through the camp,
+      </l>
+      <l n="57">
+       And half our soldiers clamour for their pay —
+      </l>
+      <l n="58">
+       At least a part, before they take the field.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="59">
+       Haste to Maria, whose undaunted soul
+      </l>
+      <l n="60">
+       Reflects a lustre on her feeble sex;
+      </l>
+      <l n="61">
+       By stratagem, she's gain'd an ample sum
+      </l>
+      <l n="62">
+       To quiet mutiny, and pay the troops.
+      </l>
+      <l n="63">
+       But ere the solemn midnight clock shall strike,
+      </l>
+      <l n="64">
+       Return, and meet me at the gate of Toro.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE V.
+     </head>
+     <stage>
+      DON FRANCIS and DONNA MARIA.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="1">
+       To
+       make atonement for the guilt
+                                        of men,
+      </l>
+      <l n="2">
+       Altars are dress'd, and saintly relies shine: —
+      </l>
+      <l n="3">
+       Instead of real sanctity of heart
+      </l>
+      <l n="4">
+       They churches decorate with costly gifts: —
+      </l>
+      <l n="5">
+       But reason, bursting from a fable cloud,
+      </l>
+      <l n="6">
+       On a bright throne erects her regal stand,
+      </l>
+      <l n="7">
+       And gives new sanctions from the voice of God,
+      </l>
+      <l n="8">
+       To free the mind from superstition's reign.
+      </l>
+      <l n="9">
+       No fables, legends, dreams, or monkish tales,
+      </l>
+      <l n="10">
+       Shake my firm purpose, or disarm my mind,
+      </l>
+      <l n="11">
+       When duty calls to make my country free.
+      </l>
+      <l n="12">
+       The churches' treasures were our last resort,
+      </l>
+      <l n="13">
+       And, join'd by all the matrons of my train,
+      </l>
+      <l n="14">
+       In weeds of woe, and fable garments dress'd,
+      </l>
+      <l n="15">
+       I kneel'd before the consecrated shrines,
+      </l>
+      <l n="16">
+       And ask'd a blessing on my country's cause;
+      </l>
+      <l n="17">
+       But 'twas to him whose sanction seals the claim,
+      </l>
+      <l n="18">
+       Of peace and freedom to the human race,
+      </l>
+      <l n="19">
+       I bow'd my soul, and rais'd my suppliant prayer,
+      </l>
+      <l n="20">
+       That when a spark from chaos' womb had burst,
+      </l>
+      <l n="21">
+       And light diffus'd o'er all the western world,
+      </l>
+      <l n="22">
+       It might not be to gild a tyrant's car,
+      </l>
+      <l n="23">
+       And make mankind the pageants of his will;
+      </l>
+      <l n="24">
+       I then dismantled all the sacred shrines.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="25">
+       Hah! — durst thou venture on so bold a deed! —
+      </l>
+      <l n="26">
+       Leap priestly bounds — invade the churches' rights —
+      </l>
+      <l n="27">
+       Disrobe the faints, and risque the public hate! —
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="28">
+       Necessity must sanctify the deed. —
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="29">
+       Thy soul was form'd to animate the arm
+      </l>
+      <l n="30">
+       Of some illustrious, bold, heroic chief,
+      </l>
+      <l n="31">
+       And not to waste its glorious fire away,
+      </l>
+      <l n="32">
+       Beneath the weakness of a female form.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="33">
+       Men rail at weaknesses themselves create,
+      </l>
+      <l n="34">
+       And boldly stigmatize the female mind,
+      </l>
+      <l n="35">
+       As though kind nature's just impartial hand
+      </l>
+      <l n="36">
+       Had form'd its features in a baser mould:
+      </l>
+      <l n="37">
+       But nice distinctions in the human soul,
+      </l>
+      <l n="38">
+       Adopted follies, or inherent vice,
+      </l>
+      <l n="39">
+       May be discuss'd in calmer times than these: —
+      </l>
+      <l n="40">
+       We'll reason then — if possible regain
+      </l>
+      <l n="41">
+       Whatever nature, or its author gave.
+      </l>
+      <l n="42">
+       But Juan waits, and fortune's on the wing:
+      </l>
+      <l n="43">
+       The fickle goddess waves her glossy plume,
+      </l>
+      <l n="44">
+       And holds an era in the life of man,
+      </l>
+      <l n="45">
+       When all is hung suspended on his choice;
+      </l>
+      <l n="46">
+       Election made, judiciously he stands
+      </l>
+      <l n="47">
+       On the proud summit of all human fame;
+      </l>
+      <l n="48">
+       But judgment once erroneously form'd
+      </l>
+      <l n="49">
+       Oft fixes his ill fate through life's career;
+      </l>
+      <l n="50">
+       While a strong current bears him down the tide,
+      </l>
+      <l n="51">
+       And wrecks his peace on every ripling stream.
+      </l>
+      <l n="52">
+       The morn may smile propitious on our cause —
+      </l>
+      <l n="53">
+       May make us free, or more completely slaves; —
+      </l>
+      <l n="54">
+       Unrive the manacles, or drive the bolts,
+      </l>
+      <l n="55">
+       And clank the shackles round the Spanish world.
+      </l>
+      <l n="56">
+       Canst thou forget the soft Louisa's tears,
+      </l>
+      <l n="57">
+       And chase her brother through the field of blood?
+      </l>
+      <l n="58">
+       Thou, like a lion leaping on his prey,
+      </l>
+      <l n="59">
+       Must aim thy javelin at De Haro's heart.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="60">
+       Name not Louisa — I would forget she lives —
+      </l>
+      <l n="61">
+       Or that she is the sister of my foe.
+      </l>
+      <l n="62">
+       Mistaken man! — he deprecates this war
+      </l>
+      <l n="63">
+       That lights his country in a wasting flame;
+      </l>
+      <l n="64">
+       But thinks the era of her freedom lost,
+      </l>
+      <l n="65">
+       Since first Ximenes' artful subtile wiles,
+      </l>
+      <l n="66">
+       Threw such a weight in the despotic scale;
+      </l>
+      <l n="67">
+       A standing army at the sov'reign's nod,
+      </l>
+      <l n="68">
+       Which makes the monarch master of the laws,
+      </l>
+      <l n="69">
+       And gives at will both liberty and life.
+      </l>
+      <l n="70">
+       Yet Conde Haro has a noble soul,
+      </l>
+      <l n="71">
+       Nor is less virtuous than truly brave.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="72">
+       Virtue must spring from the maternal line
+      </l>
+      <l n="73">
+       If it adorns the Conde Haro's breast.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="74">
+       Tomorrow proves him what the world reports,
+      </l>
+      <l n="75">
+       And weaves a garland to adorn his brow,
+      </l>
+      <l n="76">
+       Or leaves his trunk a headless sacrifice,
+      </l>
+      <l n="77">
+       To stamp fresh glory on Don Juan's name.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="78">
+       Go, hasten on, and not a moment lose;
+      </l>
+      <l n="79">
+       Remind the soldiers of Segovia's rights —
+      </l>
+      <l n="80">
+       Review the battles fought on Ebro's banks —
+      </l>
+      <l n="81">
+       Assure them all is safe, if they're but brave.
+      </l>
+      <l n="82">
+       The sword maintains what their forefathers won.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT II.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <sp who="#donnalouisa">
+      <speaker>
+       DONNA LOUISA,
+      </speaker>
+      <stage>
+       An Alcove in an artificial Wilderness. — sola.
+      </stage>
+      <l n="1">
+       The
+       burnish'd hills o'erlook the
+                                        verdant dales,
+      </l>
+      <l n="2">
+       And nature's deck'd in all her bright array.
+      </l>
+      <l n="3">
+       The whispering breeze plays o'er the dappled mead,
+      </l>
+      <l n="4">
+       And fans the foliage on the flowery bank: —
+      </l>
+      <l n="5">
+       The towering wood lark trills her tender note,
+      </l>
+      <l n="6">
+       And soft responsive music cheers the lawn;
+      </l>
+      <l n="7">
+       Yet here I wander wilder'd and alone,
+      </l>
+      <l n="8">
+       Like some poor banish'd fugitive who seeks
+      </l>
+      <l n="9">
+       The meagre comfort of a moss grown cave.
+      </l>
+     </sp>
+     <stage>
+      Enter DONNA MARIA.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="10">
+       Awake fond maid — nor thus supinely waste
+      </l>
+      <l n="11">
+       Thy youth — thy bloom. Thy matchless beauty fades
+      </l>
+      <l n="12">
+       Mid'st sorrow, sighs, and unavailing tears.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="13">
+       Thought feeds my woes, nor can my reason aid
+      </l>
+      <l n="14">
+       To calm the passions of my grief torn breast,
+      </l>
+      <l n="15">
+       'Till concord weaves again her palmy wreath,
+      </l>
+      <l n="16">
+       To deck the face of this distracted land.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="17">
+       Though weak compassion sinks the female mind,
+      </l>
+      <l n="18">
+       And our frail sex dissolve in pity's tears;
+      </l>
+      <l n="19">
+       Yet justice' sword can never be resheath'd,
+      </l>
+      <l n="20">
+       'Till Charles is taught to know we will be free;
+      </l>
+      <l n="21">
+       And learns the duty that a monarch owes,
+      </l>
+      <l n="22">
+       To heaven — the people — and the rights of man.
+      </l>
+      <l n="23">
+       Let him restore the liberties of Spain —
+      </l>
+      <l n="24">
+       Dismiss the robbers that arrest his ear —
+      </l>
+      <l n="25">
+       Those pension'd plunderers that rudely seize
+      </l>
+      <l n="26">
+       What nature gave, and what our fathers won.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="27">
+       I retrospect, and weep Spain's happier days —
+      </l>
+      <l n="28">
+       Survey the pleasures once we call'd our own,
+      </l>
+      <l n="29">
+       When harmony display'd her gentle wand,
+      </l>
+      <l n="30">
+       And every peasant smil'd beneath his vine —
+      </l>
+      <l n="31">
+       'Till nature sickens at the sad reverse,
+      </l>
+      <l n="32">
+       And my swoln bosom heaves with smother'd sighs,
+      </l>
+      <l n="33">
+       Too big to be repress'd. — I yield to grief
+      </l>
+      <l n="34">
+       'Till floods of tears relieve my tortur'd soul.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="35">
+       Maria has a bolder part to act —
+      </l>
+      <l n="36">
+       I scorn to live upon ignoble terms —
+      </l>
+      <l n="37">
+       A supple courtier fawning at the feet
+      </l>
+      <l n="38">
+       Of proud despotic nobles, or of kings.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="39">
+       Had I thy firmness, yet my heart would bleed
+      </l>
+      <l n="40">
+       To see my country torn by civil feuds.
+      </l>
+      <l n="41">
+       Each hero hurls a javelin at the breast
+      </l>
+      <l n="42">
+       His heart reveres, and friendship's soul recoils
+      </l>
+      <l n="43">
+       When the bold veteran urges home the blow,
+      </l>
+      <l n="44">
+       To pierce the man he venerates and loves;
+      </l>
+      <l n="45">
+       While the brave patriot parries back the shaft
+      </l>
+      <l n="46">
+       Against a life that virtue's self would save.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="47">
+       This sad necessity — this painful strife,
+      </l>
+      <l n="48">
+       Should reunite the citizens of Spain;
+      </l>
+      <l n="49">
+       And rouse each languid arm with tenfold zeal
+      </l>
+      <l n="50">
+       To point the thunder at a tyrant's head,
+      </l>
+      <l n="51">
+       Ere yet the lingering mind indignant sinks,
+      </l>
+      <l n="52">
+       Debas'd and trembling at a despot's frown.
+      </l>
+      <l n="53">
+       Rather let cities that support his reign,
+      </l>
+      <l n="54">
+       Like Torbolatan yesterday reduc'd,
+      </l>
+      <l n="55">
+       Be storm'd and sack'd before tomorrow's dawn;
+      </l>
+      <l n="56">
+       And thus be taught the weakness of the mind
+      </l>
+      <l n="57">
+       That dare a moment balance in the scale,
+      </l>
+      <l n="58">
+       A crown for kings — with liberty to man.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="59">
+       But ah, Maria! — this little self obtrudes;
+      </l>
+      <l n="60">
+       I cannot boast disinterested grief;
+      </l>
+      <l n="61">
+       Louisa's tears can never cease to flow.
+      </l>
+      <l n="62">
+       If brave Don Juan wins a glorious day,
+      </l>
+      <l n="63">
+       My father — friends — and family are lost;
+      </l>
+      <l n="64">
+       If victory for loyalty declares —
+      </l>
+      <l n="65">
+       Or if Don Francis — noble Francis, falls —
+      </l>
+      <l n="66">
+       Is there a name from Castile to the Rhone,
+      </l>
+      <l n="67">
+       So wretched as thy friend — thy lov'd Louisa?
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="68">
+       Thou should'st have liv'd in mild and gentler
+                                        times,
+      </l>
+      <l n="69">
+       And breath'd, and slumber'd in the lap of peace,
+      </l>
+      <l n="70">
+       As innocent and soft as infant love,
+      </l>
+      <l n="71">
+       When lull'd to rest by a fond mother's song:
+      </l>
+      <l n="72">
+       The smiling babe, wak'd by the wind's rude
+                                        breath,
+      </l>
+      <l n="73">
+       The pearly dew drop trickles from its eye,
+      </l>
+      <l n="74">
+       'Till sooth'd to quiet by its favourite toy;
+      </l>
+      <l n="75">
+       But for myself — though famine, chains, and death
+      </l>
+      <l n="76">
+       Should all combine — nay, should Don Juan fall —
+      </l>
+      <l n="77">
+       Which Heav'n forbid — I ne'er will yield,
+      </l>
+      <l n="78">
+       Nor own myself a slave. — But see thy lover,
+      </l>
+      <l n="79">
+       Pensive, walks this way. — Adieu, my friend,
+      </l>
+      <l n="80">
+       I must be gone — the busy moments call —
+      </l>
+      <l n="81">
+       My mind is fraught with cares of high import.
+      </l>
+     </sp>
+     <stage>
+      Exit.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      Enter DON FRANCIS and DONNA LOUISA.
+     </stage>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="1">
+       Let
+       hope return and spread her
+                                        silken wing,
+      </l>
+      <l n="2">
+       And smile beneath the canopy of love;
+      </l>
+      <l n="3">
+       The heav'n born mind, where virtue sits enthron'd,
+      </l>
+      <l n="4">
+       Should be serene, nor waste itself in sighs.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="5">
+       Talk not of love, while sympathetic pain,
+      </l>
+      <l n="6">
+       And keenest sorrows, rive the boldest heart;
+      </l>
+      <l n="7">
+       While thousands fall at freedom's sacred shrine,
+      </l>
+      <l n="8">
+       And bathe her pedestal with the rich blood
+      </l>
+      <l n="9">
+       Of the best soldiers that the world can boast;
+      </l>
+      <l n="10">
+       While the fond wife droops o'er her dying lord,
+      </l>
+      <l n="11">
+       And orphan'd babes, and widow'd matrons weep,
+      </l>
+      <l n="12">
+       Thrown helpless, on a cold, ungrateful world,
+      </l>
+      <l n="13">
+       As pitiless as winter's frozen hand.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="14">
+       For human woes my heart has often bled —
+      </l>
+      <l n="15">
+       Yet dry thy tears, and calm thy ruffled mind —
+      </l>
+      <l n="16">
+       Anticipate my bliss, and bid me live: —
+      </l>
+      <l n="17">
+       Oh! give thy hand, and plight thy sacred vow,
+      </l>
+      <l n="18">
+       Ere war's hoarse clarion summons to the field,
+      </l>
+      <l n="19">
+       That nought but death shall tear thee from my
+                                        arms.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="20">
+       Why wilt thou urge and importune my vows
+      </l>
+      <l n="21">
+       While all my soul is agony and grief? —
+      </l>
+      <l n="22">
+       Name love no more, till peace shall bless the
+                                        land;
+      </l>
+      <l n="23">
+       When redden'd wrath no longer lifts the sword,
+      </l>
+      <l n="24">
+       Dip'd to the hilt in rancour's baneful stream —
+      </l>
+      <l n="25">
+       That the steel'd heart may deeper plunge the
+                                        blade,
+      </l>
+      <l n="26">
+       Without a sigh — when from the gaping wound,
+      </l>
+      <l n="27">
+       Out rushes, staring, the astonish'd soul
+      </l>
+      <l n="28">
+       Of his lov'd friend, or of a brother slain.
+      </l>
+      <l n="29">
+       Ah! — whither do I rove — let me retire,
+      </l>
+      <l n="30">
+       Left I betray the weakness of my heart.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="31">
+       O might I claim that tender trickling tear,
+      </l>
+      <l n="32">
+       And call those sighs my own — they'd waft me on
+      </l>
+      <l n="33">
+       Towards the field of fame, with fresh blown hope,
+      </l>
+      <l n="34">
+       That ere tomorrow's sun engulphs his brow,
+      </l>
+      <l n="35">
+       And cools his steeds beyond the western main,
+      </l>
+      <l n="36">
+       I might return victorious to thine arms,
+      </l>
+      <l n="37">
+       And lay my trophies at Louisa's feet.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="38">
+       And what these trophies — but a brother's
+                                        spoils?
+      </l>
+      <l n="39">
+       Who is the victim thy success would doom
+      </l>
+      <l n="40">
+       To infamy — disgrace — despair and death?
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="41">
+       Ah! there's the pain — the sharpest pang I feel
+      </l>
+      <l n="42">
+       To lift the sword, and tread the hostile ground.
+      </l>
+      <l n="43">
+       The Conde Haro is a virtuous foe.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="44">
+       The Conde Haro — is — Louisa's brother —
+      </l>
+      <l n="45">
+       The only heir of Don Velasco's house —
+      </l>
+      <l n="46">
+       And if he falls — fate severs us forever.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="47">
+       Forever! — revoke the sentence ere it reaches
+                                        heaven.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="48">
+       Forever. Remember this, and spare De Haro's
+                                        blood.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="49">
+       But, if in battle he should bravely fall —
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="50">
+       A stern, enrag'd, inexorable fire,
+      </l>
+      <l n="51">
+       Might hold Louisa guilty of his death.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="52">
+       Just Heaven forbld! — Could he arraign a mind
+      </l>
+      <l n="53">
+       As pure and spotless as the infant morn?
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="54">
+       Velasco is to royalty alli'd,
+      </l>
+      <l n="55">
+       A feudal lord, of ancient pedigree;
+      </l>
+      <l n="56">
+       In rank, in wealth, in fame, the first in Spain;
+      </l>
+      <l n="57">
+       His high swoln pride bursts forth in peals of
+                                        rage,
+      </l>
+      <l n="58">
+       Whene'er he talks or names the rebel chiefs;
+      </l>
+      <l n="59">
+       Forbids his son to spare a single life,
+      </l>
+      <l n="60">
+       If fortune makes him master of the field: —
+      </l>
+      <l n="61">
+       Think then what agonies pervade my breast.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="62">
+       When honour calls, and justice wields the sword,
+      </l>
+      <l n="63">
+       True virtue spares, and clemency forgives;
+      </l>
+      <l n="64">
+       But when a fierce, tyrannic lust of sway,
+      </l>
+      <l n="65">
+       Deforms the soul, and blots out nature's stamp,
+      </l>
+      <l n="66">
+       The wolf, or tyger, prowling for his prey,
+      </l>
+      <l n="67">
+       Is less a savage than the monster man.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="68">
+       No more, my lord — I sink beneath the storm;
+      </l>
+      <l n="69">
+       The jarring passions tear my feeble frame —
+      </l>
+      <l n="70">
+       My filial duties make the first demand;
+      </l>
+      <l n="71">
+       Yet, spite of these, a group of passions rise,
+      </l>
+      <l n="72">
+       Love — friendship — fear — compassion and
+                                        despair,
+      </l>
+      <l n="73">
+       Alternate rend, in spite of reason's sway.
+      </l>
+      <l n="74">
+       Amidst the storm, the kind De Haro comes,
+      </l>
+      <l n="75">
+       And with a smile, ineffably serene,
+      </l>
+      <l n="76">
+       With all the softness of fraternal love,
+      </l>
+      <l n="77">
+       He cries — forbear to think of me again,
+      </l>
+      <l n="78">
+       Or that thy brother hazards fame or life,
+      </l>
+      <l n="79">
+       Against the valour of a dearer name.
+      </l>
+      <l n="80">
+       Alas! — how weak my trembling heart's become —
+      </l>
+      <l n="81">
+       Oh! — what has my unguarded tongue disclos'd!
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="82">
+       What makes me bless'd beyond the power of fate.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="83">
+       Deception oft beneath a flimsy veil,
+      </l>
+      <l n="84">
+       Hides human hearts, nor lets man know himself.
+      </l>
+      <l n="85">
+       Should fortune snatch the victory from thee —
+      </l>
+      <l n="86">
+       Thyself — thy friends — and freedom lost at once —
+      </l>
+      <l n="87">
+       Perhaps you'll curse, in agonies of grief,
+      </l>
+      <l n="88">
+       Louisa's house — her venerated sire —
+      </l>
+      <l n="89">
+       Her noble brother — and yet more I dread —
+      </l>
+      <l n="90">
+       Yes — my lip trembles at the rising thought —
+      </l>
+      <l n="91">
+       The hapless daughter of thy cruel foe.
+      </l>
+      <l n="92">
+       Is thy love proof against this test severe? —
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="93">
+       Description would but beggar love like mine;
+      </l>
+      <l n="94">
+       Measure the earth and mount beyond the stars,
+      </l>
+      <l n="95">
+       There's nought below can bound its full extent;
+      </l>
+      <l n="96">
+       Not death itself can blot thee from my heart.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="97">
+       Then am I thine! — witness ye heavenly powers! —
+      </l>
+      <l n="98">
+       This is the signet of thy wedded wife;
+       <stage>
+        [ Gives him a ring,
+       </stage>
+      </l>
+      <l n="99">
+       In the last exigence weigh well its worth,
+      </l>
+      <l n="100">
+       And claim thy life from Don Velasco's hand.
+      </l>
+      <l n="101">
+       This was the pledge of his Zelinda's faith:
+      </l>
+      <l n="102">
+       Knowing the sallies of his haughty soul —
+      </l>
+      <l n="103">
+       In a fond moment of paternal love,
+      </l>
+      <l n="104">
+       He kiss'd my cheek, and caught my trembling
+                                        hand,
+      </l>
+      <l n="105">
+       Fix'd on my finger this invalu'd gem,
+      </l>
+      <l n="106">
+       And by a solemn oath' he bound his soul,
+      </l>
+      <l n="107">
+       To grant each prayer when this should plead its
+                                        claim.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="108">
+       Language is poor, and time itself would fail
+      </l>
+      <l n="109">
+       To speak the raptures of my grateful heart.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="110">
+       What have I done — my filial love,
+      </l>
+      <l n="111">
+       And the connubial ties — at variance set —
+      </l>
+      <l n="112">
+       A brother's life against a husband's stak'd —
+      </l>
+      <l n="113">
+       My country's weal, with loyalty at war —
+      </l>
+      <l n="114">
+       Confusion — tumult — death and slaughter reign;
+      </l>
+      <l n="115">
+       As if the demons leap'd Tartarus' bounds
+      </l>
+      <l n="116">
+       To sport with misery and grin at pain.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <stage>
+       Trumpets without.
+      </stage>
+      <l n="117">
+       Heaven has the means to extricate from woe,
+      </l>
+      <l n="118">
+       Though veil'd from man — if patience waits his will:
+                                        —
+      </l>
+      <l n="119">
+       When fortitude, her sister virtue joins,
+      </l>
+      <l n="120">
+       They both triumphant, meet a just reward.
+      </l>
+      <l n="121">
+       Adieu, my love — my duty bids me haste;
+      </l>
+      <l n="122">
+       Soon I return, victorious from the field,
+      </l>
+      <l n="123">
+       And clasp an angel to my faithful breast.
+      </l>
+     </sp>
+     <stage>
+      Exit.
+     </stage>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa,
+      </speaker>
+      <stage>
+       solus.
+      </stage>
+      <l n="124">
+       — — — — — — — He's gone! —
+      </l>
+      <l n="125">
+       I feel the parting stroke severe indeed —
+      </l>
+      <l n="126">
+       As if his lips pronounc'd a last adieu.
+      </l>
+      <l n="127">
+       Now all ye powers supreme, support my soul;
+      </l>
+      <l n="128">
+       Teach me to brave the conflicts of the world
+      </l>
+      <l n="129">
+       In this extreme distress — nor let me swerve
+      </l>
+      <l n="130">
+       From honour's path, or virtue's strictest rule;
+      </l>
+      <l n="131">
+       Nor let my conscience once upbraid my steps.
+      </l>
+     </sp>
+     <stage>
+      Exit.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      CONDE HARO, solus.
+     </stage>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="1">
+       Velasco's
+       will, back'd by the
+                                        king's command,
+      </l>
+      <l n="2">
+       I must obey, or blast my rising fame,
+      </l>
+      <l n="3">
+       And hazard all in the precarious cause,
+      </l>
+      <l n="4">
+       Of freedom, stak'd against the power of kings:
+      </l>
+      <l n="5">
+       Yet warring passions tear my tortur'd soul;
+      </l>
+      <l n="6">
+       Discordant hopes make me a wretch indeed.
+      </l>
+      <l n="7">
+       I love Maria — I revere her lord —
+      </l>
+      <l n="8">
+       And almost wish the vict'ry may be his;
+      </l>
+      <l n="9">
+       Yet if he falls — he falls as Brutus fell,
+      </l>
+      <l n="10">
+       In the last struggle for his country's well;
+      </l>
+      <l n="11">
+       While my success will rivet fast her chains,
+      </l>
+      <l n="12">
+       Erase each vestige of her ancient rights,
+      </l>
+      <l n="13">
+       And make me odious in Maria's eye.
+      </l>
+      <l n="14">
+       And shall I foster this inglorious flame?
+      </l>
+      <l n="15">
+       A hopeless passion gnawing on my peace,
+      </l>
+      <l n="16">
+       And cankering my soul against the man
+      </l>
+      <l n="17">
+       I once esteem'd my friend — though now a foe,
+      </l>
+      <l n="18">
+       He's virtue's friend where'er he meets her name.
+      </l>
+      <l n="19">
+       The moral sense, that checks the wayward will,
+      </l>
+      <l n="20">
+       Now witness bear — I'm master of myself: —
+      </l>
+      <l n="21">
+       I'll meet him in the field on equal terms;
+      </l>
+      <l n="22">
+       No base desire, or any lawless wish,
+      </l>
+      <l n="23">
+       Shall more obtrude to interrupt my peace: —
+      </l>
+      <l n="24">
+       But honour, justice, duty to my king,
+      </l>
+      <l n="25">
+       Shall wield my sword, and lead to spotless fame.
+      </l>
+     </sp>
+     <stage>
+      Exit.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IV.
+     </head>
+     <stage>
+      DON JUAN DE PADILLA and DONNA MARIA,
+     </stage>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="1">
+       First
+       of thy sex — thou mistress
+                                        of my heart —
+      </l>
+      <l n="2">
+       Not all Hesperia can boast a fair
+      </l>
+      <l n="3">
+       So amiably soft, discreet and wise;
+      </l>
+      <l n="4">
+       With such a firm, heroic, noble soul,
+      </l>
+      <l n="5">
+       Why should a tear bedew thy lovely check?
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="6">
+       I see distress on every side I turn;
+      </l>
+      <l n="7">
+       Some sad dejection marks the soldiers brow;
+      </l>
+      <l n="8">
+       Though veterans in arms, they fear the king,
+      </l>
+      <l n="9">
+       And tremble at the frown of majesty: —
+      </l>
+      <l n="10">
+       The nobles all, though emulous of fame,
+      </l>
+      <l n="11">
+       Are jealous, proud — are turbulent and rash —
+      </l>
+      <l n="12">
+       The people fierce, yet ever prone to change,
+      </l>
+      <l n="13">
+       Today the cap of liberty's toss'd up —
+      </l>
+      <l n="14">
+       Tomorrow torn and given to the winds,
+      </l>
+      <l n="15">
+       And all their leaders, by the fickle throng
+      </l>
+      <l n="16">
+       Are sacrific'd by violence, or fraud.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="17">
+       So far above the weakness of thy sex,
+      </l>
+      <l n="18">
+       Let me beseech thee never to despair; —
+      </l>
+      <l n="19">
+       Support thy courage, arm thy noble mind —
+      </l>
+      <l n="20">
+       Sure never more did thy Padilla need
+      </l>
+      <l n="21">
+       Thy wisdom, counsel, fortitude and zeal,
+      </l>
+      <l n="22">
+       To animate amidst ten thousand cares.
+      </l>
+      <l n="23">
+       But my firm purpose never can be shook;
+      </l>
+      <l n="24">
+       While life glows warm within my beating breast,
+      </l>
+      <l n="25">
+       I will defend, against the proudest foe,
+      </l>
+      <l n="26">
+       The liberties of Spain, my country's rights.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="27">
+       So dangerous a foe has Spain ne'er seen
+      </l>
+      <l n="28">
+       Since from the brindled North, the savage hords
+      </l>
+      <l n="29">
+       Pour'd from their frozen hives, where gendering
+                                        storms
+      </l>
+      <l n="30">
+       Have rush'd, and swell'd fair Ebro's banks with
+                                        blood.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="31">
+       We have been free e'er since the mighty Goths,
+      </l>
+      <l n="32">
+       In barb'rous swarms, compell'd the peaceful swain
+      </l>
+      <l n="33">
+       To bare his breast, and meet the stranger's
+                                        sword;
+      </l>
+      <l n="34">
+       The raw and hardy peasants of the field,
+      </l>
+      <l n="35">
+       Train'd up to arms, inur'd to feats of war,
+      </l>
+      <l n="36">
+       Op'd their full veins and wash'd in native gore
+      </l>
+      <l n="37">
+       The field, the village, and their father's tombs,
+      </l>
+      <l n="38">
+       Ere they establish'd liberty and peace.
+      </l>
+      <l n="39">
+       Their ancient victories shall be recall'd
+      </l>
+      <l n="40">
+       By the warm fluid from Don Juan's heart,
+      </l>
+      <l n="41">
+       Ere he'll submit to drag about this shell
+      </l>
+      <l n="42">
+       Through nature's system, as an useless drone,
+      </l>
+      <l n="43">
+       Or live the slave of any lawless power.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="44">
+       O Heaven forbid! — nor dash my country's hopes;
+      </l>
+      <l n="45">
+       Or premature, cut down before the noon
+      </l>
+      <l n="46">
+       A life of glory and heroic worth,
+      </l>
+      <l n="47">
+       And blast success, while virtue lifts the sword.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="48">
+       Sure life protracted is a vulgar wish,
+      </l>
+      <l n="49">
+       Unless some noble end blows up the flame.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="50">
+       Spite of myself, I have betray'd a tear;
+      </l>
+      <l n="51">
+       But feel my courage brighten by thy side;
+      </l>
+      <l n="52">
+       Nor shall the weakness of my sex again,
+      </l>
+      <l n="53">
+       Create a fear that may disturb thy peace.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="54">
+       Haste back, my love, lest some mishap befal;
+      </l>
+      <l n="55">
+       The good Zemora guard, Toledo's gates
+      </l>
+      <l n="56">
+       With vigilance and faith; — there thou art safe.
+      </l>
+      <l n="57">
+       Protect my son, and guard his infant years;
+      </l>
+      <l n="58">
+       In his young bosom nurture every truth,
+      </l>
+      <l n="59">
+       'Till ripen'd worth and manly virtue glow,
+      </l>
+      <l n="60">
+       And mark him thine and thy Padilla's son.
+      </l>
+      <l n="61">
+       The hasty moments fly — I must away —
+      </l>
+      <l n="62">
+       I risque a battle on the morning dawn.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="63">
+       O may we meet against with brighter hopes! —
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="64">
+       We meet again with glory and renown —
+      </l>
+      <l n="65">
+       Or, meet no more. — —
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="66">
+       — — — — — — — Or meet no more!
+      </l>
+      <l n="67">
+       The dread idea stiffens every nerve.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="68">
+       Let no ill omen'd word escape thy lip.
+      </l>
+      <l n="69">
+       Fair freedom stands, and waves her laurel high;
+      </l>
+      <l n="70">
+       She, on the acme of her burnish'd throne,
+      </l>
+      <l n="71">
+       Shall hail the morrow with applauding shouts,
+      </l>
+      <l n="72">
+       And greet Maria, as the guardian queen
+      </l>
+      <l n="73">
+       Of union, peace, and liberty to Spain.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE V.
+     </head>
+     <stage>
+      DON JUAN DE PADILLA and DON PEDRO.
+     </stage>
+     <sp who="#donpedroghiron">
+      <speaker>
+       Pedro.
+      </speaker>
+      <l n="1">
+       Toledo's
+       banners reach the
+                                        pendant skies,
+      </l>
+      <l n="2">
+       And kiss the winds, and hail the work begun:
+      </l>
+      <l n="3">
+       I sicken for the signal to the field,
+      </l>
+      <l n="4">
+       When a decisive conflict must ensue;
+      </l>
+      <l n="5">
+       I burn, I languish, till the tyrant falls,
+      </l>
+      <l n="6">
+       With all the flatt'rers that surround his throne.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="7">
+       Be temperate in words, but bold in deeds;
+      </l>
+      <l n="8">
+       Most men are brave till courage has been try'd,
+      </l>
+      <l n="9">
+       And boast of virtue till their price is known: —
+      </l>
+      <l n="10">
+       But thirst of gold — the cursed thirst of gold,
+      </l>
+      <l n="11">
+       Which plunder'd Mexico of all its wealth,
+      </l>
+      <l n="12">
+       And broil'd her valiant sons in quest of more,
+      </l>
+      <l n="13">
+       Is a severer tyrant of the mind,
+      </l>
+      <l n="14">
+       Than coarser vice that mark'd our simpler state,
+      </l>
+      <l n="15">
+       Ere cruel Spain explor'd that distant world.
+      </l>
+      <l n="16">
+       Then golden bribes corrupted not the mind;
+      </l>
+      <l n="17">
+       No son of Castile, or of Arragon,
+      </l>
+      <l n="18">
+       E'er sold his honour, or relinquish'd fame,
+      </l>
+      <l n="19">
+       For soft refinements that flow in with wealth,
+      </l>
+      <l n="20">
+       Nor stoop'd to wear the liv'ry of a slave.
+      </l>
+     </sp>
+     <sp who="#donpedroghiron">
+      <speaker>
+       Pedro.
+      </speaker>
+      <l n="21">
+       Let not a coward, or a knave be spar'd,
+      </l>
+      <l n="22">
+       Who shrouds his head from danger or from death,
+      </l>
+      <l n="23">
+       When freedom's cause stands trembling on the
+                                        sword.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="24">
+       Tomorrow gives a glorious test of worth;
+      </l>
+      <l n="25">
+       Courage will shine conspicuously bright,
+      </l>
+      <l n="26">
+       Or guilt may shake and dash the nerveless arm,
+      </l>
+      <l n="27">
+       That draws a sword to massacre the brave.
+      </l>
+     </sp>
+     <sp who="#donpedroghiron">
+      <speaker>
+       Pedro.
+      </speaker>
+      <l n="28">
+       Virtue's fair image then will shield thy head,
+      </l>
+      <l n="29">
+       And animate the man who dare be free.
+      </l>
+     </sp>
+     <stage>
+      Flourish of trumpets, and alarm without.
+     </stage>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <stage>
+       Pedro greatly agitated.
+      </stage>
+      <l n="30">
+       The hostile clarion summons to the field.
+      </l>
+      <l n="31">
+       Hah! — pale and trembling at the trumpet's sound! —
+      </l>
+      <l n="32">
+       Pedro, haste on, and take thy destin'd post,
+      </l>
+      <l n="33">
+       'Twill lead to glory, conquest, and to fame;
+      </l>
+      <l n="34">
+       To sure renown, if valour guides thy arm;
+      </l>
+      <l n="35">
+       But certain infamy, disgrace and death,
+      </l>
+      <l n="36">
+       If treason lurks beneath the guise of zeal.
+      </l>
+     </sp>
+     <stage>
+      Exit Don Juan.
+     </stage>
+     <sp who="#donpedroghiron">
+      <speaker>
+       Don Pedro,
+      </speaker>
+      <stage>
+       solus.
+      </stage>
+      <l n="37">
+       Curse on Don Juan's penetrating eye —
+      </l>
+      <l n="38">
+       He's prob'd my soul — suspects I am a villain: —
+      </l>
+      <l n="39">
+       'Tis true that envy of his fame at first,
+      </l>
+      <l n="40">
+       Bound the bright helmet on Don Pedro's brow,
+      </l>
+      <l n="41">
+       And not the bubble freedom — empty name! —
+      </l>
+      <l n="42">
+       'Tis all a puff — a visionary dream —
+      </l>
+      <l n="43">
+       That kindles up this patriotic flame;
+      </l>
+      <l n="44">
+       'Tis rank self love, conceal'd beneath a mask
+      </l>
+      <l n="45">
+       Of public good. The hero's brain inflates —
+      </l>
+      <l n="46">
+       He cheats himself by the false medium,
+      </l>
+      <l n="47">
+       Held in virtue's guise, till he believes it just:
+      </l>
+      <l n="48">
+       But the vile rabble — the plebeian race,
+      </l>
+      <l n="49">
+       Made for the yoke, bend like the servile mule,
+      </l>
+      <l n="50">
+       And own mankind were made for slaves to power.
+      </l>
+      <l n="51">
+       A waxen pillar in the central point
+      </l>
+      <l n="52">
+       Of sol's meridian beams, melts not so fast,
+      </l>
+      <l n="53">
+       As will their army waste by court intrigues,
+      </l>
+      <l n="54">
+       By fraud, by bribes, by flattery and fear:
+      </l>
+      <l n="55">
+       A slow campaign ensures success to Charles —
+      </l>
+      <l n="56">
+       A weak, plebeian, discontented band,
+      </l>
+      <l n="57">
+       Will soon grow weary, and desert their chiefs.
+      </l>
+      <l n="58">
+       I will retard, embarrass, and delay;
+      </l>
+      <l n="59">
+       Sow discord round, while they inactive lie:
+      </l>
+      <l n="60">
+       Then fly secure to Don Urano's roof.
+      </l>
+      <l n="61">
+       My fire detests this noisy factious rout,
+      </l>
+      <l n="62">
+       And opes his arms to welcome my return;
+      </l>
+      <l n="63">
+       And Don Velasco pays a noble price —
+      </l>
+      <l n="64">
+       His price would bribe a prince to quit his crown.
+      </l>
+      <l n="65">
+       Let nations sink — posterity be thrall'd —
+      </l>
+      <l n="66">
+       Vice reign triumphant — liberty expire —
+      </l>
+      <l n="67">
+       May I but humble haughty Juan's pride,
+      </l>
+      <l n="68">
+       And gain Louisa — as the bless'd reward.
+      </l>
+     </sp>
+     <stage>
+      Exit.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT III.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      CONDE HARO and LOUISA. — ( De Haro arm'd and equipt for battle. )
+     </stage>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="1">
+       Alas
+       my brother! —
+      </l>
+      <l n="2">
+       Already arm'd — the burnish'd helmet on! —
+      </l>
+      <l n="3">
+       The hostile trump awakes from broken sleep
+      </l>
+      <l n="4">
+       Before the bird of morn has hail'd the day.
+      </l>
+      <l n="5">
+       False glory throbs within thy beating breast —
+      </l>
+      <l n="6">
+       Thy lifted sword displays its whetted point,
+      </l>
+      <l n="7">
+       Not to dispel the fierce, barbarian Moor,
+      </l>
+      <l n="8">
+       Or chase the alien from these blighted shores:
+      </l>
+      <l n="9">
+       It wounds the sons — the citizens of Spain.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="10">
+       Upbraid me not — nor sharpen thus the pangs
+      </l>
+      <l n="11">
+       That rankle here, and wound thy brother's breast,
+      </l>
+      <l n="12">
+       Words cannot paint — nor can Louisa feel,
+      </l>
+      <l n="13">
+       The agonizing pains that pierce my heart.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="14">
+       What can disturb the hero arm'd for fame? —
+      </l>
+      <l n="15">
+       The prince's favour, and his father's love,
+      </l>
+      <l n="16">
+       Anticipate the glory he pursues.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="17">
+       The secret dies within De Haro's breast,
+      </l>
+      <l n="18">
+       Unless some strange, fortuitous event,
+      </l>
+      <l n="19">
+       Should heal my heart, and reinstate my peace.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="20">
+       O might I weep my weary life away,
+      </l>
+      <l n="21">
+       And close mine eyes on misery at large! —
+      </l>
+      <l n="22">
+       Yet I could bear my griefs tenfold enhanc'd,
+      </l>
+      <l n="23">
+       If this might heal, or mitigate thy pain,
+      </l>
+      <l n="24">
+       Or sooth the anguish of a brother's heart.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="25">
+       Bear up thyself against the storms of life —
+      </l>
+      <l n="26">
+       The sharpen'd pangs of disappointed love.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="27">
+       Canst thou forgive th' involuntary sigh,
+      </l>
+      <l n="28">
+       The starting tear — that, as an April morn,
+      </l>
+      <l n="29">
+       Pours down in torrents and obscures the sun?
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="30">
+       I know the secret thorn that wounds thy peace.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="31">
+       I would conceal the weakness of my heart;
+      </l>
+      <l n="32">
+       Yet not from thee — but from a sterner eye.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="33">
+       Blush not, Louisa — 'tis a noble flame,
+      </l>
+      <l n="34">
+       And Francis' virtues merit all thy love.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="35">
+       Yet he's thy foe — the brother and the friend
+      </l>
+      <l n="36">
+       Of noble Juan — and can this lead thy hand —
+      </l>
+      <l n="37">
+       This gentle hand — bath'd in a sister's tears,
+      </l>
+      <l n="38">
+       To plunge thy danger in a hero's breast,
+      </l>
+      <l n="39">
+       From whence may rush a most exalted soul,
+      </l>
+      <l n="40">
+       Adorn'd with every grace that wins the heart,
+      </l>
+      <l n="41">
+       Or dignifies the man? — — —
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="42">
+       Great fouls — form'd in the same etherial mould,
+      </l>
+      <l n="43">
+       Are ne'er at war — they, different paths
+      </l>
+      <l n="44">
+       Of glory may pursue, with equal zeal;
+      </l>
+      <l n="45">
+       Yet not a cruel, or malignant thought,
+      </l>
+      <l n="46">
+       Or rancorous design, deform the mind,
+      </l>
+      <l n="47">
+       I much esteem Don just and his friends,
+      </l>
+      <l n="48">
+       But numerous ties engag'd my sword to Charles,
+      </l>
+      <l n="49">
+       And gratitude had bought the buckler on,
+      </l>
+      <l n="50">
+       Ere I was nam'd the champion in his cause:
+      </l>
+      <l n="51">
+       Yet if success my loyal purpose crowns,
+      </l>
+      <l n="52">
+       Mercy shall spare, where justice don't condemn;
+      </l>
+      <l n="53">
+       Believe Louisa, not Don Francis' life
+      </l>
+      <l n="54">
+       Is more thy care than it shall be my own.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="55">
+       The indiseriminating arrow flies,
+      </l>
+      <l n="56">
+       And often wounds what friendship's arm would
+                                        save;
+      </l>
+      <l n="57">
+       Should war's uncertain chance make him thy captive —
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="58">
+       The monarch and the laws must then decide.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="59">
+       My bleeding heart anticipates my fate:
+      </l>
+      <l n="60">
+       Oh! what a bubble 'tis ye glory call —
+      </l>
+      <l n="61">
+       Mistaken name — a phantom of the brain,
+      </l>
+      <l n="62">
+       That leads the hero on to leap the bounds
+      </l>
+      <l n="63">
+       Of every social tie — till blood — till death,
+      </l>
+      <l n="64">
+       Spreads horror over nature's frighted face: —
+      </l>
+      <l n="65">
+       Ambition rears his fierce and furious fang —
+      </l>
+      <l n="66">
+       In grizly tresses jealousy attends
+      </l>
+      <l n="67">
+       'Till discord reigns, and civil fury burns,
+      </l>
+      <l n="68">
+       And arms the son against a father's life,
+      </l>
+      <l n="69">
+       Or plants a poignard in a dearer hart,
+      </l>
+      <l n="70">
+       Oh! how severely mark'd my hapless fate;
+      </l>
+      <l n="71">
+       The best of brothers whets the dagger's point —
+      </l>
+      <l n="72">
+       The fondest husband wields the sharpen'd lance,
+      </l>
+      <l n="73">
+       And both are aim'd at sad Louisa's breast.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="74">
+       Thy husband! — hah — rash maid —
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="75">
+       Yes — by each sacred tie. —
+      </l>
+      <l n="76">
+       Thus incoherent my distracted prayer,
+      </l>
+      <l n="77">
+       Prophanes the altar when to God I bow;
+      </l>
+      <l n="78">
+       I start — I tremble — left kind heaven grant
+      </l>
+      <l n="79">
+       The boon I ask. Affrighted at myself,
+      </l>
+      <l n="80">
+       I call it back, and quick revoke my wish,
+      </l>
+      <l n="81">
+       Lest it involve me in supreme distress.
+      </l>
+     </sp>
+     <stage>
+      Trumpets and martial music without.
+     </stage>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="82">
+       A day decides — the trumpet sounds to arms;
+      </l>
+      <l n="83">
+       Tomorrow will disclose new scenes of woe,
+      </l>
+      <l n="84">
+       Or ope the gates to happiness and peace.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="85">
+       My heart's too full — it bends me to the grave;
+      </l>
+      <l n="86">
+       My anger'd sire suspects — he solemn moves,
+      </l>
+      <l n="87">
+       Majestically grave — with awful brow,
+      </l>
+      <l n="88">
+       And chides severe whene'er I meet his eye;
+      </l>
+      <l n="89">
+       Oh! — could I hide forever from his frown! —
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      DON VELASCO and DONNA LOUISA.
+     </stage>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="1">
+       Fond
+       foolish maid — what secret
+                                        guilt's conceal'd,
+      </l>
+      <l n="2">
+       That thus in tears — all pensive and alone,
+      </l>
+      <l n="3">
+       Thou seek'st to hide, e'en from a father's eye? —
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="4">
+       Alas! I weep for human woes at large: —
+      </l>
+      <l n="5">
+       I weep my country and my hapless friends.\
+      </l>
+      <l n="6">
+       Man, the vile sport of restless passion, roves
+      </l>
+      <l n="7">
+       Through sad inquietudes and painful cares,
+      </l>
+      <l n="8">
+       'Till his ambition sets the world on fire.
+      </l>
+      <l n="9">
+       'Mongst all the ills that hover o'er mankind,
+      </l>
+      <l n="10">
+       Unfeign'd, or fabled, in the poet's page,
+      </l>
+      <l n="11">
+       The blackest scrawl the sister furies hold,
+      </l>
+      <l n="12">
+       For red ey'd wrath, or malice to fill up,
+      </l>
+      <l n="13">
+       Is incomplete to sum up human woe;
+      </l>
+      <l n="14">
+       'Till civil discord, still a darker fiend,
+      </l>
+      <l n="15">
+       Stalks forth unmask'd from his infernal den,
+      </l>
+      <l n="16">
+       With mad Alecto's torch in his right hand
+      </l>
+      <l n="17">
+       To light the flame, and rend the soul of nature.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="18">
+       But most of all, a daughter is a curse,
+      </l>
+      <l n="19">
+       Whene'er she lets her wanton thoughts run loose.
+      </l>
+      <l n="20">
+       Weak maid retire — in thy apartment hide,
+      </l>
+      <l n="21">
+       Nor dare to shew thy weeping face abroad,
+      </l>
+      <l n="22">
+       'Till war shall cease, and business gives me time
+      </l>
+      <l n="23">
+       To crown thy nuptials with a noble lord,
+      </l>
+      <l n="24">
+       To whom thou art betroth'd — who claims thy hand;
+      </l>
+      <l n="25">
+       Thou shalt be his — when from the field are
+                                        chas'd
+      </l>
+      <l n="26">
+       These bold conspirators — I've pledg'd my faith.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <stage>
+       Falls on her knee.
+      </stage>
+      <l n="27">
+       Let thy Louisa wake compassion up.
+      </l>
+      <l n="28">
+       Revoke thy vow, and let me live a maid.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="29">
+       Both by the host, and by St. Peter's key.
+      </l>
+      <l n="30">
+       I've sworn, nor will revoke my plighted faith;
+      </l>
+      <l n="31">
+       Prepare thyself for wedlock's sacred vows;
+      </l>
+      <l n="32">
+       One week completes the matrimonial tie.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="33">
+       O let me live in some dark hermitage,
+      </l>
+      <l n="34">
+       Or in some gloomy cell — I'll cloister'd die,
+      </l>
+      <l n="35">
+       But can't this once obey my father's will.
+      </l>
+     </sp>
+     <stage>
+      Louisa trembling and saint — Velasco , enraged, leads her off.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      DON JUAN DE PADILLA and DON FRANCIS.
+     </stage>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="1">
+       Alas
+       ! my lord, an unexpected
+                                        blow!
+      </l>
+      <l n="2">
+       But thou'rt prepar'd for, all that fate can do,
+      </l>
+      <l n="3">
+       Too great to fear — too good to be dismay'd.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don juan.
+      </speaker>
+      <l n="4">
+       So well I know the shifting tide of life,
+      </l>
+      <l n="5">
+       I'm not appall'd whene're its ebb runs off,
+      </l>
+      <l n="6">
+       And leaves man shallow'd on the oozy strand.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="7">
+       Tordesilas is seiz'd — the queen betray'd —
+      </l>
+      <l n="8">
+       Don Pedro fled, and join'd the emperor's troops.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="9">
+       No genuine faith, or patriotic worth,
+      </l>
+      <l n="10">
+       Had ere a place in his corrupted breast.
+      </l>
+      <l n="11">
+       While justice holds the golden scales aloft.
+      </l>
+      <l n="12">
+       And weighs our glorious cause with equal hand,
+      </l>
+      <l n="13">
+       And bids each valiant chief support her claim,
+      </l>
+      <l n="14">
+       Needless the aid of Pedro's dastard arm.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="15">
+       High heav'n in wrath supports the royal cause,
+      </l>
+      <l n="16">
+       And gives success o'er Charles's foreign foes;
+      </l>
+      <l n="17">
+       E'en Solyman the great, fatigu'd with war,
+      </l>
+      <l n="18">
+       Of Mustapha afraid, sighs to return
+      </l>
+      <l n="19">
+       To Roxalana's captivating charms,
+      </l>
+      <l n="20">
+       Agrees a truce, and leaves th' Hungarian plains.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="21">
+       Resentful, brave, and nurs'd in valour's school,
+      </l>
+      <l n="22">
+       Francis still waits him at the Pavian gate.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="23">
+       The king of France, whose evil stars combine
+      </l>
+      <l n="24">
+       To give his rival empire o'er the world,
+      </l>
+      <l n="25">
+       Has lost a battle at the Pavian gate,
+      </l>
+      <l n="26">
+       And languishes a prisoner to Charles.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="27">
+       Hah! — is Francis made the fickle sport of
+                                        fortune?
+      </l>
+      <l n="28">
+       A ruder game the wanton never play'd,
+      </l>
+      <l n="29">
+       To strip the wreaths, and blast a monarch's fame.
+      </l>
+      <l n="30">
+       Must Gallia's generous, brave and valiant king,
+      </l>
+      <l n="31">
+       Do homage for his crown at Charles's feet?
+      </l>
+      <l n="32">
+       If victory declares on freedom's side,
+      </l>
+      <l n="33">
+       My arm shall aid in all his just demands.
+      </l>
+      <l n="34">
+       Ere Ferdinand had seiz'd the neighbouring
+                                        crowns,
+      </l>
+      <l n="35">
+       He form'd a system to easlave mankind:
+      </l>
+      <l n="36">
+       But Charles improves on his despotic plan;
+      </l>
+      <l n="37">
+       Yet one campaign, one signal victory gain'd,
+      </l>
+      <l n="38">
+       May shake the tyrant from his triple throne,
+      </l>
+      <l n="39">
+       And once again, o'er the European world,
+      </l>
+      <l n="40">
+       Relight the torch by tyranny obscur'd.
+      </l>
+      <l n="41">
+       But if his cruel sword at last prevails,
+      </l>
+      <l n="42">
+       Europe will bleed from Tagus to the Scheld,
+      </l>
+      <l n="43">
+       Beneath his barb'rous persecuting race.
+      </l>
+      <l n="44">
+       We then must strike one bold decisive blow;
+      </l>
+      <l n="45">
+       The rights of man were rescu'd by the sword,
+      </l>
+      <l n="46">
+       From Nimrod down to Cæsar or to Charles —
+      </l>
+      <l n="47">
+       Haste on this moment and rejoin the troops.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="48">
+       At freedom's pedestal I've laid my hopes,
+      </l>
+      <l n="49">
+       The brightest boon of life — my promis'd bride —
+      </l>
+      <l n="50">
+       My lov'd Louisa's charms; — to be her lord,
+      </l>
+      <l n="51">
+       I would not riot in her arms a slave.
+      </l>
+     </sp>
+     <stage>
+      Exit Francis.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IV.
+     </head>
+     <stage>
+      DON JUAN DE PADILLA, solus.
+     </stage>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="1">
+       This
+       day decides, and gives the
+                                        world to Charles,
+      </l>
+      <l n="2">
+       And plunges Spain in darkness and despair;
+      </l>
+      <l n="3">
+       Enwraps the mind in superstition's veil,
+      </l>
+      <l n="4">
+       While freedom dies on his all conquering sword;
+      </l>
+      <l n="5">
+       Or spreads victorious-her expanded wing,
+      </l>
+      <l n="6">
+       And shrouds the rights which reason lends to man.
+      </l>
+      <l n="7">
+       I give my life a cheerful sacrifice;
+      </l>
+      <l n="8">
+       'Tis a just debt my country may demand.
+      </l>
+      <l n="9">
+       And if I fall in such a glorious cause,
+      </l>
+      <l n="10">
+       I'll boast my lot; — let future pens record
+      </l>
+      <l n="11">
+       Don Juan's arm once shook a tyrant's throne.
+      </l>
+      <l n="12">
+       'Twas on the spot, where now Toledo stands
+      </l>
+      <l n="13">
+       Our ancestors defeated Pompey's troops;
+      </l>
+      <l n="14">
+       And in the height of Rome's exalted fame,
+      </l>
+      <l n="15">
+       Numantia's plains have smok'd with Roman blood.
+      </l>
+      <l n="16">
+       E'en in the zenith of republic pride,
+      </l>
+      <l n="17">
+       The virtuous Scipio found it no mean task,
+      </l>
+      <l n="18">
+       To subjugate Numantia's warlike sons;
+      </l>
+      <l n="19">
+       Nor does our blood so cold and languid run,
+      </l>
+      <l n="20">
+       That we have not the courage to be free.
+      </l>
+      <l n="21">
+       The loan of life I only hold a boon,
+      </l>
+      <l n="22">
+       When freedom lights to glory and to fame;
+      </l>
+      <l n="23">
+       But when she sits beneath a naked shrine,
+      </l>
+      <l n="24">
+       With moss grown tresses o'er her surrow'd brow,
+      </l>
+      <l n="25">
+       And lays her laurels at a tyrant's feet,
+      </l>
+      <l n="26">
+       Let vulgar souls embrace the servile chains,
+      </l>
+      <l n="27">
+       And adulation bask in courtly smiles,
+      </l>
+      <l n="28">
+       'Till liberty herself expires in tears. —
+      </l>
+      <l n="29">
+       My spirit's unsubdu'd — I'll ne'er submit:
+      </l>
+      <l n="30">
+       I yet must play a noble, glorious game,
+      </l>
+      <l n="31">
+       That shakes the sceptre, or secures a grave.
+      </l>
+     </sp>
+     <stage>
+      Tumult, and noise of battle, without.
+     </stage>
+     <stage>
+      [Exit.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE V.
+     </head>
+     <stage>
+      Shouts of victory, hurry and confusion. — DONNA MARIA, sola.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="1">
+       The
+       clarion roars and scatter'd
+                                        parties fly,
+      </l>
+      <l n="2">
+       Confusion, tumult, hurry and dismay,
+      </l>
+      <l n="3">
+       O'erspread each guilty face. — — — — — —
+      </l>
+      <l n="4">
+       What mean the rumours that as sail my ear? —
+      </l>
+      <l n="5">
+       Throw down their arms — as cowards fly the field! —
+      </l>
+      <l n="6">
+       Could the brave Cortes thus forsake their lord? —
+      </l>
+      <l n="7">
+       My throbbing heart augurs a thousand ills,
+      </l>
+      <l n="8">
+       That shake my frame and terrify my soul,
+      </l>
+      <l n="9">
+       As if I saw their new flown ghosts advance,
+      </l>
+      <l n="10">
+       Just reeking from the carnage of the field;
+      </l>
+      <l n="11">
+       Yet feel within a manly force of mind
+      </l>
+      <l n="12">
+       Urging to deeds heroic and sublime,
+      </l>
+      <l n="13">
+       Which but to name, one half my timid sex,
+      </l>
+      <l n="14">
+       Would fall the victims of their own despair.
+      </l>
+      <l n="15">
+       I scorn the feeble soul that cannot brave,
+      </l>
+      <l n="16">
+       With magnanimity, the storms of life.
+      </l>
+      <l n="17">
+       Then why disturb'd with these ill omen'd fears? —
+      </l>
+      <l n="18">
+       Yet what am I, if my Padilla falls? —
+      </l>
+      <l n="19">
+       Ah! if the dastard citizens have fled —
+      </l>
+      <l n="20">
+       Just anger'd heaven surely has decreed
+      </l>
+      <l n="21">
+       That on the point of Charles's conquering sword,
+      </l>
+      <l n="22">
+       Each vestige of their ancient rights should die.
+      </l>
+      <l n="23">
+       I'll wander down to yonder darksome grove,
+      </l>
+      <l n="24">
+       (And prostrate fall before the etherial king,
+      </l>
+      <l n="25">
+       Who holds his empire o'er a jarring world,
+      </l>
+      <l n="26">
+       Makes peace and freedom smile at his command,
+      </l>
+      <l n="27">
+       Or the fell tyrant's suffer'd to succeed,
+      </l>
+      <l n="28">
+       To chain the will, or manacle the mind;)
+      </l>
+      <l n="29">
+       There will I calm my agitated breast,
+      </l>
+      <l n="30">
+       Dry off those tears which, starting, have
+                                        betray'd
+      </l>
+      <l n="31">
+       The soften'd weakness of a female mind.
+      </l>
+     </sp>
+     <stage>
+      Enter SOCIA.
+     </stage>
+     <sp who="#socia">
+      <speaker>
+       Socia.
+      </speaker>
+      <l n="32">
+       Fly, dearest lady — save thyself and son —
+      </l>
+      <l n="33">
+       And let the faithful Socia guard thy steps.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="34">
+       Is all then lost — and is Don Juan slain? —
+      </l>
+      <l n="35">
+       Tell the whole tale, and set my soul on fire,
+      </l>
+      <l n="36">
+       Ere yet it freeze with agony and doubt.
+      </l>
+     </sp>
+     <sp who="#socia">
+      <speaker>
+       Socia.
+      </speaker>
+      <l n="37">
+       Haste, my dear mistress — fly these cruel scenes
+      </l>
+      <l n="38">
+       Of murder, rapine, persidy and blood.
+      </l>
+      <l n="39">
+       The routed troops, with hasty frighted steps,
+      </l>
+      <l n="40">
+       All backward tread, nor could Don Juan's zeal,
+      </l>
+      <l n="41">
+       His valour, virtue, fortitude or fame,
+      </l>
+      <l n="42">
+       Subdue their fears and rally them again,
+      </l>
+      <l n="43">
+       Nor damp the ardour of the hot pursuit.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="44">
+       And does he live to glut their barb'rous rage?
+      </l>
+      <l n="45">
+       Or did some seraph catch the hero's breath,
+      </l>
+      <l n="46">
+       His latest sigh to see his country free,
+      </l>
+      <l n="47">
+       And gently wast his kindred soul away?
+      </l>
+     </sp>
+     <sp who="#socia">
+      <speaker>
+       Socia.
+      </speaker>
+      <l n="48">
+       Our foes may boast that victory was theirs;
+      </l>
+      <l n="49">
+       But royal ranks lie weltering on the plain
+      </l>
+      <l n="50">
+       Where Juan's blood has warm'd the glorious spot.
+      </l>
+      <l n="51">
+       Yet lose no time, for hither hastes a guard
+      </l>
+      <l n="52">
+       To seize and drag to Conde Haro's tent
+      </l>
+      <l n="53">
+       The wife and insant of my much lov'd lord.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="54">
+       Alas! my child — my son — my darling boy!
+      </l>
+      <l n="55">
+       The fairest virtues beam in his young eye;
+      </l>
+      <l n="56">
+       Each dawning grace sits blooming on his cheek,
+      </l>
+      <l n="57">
+       And speaks him heir of all his father's fame.
+      </l>
+      <l n="58">
+       Shall he, an orphan on the world be toss'd,
+      </l>
+      <l n="59">
+       And lose his name among a group of slaves?
+      </l>
+      <l n="60">
+       Forbid it, heaven! — a mother's fears
+      </l>
+      <l n="61">
+       Shall not difarm my heart. — — —
+      </l>
+     </sp>
+     <sp who="#socia">
+      <speaker>
+       Socia.
+      </speaker>
+      <l n="62">
+       I thought the strength of thy fuperiour mind
+      </l>
+      <l n="63">
+       Could nobly brave the worst that fate could do.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="64">
+       It shall — come, lead me on —
+      </l>
+      <l n="65">
+       To my Padilla's tomb — — —
+      </l>
+      <l n="66">
+       His clay cold corpse I'll bathe in streams of
+                                        blood,
+      </l>
+      <l n="67">
+       Drawn from his foes, and sprinkled o'er his
+                                        grave.
+      </l>
+      <l n="68">
+       The cypress gloom, in dark fix'd shades shall
+                                        bow,
+      </l>
+      <l n="69">
+       And weeping willows drop a silent tear,
+      </l>
+      <l n="70">
+       'Till rolling years see that last sands run out,
+      </l>
+      <l n="71">
+       When wither'd Time throws down his useless glass,
+      </l>
+      <l n="72">
+       And shrouds beneath eternity's big orb.
+      </l>
+     </sp>
+     <sp who="#socia">
+      <speaker>
+       Socia.
+      </speaker>
+      <l n="73">
+       If thou would'st be more wretched than thy lord,
+      </l>
+      <l n="74">
+       Then weep and linger — thoughtless of thy son.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="75">
+       Go, bring him hither — rob'd in funeral pomp —
+      </l>
+      <l n="76">
+       Attended by my retinue and guards;
+      </l>
+      <l n="77">
+       I will not fly — Toledo yet is strong:
+      </l>
+      <l n="78">
+       Maria ne'er will drag a wretched life,
+      </l>
+      <l n="79">
+       To wail Don Juan's fate in vulgar grief:
+      </l>
+      <l n="80">
+       Nor yet in slavery meet a lingering death,
+      </l>
+      <l n="81">
+       Beneath a tyrant's foot.
+      </l>
+      <l n="82">
+       I will avenge my lord — — —
+      </l>
+      <l n="83">
+       Though the rough surges in loud tempests roar,
+      </l>
+      <l n="84">
+       'Till the rude billows meet the lowering clouds —
+      </l>
+      <l n="85">
+       I never will despair, till my soul flies
+      </l>
+      <l n="86">
+       And mixes with the bold exalted shades,
+      </l>
+      <l n="87">
+       The stern brow'd spirits of the feudal lords —
+      </l>
+      <l n="88">
+       Who now bend down, and frowning from the skies,
+      </l>
+      <l n="89">
+       Chide back their dastard sons to take the field,
+      </l>
+      <l n="90">
+       Bravely to fight — to conquer or to die.
+      </l>
+     </sp>
+     <sp who="#socia">
+      <speaker>
+       Socia.
+      </speaker>
+      <l n="91">
+       My heart misgives — I fear thy rash resolve,
+      </l>
+      <l n="92">
+       Yet I obey. — — —
+      </l>
+     </sp>
+     <stage>
+      Exit Socia.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="93">
+       Ye powers who sit in judgment o'er the world,
+      </l>
+      <l n="94">
+       Or ye malignant fiends who blast our hopes,
+      </l>
+      <l n="95">
+       Grant Charles's restless soul may be condemn'd
+      </l>
+      <l n="96">
+       With Sisyphus to roll in endless pain,
+      </l>
+      <l n="97">
+       Up the Tartarean hill — the load of empire —
+      </l>
+      <l n="98">
+       That envy'd bauble which mankind adore;
+      </l>
+      <l n="99">
+       Then drag him down, successlessly to weep,
+      </l>
+      <l n="100">
+       This shadow hunted long in human blood.
+      </l>
+     </sp>
+     <stage>
+      Exit.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT IV.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      Don Juan and Don Francis in Chains, led by the Guards across the Stage. — Pass off.
+     </stage>
+     <stage>
+      DON VELASCO and CONDE HARO.
+     </stage>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="1">
+       To
+       see my country bleed,
+                                        distracts my soul;
+      </l>
+      <l n="2">
+       But suffering virtue moves the gods themselves.
+      </l>
+      <l n="3">
+       I must implore my father's lenient hand
+      </l>
+      <l n="4">
+       To hold suspended yet the prisoner's fate,
+      </l>
+      <l n="5">
+       Until the emperor himself arrives: —
+      </l>
+      <l n="6">
+       His clemency may fix his royal power,
+      </l>
+      <l n="7">
+       And make him worthy of the crown he wears,
+      </l>
+      <l n="8">
+       A pardon granted to the good and brave
+      </l>
+      <l n="9">
+       Will bind their faith by gratitude and grace.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="10">
+       The laws have fix'd their signet on their fate;
+      </l>
+      <l n="11">
+       Nor wilI I pause, or hesitate between,
+      </l>
+      <l n="12">
+       The wide extremes of pity and revenge.
+      </l>
+      <l n="13">
+       Did conscience melt, and bid me spare their
+                                        lives,
+      </l>
+      <l n="14">
+       I'd spurn her back — bid the rude phantom fly,
+      </l>
+      <l n="15">
+       And cease to check me in my fix'd design;
+      </l>
+      <l n="16">
+       They die tomorrow ere the sun retires.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="17">
+       I plight my sword, my honour, faith and life,
+      </l>
+      <l n="18">
+       Those sacred sanctions that bind men of worth,
+      </l>
+      <l n="19">
+       That Francis' pardon, or Don Juan's life,
+      </l>
+      <l n="20">
+       Shall not impede the glory of the king,
+      </l>
+      <l n="21">
+       Nor cause new ruptures, or disturb the realm.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="22">
+       The block's prepar'd — by justice' hand they
+                                        die.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="23">
+       Let pity touch thy breast — let innocence —
+      </l>
+      <l n="24">
+       Let infant tears — let virgin sorrow plead —
+      </l>
+      <l n="25">
+       And let the matron's grief torn bosom urge
+      </l>
+      <l n="26">
+       A husband's cause: — O spare Padilla's life! —
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="27">
+       And does my son — the glory of his house,
+      </l>
+      <l n="28">
+       Stand half dissolv'd by pity's softening tear?
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="29">
+       There is a secret cause I dare not name.
+      </l>
+      <l n="30">
+       That yet might soften a fond father's heart.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="31">
+       This cursed cause — alas! too long conceal'd,
+      </l>
+      <l n="32">
+       Unbends thy purpose, and unmans thy arm.
+      </l>
+      <l n="33">
+       Louisa knows her secret guilt's betray'd;
+      </l>
+      <l n="34">
+       Her trembling steps too weak to bear her there,
+      </l>
+      <l n="35">
+       I yesterday confin'd her to her room;
+      </l>
+      <l n="36">
+       Bade her paepare to pay her nuptial vows
+      </l>
+      <l n="37">
+       To one I'd chosen for her rightful lord,
+      </l>
+      <l n="38">
+       To save her honour from a wanton love.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="39">
+       Do not precipitate the lovely maid,
+      </l>
+      <l n="40">
+       But gently lead with a paternal hand;
+      </l>
+      <l n="41">
+       And let time heal her agitated breast.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="42">
+       Stay not to prattle here for pardoning grace.
+      </l>
+      <l n="43">
+       Though weeping maids, or aged fires combin'd,
+      </l>
+      <l n="44">
+       Or lisping infants join the matron's tears
+      </l>
+      <l n="45">
+       To plead their cause, my resolution's fix'd:
+      </l>
+      <l n="46">
+       These outcasts of the world shall be cut off,
+      </l>
+      <l n="47">
+       As nature's shreds, and blotted out of time.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="48">
+       Then I repair to visit and console
+      </l>
+      <l n="49">
+       Afflicted worth in its extreme distress.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="50">
+       Go, take thy leave — falute thy treacherous
+                                        friends,
+      </l>
+      <l n="51">
+       Ere my right hand shall send them to the shades.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      DON JOAN DE PADILLA, solus. — In Prison,
+     </stage>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="1">
+       True
+       dignity may acquiess in
+                                        ills,
+      </l>
+      <l n="2">
+       None can foresee, nor value can repel;
+      </l>
+      <l n="3">
+       Meekness becomes the Christian and the man,
+      </l>
+      <l n="4">
+       Not less the hero, when his God decrees,
+      </l>
+      <l n="5">
+       The palm of victory to a stronger hand.
+      </l>
+      <l n="6">
+       Here mimic justice rears his scaffold high —
+      </l>
+      <l n="7">
+       I feel the knife already at my throat;
+      </l>
+      <l n="8">
+       Death is the certain doom of all mankind —
+      </l>
+      <l n="9">
+       To learn to die is an heroic work: —
+      </l>
+      <l n="10">
+       But thus to die an ignominious death —
+      </l>
+      <l n="11">
+       Without a trial, or the forms of law,
+      </l>
+      <l n="12">
+       Pronounc'd a traitor — hurry'd from the stage —
+      </l>
+      <l n="13">
+       Torn from existence as an useless worm,
+      </l>
+      <l n="14">
+       By a base, vile, assassinating hand,
+      </l>
+      <l n="15">
+       Fires all my soul with fury and revenge.
+      </l>
+      <l n="16">
+       Had I have met my fate at Villabar,
+      </l>
+      <l n="17">
+       And as a soldier fell, and mix'd my blood
+      </l>
+      <l n="18">
+       With the rich stream that yesterday pour'd off,
+      </l>
+      <l n="19">
+       (While freedom's genius stoop'd and drop'd a
+                                        tear,
+      </l>
+      <l n="20">
+       And held a golden urn in her right hand,
+      </l>
+      <l n="21">
+       To catch the fluid from each gaping wound,
+      </l>
+      <l n="22">
+       And rear'd her altar on the field of fame;)
+      </l>
+      <l n="23">
+       I'd died content, and spurn'd this nether world,
+      </l>
+      <l n="24">
+       And glori'd in the deathless name I left: —
+      </l>
+      <l n="25">
+       But, though tomorrow severs me from time,
+      </l>
+      <l n="26">
+       My soul is firm: — I view this little globe
+      </l>
+      <l n="27">
+       Hung on a single, half extinguish'd point: —
+      </l>
+      <l n="28">
+       That's not the sting which barbs the hand of
+                                        death,
+      </l>
+      <l n="29">
+       But my Maria — my lov'd, my virtuous wife: —
+      </l>
+      <l n="30">
+       Oh! could oblivion wrap her from my thoughts
+      </l>
+      <l n="31">
+       Until we meet where souls are free indeed.
+      </l>
+      <l n="32">
+       <stage>
+        Enter CONDE HARO.
+       </stage>
+      </l>
+      <l n="33">
+       Hah! who bends this way? — the Conde Haro —
+      </l>
+      <l n="34">
+       Rank cowardice in guilt's gigantic garb! —
+      </l>
+      <l n="35">
+       Has victory eras'd the noble flame
+      </l>
+      <l n="36">
+       Of sympathy in thine heroic breast,
+      </l>
+      <l n="37">
+       That thou can'st wish, mid'st glory and applause,
+      </l>
+      <l n="38">
+       To taste the triumph of infernal minds,
+      </l>
+      <l n="39">
+       And thus insult e'en in the pangs of death? —
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="40">
+       Far other thoughts pervade my friendly breast.
+      </l>
+      <l n="41">
+       Though in the field, the king commands my sword,
+      </l>
+      <l n="42">
+       My heart I give to virtue in distress.
+      </l>
+      <l n="43">
+       Though warmly urg'd thy pardon or reprieve,
+      </l>
+      <l n="44">
+       Velasco's will, inexorably stern,
+      </l>
+      <l n="45">
+       Has fix'd the moment that completes thy date.
+      </l>
+      <l n="46">
+       What can I more — to sooth thy wounded mind?
+      </l>
+      <l n="47">
+       Say — dost thou wish to see thy lov'd Maria? —
+      </l>
+      <l n="48">
+       Or pour a blessing on the insant head
+      </l>
+      <l n="49">
+       Of thy young son, and bid a last adieu? —
+      </l>
+      <l n="50">
+       But if this tender scene's too big with grief,
+      </l>
+      <l n="51">
+       Then write whate'er conjugal love inspires,
+      </l>
+      <l n="52">
+       Or the paternal heart would wish to say: —
+      </l>
+      <l n="53">
+       De haro's honour is the pledge of truth;
+      </l>
+      <l n="54">
+       I'll sacredly transmit the precious charge,
+      </l>
+      <l n="55">
+       Nor shall a mortal eye profane the seals.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="56">
+       Too generous De Haro! — my full heart,
+      </l>
+      <l n="57">
+       In tears of blood, shall mark my gratitude;
+      </l>
+      <l n="58">
+       And my last breath its benediction pour
+      </l>
+      <l n="59">
+       On worth — on glory — dignify'd as thine,
+      </l>
+      <l n="60">
+       With all that's noble in a human soul.
+      </l>
+      <l n="61">
+       But ah! — too flattering to such a wretch —
+      </l>
+      <l n="62">
+       To see Maria once, is fancy'd bliss
+      </l>
+      <l n="63">
+       The Deity has plac'd beyond my reach.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="64">
+       A faithful friend shall lead thee safely on,
+      </l>
+      <l n="65">
+       My sword — my vest — my helmet, thy defence;
+      </l>
+      <l n="66">
+       If any curious prying eye purses,
+      </l>
+      <l n="67">
+       Or asks thy errand, or demands thy name,
+      </l>
+      <l n="68">
+       Pause not, nor speak, but shew De Haro's seal.
+      </l>
+      <l n="69">
+       But on the moment that the midnight bell
+      </l>
+      <l n="70">
+       Strikes its last note, and grates thy wounded
+                                        ear,
+      </l>
+      <l n="71">
+       With the severest pang thou yet hast felt,
+      </l>
+      <l n="72">
+       Thou must return — and when we meet again,
+      </l>
+      <l n="73">
+       Then say my friend — — — —
+      </l>
+      <l n="74">
+       If one base thought has e'er deform'd my soul.
+      </l>
+     </sp>
+     <stage>
+      Hurries off Don Juan in his own habit.
+     </stage>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      DON VELASCO and DONNA LOUISA.
+     </stage>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="1">
+       Presumptuous
+       maid — how durst
+                                        thou disobey,
+      </l>
+      <l n="2">
+       And rush abroad, amid tumultuous scenes,
+      </l>
+      <l n="3">
+       And risque the wrath of an offended sire?
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="4">
+       Excuse, my lord, this hasty, bold intrusion;
+      </l>
+      <l n="5">
+       The boon I ask admits of no delay.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="6">
+       What means this daring importuning girl?
+      </l>
+      <l n="7">
+       What brought thee to the threshold of a jail?
+      </l>
+      <l n="8">
+       Thy trembling gestures and thy frighted mein,
+      </l>
+      <l n="9">
+       Are sad presages that relieve thy tongue
+      </l>
+      <l n="10">
+       Ere it betrays some bold accurs'd request.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="11">
+       All gracious fire, whose goodness I adore,
+      </l>
+      <l n="12">
+       Thus on my bended knee, my bleeding heart,
+      </l>
+      <l n="13">
+       Swell'd with its gratitude, as if 'twould burst,
+      </l>
+      <l n="14">
+       Intreats thee once to hear Don Francis speak,
+      </l>
+      <l n="15">
+       Ere thy lip dooms to death the bravest man.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="16">
+       What int'rest hast thou in a rebel life,
+      </l>
+      <l n="17">
+       That thus in tears — in agonies of grief —
+      </l>
+      <l n="18">
+       In weeds of woe, thou pleadest for Don Francis?
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="19">
+       The first impression of my early youth,
+      </l>
+      <l n="20">
+       Thine own injunction, and my insant heart,
+      </l>
+      <l n="21">
+       Taught me to love — whate'er Maria lov'd —
+      </l>
+      <l n="22">
+       Her brother. — — — —
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="23">
+       — — — — — — dies, as her husband shall;
+      </l>
+      <l n="24">
+       Nor will thy tears retard the blow
+      </l>
+      <l n="25">
+       Due to a traitor's crimes. — — — —
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="26">
+       Oh! grant an audience ere his fate is seal'd.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="27">
+       Think not I am deceiv'd, audacious maid!
+      </l>
+      <l n="28">
+       'Tis not a childish fondness for Maria
+      </l>
+      <l n="29">
+       Wakes up a zeal that misbecomes thy sex —
+      </l>
+      <l n="30">
+       'Tis baser passions foster'd in thy soul;
+      </l>
+      <l n="31">
+       Don Francis is the object of thy love: —
+      </l>
+      <l n="32">
+       Thy quick blood flows, and loose desires now play
+      </l>
+      <l n="33">
+       About thy heart, and wanton in thy eye;
+      </l>
+      <l n="34">
+       Yet sense of shame, still burns thy redden'd
+                                        cheek,
+      </l>
+      <l n="35">
+       And cinders the smooth blush of innocence;
+      </l>
+      <l n="36">
+       But I've the means to cool thy hot brain'd flame,
+      </l>
+      <l n="37">
+       And from disgrace my family retrieve.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="38">
+       Oh! spare Louisa — save thy hapless child !
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="39">
+       Think not to melt my rigid purpose down;
+      </l>
+      <l n="40">
+       Forbear to practise hackney'd female arts,
+      </l>
+      <l n="41">
+       Thy sex's tears have ruin'd half mankind.
+      </l>
+      <l n="42">
+       My heart near bursts whene'er I bend my eye
+      </l>
+      <l n="43">
+       On such a worthless fragment of my house:
+      </l>
+      <l n="44">
+       But for Zelinda's image on thy brow
+      </l>
+      <l n="45">
+       I'd spurn at once from my indignant soul
+      </l>
+      <l n="46">
+       The lying semblance of so fair a form.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="47">
+       By the dear mem'ry of that sainted name
+      </l>
+      <l n="48">
+       Forgive her daughter's agony of soul.
+      </l>
+      <l n="49">
+       Zelinda, oh! — compassionate my woes —
+      </l>
+      <l n="50">
+       Look down, bless'd saint, from thy divine abode,
+      </l>
+      <l n="51">
+       And teach my sire to pity thy Louisa.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="52">
+       While guilt hangs on thy base degen'rate lip,
+      </l>
+      <l n="53">
+       Durst thou appeal to purity itself? —
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="54">
+       This keen reproach distracts my tortur'd soul —
+      </l>
+      <l n="55">
+       A thoght unworthy of Zelinda's self,
+      </l>
+      <l n="56">
+       Ne'er found a place in this my spotless heart.
+      </l>
+     </sp>
+     <stage>
+      Enter DON PEDRO.
+     </stage>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="57">
+       Then will I now bestow thee caste and pure,
+      </l>
+      <l n="58">
+       And bless the noble Pedro with thy hand;
+      </l>
+      <l n="59">
+       Thou art his bride — bound by my solemn oath,
+      </l>
+      <l n="60">
+       A just reward for loyalty and faith.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="61">
+       Now all ye powers of earth and heaven, save
+      </l>
+      <l n="62">
+       From this last stroke — this worst of human ills! —
+      </l>
+     </sp>
+     <sp who="#donpedroghiron">
+      <speaker>
+       Pedro.
+      </speaker>
+      <l n="63">
+       I am too bless'd, by such an heavenly gift.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="64">
+       Revoke thy sentence — snatch me from perdition —
+      </l>
+      <l n="65">
+       Or let me die with him my heart adores.
+      </l>
+     </sp>
+     <stage>
+      sinks on her knee before her father, and faints.
+     </stage>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <stage>
+       Lays his hand on her forehead.
+      </stage>
+      <l n="66">
+       I've gone too far — yet there's some curs'd
+                                        design,
+      </l>
+      <l n="67">
+       Some mystery conceal'd — that neither she,
+      </l>
+      <l n="68">
+       Nor yet De Haro's bold and dauntless tongue,
+      </l>
+      <l n="69">
+       Dare ope before an injur'd father's eye.
+      </l>
+      <l n="70">
+       Poor lifeless maid — sure she's not dead; —
+      </l>
+      <l n="71">
+       She almost wakes compassion in my breast:
+      </l>
+      <l n="72">
+       But let my ear be deaf — my heart be fear'd
+      </l>
+      <l n="73">
+       To every soft sensation of the soul,
+      </l>
+      <l n="74">
+       'Till infamy is wip'd from off my house.
+      </l>
+     </sp>
+     <sp who="#donpedroghiron">
+      <speaker>
+       Pedro.
+      </speaker>
+      <stage>
+       Raises, and holds Louisa in his arms.
+      </stage>
+      <l n="75">
+       Spare her awhile, and let the storm subside;
+      </l>
+      <l n="76">
+       The mind that's soften'd thus by love and grief,
+      </l>
+      <l n="77">
+       Must, like the babe of innocence, be lull'd
+      </l>
+      <l n="78">
+       And gently sooth'd, and fondled into peace.
+      </l>
+      <l n="79">
+       See, she revives — speak soft and kindly
+      </l>
+      <l n="80">
+       To the charming maid. — — —
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <stage>
+       Opens her eyes and finds herself in Pedro's arms — shricks, and starts from him.
+      </stage>
+      <l n="81">
+       The tardy hand of death still lengthens out
+      </l>
+      <l n="82">
+       A life of woe — — Hah! where am I —
+      </l>
+      <l n="83">
+       On earth — the grave — in hades — or in hell? —
+      </l>
+      <l n="84">
+       Art thou the fiend chain'd to my frighted soul,
+      </l>
+      <l n="85">
+       To add new tortures to the shades below? —
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="86">
+       Be calm, thou frantic girl —
+       <stage>
+        [ Stops, and holds her.
+       </stage>
+      </l>
+      <l n="87">
+       Nor thus enrag'd fly from thy husband's arms.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="88">
+       Was I the price, for which at Villabar,
+      </l>
+      <l n="89">
+       That perjur'd wight, betray'd and sold his
+                                        friends!
+      </l>
+      <l n="90">
+       Go, minion! traitor! hide thy guilty head,
+      </l>
+      <l n="91">
+       Thy country blushes that she gave thee birth.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="92">
+       Respect becomes thy lip — he is thy lord. — —
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="93">
+       As much as does my soul abhor his name,
+      </l>
+      <l n="94">
+       If possible, I more despise than hate,
+      </l>
+      <l n="95">
+       The infamous — the cowardly Don Pedro.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="96">
+       Pedro, retire — I'll bend her to thy will —
+      </l>
+      <l n="97">
+       She shall be thine — thou art my son —
+      </l>
+      <l n="98">
+       By all the saints and angels I adore,
+      </l>
+      <l n="99">
+       This eve shall solemnize the nuptial rights;
+      </l>
+      <l n="100">
+       Ere Francis dies — let consummation crown
+      </l>
+      <l n="101">
+       Don Pedro's wish, and wake full vengeance up.
+      </l>
+     </sp>
+     <stage>
+      Exit Pedro.
+     </stage>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="102">
+       Alas! my sire — Oh! let religion plead: —
+      </l>
+      <l n="103">
+       Forgive thy child, and bless me ere I die.
+      </l>
+      <l n="104">
+       Pardon the purpose of my daring soul:
+      </l>
+      <l n="105">
+       But ere I yield, I'll bare my filial breast,
+      </l>
+      <l n="106">
+       Meet the drawn dagger's point, and kiss the
+                                        poignard
+      </l>
+      <l n="107">
+       In my father's hand — uplift in wrath,
+      </l>
+      <l n="108">
+       Its edge to bury in this spotless breast —
+      </l>
+      <l n="109">
+       A breast replete with duty and respect —
+      </l>
+      <l n="110">
+       With every sentiment that heaven requires,
+      </l>
+      <l n="111">
+       Or to paternal or conjugal love —
+      </l>
+      <l n="112">
+       From thy fond daughter, or Don Francis' wife.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="113">
+       Don Francis' wife! — Heaven blast my cars! —
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="114">
+       His wife — his wedded wife —
+      </l>
+      <l n="115">
+       Nor let the grave, the sacred tie dissolve:
+      </l>
+      <l n="116">
+       By the same sanction let us perish both,
+      </l>
+      <l n="117">
+       Or both be bless'd, and by thy pardon live.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="118">
+       Could my Louisa prostitute her fame;
+      </l>
+      <l n="119">
+       In a mad fit of wanton love, entail
+      </l>
+      <l n="120">
+       Disgrace eternal, on the illustrious name
+      </l>
+      <l n="121">
+       Of Don Velasco! — abandon'd girl! —
+      </l>
+      <l n="122">
+       Then take my sword, and use it as ye list;
+      </l>
+      <l n="123">
+       Thy paramour this moment meets the death
+      </l>
+      <l n="124">
+       Thy perfidy extorts and his deserves.
+      </l>
+     </sp>
+     <stage>
+      Exit Velasco.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IV.
+     </head>
+     <stage>
+      Street before Don Juan's House.
+     </stage>
+     <stage>
+      DON JUAN DE PADILLA and DON FRANCIS.
+     </stage>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="1">
+       Friend
+       of my early youth — my
+                                        brave Don Francis —
+      </l>
+      <l n="2">
+       Unlike the world — a friend in fortune's wane;
+      </l>
+      <l n="3">
+       Thou hast a soul that dares to mix with grief,
+      </l>
+      <l n="4">
+       And kindly seek'st thy wretched sister out
+      </l>
+      <l n="5">
+       To sooth the anguish of extreme distress.
+      </l>
+      <l n="6">
+       But how did'st thou escape thy gloomy cell? —
+      </l>
+      <l n="7">
+       Or by what means elude the watchful guard? —
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="8">
+       In sables clad, my face bedew'd with tears,
+      </l>
+      <l n="9">
+       The guards suppos'd I was thy noble sire,
+      </l>
+      <l n="10">
+       Who had permission to embrace his son,
+      </l>
+      <l n="11">
+       Ere death had seal'd an heirless father's woe.
+      </l>
+      <l n="12">
+       But on parole, I have De Haro's leave
+      </l>
+      <l n="13">
+       To fly to Charles, and in Velasco's name,
+      </l>
+      <l n="14">
+       To sue for pardon from the emperor's hand,
+      </l>
+      <l n="15">
+       And claim my bride by his Zelinda's ring: —
+      </l>
+      <l n="16">
+       He gave me both his signet and command,
+      </l>
+      <l n="17">
+       And bade me on the moment haste away;
+      </l>
+      <l n="18">
+       The next he said perhaps betray'd to death.
+      </l>
+      <l n="19">
+       I caught the letters with a rapturous hand,
+      </l>
+      <l n="20">
+       And kiss'd the seals, and dropt a grateful tear;
+      </l>
+      <l n="21">
+       I've waited but to bid my friend adieu,
+      </l>
+      <l n="22">
+       But not to see thy wife till I return.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="23">
+       Ah! — if thou can'st retrieve so brave a life,
+      </l>
+      <l n="24">
+       Protect Maria, and her infant son;
+      </l>
+      <l n="25">
+       Let them not languish in a servile land,
+      </l>
+      <l n="26">
+       To watch the nod of some imperious lord.
+      </l>
+      <l n="27">
+       Then tell the gazing citizens, who o'er
+      </l>
+      <l n="28">
+       My breathless corpse, before the morrow close,
+      </l>
+      <l n="29">
+       Will weep, and sigh, and curse my hapless fate,
+      </l>
+      <l n="30">
+       That they have cherish'd many valiant sons,
+      </l>
+      <l n="31">
+       Who amply may avenge my early death,
+      </l>
+      <l n="32">
+       And teach the world that fortune ne'er stands still:
+                                        —
+      </l>
+      <l n="33">
+       In the routine of her uncertain wheel,
+      </l>
+      <l n="34">
+       She soon may jilt her fondled, favour'd sons.
+      </l>
+      <l n="35">
+       The sycophant and prince may both be taught,
+      </l>
+      <l n="36">
+       A sceptre's but the plaything of a day.
+      </l>
+      <l n="37">
+       Then let my father, noble Lopez, know
+      </l>
+      <l n="38">
+       Don Juan died, as Lopez' son should die,
+      </l>
+      <l n="39">
+       A dauntless martyr in his country's cause.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="40">
+       Thy orders shall be punctually obey'd.
+      </l>
+      <l n="41">
+       I with my blood will seal the sacred charge;
+      </l>
+      <l n="42">
+       Though I could willing leave so base a world,
+      </l>
+      <l n="43">
+       And share with thee, the glory of thy death;
+      </l>
+      <l n="44">
+       Yet, for Louisa's sake, I wish to live.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="45">
+       Thou must away — 'tis death to linger here —
+      </l>
+      <l n="46">
+       'Tis rashness in extreme — thou can't escape
+      </l>
+      <l n="47">
+       The prying eyes that lurk for human blood: —
+      </l>
+      <l n="48">
+       Thy mein and aspect cannot be conceal'd —
+      </l>
+      <l n="49">
+       Thy soul shines through, and virtue's here a
+                                        crime.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE V.
+     </head>
+     <stage>
+      DON JUAN's House — DONNA MARIA looking pensively into a Garden from her Apartment — Thunder and Lightning.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <stage>
+       Enter JUAN in the Armour and Habit of a royal Officer. — MARIA starting, accosts him.
+      </stage>
+      <l n="1">
+       Those
+       solemn groves — those
+                                        spacious, shaded walks,
+      </l>
+      <l n="2">
+       Whose lofty tops salute the skirted clouds,
+      </l>
+      <l n="3">
+       And speak the grandeur of their ancient lords,
+      </l>
+      <l n="4">
+       Bend down their heads, responsive, to the skies,
+      </l>
+      <l n="5">
+       Which murmur thunders o'er Hesperia's fall.
+      </l>
+      <l n="6">
+       Sure nature joins to bend my spirits down,
+      </l>
+      <l n="7">
+       And rive the bolts through my distracted soul,
+      </l>
+      <l n="8">
+       That distant thunders shake the trembling dome,
+      </l>
+      <l n="9">
+       And storms irruptive tear the shatter'd skies.
+      </l>
+      <l n="10">
+       Hah! — dar'st thou come alone, thou miscreant
+                                        slave!
+      </l>
+      <l n="11">
+       Think'st thou that mine is such a dastard soul
+      </l>
+      <l n="12">
+       To yield at sight of one of Charles's band? —
+      </l>
+      <l n="13">
+       My single arm shall be a match for thine.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="14">
+       This interview — this moment is my own — — —
+      </l>
+     </sp>
+     <stage>
+      Approaching.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="15">
+       Off, ruffian, off! — or by the powers above,
+      </l>
+      <l n="16">
+       The next shall fix a dagger in thy heart.
+      </l>
+     </sp>
+     <stage>
+      Draws a poignard from under her robe.
+     </stage>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="17">
+       On this last night that thy Padilla lives,
+      </l>
+      <l n="18">
+       Oh I let me clasp thee to my faithful breast.
+      </l>
+     </sp>
+     <stage>
+      Throws off his disguise.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="19">
+       Immortal powers! — Say, do my eyes behold
+      </l>
+      <l n="20">
+       The injur'd ghost of my deceased lord?
+      </l>
+      <l n="21">
+       Or does my husband — my Don Juan live? —
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="22">
+       He lives indeed — this one short hour he lives.
+      </l>
+      <l n="23">
+       When through the sharpest storms of life he sees
+      </l>
+      <l n="24">
+       Thee firmly stand — by fortitude secur'd,
+      </l>
+      <l n="25">
+       'Tis worth a world to sold thee to my heart.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="26">
+       Did not my lord — my lov'd Padilla fall,
+      </l>
+      <l n="27">
+       Amidst the carnage of the noon tide rout? —
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="28">
+       The faithful Socia reported thus,
+      </l>
+      <l n="29">
+       Left thou should'st perish in some rash attempt
+      </l>
+      <l n="30">
+       To see thy Juan, and neglect thy son.
+      </l>
+      <l n="31">
+       But a severer doom awaits my fate;
+      </l>
+      <l n="32">
+       I, on the morrow, as a traitor die.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="33">
+       Jehovah stoop, and lend thy potent arm,
+      </l>
+      <l n="34">
+       To snatch the virtuous from so vile a fate;
+      </l>
+      <l n="35">
+       Or let these curling fires, which, from the
+                                        North,
+      </l>
+      <l n="36">
+       Emblazon nature's face from pole to pole,
+      </l>
+      <l n="37">
+       In mantling flames, in one devouring wreck,
+      </l>
+      <l n="38">
+       Sweep down the stars and crush this nether world.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="39">
+       The Deity enwraps his dark decrees
+      </l>
+      <l n="40">
+       Beyond the ken of man's presumptuous eye: —
+      </l>
+      <l n="41">
+       Yet souls sublime, serenely look abroad,
+      </l>
+      <l n="42">
+       And bid the howling tempests rage in vain.
+      </l>
+      <l n="43">
+       Though livid lightnings blaze from north to
+                                        south,
+      </l>
+      <l n="44">
+       The tempests of this last tremendous night
+      </l>
+      <l n="45">
+       Are as the breeze that wafts the gentle bark
+      </l>
+      <l n="46">
+       Down the still tide, when every gale is hush'd —
+      </l>
+      <l n="47">
+       If my Maria's mind supports its poise,
+      </l>
+      <l n="48">
+       And smiles, superiour to the shocks of fate,
+      </l>
+      <l n="49">
+       They cannot reach the soul that spurns the world —
+      </l>
+      <l n="50">
+       Its tinsel'd toys — its titles, and its wealth.
+      </l>
+      <l n="51">
+       The tribute of a life, I hold but small,
+      </l>
+      <l n="52">
+       Could it repurchase liberty to Spain: —
+      </l>
+      <l n="53">
+       Yet he is free — and he alone is free —
+      </l>
+      <l n="54">
+       Who conquers passion, and subjects his will,
+      </l>
+      <l n="55">
+       When his misfortunes thicken in the skies.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="56">
+       No more, my lord — the test is too severe —
+      </l>
+      <l n="57">
+       I feel my boasted fortitude will fail.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="58">
+       Oh! spare my heart — — —
+      </l>
+      <l n="59">
+       The plaintive accents of thy voice restrain,
+      </l>
+      <l n="60">
+       Nor sharpen, by thy tears, the pangs of death.
+      </l>
+      <l n="61">
+       My heart I leave — nought else can I bestow,
+      </l>
+      <l n="62">
+       And once ye thought the world could give no more.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="63">
+       Ah! — every tender pang that woe can paint,
+      </l>
+      <l n="64">
+       Or for my country — or my much lov'd lord,
+      </l>
+      <l n="65">
+       Distracts and wounds my agitated breast.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="66">
+       Forbear to pain my tortur'd soul afresh;
+      </l>
+      <l n="67">
+       Exert thyself — magnanimously stand,
+      </l>
+      <l n="68">
+       And save thy son — the city, and thyself.
+      </l>
+      <l n="69">
+       Protect and guard the lovely smiling boy,
+      </l>
+      <l n="70">
+       The only pledge of our unspotted loves,
+      </l>
+      <l n="71">
+       'Till he, enraptur'd, hangs upon thy lip;
+      </l>
+      <l n="72">
+       While his bright eyeballs swim in filial tears,
+      </l>
+      <l n="73">
+       To hear the accents of his dying sire,
+      </l>
+      <l n="74">
+       Tenfold enhanc'd by thy descriptive tongue.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="75">
+       Maternal softness weakens my resolve,
+      </l>
+      <l n="76">
+       And wakes new fears — thou dearst, best of men,
+      </l>
+      <l n="77">
+       Torn from thy side, I'm levell'd with my sex.
+      </l>
+      <l n="78">
+       The wife — the mother — make me less than woman.
+      </l>
+     </sp>
+     <stage>
+      Maria opens an adjacent apartment, and shews the infant in the arms of his nurse.
+     </stage>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="79">
+       Let angel innocence lie soft and still,
+      </l>
+      <l n="80">
+       Nor call the dew drops to the infant eye
+      </l>
+      <l n="81">
+       By sympathetic, fond, parental tears.
+      </l>
+      <l n="82">
+       Tell him, the last bequest his father gave,
+      </l>
+      <l n="83">
+       The only legacy that heaven has lent,
+      </l>
+      <l n="84">
+       Was this strict charge, breath'd in his latest
+                                        sigh,
+      </l>
+      <l n="85">
+       Be good, and just, as thou art nobly born,
+      </l>
+      <l n="86">
+       Nor yield thy liberty but with thy life.
+      </l>
+     </sp>
+     <stage>
+      Juan wipes off a tear, and attempts to withdraw in silence.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="87">
+       Oh! leave me not, thus wretched and forlorn! —
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <stage>
+       Clock strikes one.
+      </stage>
+      <l n="88">
+       How like a thief has time stol'n on my wish! —
+      </l>
+      <l n="89">
+       Must I away — hah! — this is death —
+      </l>
+      <l n="90">
+       The bitterness of death. — — —
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="91">
+       Wilt thou return, and on the scaffold bare
+      </l>
+      <l n="92">
+       Thy yielding neck, and as a traitor die?
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="93">
+       Though tottering on the margin of the grave,
+      </l>
+      <l n="94">
+       For Charles's fortune balanc'd in the scale,
+      </l>
+      <l n="95">
+       Or all the gold in Montezuma's realm,
+      </l>
+      <l n="96">
+       I'd not exchange my probity of soul,
+      </l>
+      <l n="97">
+       Unsulli'd honour, and unblasted fame.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="98">
+       Is sentence past — irrevocably past —
+      </l>
+      <l n="99">
+       Then try the courage of a female heart,
+      </l>
+      <l n="100">
+       And let me die with thee — the treasons I avow —
+      </l>
+      <l n="101">
+       The crime is mine: — I can as bravely die,
+      </l>
+      <l n="102">
+       As e'er a Grecian, or a Roman dame —
+      </l>
+      <l n="103">
+       And smile at Portia's celebrated feat,
+      </l>
+      <l n="104">
+       Who drew her blood to worm a secret out: —
+      </l>
+      <l n="105">
+       I'll kiss the glittering ax and hug the shroud
+      </l>
+      <l n="106">
+       That wraps me ever from a servile world.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="107">
+       Retard me not — but bid me haste away.
+      </l>
+      <l n="108">
+       Thy virtue's rais'd so far above thy sex,
+      </l>
+      <l n="109">
+       Come plight thy vow, thy sacred, faithful vow,
+      </l>
+      <l n="110">
+       That fortune's roughest blasts, blight not thy
+                                        fame.
+      </l>
+      <l n="111">
+       This moment, by appointment, is my friend's,
+      </l>
+      <l n="112">
+       It is the last that time has lent to love; —
+      </l>
+      <l n="113">
+       My honour calls — her voice I must obey.
+      </l>
+     </sp>
+     <stage>
+      Going.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="114">
+       Oh stay! — Oh stay! — 'twas not the midnight toll —
+      </l>
+      <l n="115">
+       One hour more let envious time bestow.
+      </l>
+     </sp>
+     <sp who="#donjuandepadilla">
+      <speaker>
+       Don Juan.
+      </speaker>
+      <l n="116">
+       My throbbing heart from guile was ever free:
+      </l>
+      <l n="117">
+       No breach of faith shall mark me for a knave.
+      </l>
+      <l n="118">
+       Thou dost not wish — not ev'n to purchase life,
+      </l>
+      <l n="119">
+       To stain my honour by a fraudful deed: —
+      </l>
+      <l n="120">
+       No — when I'm shrouded in my peaceful tomb,
+      </l>
+      <l n="121">
+       No impious, servile tongue shall e'er reproach
+      </l>
+      <l n="122">
+       My name — my memory — my life, or fame.
+      </l>
+      <l n="123">
+       Adieu! my love — Adieu! to life and time —
+      </l>
+      <l n="124">
+       One last embrace, and I am gone — forever.
+      </l>
+     </sp>
+     <stage>
+      Embraces, and retires hastily.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="125">
+       Oh! harsh and cruel sound — adieu! — forever —
+      </l>
+      <l n="126">
+       He's gone — — — —
+      </l>
+      <l n="127">
+       And heav'n's broad eye beholds the fatal stroke,
+      </l>
+      <l n="128">
+       And thunders vengeance from the louring skies.
+      </l>
+      <l n="129">
+       — — — — — — — — —
+       <stage>
+        [ A solemn pause.
+       </stage>
+      </l>
+      <l n="130">
+       When his great soul ascends the broad expanse,
+      </l>
+      <l n="131">
+       Let angels guard him through the widen'd dome.
+      </l>
+      <l n="132">
+       But shall Maria shroud herself in grief,
+      </l>
+      <l n="133">
+       And sink beneath life's disappointed hopes,
+      </l>
+      <l n="134">
+       A feeble victim to her own despair? —
+      </l>
+      <l n="135">
+       A soul, inspir'd by freedom's genial warmth,
+      </l>
+      <l n="136">
+       Expands — grows firm — and by resistance,
+                                        strong:
+      </l>
+      <l n="137">
+       The most successful prince that offers life,
+      </l>
+      <l n="138">
+       And bids me live upon ignoble terms,
+      </l>
+      <l n="139">
+       Shall learn from me that virtue seldom fears. —
+      </l>
+      <l n="140">
+       Death kindly opes a thousand friendly gates,
+      </l>
+      <l n="141">
+       And freedom waits to guard her votaries through.
+      </l>
+     </sp>
+     <stage>
+      Exit.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT V.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria,
+      </speaker>
+      <stage>
+       with her young Son clad in mourning — a Standard borne before him, on which is represented his Father's Death — accompanied by Zamora and a Procession of Friends — she addresses the Citizens, Soldiers, &amp;.mp;c. &amp;.mp;c. &amp;.mp;c.
+      </stage>
+      <l n="1">
+       Behold,
+       ye virtuous citizens of
+                                        Spain,
+      </l>
+      <l n="2">
+       The remnant of Don Juan's noble house;
+      </l>
+      <l n="3">
+       See here the son of your late murder'd lord;
+      </l>
+      <l n="4">
+       Behold his infant innocence that weeps
+      </l>
+      <l n="5">
+       A father's fall, ere yet he'd learn'd to lisp
+      </l>
+      <l n="6">
+       That sacred name, which cruelty dissolv'd.
+      </l>
+      <l n="7">
+       If heaven and earth decree the world to Charles —
+      </l>
+      <l n="8">
+       If Spain's prepar'd to wear the badge of slaves,
+      </l>
+      <l n="9">
+       And degradation marks the bleeding realm —
+      </l>
+      <l n="10">
+       Then, in the front of this respected band,
+      </l>
+      <l n="11">
+       Grant me one boon — that yet some gen'rous arm,
+      </l>
+      <l n="12">
+       Unstain'd by vice, or dip'd in guiltless blood,
+      </l>
+      <l n="13">
+       Would smite the breast of this his infant son,
+      </l>
+      <l n="14">
+       And lay him gently in his father's tomb,
+      </l>
+      <l n="15">
+       As the last heir of Spain's expiring worth
+      </l>
+      <l n="16">
+       That freedom's genius offers to the gods: —
+      </l>
+      <l n="17">
+       She stoop'd, and dip'd her target in the gore
+      </l>
+      <l n="18">
+       That copious rush'd from noble Juan's wounds.
+      </l>
+      <l n="19">
+       'Tis the cement, she cry'd, in stronger league
+      </l>
+      <l n="20">
+       To bind the liberal and unite the brave.
+      </l>
+      <l n="21">
+       'Tis in thine option, wisely did ye judge,
+      </l>
+      <l n="22">
+       To flourish long beneath her lenient reign;
+      </l>
+      <l n="23">
+       But if, ungratefully, ye spurn the gift,
+      </l>
+      <l n="24">
+       And fly the field, and yield the proffer's prize —
+      </l>
+      <l n="25">
+       Bend thy weak necks, and servilely submit,
+      </l>
+      <l n="26">
+       Affronted virtue leaves such dastard slaves
+      </l>
+      <l n="27">
+       To faint and tremble at a despot's nod.
+      </l>
+      <l n="28">
+       I, for myself, a bolder part design;
+      </l>
+      <l n="29">
+       And here, before the soldiers and the Cortes,
+      </l>
+      <l n="30">
+       In presence of the eternal King, I swear,
+      </l>
+      <l n="31">
+       Most solemnly I bind my free born soul,
+      </l>
+      <l n="32">
+       Ere I will live a slave, and kiss the hand
+      </l>
+      <l n="33">
+       That o'er my country clanks a servile chain,
+      </l>
+      <l n="34">
+       I'll light the towers, and perish in the flames,
+      </l>
+      <l n="35">
+       And smile and triumph in the general wreck.
+      </l>
+      <l n="36">
+       Come, shew one sample of heroic worth,
+      </l>
+      <l n="37">
+       Ere ancient Spain, the glory of the west,
+      </l>
+      <l n="38">
+       Bends abject down — by all the nations scorn'd: —
+      </l>
+      <l n="39">
+       Secure the city — barricade the gates,
+      </l>
+      <l n="40">
+       And meet me arm'd with all the faithful bands:
+      </l>
+      <l n="41">
+       I'll head the troops, and mount the prancing
+                                        steed;
+      </l>
+      <l n="42">
+       The courser guide, and vengeance pour along
+      </l>
+      <l n="43">
+       Amidst the ranks, and teach the slaves of Charles
+      </l>
+      <l n="44">
+       Not Semiramis' or Zenobia's fame
+      </l>
+      <l n="45">
+       Outstrips the glory of Maria's name.
+      </l>
+     </sp>
+     <stage>
+      Exit.
+     </stage>
+     <stage>
+      The people shout, and fly to arms.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      A Battle without — the City taken by Conde Haro — Donna Maria fled to the Citadel — the little Son of Don Juan asleep on a Sofa — Maria weeping over him.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="1">
+       Though
+       all is lost, and
+                                        subjugated Spain
+      </l>
+      <l n="2">
+       Lies bleeding at the footstool of a king,
+      </l>
+      <l n="3">
+       I yet would live, for this young cherub's sake: —
+      </l>
+      <l n="4">
+       Yet what insures his mind unstain'd and pure?
+      </l>
+      <l n="5">
+       Nartur'd in venal, sycophantic schools —
+      </l>
+      <l n="6">
+       Eras'd each sterling virtue of the soul —
+      </l>
+      <l n="7">
+       Debas'd — new coin'd in flattery's servile mint,
+      </l>
+      <l n="8">
+       He may become a pander to a prince.
+      </l>
+      <l n="9">
+       Ah! — thus to see Don Juan's son enslav'd,
+      </l>
+      <l n="10">
+       Shocks more than death in its most frightful
+                                        form.
+      </l>
+      <l n="11">
+       O guard him, angels — guard him, powers supreme,
+      </l>
+      <l n="12">
+       From the contagion of each vulgar vice,
+      </l>
+      <l n="13">
+       Or the more splendid guilt that stalks in courts! —
+      </l>
+      <l n="14">
+       <stage>
+        Enter CONDE HARO.
+       </stage>
+      </l>
+      <l n="15">
+       Why this fresh insolence, thou barbarous man
+      </l>
+      <l n="16">
+       Thus to obtrude and doubly wound my soul,
+      </l>
+      <l n="17">
+       And blast my eyes by such a hated sight,
+      </l>
+      <l n="18">
+       The blood stain'd murd'rer of my injur'd lord.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="19">
+       O hear me once, and then pronounce my doom.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="20">
+       Thy every word accumulates thy guilt,
+      </l>
+      <l n="21">
+       And barbs the pointed dagger in my breast.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="22">
+       Fain would I sooth and mitigate thy grief.
+      </l>
+     </sp>
+     <stage>
+      Advancing.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="23">
+       O death relieve, and shroud from mortal eye —
+      </l>
+      <l n="24">
+       Give my indignant soul a larger field —
+      </l>
+      <l n="25">
+       It burns — it beats — it bursts — oh! give it
+                                        way,
+      </l>
+      <l n="26">
+       Ere it in atoms tears thy trembling frame —
+      </l>
+      <l n="27">
+       This shatter'd casement opes —
+       <stage>
+        [ Lays her hand on her breast.
+       </stage>
+      </l>
+      <l n="28">
+       Traitor, stand off —
+      </l>
+      <l n="29">
+       Or, like a furious spectre, bath'd in blood,
+      </l>
+      <l n="30">
+       Arm'd with the fangs of horror and despair,
+      </l>
+      <l n="31">
+       It hastens on, and drags thee down to hell.
+      </l>
+     </sp>
+     <stage>
+      Runs wildly across the stage.
+     </stage>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="32">
+       Though nature works this storm of passion up,
+      </l>
+      <l n="33">
+       Reason must calm, and justice hear my plea.
+      </l>
+     </sp>
+     <stage>
+      Follows, and detains her.
+     </stage>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="34">
+       By force detain'd a prisoner — a slave —
+      </l>
+      <l n="35">
+       Oh! heavens and earth, and gods and men relieve —
+      </l>
+      <l n="36">
+       Revenge this outrage on my feeble sex!
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="37">
+       Not disrespect — 'tis veneration holds; —
+      </l>
+      <l n="38">
+       The Conde Haro's not the guilty thing,
+      </l>
+      <l n="39">
+       Thy sufferings, fate, and fortune represent.
+      </l>
+      <l n="40">
+       I fought Don Juan as my duty urg'd,
+      </l>
+      <l n="41">
+       Yet my heart bled when brave Padilla fell; —
+      </l>
+      <l n="42">
+       Now once permit — I'll lay a bosom ope,
+      </l>
+      <l n="43">
+       And bare a breast that heaven itself may read.
+      </l>
+      <l n="44">
+       The purest passion had subdu'd my heart,
+      </l>
+      <l n="45">
+       Before ill fortune made me Juan's foe;
+      </l>
+      <l n="46">
+       O! heav'n forgive — I lov'd his virtuous wife,
+      </l>
+      <l n="47">
+       And secret bore the heart corroding pangs.
+      </l>
+      <l n="48">
+       I lov'd in silence — smother'd all my flame —
+      </l>
+      <l n="49">
+       While honour — justice — every sacred tie,
+      </l>
+      <l n="50">
+       Had made its utterance the blackest crime.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="51">
+       And dost thou think to mitigate thy guilt,
+      </l>
+      <l n="52">
+       Thus to torment the brave Don Juan's wife? —
+      </l>
+      <l n="53">
+       To add to wretchedness — to fill up woe —
+      </l>
+      <l n="54">
+       Force her to hear thy black adulterous tongue? —
+      </l>
+      <l n="55">
+       Alas! the dismal croak — the voice of love
+      </l>
+      <l n="56">
+       From hell's dark gloom, would less dismay than
+                                        thine.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="57">
+       I wept the pangs that thy great soul must feel
+      </l>
+      <l n="58">
+       When thy Padilla was my prisoner made.
+      </l>
+      <l n="59">
+       Just heaven can witness what my soul endur'd
+      </l>
+      <l n="60">
+       When martial law announc'd his forfeit, life —
+      </l>
+      <l n="61">
+       A debt his sovereign and the state might claim.
+      </l>
+      <l n="62">
+       My car reluctant, heard the sentence pass'd,
+      </l>
+      <l n="63">
+       And instant death decreed to worth like his.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="64">
+       Forbear thy false dissimulating strains;
+      </l>
+      <l n="65">
+       Thy tongue pronounc'd the vile inglorious doom,
+      </l>
+      <l n="66">
+       That wrap'd in death the hero and the saint!
+      </l>
+      <l n="67">
+       And now complet'st the measure of thy guilt,
+      </l>
+      <l n="68">
+       Thus by compulsion, to detain his wife,
+      </l>
+      <l n="69">
+       To hear a moment thy detested love.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="70">
+       What furious passions play in that fair breast! —
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="71">
+       Old time shall tell, and every age record,
+      </l>
+      <l n="72">
+       Don Juan's worth, contrasted with thy guilt,
+      </l>
+      <l n="73">
+       When curious eyes shall seek the mouldering tomb;
+      </l>
+      <l n="74">
+       Where freedom wastes in tears beside the turf,
+      </l>
+      <l n="75">
+       And points the stranger to the sacred spot,
+      </l>
+      <l n="76">
+       Where death enrols her last distinguish'd son,
+      </l>
+      <l n="77">
+       Urg'd to his fate by probity and zeal,
+      </l>
+      <l n="78">
+       To save his country from a servile yoke.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="79">
+       I, the first witness of his merit stand —
+      </l>
+      <l n="80">
+       A generous wish to save and bless mankind,
+      </l>
+      <l n="81">
+       Urg'd him to glory in a devious path;
+      </l>
+      <l n="82">
+       No man can tread, but on perdition's brink,
+      </l>
+      <l n="83">
+       While standing armies swell the monarch's train,
+      </l>
+      <l n="84">
+       And kingdoms bend, and empires own the claim,
+      </l>
+      <l n="85">
+       Of mighty Charles, to keep the world in awe.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="86">
+       Away, thou coward! — cringing, dastard slave!
+      </l>
+      <l n="87">
+       Go fawn on kings, and boast thy prowess there;
+      </l>
+      <l n="88">
+       Tell that the brave, who ne'er could meanly bend,
+      </l>
+      <l n="89">
+       By cowardice were hurry'd to the block:
+      </l>
+      <l n="90">
+       'Twas coward fear that hasten'd Juan's death:
+      </l>
+      <l n="91">
+       As fortune play'd him once a losing game,
+      </l>
+      <l n="92">
+       Thou durst not let him live another day.
+      </l>
+      <l n="93">
+       Lest his good genius might have lent the means
+      </l>
+      <l n="94">
+       To extricate his country and himself,
+      </l>
+      <l n="95">
+       Thou'st added murder to thy list of crimes.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="96">
+       Reproach like this from any tongue but thine,
+      </l>
+      <l n="97">
+       Should on itself recoil, and blast the lip
+      </l>
+      <l n="98">
+       That wounds my honour — ne'er before impeach'd.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <stage>
+       Lays her hand on her brcast
+      </stage>
+      <l n="99">
+       Resent it as thou ought — I'm not afraid
+      </l>
+      <l n="100">
+       Of Conde Haro's sword — strike here, assassin!
+      </l>
+      <l n="101">
+       And complete thy work — dar'st thou not strike,
+      </l>
+      <l n="102">
+       Who hast beheld Don Juan on a scaffold,
+      </l>
+      <l n="103">
+       Breathless and pale, and as a felon die? —
+      </l>
+      <l n="104">
+       Give me a sword, I'll measure it with thine,
+      </l>
+      <l n="105">
+       For by the powers above, to thee I swear,
+      </l>
+      <l n="106">
+       Maria lives but to avenge his death.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="107">
+       What lioness has nurs'd thy tender years?
+      </l>
+      <l n="108">
+       Or can'st thou feel for every pain but mine?
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="109">
+       Then let me haste, and fly thy sight forever.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="110">
+       Pardon me, madam, while I urge my suit;
+      </l>
+      <l n="111">
+       I have some merit — so thy Juan thought —
+      </l>
+      <l n="112">
+       When grateful tears ran down his manly cheek.
+      </l>
+      <l n="113">
+       I have one plea that may restore my fame.
+      </l>
+      <l n="114">
+       A short adieu permitted by Velasco,
+      </l>
+      <l n="115">
+       I left my tent, and hasten'd to Don Juan,
+      </l>
+      <l n="116">
+       To sooth the sorrows of his noble soul,
+      </l>
+      <l n="117">
+       And make the tenders of a generous friend,
+      </l>
+      <l n="118">
+       'Twas his last wish — the latest boon of life,
+      </l>
+      <l n="119">
+       To see thee once, before the fatal stroke,
+      </l>
+      <l n="120">
+       Sever'd forever from the world's best gift: —
+      </l>
+      <l n="121">
+       I, in a soldier's habit, sent him on,
+      </l>
+      <l n="122">
+       As with a message from De Haro's hand,
+      </l>
+      <l n="123">
+       Myself a prisoner till he should return;
+      </l>
+      <l n="124">
+       As well I knew, not wealth, or crowns, or life,
+      </l>
+      <l n="125">
+       Nor thy superiour charms, would tempt abuse
+      </l>
+      <l n="126">
+       Of confidence thus plac'd in honour's breast.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="127">
+       Immortal powers! — am I a debtor made
+      </l>
+      <l n="128">
+       For the last blissful moment of my life,
+      </l>
+      <l n="129">
+       To him my soul, of all mankind, abhors?
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="130">
+       The debt was cancell'd when he call'd me,
+       friend,
+      </l>
+      <l n="131">
+       And bade me, with a tender, gentle hand,
+      </l>
+      <l n="132">
+       Wipe off Maria's tears, and save her son,
+      </l>
+      <l n="133">
+       And guard them both from peril and disgrace:
+      </l>
+      <l n="134">
+       Not honour's self, or gratitude, or love,
+      </l>
+      <l n="135">
+       Can plead a claim his merit don't erase.
+      </l>
+      <l n="136">
+       The godlike pleasure of conferring good
+      </l>
+      <l n="137">
+       On hearts so worthy, leaves me in arrears: —
+      </l>
+      <l n="138">
+       I stand indebted to thy noble lord.
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="139">
+       To what extremes is human nature wrought! —
+      </l>
+      <l n="140">
+       Can dignity and real greatness dwell,
+      </l>
+      <l n="141">
+       Thus mix'd and blended, in a servile soul? —
+      </l>
+      <l n="142">
+       Or hast thou seen thy error, and renounc'd
+      </l>
+      <l n="143">
+       The bloody standard of the tyrant Charles? —
+      </l>
+      <l n="144">
+       To make atonement to the injur'd dead,
+      </l>
+      <l n="145">
+       Come, wield thy sword in a more glorious cause,
+      </l>
+      <l n="146">
+       And lend thine arm to make thy country free.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="147">
+       Tempt not my loyalty, nor wound my fame. — —
+      </l>
+     </sp>
+     <sp who="#donnamaria">
+      <speaker>
+       Maria.
+      </speaker>
+      <l n="148">
+       If there is aught of truth or love in thee —
+      </l>
+      <l n="149">
+       Hast thou a wish to see Maria more —
+      </l>
+      <l n="150">
+       These are the terms from which she'll ne'er
+                                        recede,
+      </l>
+      <l n="151">
+       But see thy vengeful fire bends this way; —
+      </l>
+      <l n="152">
+       Where shall I find an asylum for woe?
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="153">
+       Live as a queen in Don Emanuel's court.
+      </l>
+      <l n="154">
+       A trusty friend escorts thy son and thee
+      </l>
+      <l n="155">
+       To Portugal's more hospitable shore,
+      </l>
+      <l n="156">
+       Beyond the reach of Don Velasco's rage,
+      </l>
+      <l n="157">
+       'Till time restore thy peace, and make thee
+                                        mine.
+      </l>
+     </sp>
+     <stage>
+      Maria and her son hurried off the stage by De Haro's friends and guards.
+     </stage>
+     <stage>
+      [Exit.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      DON VELASCO and CONDE HARO.
+     </stage>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="1">
+       Wretch
+       that thou art! — thou hast
+                                        debas'd. the house,
+      </l>
+      <l n="2">
+       The noble name — the blood of Don Velasco.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="3">
+       None but thyself, should, with impunity,
+      </l>
+      <l n="4">
+       Upbraid a man, whose honour ne'er was stain'd
+      </l>
+      <l n="5">
+       By one base act — whose soul disdains a thought
+      </l>
+      <l n="6">
+       But what ennobles both thy son and thee.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="7">
+       My son — no, I renounce the claim,
+      </l>
+      <l n="8">
+       And rase thy memory from thy blasted line;
+      </l>
+      <l n="9">
+       A mean soul, prostrate at a woman's foot —
+      </l>
+      <l n="10">
+       A traitoress, both to her God and king,
+      </l>
+      <l n="11">
+       Was ne'er ally'd to the Velascan blood.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="12">
+       If virtue stands at variance with worth,
+      </l>
+      <l n="13">
+       Or if true greatness can abuse the wretched,
+      </l>
+      <l n="14">
+       Then may my father's much revered lip,
+      </l>
+      <l n="15">
+       With cruel insult, wound the fairest fame.
+      </l>
+      <l n="16">
+       Thou knowest not the lustre that adorns
+      </l>
+      <l n="17">
+       Maria's soul, and lifts her o'er her sex —
+      </l>
+      <l n="18">
+       The virtues that combine to make her great:
+      </l>
+      <l n="19">
+       Her angel form commands profound respect;
+      </l>
+      <l n="20">
+       Her beauty, grace, her constancy and truth —
+      </l>
+      <l n="21">
+       Her noble mind and energy of thought,
+      </l>
+      <l n="22">
+       Would dignify the most illustrious name.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="23">
+       Thy love tales whine in her disdainful ear.
+      </l>
+      <l n="24">
+       This idle, rapturous pageantry of words,
+      </l>
+      <l n="25">
+       This play of fancy, fann'd by lustful gales,
+      </l>
+      <l n="26">
+       These loose, mad ravings of a hot brain'd youth,
+      </l>
+      <l n="27">
+       Have made me sick of life. Oh! how debas'd
+      </l>
+      <l n="28">
+       Is honour — duty — gratitude and fame! — —
+      </l>
+      <l n="29">
+       How are thy laurels stain'd, and meanly laid
+      </l>
+      <l n="30">
+       Beneath the pedestal of wanton love;
+      </l>
+      <l n="31">
+       A transient beam, shot from a forc'ress' eye,
+      </l>
+      <l n="32">
+       Whom mercy yet has spar'd to rave and weep
+      </l>
+      <l n="33">
+       Her husband's fall — her disappointed pride.
+      </l>
+      <l n="34">
+       But by the eternal thunderer above,
+      </l>
+      <l n="35">
+       She shall not triumph thus — — — —
+      </l>
+      <l n="36">
+       Mine aged arm, inur'd to war and blood,
+      </l>
+      <l n="37">
+       Is not so worn by time, nor yet so weak,
+      </l>
+      <l n="38">
+       But it can send her murmuring soul to hell;
+      </l>
+      <l n="39">
+       Nay, harder still, has strength to grasp the
+                                        hilt,
+      </l>
+      <l n="40">
+       And plunge this vet'ran sword in thy base breast,
+      </l>
+      <l n="41">
+       To let out that false blood that taints thy soul
+      </l>
+      <l n="42">
+       And poisons all my peace.
+      </l>
+     </sp>
+     <stage>
+      Draws.
+     </stage>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="43">
+       What means my fire? — — — —
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="44">
+       To make thee worthy of thy noble name. — —
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="45">
+       If death alone entitles to the claim,
+      </l>
+      <l n="46">
+       I fear it not in any form but this.
+      </l>
+     </sp>
+     <stage>
+      Retires backward, and bows respectfully as going off.
+     </stage>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="47">
+       Fly not my vengeance — dastard — villain — slave! —
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="48">
+       Hah! — dastard — villain — slave — Oh! heavens!
+      </l>
+      <l n="49">
+       Can the great God command I should submit
+      </l>
+      <l n="50">
+       To such reproach — ev'n from a father's lip? —
+      </l>
+     </sp>
+     <stage>
+      Suddenly lays his hand on his sword.
+     </stage>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="51">
+       Come, try its point against my wounded breast,
+      </l>
+      <l n="52">
+       Or hoary head, grown grey in honour's path —
+      </l>
+      <l n="53">
+       That bends and bows and blushes for his son.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="54">
+       Not the rich sands of Chili or Peru,
+      </l>
+      <l n="55">
+       Nor all the wealth Potosi has in store,
+      </l>
+      <l n="56">
+       Shall bribe me from my duty and respect,
+      </l>
+      <l n="57">
+       My filial love and reverence for thee.
+      </l>
+     </sp>
+     <stage>
+      Bends on his knee.
+     </stage>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="58">
+       I do not wish to make thee more a coward. — —
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="59">
+       A coward — traitor — villain and a slave! —
+      </l>
+      <l n="60">
+       My honour stain'd by epithets so vile. — —
+      </l>
+      <l n="61">
+       None but thyself within this ample round,
+      </l>
+      <l n="62">
+       Should dare unite a base, opprobrious term
+      </l>
+      <l n="63">
+       With Conde Haro's name — but thou'rt my fire —
+      </l>
+      <l n="64">
+       Then take a life I wish not to preserve.
+      </l>
+     </sp>
+     <stage>
+      Throws his sword from him, and bares his breast.
+     </stage>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="65">
+       Take up thy dagger — plunge it in my breast,
+      </l>
+      <l n="66">
+       Or give thy foolish passion to the winds.
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="67">
+       No — neither. — — —
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="68">
+       Bring back the fugitive to justice' arm —
+      </l>
+      <l n="69">
+       Renounce thy love. — — —
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="70">
+       Never. — — — —
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="71">
+       Never! — — — —
+      </l>
+     </sp>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="72">
+       Not if Maria hears my faithful vows —
+      </l>
+      <l n="73">
+       'Tis honour, wealth and empire to my soul.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="74">
+       Fly from my vengeful hand — thou'rt not my son —
+      </l>
+      <l n="75">
+       I've been deceiv'd — alas! too long deceiv'd.
+      </l>
+      <l n="76">
+       Thou art some low — some vile imposter — palm'd
+      </l>
+      <l n="77">
+       Upon my house — and nature feels no pang,
+      </l>
+      <l n="78">
+       To send thy soul to wander with the dead.
+      </l>
+     </sp>
+     <stage>
+      Makes a furious pass at De Haro , but is so enraged he trembles and drops his sword.
+     </stage>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="79">
+       When nature shall cut off thy thread of life,
+      </l>
+      <l n="80">
+       I'll meet thee there, by thy Zelinda's side —
+      </l>
+      <l n="81">
+       That angel form that gave a son to thee.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <stage>
+       Enter Don Francis — a bloody sword extended in his hand.
+      </stage>
+      <l n="82">
+       Hah! — my Zelinda — her sacred name
+      </l>
+      <l n="83">
+       Has wak'd the father up, and checks my rage; —
+      </l>
+      <l n="84">
+       Oh! had this rash, this guilty hand sent down
+      </l>
+      <l n="85">
+       The mangled ghost of her belov'd De Haro —
+      </l>
+      <l n="86">
+       Her darling son — slain by a father's hand —
+      </l>
+      <l n="87">
+       In Hades to accuse his barbarous heart
+      </l>
+      <l n="88">
+       For such an outrage on so brave a son; —
+      </l>
+      <l n="89">
+       Both wandering spirits, and the saints above,
+      </l>
+      <l n="90">
+       Alike would curse his cruelty and crime; —
+      </l>
+      <l n="91">
+       But as thy sword — thy valiant conquering arm
+      </l>
+      <l n="92">
+       Has quell'd rebellion, and cut off their chiefs,
+      </l>
+      <l n="93">
+       Let me intreat — — — —
+      </l>
+      <l n="94">
+       — — — — — — — Hah! what do I see? —
+      </l>
+      <l n="95">
+       Heav'n blast my eyes! — Say, can Don Francis live? —
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="96">
+       — — — — — — — — Thou see'st thy duteous son —
+      </l>
+      <l n="97">
+       The wedded husband of thy lov'd Louisa —
+      </l>
+      <l n="98">
+       Thou see'st his sword wet with the blood of
+                                        Pedro,
+      </l>
+      <l n="99">
+       Who would have robb'd me of my lovely bride;
+      </l>
+      <l n="100">
+       His coward ghost now murmurs in the shades,
+      </l>
+      <l n="101">
+       And groans repentance for his faithless deeds.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="102">
+       Thy rebel insolence my hand shall crush
+      </l>
+      <l n="103">
+       When thou hast told by what infernal fiend,
+      </l>
+      <l n="104">
+       Or hellish arts, thy life's protracted thus,
+      </l>
+      <l n="105">
+       To plunge my house in infamy and guilt.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <stage>
+       Presents it to Velasco,
+      </stage>
+      <l n="106">
+       Thy generous son has sav'd me from the grave;
+      </l>
+      <l n="107">
+       That noble friend, when, on the verge of death,
+      </l>
+      <l n="108">
+       Set ope the prison gates, and bade me fly
+      </l>
+      <l n="109">
+       To mighty Charles, and boldly sue for grace.
+      </l>
+      <l n="110">
+       Know'st thou thy lov'd Zelinda's bridal ring: —
+      </l>
+      <l n="111">
+       This precious pledge made thy Louisa mine,
+      </l>
+      <l n="112">
+       And, often seen upon Velasco's hand,
+      </l>
+      <l n="113">
+       Procur'd and seal'd a pardon from the emperor.
+      </l>
+     </sp>
+     <sp who="#donvelasco">
+      <speaker>
+       Velasco.
+      </speaker>
+      <l n="114">
+       That guardian angel of my happier days,
+      </l>
+      <l n="115">
+       Sure hovers here, and guides my sanguine steps;
+      </l>
+      <l n="116">
+       Protects her children from their father's rage,
+      </l>
+      <l n="117">
+       And smooths my passions down the vale of life.
+      </l>
+      <l n="118">
+       Go, Francis, see if yet Louisa lives,
+      </l>
+      <l n="119">
+       And heaven forgive my cruelty to her! —
+      </l>
+      <l n="120">
+       Each passion dies but love to my Louisa,
+      </l>
+      <l n="121">
+       And strong affection to the best of sons.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IV.
+     </head>
+     <sp who="#donnalouisa">
+      <speaker>
+       LOUISA,
+      </speaker>
+      <stage>
+       sola, on her knees, looking up to Heaven in agony, with her Father's Sword in her hand, pointed to her breast.
+      </stage>
+      <stage>
+       Trembles, and drops the sword.
+      </stage>
+      <stage>
+       Recovers the sword.
+      </stage>
+      <l n="1">
+       Let
+       this bright canopy spread
+                                        o'er my head,
+      </l>
+      <l n="2">
+       And all the wonders of the vast concave —
+      </l>
+      <l n="3">
+       Each radiant flame that shoots its friendly beam
+      </l>
+      <l n="4">
+       O'er nature's empire, and proclaims a god,
+      </l>
+      <l n="5">
+       Lend me their aid to solemnize my soul;
+      </l>
+      <l n="6">
+       To hush the tumult of life's various cares,
+      </l>
+      <l n="7">
+       That rage without, or reign within my breast.
+      </l>
+      <l n="8">
+       'Tis heav'n bids me leave this mazy world,
+      </l>
+      <l n="9">
+       To its own guilt, ambition, pride and blood.
+      </l>
+      <l n="10">
+       Hah! — does my purpose flag — —
+      </l>
+      <l n="11">
+       I feel my courage firm — yet fear my God —
+      </l>
+      <l n="12">
+       Will he forgive a suffering wretch,
+      </l>
+      <l n="13">
+       Weary of life — yet not afraid to die —
+      </l>
+      <l n="14">
+       Who quits her post, ere nature makes demand —
+      </l>
+      <l n="15">
+       Unbidden rushes to his awful throne — —
+      </l>
+      <l n="16">
+       A ghastly — grim — a discontented soul,
+      </l>
+      <l n="17">
+       Bath'd in the blood of suicide!
+      </l>
+      <l n="18">
+       My trembling frame shrinks at the dread idea —
+      </l>
+      <l n="19">
+       Yet what — ah! what can sad Louisa do?
+      </l>
+      <l n="20">
+       I cannot live — to see Don Francis die —
+      </l>
+      <l n="21">
+       Yet worse to live, and be Don Pedro's wife —
+      </l>
+      <l n="22">
+       I must not live — my father bids me die. — —
+      </l>
+     </sp>
+     <stage>
+      Stabs herself. — Don Francis and De Haro enter at the moment.
+     </stage>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="23">
+       Oh! my Louisa — my love — my bride! —
+      </l>
+      <l n="24">
+       My wife — my soul's whole treasure — stay —
+      </l>
+      <l n="25">
+       Thy dreadful purpose hold I — — —
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="26">
+       Ah! my dear lord — permitted thus to live
+      </l>
+      <l n="27">
+       But to receive and aid on its escape —
+      </l>
+      <l n="28">
+       My soul just rushing from my bleeding breast.
+      </l>
+     </sp>
+     <stage>
+      Fainting.
+     </stage>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="29">
+       Thou must not die — Oh! lovely maid, revive —
+      </l>
+      <l n="30">
+       Thy father's blessing beckons thee to life.
+      </l>
+     </sp>
+     <sp who="#donnalouisa">
+      <speaker>
+       Louisa.
+      </speaker>
+      <l n="31">
+       It was my father's will impell'd to death —
+      </l>
+      <l n="32">
+       His rigorous command I have obey'd —
+      </l>
+      <l n="33">
+       My filial design may God forgive,
+      </l>
+      <l n="34">
+       Nor rank me with the hateful suicide,
+      </l>
+      <l n="35">
+       Who rushes on his fate from passion storms,
+      </l>
+      <l n="36">
+       And dies the martyr of his guilty hand.
+      </l>
+      <l n="37">
+       Retard me not — now on the marge of death —
+      </l>
+      <l n="38">
+       My conscious soul, unstain'd by one base act,
+      </l>
+      <l n="39">
+       Looks back serene on life's tempestuous surge,
+      </l>
+      <l n="40">
+       Nor feels a pang, but for my Francis' sake; —
+      </l>
+      <l n="41">
+       Yet bliss is crown'd by dying in his arms.
+      </l>
+     </sp>
+     <stage>
+      Dies.
+     </stage>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="42">
+       I'll catch in ether that last balmy breath,
+      </l>
+      <l n="43">
+       And meet her gentle spirit in the skies. — — —
+      </l>
+     </sp>
+     <stage>
+      Falls on his sword.
+     </stage>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="44">
+       Ha! Francis, hold — nor cowardly revolt
+      </l>
+      <l n="45">
+       From nature's post, assign'd by nature's lord.
+      </l>
+      <l n="46">
+       Heaven has decreed the just, the brave, should
+                                        die,
+      </l>
+      <l n="47">
+       But 'tis a dastard soul that fears to live.
+      </l>
+     </sp>
+     <sp who="#donfrancis">
+      <speaker>
+       Francis.
+      </speaker>
+      <l n="48">
+       Life lost all worth in her expiring sigh —
+      </l>
+      <l n="49">
+       Adieu, my friend, for time has lost its charms.
+      </l>
+      <l n="50">
+       The free born mind mounts upwards with the gods,
+      </l>
+      <l n="51">
+       And soars and spurns a base, ignoble world.
+      </l>
+     </sp>
+     <stage>
+      Dies.
+     </stage>
+     <sp who="#condeharo">
+      <speaker>
+       De Haro.
+      </speaker>
+      <l n="52">
+       Alas! the horrors of this awful hour —
+      </l>
+      <l n="53">
+       What misery's entail'd on all mankind
+      </l>
+      <l n="54">
+       But those who rise and view life from the stars! —
+      </l>
+      <l n="55">
+       Oh! thou whose word directs the pointed flame,
+      </l>
+      <l n="56">
+       When the blue lightnings curl about the clouds,
+      </l>
+      <l n="57">
+       And thunders roll across the ragged vault,
+      </l>
+      <l n="58">
+       Let down thy benediction from the skies! —
+      </l>
+      <l n="59">
+       To virtue bend the wayward mind of man —
+      </l>
+      <l n="60">
+       Let not the father blast his children's peace
+      </l>
+      <l n="61">
+       By rancour — pride — and cursed party rage; —
+      </l>
+      <l n="62">
+       Let civil feuds no more distract the soul —
+      </l>
+      <l n="63">
+       Blast the dark fiends who wake mankind to war,
+      </l>
+      <l n="64">
+       And make the world a counterpart to hell.
+      </l>
+     </sp>
+     <stage>
+      Exeunt Omnes.
+     </stage>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

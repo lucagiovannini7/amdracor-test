@@ -1,0 +1,3462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am642" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Catharine Brown, the Converted Cherokee
+    </title>
+    <author>
+     Anon., 1765-1830 (Dramas of the Revolutionary and Early American
+                Period)
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Project Gutenberg
+     </name>
+     <idno>
+      https://www.gutenberg.org/ebooks/39828
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Early American Plays, 1714-1830, ed. Oscar Wegelin
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+<particDesc>
+    <listPerson>
+     <person xml:id="all" sex="UNKNOWN">
+      <persName>All</persName>
+     </person>
+     <person xml:id="mrthornton" sex="MALE">
+      <persName>Mr Thornton</persName>
+     </person>
+     <person xml:id="twoboys" sex="MALE">
+      <persName>Two Boys</persName>
+     </person>
+     <person xml:id="themotherofcatharinebrown" sex="FEMALE">
+      <persName>The Mother of Catharine Brown</persName>
+     </person>
+     <person xml:id="seventhchief" sex="MALE">
+      <persName>Seventh Chief</persName>
+     </person>
+     <person xml:id="mrhicks" sex="MALE">
+      <persName>Mr Hicks</persName>
+     </person>
+     <person xml:id="mrelliott" sex="MALE">
+      <persName>Mr Elliott</persName>
+     </person>
+     <person xml:id="mrhoyt" sex="MALE">
+      <persName>Mr Hoyt</persName>
+     </person>
+     <person xml:id="mrschamberlain" sex="FEMALE">
+      <persName>Mrs Chamberlain</persName>
+     </person>
+     <person xml:id="john" sex="MALE">
+      <persName>John</persName>
+     </person>
+     <person xml:id="fourthchief" sex="MALE">
+      <persName>Fourth Chief</persName>
+     </person>
+     <person xml:id="sarah" sex="FEMALE">
+      <persName>Sarah</persName>
+     </person>
+     <person xml:id="firstgirl" sex="FEMALE">
+      <persName>First Girl</persName>
+     </person>
+     <person xml:id="eighthchief" sex="MALE">
+      <persName>Eighth Chief</persName>
+     </person>
+     <person xml:id="lyman" sex="MALE">
+      <persName>Lyman</persName>
+     </person>
+     <person xml:id="fifthchief" sex="MALE">
+      <persName>Fifth Chief</persName>
+     </person>
+     <person xml:id="secondwoman" sex="FEMALE">
+      <persName>Second Woman</persName>
+     </person>
+     <person xml:id="caroline" sex="FEMALE">
+      <persName>Caroline</persName>
+     </person>
+     <person xml:id="sixthchief" sex="MALE">
+      <persName>Sixth Chief</persName>
+     </person>
+     <person xml:id="eleventhchief" sex="MALE">
+      <persName>Eleventh Chief</persName>
+     </person>
+     <person xml:id="secondgirl" sex="FEMALE">
+      <persName>Second Girl</persName>
+     </person>
+     <person xml:id="mrshoyt" sex="FEMALE">
+      <persName>Mrs Hoyt</persName>
+     </person>
+     <person xml:id="secondchief" sex="MALE">
+      <persName>Second Chief</persName>
+     </person>
+     <person xml:id="firstwoman" sex="FEMALE">
+      <persName>First Woman</persName>
+     </person>
+     <person xml:id="loory" sex="UNKNOWN">
+      <persName>Loory</persName>
+     </person>
+     <person xml:id="elias" sex="MALE">
+      <persName>Elias</persName>
+     </person>
+     <person xml:id="mammoo" sex="UNKNOWN">
+      <persName>Mammoo</persName>
+     </person>
+     <person xml:id="tenthchief" sex="MALE">
+      <persName>Tenth Chief</persName>
+     </person>
+     <person xml:id="firstchief" sex="MALE">
+      <persName>First Chief</persName>
+     </person>
+     <person xml:id="maria" sex="FEMALE">
+      <persName>Maria</persName>
+     </person>
+     <person xml:id="girls" sex="FEMALE">
+      <persName>Girls</persName>
+     </person>
+     <person xml:id="king" sex="MALE">
+      <persName>King</persName>
+     </person>
+     <person xml:id="secondboy" sex="MALE">
+      <persName>Second Boy</persName>
+     </person>
+     <person xml:id="julia" sex="FEMALE">
+      <persName>Julia</persName>
+     </person>
+     <person xml:id="catharinebrown" sex="FEMALE">
+      <persName>Catharine Brown</persName>
+     </person>
+     <person xml:id="osagecaptive" sex="UNKNOWN">
+      <persName>Osage Captive</persName>
+     </person>
+     <person xml:id="firstboy" sex="MALE">
+      <persName>First Boy</persName>
+     </person>
+     <person xml:id="mrolmstead" sex="MALE">
+      <persName>Mr Olmstead</persName>
+     </person>
+     <person xml:id="catharine" sex="FEMALE">
+      <persName>Catharine</persName>
+     </person>
+     <person xml:id="thefatherofcatharinebrown" sex="MALE">
+      <persName>The Father of Catharine Brown</persName>
+     </person>
+     <person xml:id="ninthchief" sex="MALE">
+      <persName>Ninth Chief</persName>
+     </person>
+     <person xml:id="susan" sex="FEMALE">
+      <persName>Susan</persName>
+     </person>
+     <person xml:id="thirdchief" sex="MALE">
+      <persName>Third Chief</persName>
+     </person>
+     <person xml:id="lucy" sex="FEMALE">
+      <persName>Lucy</persName>
+     </person>
+     <person xml:id="children" sex="UNKNOWN">
+      <persName>Children</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Drama
+     </term>
+     <term subtype="am" type="playtype">
+      prose
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1819">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      PERSONS REPRESENTED.
+     </head>
+     <castItem>
+      Mr. Hoyt , a Missionary.
+     </castItem>
+     <castItem>
+      Mr. Chamberlain , Instructor and Agriculturalist.
+     </castItem>
+     <castItem>
+      Mr. Elliott , a visitor at Brainard.
+     </castItem>
+     <castItem>
+      Mr. Thornton , a benevolent gentleman residing in New-England.
+     </castItem>
+     <castItem>
+      Mr. Olmstead , a farmer.
+     </castItem>
+     <castItem>
+      The Father of Catharine Brown.
+     </castItem>
+     <castItem>
+      Mr. Hicks , an Indian Chief of piety and intelligence.
+     </castItem>
+     <castItem>
+      Mrs. Hoyt.
+     </castItem>
+     <castItem>
+      Mrs. Chamberlain.
+     </castItem>
+     <castItem>
+      Susan , daughter of Mr. Hoyt.
+     </castItem>
+     <castItem>
+      Catharine Brown , a converted Cherokee.
+     </castItem>
+     <castItem>
+      The mother of Catharine Brown.
+     </castItem>
+     <castItem>
+      Chiefs, Women and Children.
+     </castItem>
+    </castList>
+   </div>
+   <set>
+    <p>
+     Scene — partly in New-England; — mostly at the Missionary station at Brainard.
+    </p>
+   </set>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     SCENE FIRST.
+    </head>
+    <stage>
+     In New England.
+    </stage>
+    <stage>
+     [Mr. Thornton is discovered reading a religious newspaper.]
+    </stage>
+    <stage>
+     Enter Mr. Olmstead
+    </stage>
+    <sp who="#mrolmstead">
+     <speaker>
+      Mr.
+      Olm.
+     </speaker>
+     <p>
+      Good morning friend Thornton.
+     </p>
+    </sp>
+    <sp who="#mrthornton">
+     <speaker>
+      Mr.
+      Tho.
+     </speaker>
+     <p>
+      Good morning neighbour Olmstead.
+     </p>
+    </sp>
+    <sp who="#mrolmstead">
+     <speaker>
+      Mr.
+      Olm.
+     </speaker>
+     <p>
+      I don't see what you find so very entertaining
+      in those religious newspapers. I seldom come in, without
+      finding you reading a magazine, or a report of some charitable
+      society, or some publication of that kind. It is as
+      much as I can do, to read the political news; and learn
+      what is going on in the political world.
+     </p>
+    </sp>
+    <sp who="#mrthornton">
+     <speaker>
+      Mr.
+      Tho.
+     </speaker>
+     <p>
+      I confess it is my greatest joy to witness the
+      wonderful improvements, which are making in the moral
+      state of the world.
+     </p>
+    </sp>
+    <sp who="#mrolmstead">
+     <speaker>
+      Mr.
+      Olm.
+     </speaker>
+     <p>
+      Well, I have no time for discussing those subjects
+      now. What say you to a removal to the south.
+     </p>
+    </sp>
+    <sp who="#mrthornton">
+     <speaker>
+      Mr.
+      Tho.
+     </speaker>
+     <p>
+      I am not uneasy with my present situation.
+     </p>
+    </sp>
+    <sp who="#mrolmstead">
+     <speaker>
+      Mr.
+      Olm.
+     </speaker>
+     <p>
+      Well, then you may live amongst these rocks
+      and hills. For my part, I am tired of plowing and digging,
+      where I cannot find dirt enough to cover a hill of corn,
+      without turning my hoe sideways. The winters are milder
+      in the south, and the land is more feasible. My farm is advertised
+      for sale, and in a few weeks I intend to be in the
+      state of Mississippi.
+     </p>
+    </sp>
+    <sp who="#mrthornton">
+     <speaker>
+      Mr.
+      Tho.
+     </speaker>
+     <p>
+      Have you never feared, the health of your family,
+      would be less secure, in a southern climate?
+     </p>
+    </sp>
+    <sp who="#mrolmstead">
+     <speaker>
+      Mr.
+      Olm.
+     </speaker>
+     <p>
+      I am not one of that sort of people who are always
+      borrowing trouble. Other families live there, and
+      why cannot mine?
+     </p>
+    </sp>
+    <sp who="#mrthornton">
+     <speaker>
+      Mr.
+      Tho.
+     </speaker>
+     <p>
+      Are you not afraid of the Indians, who reside in
+      that country? They are sometimes accused of being troublesome.
+     </p>
+    </sp>
+    <sp who="#mrolmstead">
+     <speaker>
+      Mr.
+      Olm.
+      Fic.
+     </speaker>
+     <p>
+      — Do you think I am afraid of Indians?
+      They'll soon have to make their escape, I warrant you, and
+      <pb/>
+      take up their residence on the other side of the Mississippi.
+      There was a whole township of them destroyed last year,
+      by a Capt. Wright, I think it was; and others will have to
+      share the same fate, if they don't go farther back into the
+      woods.
+     </p>
+    </sp>
+    <sp who="#mrthornton">
+     <speaker>
+      Mr.
+      Tho.
+     </speaker>
+     <p>
+      Then the plan is to cut off the savages, and take
+      possession of their lands by violence. I had much rather
+      hear you say you intend to
+      civilize
+      the wild licentious savage;
+      to tame his ferocious nature, and teach him the principles
+      of christianity.
+     </p>
+    </sp>
+    <sp who="#mrolmstead">
+     <speaker>
+      Mr.
+      Olm.
+     </speaker>
+     <p>
+      Teach the birds christianity. It is impracticable.
+      What does it signify, to spend time and money for
+      nothing?
+     </p>
+    </sp>
+    <sp who="#mrthornton">
+     <speaker>
+      Mr.
+      Tho.
+     </speaker>
+     <p>
+      Let us not pronounce the civilization of the
+      Indians impracticable. Why are not the natives of this
+      country, as capable of improvement, as those of Africa and
+      the western Islands?
+     </p>
+    </sp>
+    <sp who="#mrolmstead">
+     <speaker>
+      Mr.
+      Olm.
+     </speaker>
+     <p>
+      Well, what if they are?
+     </p>
+    </sp>
+    <sp who="#mrthornton">
+     <speaker>
+      Mr.
+      Tho.
+     </speaker>
+     <p>
+      Then we have encouragement to make exertions,
+      in their behalf. On one of the Islands in the Pacific
+      Ocean, there has been erected in the course of a few years
+      eighty-four houses for christian worship, and the Sabbath is
+      better observed than it is in most christian nations. In
+      South-Africa, there are hundreds now labouring in the
+      field, and in the work-shop, who, a few years ago, were
+      sunk lower, in vice and ignorance, than the savages on our
+      borders.
+     </p>
+    </sp>
+    <sp who="#mrolmstead">
+     <speaker>
+      Mr.
+      Olm.
+     </speaker>
+     <p>
+      Whether they are capable of improvement or
+      not, I have no notion of sparing such monsters of cruelty, to
+      go forth with tomahawk and scalping knife, against the defenceless
+      inhabitants of our new settlements. This would
+      be a new sort of benevolence.
+     </p>
+    </sp>
+    <sp who="#mrthornton">
+     <speaker>
+      Mr.
+      Tho.
+     </speaker>
+     <p>
+      I am far enough from wishing to encourage the
+      savages, in the horrid work of human butchery. But have
+      they not been provoked by the whites? Have not their
+      lands been taken from them without their consent, and their
+      cattle driven off? No wonder that while smarting under injuries,
+      they have sought revenge. What else can you expect
+      of a people who have never been taught to forgive injuries?
+      I hope if you go to the state of Mississippi, you will
+      have occular demonstration of the practicability of civilizing
+      <pb/>
+      the Savages. For there is in that vicinity, a missionary
+      station at a place called Brainard, where the work has
+      been most auspiciously commenced.
+     </p>
+    </sp>
+    <sp who="#mrolmstead">
+     <speaker>
+      Mr.
+      Olm.
+     </speaker>
+     <stage>
+      (Bows and goes out.)
+     </stage>
+     <p>
+      I don't know any thing about that. Perhaps
+      if it is so, I may be convinced of the wisdom and expediency
+      of the undertaking; but I have no time to lose, — the hour
+      has arrived when I ant to wait on a gentleman, who has it
+      in contemplation to buy my farm.
+     </p>
+    </sp>
+   </div>
+   <div type="act">
+    <head>
+     SCENE SECOND.
+    </head>
+    <stage>
+     At the Mission-House at Brainard.
+    </stage>
+    <stage>
+     [Mr. and Mrs. Chamberlain, are discovered sitting; Mr. C. reading and Mrs. C. sewing.]
+    </stage>
+    <stage>
+     (Some one knocks.)
+    </stage>
+    <stage>
+     Enter Brown, his wife and daughter Catharine. The daughter is dressed in all her fincry: Jewels, icampum, &amp;.mp;c .]
+    </stage>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      Walk in my friends, you are welcome at Brainard.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <p>
+      We come to get our daughter instructed.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      We will receive her into the family, and do our
+      best to have her fitted for usefulness in the world.
+     </p>
+    </sp>
+    <sp who="#themotherofcatharinebrown">
+     <speaker>
+      Mother.
+     </speaker>
+     <p>
+      She may stay a year; and if she likes you, and
+      you like her, she may stay longer, and learn and know all
+      she can, so as to be smart, and I should like to have her
+      made good; only she most good enough now; she our only
+      daughter.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <stage>
+      Exeunt Brown and wife.
+     </stage>
+     <p>
+      We going to see our cousins and we will leave
+      her here. If we come back this way, we will call and see
+      you, and talk more about it. Good bye. — Good bye.
+     </p>
+    </sp>
+    <sp who="#mrschamberlain">
+     <speaker>
+      Mrs.
+      C.
+     </speaker>
+     <p>
+      Then you are willing to reside with us a while,
+      and learn the manners, customs, and principles of christian
+      people.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <stage>
+      (mincingly.)
+     </stage>
+     <p>
+      Yes ma'am —
+     </p>
+    </sp>
+    <sp who="#mrschamberlain">
+     <speaker>
+      Mrs.
+      C.
+     </speaker>
+     <p>
+      We will walk in the other room, and I will introduce
+      you to the rest of the family.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <stage>
+      (haughtily.)
+     </stage>
+     <p>
+      Well ma'am —
+     </p>
+    </sp>
+    <stage>
+     Exeunt Mrs. C. and Catharine.
+    </stage>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <stage>
+      ( alone .)
+     </stage>
+     <p>
+      How vain that young creature appears.
+      If I did not believe there was a Supreme ruler of the universe,
+      who has the hearts of all men in his hands, and who
+      can turn them as the rivers of waters are turned; I should
+      have no hope, that she would ever love any thing but Indian
+      finery. But who knows what may take place. If the Almighty
+      should see fit to snatch her as a brand, from the
+      burning; she may even in the course of a few weeks, become
+      so altered, that one would hardly take her to be the
+      same person. Thanks be to Jehovah, there is such a consolation,
+      as the throne of grace. I shall remember this vain
+      creature, and plead most earnestly in her behalf. — —
+      <stage>
+       (some one knocks.)
+      </stage>
+      Walk in.
+     </p>
+    </sp>
+    <stage>
+     Enter two Indian women, named Loory and Mammoo
+    </stage>
+    <sp who="#loory">
+     <speaker>
+      Loory.
+     </speaker>
+     <p>
+      Are you the school-master? We come to take
+      home our boys.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      They will not be willing to go.
+     </p>
+    </sp>
+    <sp who="#mammoo">
+     <speaker>
+      Mammoo.
+     </speaker>
+     <p>
+      We the best right to them, they must mind us.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      They are learning finely, they must not go.
+     </p>
+    </sp>
+    <sp who="#loory">
+     <speaker>
+      Loory.
+     </speaker>
+     <p>
+      They must go, we say so. They must do as we
+      tell 'em.
+     </p>
+    </sp>
+    <sp who="#mammoo">
+     <speaker>
+      Mammoo.
+     </speaker>
+     <p>
+      I wish you would call them, we in a hurry.
+     </p>
+    </sp>
+    <stage>
+     Exit Mr. C.
+    </stage>
+    <sp who="#loory">
+     <speaker>
+      Loory.
+     </speaker>
+     <p>
+      I spose they love to live here, it looks so nice, and
+      that man looked good natured.
+     </p>
+    </sp>
+    <sp who="#mammoo">
+     <speaker>
+      Mammoo.
+     </speaker>
+     <stage>
+      (They look round and view the curtains, &amp;.mp;c.)
+     </stage>
+     <p>
+      When the boys come, we must look a sharp
+      eye at them, and they will not dare say a word.
+     </p>
+    </sp>
+    <sp who="#loory">
+     <speaker>
+      Loory.
+     </speaker>
+     <stage>
+      (Looks at the carpet.)
+     </stage>
+     <p>
+      What a fine blanket.
+     </p>
+    </sp>
+    <sp who="#mammoo">
+     <speaker>
+      Mammoo.
+     </speaker>
+     <stage>
+      (Points to the curtains.)
+     </stage>
+     <p>
+      How fine that blanket
+      would look on our shoulders.
+     </p>
+    </sp>
+    <stage>
+     Enter Mr. C. and two boys — boys look sober
+    </stage>
+    <sp who="#loory">
+     <speaker>
+      Loory.
+     </speaker>
+     <stage>
+      (Looks sharp.)
+     </stage>
+     <p>
+      Boys you must go home; your
+      fathers took you away, before we fixed you fine. You come
+      here without clothes. They give you them clothes, the
+      missionaries did; but there is no wampum on them. Come
+      skip off.
+     </p>
+    </sp>
+    <stage>
+     Boys hang their heads and go out very sober. The women drop a courtesy and Exeunt.
+    </stage>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      sits down.
+     </p>
+    </sp>
+    <stage>
+     Enter Susan and hands him a letter
+    </stage>
+    <sp who="#susan">
+     <speaker>
+      Susan.
+     </speaker>
+     <p>
+      Have the boys gone? I intended to have given
+      them some little books.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      Yes they have gone; it is a pity, but we must
+      be submissive.
+     </p>
+    </sp>
+    <stage>
+     Re-enter boys — very joyfully .]
+    </stage>
+    <sp who="#twoboys">
+     <speaker>
+      Both.
+     </speaker>
+     <p>
+      We have come back again, they have gone and
+      left us.
+     </p>
+    </sp>
+    <sp who="#susan">
+     <speaker>
+      Susan.
+     </speaker>
+     <stage>
+      (Looks surprised and pleased.)
+     </stage>
+     <p>
+      How happened it?
+     </p>
+    </sp>
+    <sp who="#john">
+     <speaker>
+      John.
+     </speaker>
+     <p>
+      We cried, and cried, and cried, and made as much
+      ado as we could, and they became willing finally, and went
+      and left us.
+     </p>
+    </sp>
+    <sp who="#susan">
+     <speaker>
+      Susan.
+     </speaker>
+     <p>
+      I am very glad. Step and get your lessons, — I
+      shall be in school soon.
+     </p>
+    </sp>
+    <stage>
+     Exeunt boys.
+    </stage>
+    <stage>
+     Enter Sarah — highly delighted .]
+    </stage>
+    <stage>
+     ( Mr. C. begins to read the letter .)
+    </stage>
+    <sp who="#sarah">
+     <speaker>
+      Sarah.
+     </speaker>
+     <p>
+      Miss Susan, Miss Susan, will you step and help
+      your mother unpack the bundles. Oh! I am so pleased, I
+      can hardly talk.
+     </p>
+    </sp>
+    <sp who="#susan">
+     <speaker>
+      Susan.
+     </speaker>
+     <p>
+      Why, what's the matter Sarah?
+     </p>
+    </sp>
+    <sp who="#sarah">
+     <speaker>
+      Sarah.
+     </speaker>
+     <p>
+      Oh the ladies in Philadelphia, have sent our little
+      ragged Indian children, a parcel of new clothes. They
+      have sent the boys jackets and trowsers, and the girls frocks,
+      stockings and shoes; and some calico bonnets.
+     </p>
+    </sp>
+    <sp who="#susan">
+     <speaker>
+      Susan.
+     </speaker>
+     <p>
+      Do the children know it?
+     </p>
+    </sp>
+    <sp who="#sarah">
+     <speaker>
+      Sarah.
+     </speaker>
+     <p>
+      Yes madam. And you can't think how they act;
+      some are jumping up for joy — some are laughing, and some
+      are almost crying, they are so pleased.
+     </p>
+    </sp>
+    <sp who="#susan">
+     <speaker>
+      Susan.
+     </speaker>
+     <p>
+      Well you may step out, and I'll come in a few
+      moments, when I have read the letter.
+     </p>
+    </sp>
+    <stage>
+     (Mr. C. hands her the letter.)
+    </stage>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      It is from the ladies in Philadelphia.
+     </p>
+    </sp>
+    <stage>
+     Curtain drops.
+    </stage>
+   </div>
+   <div type="act">
+    <head>
+     SCENE THIRD.
+    </head>
+    <stage>
+     The followcing members of the Missionary family, are assembled.
+    </stage>
+    <stage>
+     Mr. and Mrs. Hoyt , Mr. and Mrs. Chamberlain , and Susan. The gentlemen reading, the ladies knitting or sewing.
+    </stage>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <p>
+      How gratified our christian friends will be.
+      when they are informed of the bright prospects of this Missionary
+      station.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      Little did we expect such prosperity, when we
+      entered this wilderness.
+     </p>
+    </sp>
+    <sp who="#mrschamberlain">
+     <speaker>
+      Mrs.
+      C.
+     </speaker>
+     <p>
+      It is delightful to believe, that Catharine Brown,
+      is numbered among the hopeful converts. She appears earnestly
+      engaged in the cause of religion. It is not long since
+      she came here, all covered with finery. Now she dresses in
+      a becoming manner, and is modest and humble in her deportment.
+     </p>
+    </sp>
+    <sp who="#susan">
+     <speaker>
+      Susan.
+     </speaker>
+     <stage>
+      (Looks out of the window.)
+     </stage>
+     <stage>
+      (He knocks.)
+     </stage>
+     <p>
+      A gentleman is riding
+      this way. He appears to have come from a distance.
+      It is a friend I hope. Perhaps he is from New-England.
+      He has alighted.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <p>
+      Walk in.
+      <stage>
+       (Walks towards the gentleman with an extended hand, and receives the hand of the gentleman.)
+      </stage>
+      Is it possible! That Mr. Elliott has come to visit
+      us? Our friend that takes such an interest in the mission?
+      Welcome, sir, thrice welcome, to our dwelling.
+      <stage>
+       (Presents him to the family.)
+      </stage>
+      This, sir, is Mrs. Hoyt, and those are
+      Mr. and Mrs. Chamberlain, and that is Susan our daughter.
+     </p>
+    </sp>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      Hoyt.
+     </speaker>
+     <p>
+      We are happy to receive you, sir. How is
+      your health, and how have you been prospered, on your
+      journey?
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      My health is much improved, and I have abundant
+      reason, to be grateful to that Being, whose goodness,
+      and mercy, hath followed me; and by whose permission, I
+      have at length arrived at this desired spot.
+     </p>
+    </sp>
+    <sp who="#mrschamberlain">
+     <speaker>
+      Mrs.
+      C.
+     </speaker>
+     <stage>
+      ( After taking his hat and whip )
+     </stage>
+     <stage>
+      Exit Mrs. C.
+     </stage>
+     <p>
+      Sir, you are
+      very welcome here, and most cordially will we entertain
+      you;
+      <stage>
+       (hands a chair,)
+      </stage>
+      sit down sir, and it will not be long,
+      before we shall have some refreshment ready for you.
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <stage>
+      ( sits down .)
+     </stage>
+     <p>
+      How is the health of the family;
+      and how does the mission prosper?
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <p>
+      We are in general, well; in excellent health,
+      except some slight indispositions, of which we hope soon to
+      recover. Jehovah is to be praised, for his goodness to us:
+      but especially for his gracious visitations, to this nation of
+      Indians.
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      Do you begin so seasonably, to see the fruits of
+      your labours?
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <p>
+      Already are we rewarded for leaving our country,
+      and friends; and taking up our residence, with these
+      children of the forest. Already has God owned our labours,
+      and crowned them, with unexpected success. We have a
+      charming school; our little girls, improve in their work, and
+      in knowledge, beyond our expectations; and our boys, are
+      diligent, both in their labours and in their studies. And we
+      have reason to believe that some here, have passed from
+      death unto life, and are now enjoying, that peace of conscience,
+      which the world can neither give nor take away.
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      Who are those concerning whom, you give such
+      joyful intelligence?
+     </p>
+    </sp>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      Hoyt.
+     </speaker>
+     <p>
+      One of our own daughters, like Mary, hath
+      chosen the better part. Two coloured people, and some
+      natives; one of whom is Catharine Brown, a Cherokee. —
+      She is interesting in her manners, and we think she gives
+      unfeigned evidence, of having experienced religion.
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      I should like to see her.
+     </p>
+    </sp>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      Hoyt.
+     </speaker>
+     <p>
+      Susan, step and call her.
+     </p>
+    </sp>
+    <stage>
+     Exit Susan.
+    </stage>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      What is the age of this young Cherokee?
+     </p>
+    </sp>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      Hoyt.
+     </speaker>
+     <p>
+      Seventeen. When she came here, she was
+      gay, ignorant and vain. She can now knit, sew, and spin;
+      can read well, and writes a decent hand — and her deportment,
+      is such as I think, will highly interest you. She is
+      coming.
+     </p>
+    </sp>
+    <stage>
+     Enter Susan and Catharine, dressed neat and plain
+    </stage>
+    <sp who="#susan">
+     <speaker>
+      Susan.
+     </speaker>
+     <stage>
+      (To Mr. Elliott)
+     </stage>
+     <p>
+      This sir, is Catharine Brown,
+      a scholar of ours. Catharine, this is Mr. Elliott, a gentleman
+      from New-England.
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      How do you do, Miss Catharine?
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      I thank you, sir; by the blessing of Providence, I
+      enjoy excellent health.
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      How do you enjoy yourself in this mission family
+      who are not fond of levity, or vain behaviour?
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      I can hardly describe the enjoyment I take; this
+      last year has been the happiest of my life.
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      Why so happy? You was brought up, I suppose,
+      to be fond of dress, and show, and to love frolicking and
+      dancing.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      Very true, sir. But since I entered this worthy
+      family, I have had my views of things quite altered. I
+      have realized that my whole life has been sinful — that my
+      affections were placed on things, of little value. I now hope,
+      sir, the remainder of my life will be devoted to him, who is
+      worthy of our greatest regard. I hope to be enabled to glorify
+      my father, who is in heaven.
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      But are you willing to give up your ornaments,
+      and to relinquish the society of your merry companions, for
+      the sake of enjoying that religion, which cometh down from
+      above?
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      I have done it already, sir, with the utmost freedom.
+      All my costly jewels and trinkets; my gay ribbons
+      and plumes; I have most willingly given to the charity-box,
+      and keep only these single drops, which I wear in honour
+      to a friend I have lost.
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      I hope my dear friend, you will be enabled to
+      persevere in your christian course.
+     </p>
+    </sp>
+    <stage>
+     Enter Mrs. Chamberlain
+    </stage>
+    <sp who="#mrschamberlain">
+     <speaker>
+      Mrs.
+      C.
+     </speaker>
+     <stage>
+      ( To Mr. E. )
+     </stage>
+     <p>
+      Mr Elliott, will you walk in the
+      next room, and partake of some refreshment, I have prepared?
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <stage>
+      ( Rising .)
+     </stage>
+     <p>
+      If you please madam.
+     </p>
+    </sp>
+    <sp who="#mrschamberlain">
+     <speaker>
+      Mrs
+      C.
+     </speaker>
+     <p>
+      Catharine, will you sit to the table and wait on
+      the gentleman?
+     </p>
+    </sp>
+    <sp who="#catharinebrown">
+     <speaker>
+      Cath
+     </speaker>
+     <p>
+      With pleasure, madam.
+     </p>
+    </sp>
+    <stage>
+     [Exeunt Mr E. &amp;.mp; Cath.
+    </stage>
+    <sp who="#mrschamberlain">
+     <speaker>
+      Mrs
+      C.
+     </speaker>
+     <p>
+      Susan do you stay here, there is company coming.
+      They appear to be chiefs or head men.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr
+      H.
+     </speaker>
+     <stage>
+      Exit Mr. Hoyt
+     </stage>
+     <p>
+      Whilst our friend is refreshing himself, I think
+      I will take a short ride.
+     </p>
+    </sp>
+    <stage>
+     Enter two Chiefs, each leading a boy, with their women, each leading a girl
+    </stage>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      Walk in my brethren, you are very welcome
+      here.
+     </p>
+    </sp>
+    <sp who="#firstchief">
+     <speaker>
+      First Chief.
+     </speaker>
+     <p>
+      My good sir, we belong to the nation of
+      Choctaws.
+      That's my lady and these my children. —
+      That's a brother Chief, and those his lady and children. —
+      We wish you to instruct our children.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <stage>
+      (They all advance and make obeisance.)
+     </stage>
+     <p>
+      We are willing to receive them into the school.
+      Sit down my friends — come here my children; are you willing
+      to live with us a while, and learn our ways?
+     </p>
+    </sp>
+    <sp who="#mrschamberlain">
+     <speaker>
+      Mrs.
+      C.
+     </speaker>
+     <p>
+      You wish your daughters to be instructed in
+      knitting, sewing, and in such things as we judge most
+      proper.
+     </p>
+    </sp>
+    <sp who="#firstwoman">
+     <speaker>
+      First Woman.
+     </speaker>
+     <p>
+      Yes Ma'am — we wish you to instruct
+      them, like white folks' children, and we want to have them
+      learn about the great God, that made that sun and moon.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <stage>
+      ( Takes the boys by the hand .)
+     </stage>
+     <p>
+      My boys, are you
+      willing to leave off hunting, and wandering, for the sake of
+      being industrious, and to learn your book?
+     </p>
+    </sp>
+    <sp who="#firstboy">
+     <speaker>
+      First Boy
+     </speaker>
+     <stage>
+      (Bowing.)
+     </stage>
+     <p>
+      Yes sir.
+     </p>
+    </sp>
+    <sp who="#secondboy">
+     <speaker>
+      Second Boy.
+     </speaker>
+     <stage>
+      (Bowing.)
+     </stage>
+     <p>
+      Yes sir.
+     </p>
+    </sp>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      Hoyt.
+     </speaker>
+     <p>
+      Come here my little girls, are you willing to
+      have me for your mother, and you be my girls for a time?
+     </p>
+    </sp>
+    <sp who="#firstgirl">
+     <speaker>
+      First Girl.
+     </speaker>
+     <stage>
+      (Courtesying.)
+     </stage>
+     <p>
+      Yes ma'am.
+     </p>
+    </sp>
+    <sp who="#secondgirl">
+     <speaker>
+      Second Girl.
+     </speaker>
+     <stage>
+      (Courtesying.)
+     </stage>
+     <p>
+      Yes ma'am.
+     </p>
+    </sp>
+    <sp who="#mrschamberlain">
+     <speaker>
+      Mrs.
+      C.
+     </speaker>
+     <p>
+      We will take charge of the children — it is our
+      business — we delight in it; and the more of these red children
+      we can obtain the better.
+     </p>
+    </sp>
+    <sp who="#secondwoman">
+     <speaker>
+      Second Woman.
+     </speaker>
+     <p>
+      Folks tell us, you be missionaries, and
+      can make bad folks good: We want our children made
+      good — we 'spose we be too old.
+     </p>
+    </sp>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      Hoyt.
+     </speaker>
+     <p>
+      No my friend, you are not too old, to be sorry
+      for your sins, and the mercy of God, is very great, to all
+      those who repent of their sins, and forsake them.
+     </p>
+    </sp>
+    <sp who="#secondchief">
+     <speaker>
+      Second Chief.
+     </speaker>
+     <stage>
+      (The Indians wipe their eyes.)
+     </stage>
+     <p>
+      Well, if that's being good, we are good
+      already — for we all sorry we sin — when we was coming
+      down here — we all talked about it, and we said we was.
+     </p>
+    </sp>
+    <sp who="#firstchief">
+     <speaker>
+      First Chief.
+     </speaker>
+     <p>
+      We pray the good Spirit take away our
+      sins — we don't know much about christian's God.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      My friends, if you will tarry awhile with us, we
+      will endeavour to enlighten you in the christian religion;
+      we feel for you, and greatly desire your salvation.
+     </p>
+    </sp>
+    <sp who="#firstchief">
+     <speaker>
+      First Chief.
+     </speaker>
+     <p>
+      We want missionaries to live with us — we
+      can't stay here — we can't leave our little ones — we can't
+      leave our cattle — we fraid the white people take away all
+      our cattle, whilst we come here — we must go back.
+     </p>
+    </sp>
+    <sp who="#secondchief">
+     <speaker>
+      Second Chief.
+     </speaker>
+     <p>
+      What makes christian people like Cherokees
+      better than Choctaws; we want missionaries and schools
+      as well as they do.
+     </p>
+    </sp>
+    <sp who="#firstwoman">
+     <speaker>
+      First Woman.
+     </speaker>
+     <p>
+      We want you to tell good people, that
+      Choctaws want missionaries.
+     </p>
+    </sp>
+    <sp who="#secondwoman">
+     <speaker>
+      Second Woman.
+     </speaker>
+     <p>
+      You please tell our children all about
+      your God — when they get learning — they come home — they
+      tell us — we shall hearken and hear what they say — we shall
+      believe all you tell them.
+     </p>
+    </sp>
+    <sp who="#firstchief">
+     <speaker>
+      First Chief.
+     </speaker>
+     <p>
+      Well my children, we must leave you with
+      these good missionaries — you mind all they say to you.
+     </p>
+    </sp>
+    <sp who="#firstboy">
+     <speaker>
+      First Boy.
+     </speaker>
+     <p>
+      Well father, we will.
+     </p>
+    </sp>
+    <sp who="#secondchief">
+     <speaker>
+      Second Chief.
+     </speaker>
+     <p>
+      You must be manardly, and make a bow
+      when they say so; when they tell you to hoe and work, do
+      you do it, and do you be good natured.
+     </p>
+    </sp>
+    <sp who="#secondboy">
+     <speaker>
+      Second Boy.
+     </speaker>
+     <p>
+      Well sir.
+     </p>
+    </sp>
+    <sp who="#firstwoman">
+     <speaker>
+      First Woman.
+     </speaker>
+     <p>
+      Now girls, do you act like women, and
+      see every thing the white women do, and try to act just like
+      them.
+     </p>
+    </sp>
+    <sp who="#girls">
+     <speaker>
+      Girls.
+     </speaker>
+     <p>
+      Yes ma'am, we will.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      I am sorry to part with you my friends.
+     </p>
+    </sp>
+    <sp who="#firstchief">
+     <speaker>
+      First Chief.
+     </speaker>
+     <p>
+      I thank you sir; we would stay one day
+      more, but we want to be present at a Talk to-morrow; a
+      council is called to consult on the affairs of the nation.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      How great a council is called?
+     </p>
+    </sp>
+    <sp who="#secondchief">
+     <speaker>
+      Second Chief.
+     </speaker>
+     <p>
+      Twelve Chiefs, are to have a talk about
+      missionaries and schools. They meet at brother Hicks' —
+      our brother that is so good, and that has so much education.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      Mr. Hoyt, I think will meet you there.
+     </p>
+    </sp>
+    <sp who="#secondchief">
+     <speaker>
+      Second Chief.
+     </speaker>
+     <p>
+      My good sir, we hope he will.
+     </p>
+    </sp>
+    <sp who="#firstchief">
+     <speaker>
+      First Chief.
+     </speaker>
+     <p>
+      It is time to go.
+     </p>
+    </sp>
+    <sp who="#girls">
+     <speaker>
+      All.
+     </speaker>
+     <p>
+      Good bye.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      Good morning my friends, and may heaven bless
+      you.
+     </p>
+    </sp>
+    <stage>
+     Exeunt Chiefs and women — children remain.
+    </stage>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      Come children. Susan will take you to the school-room,
+      and introduce you to the other children.
+     </p>
+    </sp>
+    <stage>
+     Exeunt Susan and children.
+    </stage>
+    <stage>
+     Enter Mr. Elliott. conducted by Catharine
+    </stage>
+    <stage>
+     Exit Catharine, to the school-room.
+    </stage>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <stage>
+      ( To Mr. Elliott .)
+     </stage>
+     <p>
+      How are you pleased, with our
+      young Cherokee?
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      Sir, I am greatly surprised. Whilst at the table.
+      I had a fine opportunity to converse with her, and have discovered
+      her to be quite superior; her manners are gentle,
+      her disposition is affectionate, and her mind appears capable
+      of high improvement. She is dignified and would be an
+      ornament, to any boarding school in New-England.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      We all love her as our own daughter; she is of
+      great use to the mission.
+     </p>
+    </sp>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      H.
+     </speaker>
+     <p>
+      I have scarcely been able to restrain my tears,
+      when I sometimes have overheard her converse with the little
+      girls, on the concerns of their souls; she is so pleasant
+      to them, and endeavours so earnestly to make them understand
+      their catechism; and it is enough to melt a heart
+      of adamant, to hear her persuade the little creatures to kneel
+      around her, whilst she implores the forgiveness of their sins,
+      and the enlightening influences of the Holy Spirit.
+     </p>
+    </sp>
+    <sp who="#mrschamberlain">
+     <speaker>
+      Mrs.
+      C.
+     </speaker>
+     <p>
+      Such is our regard for this interesting creature,
+      that we often tremble lest, by some providence or other, we
+      shall be deprived of her society.
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      I am highly interested in her character, and should
+      like to become acquainted with the rest of your native
+      scholars.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <stage>
+      (Blows the horn.)
+     </stage>
+     <p>
+      You shall be gratified, sir, — and as you are fatigued,
+      we will call the children here, and not put you to the
+      trouble of going to the school-room. I will blow the horn.
+     </p>
+    </sp>
+    <stage>
+     Enter Susan and Catharine, conducting the children
+    </stage>
+    <sp who="#susan">
+     <speaker>
+      Susan.
+     </speaker>
+     <p>
+      Mr. Elliott — Sir, I have the pleasure to present to
+      you, our native scholars who by the benevolence of the
+      American people, have been taken from the abodes of ignorance
+      and vice — but are now in a way to become enlightened.
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr
+      E.
+     </speaker>
+     <stage>
+      (They all look pleased and make obeisance again.)
+     </stage>
+     <p>
+      My young children, I hope you are all well. —
+      <stage>
+       (They all advance and make obeisance.)
+      </stage>
+      You are fond of
+      <pb n="14"/>
+      living in this missionary family I conclude.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <stage>
+      (They all take seats — the boys on the one side, the girls on the other side.)
+     </stage>
+     <p>
+      Sit down children, and wait for further orders.
+     </p>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      They are fine looking healthy children. I hope
+      they are all resolved, to make fine men and women.
+      <stage>
+       (They all look pleased.)
+      </stage>
+      I should be gratified to hear them read
+      and spell, but I fear we have not time. I shall be satisfied
+      for the present, if they will sing an hymn.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      Come children, arise and sing the hymn, beginning
+      with these words.
+     </p>
+     <l n="231">
+      "How glorious is our heavenly king."
+     </l>
+    </sp>
+    <sp who="#susan #catharine">
+     <speaker>
+      Susan and Catharine
+     </speaker>
+     <stage>
+      (The children arise and sing the hymn through — are assisted by , &amp;.mp;c.
+     </stage>
+     <l n="232">
+      "How glorious is our heavenly king,
+     </l>
+     <l n="233">
+      Who reigns above the sky!
+     </l>
+     <l n="234">
+      How shall a child presume to sing
+     </l>
+     <l n="235">
+      His awful majesty?
+     </l>
+     <l n="236">
+      How great his power is, none can tell,
+     </l>
+     <l n="237">
+      Nor think how large his grace;
+     </l>
+     <l n="238">
+      Not men below, nor saints, who dwell
+     </l>
+     <l n="239">
+      On high before his face.
+     </l>
+     <l n="240">
+      Not angels, who stand round the Lord
+     </l>
+     <l n="241">
+      Can search his secret will;
+     </l>
+     <l n="242">
+      But they perform his heavenly word,
+     </l>
+     <l n="243">
+      And sing his praises still.
+     </l>
+     <l n="244">
+      Then let me join this holy train,
+     </l>
+     <l n="245">
+      And my first offerings bring;
+     </l>
+     <l n="246">
+      The eternal God will not disdain,
+     </l>
+     <l n="247">
+      To hear an infant sing.
+     </l>
+     <l n="248">
+      My heart resolves, my tongue obeys,
+     </l>
+     <l n="249">
+      And angels will rejoice,
+     </l>
+     <l n="250">
+      To hear their mighty Maker's praise,
+     </l>
+     <l n="251">
+      Sound from a feeble voice."
+     </l>
+    </sp>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <l n="252">
+      You have sung sweetly, my children. It is delightful
+     </l>
+     <l n="253">
+      to hear mortals praising their heavenly Father — but
+     </l>
+     <l n="254">
+      you must remember another hymn observes —
+     </l>
+     <l n="255">
+      "He does not care for what you say,
+     </l>
+     <l n="256">
+      Unless you feel it too."
+     </l>
+    </sp>
+    <stage>
+     (They all make obeisance and sit down.)
+    </stage>
+    <stage>
+     Enter Mr. Hoyt, leading the little Osage Captive
+    </stage>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      H.
+     </speaker>
+     <p>
+      Here my friends, is the little Osage Captive,
+      whom we have long expected — she has at length arrived.
+     </p>
+    </sp>
+    <sp who="#mrshoyt #mrchamberlain">
+     <speaker>
+      Mrs.
+      H. and
+      Mr.
+      C.
+     </speaker>
+     <stage>
+      ( take her by the hand, and with affectionate looks observe )
+     </stage>
+     <p>
+      — How do you do, my dear?
+     </p>
+    </sp>
+    <sp who="#osagecaptive">
+     <speaker>
+      Captive.
+     </speaker>
+     <stage>
+      (Courtesying.)
+     </stage>
+     <p>
+      Pretty well.
+     </p>
+    </sp>
+    <stage>
+     ( Susan and Catharine kiss her; Catharine is affected and wipes her eyes .)
+    </stage>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      H.
+     </speaker>
+     <stage>
+      ( Presents her to the children .)
+     </stage>
+     <p>
+      Here my children
+      is the little girl, whose history Mr. Cornelius told you. You
+      recollect her father and mother, were scalped, before her
+      eyes; and she was taken captive by the enemy. And when
+      Mr. Cornelius first saw her, she had travelled on foot, five
+      hundred miles. Her name is Lydia Charter; this name
+      was given her, in honour to the lady near Natches who paid
+      one hundred dollars, to redeem her from captivity.
+     </p>
+    </sp>
+    <sp who="#lyman">
+     <speaker>
+      Lyman.
+     </speaker>
+     <p>
+      Mr. Hoyt, where did you find her?
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      H.
+     </speaker>
+     <p>
+      About four miles off. The Indian who owned
+      her, brought her there, and sent me word. When they told
+      her I was to be her father, she reached me her bonnet very
+      prettily; and when we were riding along, she gave me some
+      nuts of her own accord; and then she leaned her head on my
+      bosom, and went to sleep. I already feel an affection for
+      her. I trust you will all be good to her. Recollect she is
+      only four years old.
+     </p>
+    </sp>
+    <sp who="#sarah">
+     <speaker>
+      Sarah.
+     </speaker>
+     <p>
+      May she take a seat by me?
+     </p>
+    </sp>
+    <sp who="#lucy">
+     <speaker>
+      Lucy.
+     </speaker>
+     <p>
+      I wish her to sit by me.
+     </p>
+    </sp>
+    <sp who="#maria">
+     <speaker>
+      Maria.
+     </speaker>
+     <p>
+      May she be my sister?
+     </p>
+    </sp>
+    <sp who="#julia">
+     <speaker>
+      Julia.
+     </speaker>
+     <p>
+      I intend she shall have my play things.
+     </p>
+    </sp>
+    <sp who="#caroline">
+     <speaker>
+      Caroline.
+     </speaker>
+     <p>
+      Mr. Hoyt, whose sister shall she be?
+     </p>
+    </sp>
+    <sp who="#elias">
+     <speaker>
+      Elias.
+     </speaker>
+     <p>
+      What if she should be sister to us all? then we
+      shall all be satisfied.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      H.
+     </speaker>
+     <p>
+      There my boy, you have hit the nail on the head;
+      she may be sister to all of you; and you may all love her,
+      just as much as you please. Here Lyman and Sarah, you
+      are the oldest — each take her by the hand, and lead her;
+      and you may all go and play, or if you please you may go
+      and sit under the great tree; and Charles may tell you a
+      story — he has a fine memory, and can tell you several.
+     </p>
+    </sp>
+    <stage>
+     (Lyman and Sarah lead her, and — Exeunt children.)
+    </stage>
+    <sp who="#mrelliott">
+     <speaker>
+      Mr.
+      E.
+     </speaker>
+     <p>
+      I am highly pleased with the school. The children
+      <pb n="16"/>
+      behave well — with much more propriety than I expected.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      H.
+     </speaker>
+     <p>
+      It is my calculation to set out soon to attend a
+      council of Chiefs, that is to assemble at brother Hicks' to-morrow.
+      I have an invitation from two Chiefs who are on
+      their way thither.
+     </p>
+    </sp>
+    <sp who="#susan">
+     <speaker>
+      Susan.
+     </speaker>
+     <stage>
+      Exit Susan.
+     </stage>
+     <p>
+      Whilst Mr. C. is gelting your horse, I will step
+      and put up some articles, which you will need, sir.
+     </p>
+    </sp>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      H.
+     </speaker>
+     <stage>
+      ( to Mrs. C. and Cath. )
+     </stage>
+     <p>
+      Let us prepare for supper.
+     </p>
+    </sp>
+    <stage>
+     Exeunt Ladies.
+    </stage>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      H.
+     </speaker>
+     <stage>
+      ( to Mr. C. )
+     </stage>
+     <p>
+      Will you assist me in getting ready
+      to go.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      Yes sir. Mr. Elliott, you will in the mean time,
+      be somewhat gratified, should you walk and take a view of
+      our situation. I will soon overtake you.
+     </p>
+    </sp>
+    <stage>
+     Scene closes — curtain drops.
+    </stage>
+   </div>
+   <div type="act">
+    <head>
+     SCENE FOURTH.
+    </head>
+    <stage>
+     Twelve Chiefs in Council at Mr. Hicks'.
+    </stage>
+    <stage>
+     [The King is placed on a rug, at one side of the room, with his back supported with a roll of blankets; Mr. Hicks is by his side, on the same rug. The other Chiefs, are placed in chairs in front of the King. They are all deep in thought, when Mr. Hoyt enters. At length Mr. Hoyt is discovered by Mr. Hicks, who beckons to him. Mr. Hoyt advances. Mr. Hicks takes him by the hand, without rising.]
+    </stage>
+    <sp who="#mrhicks">
+     <speaker>
+      Mr.
+      Hicks
+      ,
+     </speaker>
+     <stage>
+      ( to the King .)
+     </stage>
+     <p>
+      This is Mr. Hoyt the Missionary
+      from Chickamauga.
+     </p>
+    </sp>
+    <sp who="#king">
+     <speaker>
+      King.
+     </speaker>
+     <stage>
+      ( Takes him by the hand without rising .)
+     </stage>
+     <p>
+      Welcome,
+      sir — we are friendly to you — sit in council with us.
+     </p>
+    </sp>
+    <stage>
+     ( Each Chief in his turn, takes Mr. Hoyt by the hand without rising .)
+    </stage>
+    <sp who="#mrhicks">
+     <speaker>
+      Mr.
+      Hicks.
+     </speaker>
+     <p>
+      Take a seat with us, our good brother. —
+     </p>
+    </sp>
+    <stage>
+     ( Sits a chair and Mr. Hoyt sits down .)
+    </stage>
+    <stage>
+     ( The Council is then opened by the King .)
+    </stage>
+    <sp who="#king">
+     <speaker>
+      King.
+     </speaker>
+     <p>
+      My Chiefs — This Council is called for the purpose
+      of talking on the importance of having Missionaries and
+      schools, in our several nations. Let brother speak his mind
+      to brother, and let us see if our sons and our daughters, cannot
+      be made equal to the children of white men.
+     </p>
+    </sp>
+    <sp who="#secondchief">
+     <speaker>
+      Second Chief.
+     </speaker>
+     <p>
+      My brethren — When I was at the great
+      city of Washington, and had a talk with the President our
+      father, I saw the great men of the land; I heard their talks:
+      They put me in mind of the stately trees, of the forest that
+      look so noble, and whose branches extend far and wide, to
+      shelter the more humble trees, that grow within their reach.
+      I thought, what makes these men so noble? I found it was
+      education. I saw their women: They would appear by the
+      side of our women, like the rose — the honey-suckle — and
+      the ivy — by the side of the cowslip, the daisy, and the snow-drop.
+      I thought, what makes these women so conspicuous?
+      I found it was education. I thought our sons and daughters
+      might be made like them.
+     </p>
+    </sp>
+    <sp who="#thirdchief">
+     <speaker>
+      Third Chief.
+     </speaker>
+     <p>
+      When I have been looking at our young
+      men, and seeing them bounding like the Antelope, over
+      mountains, and through rivers, in search of prey, an in quest
+      of pleasure; I have thought, why cannot they be tamed?
+      Although their fathers set them the example, we are tired
+      of the chace — we admire cultivated fields, and our land can
+      be made equal to the gardens of white men. Our daughters
+      are sprightly as the larks — their voices are shrill as the
+      Linnet's — clear as the running brook, and soft as the Nightingale's.
+      I am for schools.
+     </p>
+    </sp>
+    <sp who="#fourthchief">
+     <speaker>
+      Fourth Chief.
+     </speaker>
+     <p>
+      Educate bad men and you make them
+      worse. Look at the white traders — how they cheat us.
+      They give our men strong water, that makes them foolish —
+      then they get away their lands and take their cattle. If we
+      have schools, let us have such schools, as will make our children
+      better people.
+     </p>
+    </sp>
+    <sp who="#fifthchief">
+     <speaker>
+      Fifth Chief.
+     </speaker>
+     <p>
+      Look at the Senecas — see the Oneidas —
+      there are the Wyandots — yonder is the Stockbridge tribe —
+      all, all, forsaking Indian ways, and learning the religion of
+      the good white men, and for the the hunting chase, are making
+      beautiful their cornfields.
+     </p>
+    </sp>
+    <sp who="#sixthchief">
+     <speaker>
+      Sixth Chief.
+     </speaker>
+     <p>
+      Many moons ago, several brothers of us,
+      travelled through the country: We went to Washington
+      — to New-York — tarried three days in New-Haven, and
+      thus we went on from city to city, until we arrived at Boston:
+      We saw great men, and beautiful women: We looked
+      at their cotages: Once in a few miles, they had houses to
+      worship in — to worship the great spirit, who is the giver of
+      all good. It grieved us to think that beautiful country was
+      once ours, and we obliged to wear the name of savage: Let
+      us be savage no longer.
+     </p>
+    </sp>
+    <sp who="#seventhchief">
+     <speaker>
+      Seventh Chief.
+     </speaker>
+     <p>
+      Let us not move to the Arcansas, and
+      sell our lands here — Let us invite schools and Missionaries.
+      Let us build houses for our women and children — Let us
+      work on our lands; and very soon our country will be beautiful,
+      and very soon, at our approach — instead of "there
+      comes the savage," we shall receive the friendly hand, and
+      the great man's bow.
+     </p>
+    </sp>
+    <sp who="#eighthchief">
+     <speaker>
+      Eighth Chief.
+     </speaker>
+     <p>
+      At Chickamauga there is a school — there
+      are Missionaries — the children are happy — they love to
+      work — they read and write — the Missionaries are good to
+      them — they clothe them — they feed them — but they are full — they
+      cannot take more children — we must have schools in
+      our own settlements — we must have them thick.
+     </p>
+    </sp>
+    <sp who="#ninthchief">
+     <speaker>
+      Ninth Chief.
+     </speaker>
+     <p>
+      My brethren — I would not wish to be considered
+      as an opposer — but let us be considerate — can our
+      young men be tamed? — See how they skip like the Rein-
+      Deer, across the plain — See them climb the mountains —
+      Look at our young women — How gay they are, no birds in
+      the forest so gay — They go beyond the Peacock — I wish to
+      be considerate — I am agreed if all are agreed — Let us be
+      considerate.
+     </p>
+    </sp>
+    <sp who="#tenthchief">
+     <speaker>
+      Tenth Chief.
+     </speaker>
+     <p>
+      My mind is fixed — No girl in our nation
+      so fine as Catharine Brown — Her father is a great warrior
+      — is rich — allows her as much wampum as she chooses —
+      He sent her to Chickamauga — She is now modest — pleasant
+      — charming as a bright summer's morning.
+     </p>
+    </sp>
+    <sp who="#eleventhchief">
+     <speaker>
+      Eleventh Chief.
+     </speaker>
+     <p>
+      Take a young tree — Place it by your
+      door — Trim it every day — You can make it stand straight
+      as an arrow, or you can make it bend to the north, to the
+      south — to the east, to the west, just as your mind is — It is so
+      with our children. Not long since, some of our young men
+      <pb n="19"/>
+      shook hands, and all agreed not to drink any more — not to
+      be wild — agreed to invite schools — They said they were
+      tired of Indian ways. If fathers, mothers, and young
+      men, walk in the good way — the young women, will soon
+      following — I am agreed.
+     </p>
+    </sp>
+    <sp who="#mrhicks">
+     <speaker>
+      Mr.
+      Hicks.
+     </speaker>
+     <p>
+      My brethren — you already know my mind
+      on the subject. Nothing but a conviction of the utility of
+      the proposal, would have made me consent to part with my
+      darling son. Leonard, my beloved son, has gone far away
+      to receive a christian education. Before this time he has
+      reached Cornwal, in Connecticut. There is in that place,
+      a school — which has the charge of youths of many nations,
+      kindred and tongues. There the good men preach — and
+      there the good men pray. There the good women clothe
+      them — young and old are doing what they can to educate
+      Indians and heathen. They are friendly to Indians — let us
+      be friendly to them.
+     </p>
+    </sp>
+    <sp who="#king">
+     <speaker>
+      King.
+     </speaker>
+     <stage>
+      (Arises and makes a bow to Mr. Hoyt.)
+     </stage>
+     <stage>
+      (Sits down.)
+     </stage>
+     <p>
+      Brother,
+      will you give us a talk — we are ready and willing to hear
+      your talk.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <p>
+      I perceive, brethren, you are all anixous to
+      have learning and religion introduced in your several nations.
+      This belief affords me much satisfaction. We have
+      long believed you to be men as well as ourselves; that you
+      have minds equally capable of improvement, and souls susceptible
+      of endless felicity. We shall rejoice to see your
+      hitherto injured race brought forward — shall rejoice to see
+      you civilized, and evangelized. There is no enjoyment,
+      nor any privilege, which is in our possession, but that we
+      wish you an equal share: we are willing to do you all the
+      good we can. You have many friends living, at the north,
+      who all wish you happiness here, and hereafter. When
+      your friends have been informed of the cruelty, deceit,
+      and wickedness of the white men that surround your
+      border; when we have been told how these abandoned men
+      would intoxicate and demoralize your people, and steal
+      your cattle; and when your characters have been misrepresented
+      by them, to your disadvantage, we have mourned
+      and wept in compassion to you. And when, by constant
+      and repeated abuse, they make "your poor men wretched,
+      and induce your rich men to move away," still farther from
+      <pb n="20"/>
+      the light of the gospel "our hearts sink within us, and we
+      feel constrained to weep — we seek where to weep; we enter
+      our closets and weep there." Think not, my brethren,
+      that all white men are your enemies. No; many gentlemen
+      and ladies, of the first respectability in the United
+      States, lay your case deeply to heart. They ask themselves
+      where, and what should they have been, had they
+      not been instructed and enlightened — they then say, as we
+      would wish others to do unto us, let us do even so to them;
+      and upon that principle they are making great exertions to
+      promote your welfare, and it will be highly gratifying when
+      they are informed you have so much anxiety on the subject.
+     </p>
+    </sp>
+    <stage>
+     (The King then arises, and gives him the friendly hand.)
+    </stage>
+    <sp who="#king">
+     <speaker>
+      King.
+     </speaker>
+     <stage>
+      ( Each chief then arises, and advances to Mr. Hoyt, and gives him the friendly hand .)
+     </stage>
+     <stage>
+      Exit Mr. Hoyt — Chiefs take seats.
+     </stage>
+     <stage>
+      Enter a company of Indian women, singing the following hymn, which it is supposed they have learnt of Mr. Hicks.
+     </stage>
+     <stage>
+      The scene ends — curtain drops.
+     </stage>
+     <p>
+      I give you this friendly hand, and you may tell
+      your people that we are friendly. We thank you for your
+      good talk — we believe all you say. I shall delegate some
+      of my best men to go with brother Hicks, and visit the city
+      of Washington immediately. They must pray the good
+      President, our father, to send us instructors; and you must
+      beseech your good people to send us missionaries.
+     </p>
+     <l n="146">
+      "The sun sets at night, and the stars shun
+                                                the day,
+     </l>
+     <l n="147">
+      But glory remains when the light fades
+                                                away;
+     </l>
+     <l n="148">
+      Begin ye admirers of Jesus' love,
+     </l>
+     <l n="149">
+      Who died to redeem us, and raise us
+                                                above.
+     </l>
+     <l n="150">
+      Remember the night when his sorrows
+                                                began,
+     </l>
+     <l n="151">
+      The horrors of darkness that fell on the
+                                                man:
+     </l>
+     <l n="152">
+      Why so faint and so slow does your gratitude
+                                                move.
+     </l>
+     <l n="153">
+      To the Lamb that was wounded that sinners
+                                                might live.
+     </l>
+     <l n="154">
+      Remember the spot where in anguish he
+                                                lay,
+     </l>
+     <l n="155">
+      The sins which he bore from his people
+                                                away;
+     </l>
+     <l n="156">
+      Now faith rises high, we exult in his
+                                                love,
+     </l>
+     <l n="157">
+      Who died to redeem us, but now is above.
+     </l>
+     <l n="158">
+      We'll go the land where our Saviour is
+                                                gone,
+     </l>
+     <l n="159">
+      And saints shall rejoice in the fruits of
+                                                the son,
+     </l>
+     <l n="160">
+      And the angels shall sing Hallelujah,
+                                                Amen,
+     </l>
+     <l n="161">
+      All glory and praise to the Lamb that was
+                                                slain."
+     </l>
+    </sp>
+   </div>
+   <div type="act">
+    <head>
+     SCENE SIXTH.
+    </head>
+    <stage>
+     [The missionary family (children excepted) are assembled for reading, at the time when Mr. Hoyt returns from the talk.]
+    </stage>
+    <stage>
+     Enter Mr. Hoyt.
+    </stage>
+    <stage>
+     Susan arises and takes his hat, &amp;.mp;c. and sits a chair.
+    </stage>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      Hoyt.
+     </speaker>
+     <p>
+      We have been quite impatient to have you
+      return, sir. How have you been prospered, and what news
+      do you bring us? How do the Chiefs stand affected towards
+      civilization, and towards christianity?
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <p>
+      I have been well — have been highly gratified
+      with my journey; and I have much pleasing intelligence to
+      communicate; but I must defer it for the present. Catharine,
+      when I was coming across the plain, I saw two Cherokees
+      coming down the road, whom I took to be your father
+      and mother. They are coming to make you a visit, I suppose.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Fath.
+     </speaker>
+     <p>
+      Ah, indeed! I shall be happy to see them; there
+      they come.
+      <stage>
+       ( She runs to meet them — they enter .)
+      </stage>
+      How
+      do you do, my parents?
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <stage>
+      ( Catches hold of her hand very joyfully.
+     </stage>
+     <p>
+      My
+      daughter, you still alive, and, like old father and mother, in
+      good health.
+     </p>
+    </sp>
+    <sp who="#themotherofcatharinebrown">
+     <speaker>
+      Mother.
+     </speaker>
+     <p>
+      You been well all the time?
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <stage>
+      ( They advance — Mr. and Mrs. Hoyt go to meet them, and pass the usual compliments .)
+     </stage>
+     <p>
+      Yes ma'am, only when I have been home-sick to
+      see father and mother. Walk in, my parents, the family
+      will be happy to see you.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <stage>
+      ( Mrs. H. hands a chair — they sit down .)
+     </stage>
+     <p>
+      Walk in, my friends: we make you very welcome
+      — you must be fatigued, you have come such a distance.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <p>
+      Yes sir, our old age feels travelling; rather more
+      than we did when young folks.
+     </p>
+    </sp>
+    <sp who="#themotherofcatharinebrown">
+     <speaker>
+      Mother.
+     </speaker>
+     <p>
+      Ah, we found our daughter alive, and brisk —
+      that's paid us — we rested already — we been so lonesome —
+      the moons great while going away — we thought the year
+      never come — but now we reached here — she still alive, we
+      feel young again.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <p>
+      Catharine, step and get a pitcher of beer to
+      refresh your friends.
+      <stage>
+       [ Exit Catharine .]
+      </stage>
+      Your daughter
+      <pb n="22"/>
+      is very dear to us; she has improved surprisingly since her
+      residence here. We intend to have her well educated before
+      she leaves us.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <stage>
+      ( The family all look surprised .)
+     </stage>
+     <p>
+      You must be quick about it then; we come after
+      her.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <p>
+      Come after her! we can't spare her; we
+      shall be very reluctant to part with her.
+     </p>
+    </sp>
+    <sp who="#themotherofcatharinebrown">
+     <speaker>
+      Mother.
+     </speaker>
+     <p>
+      I can't spare her any longer; you have more
+      girls — I have none but her — she must go.
+     </p>
+    </sp>
+    <sp who="#mrchamberlain">
+     <speaker>
+      Mr.
+      C.
+     </speaker>
+     <p>
+      She wants more education before she leaves us.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <p>
+      Education! she has more than her old father
+      and mother has now. I don't care how much she gets. I
+      like education — but I like my daughter better. She must go.
+     </p>
+    </sp>
+    <sp who="#mrschamberlain">
+     <speaker>
+      Mrs.
+      C.
+     </speaker>
+     <p>
+      I hope you will be persuaded to let her stay one
+      year more.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <p>
+      No my good madam, she must go back with us
+      — quick as she get ready.
+     </p>
+    </sp>
+    <stage>
+     Enter Catharine with a pitcher of beer, which she hands to her parents — They drink — She sits down the pitcher, &amp;.mp;c
+    </stage>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      H.
+     </speaker>
+     <p>
+      Catharine, your parents have brought us such
+      ill tidings, that we quite regret their having come at this
+      time.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      Indeed madam! What can it be? The tidings
+      must be very unwelcome, to make their presence disagreeable
+      to me.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      H.
+     </speaker>
+     <p>
+      They intend to take you home with them; and
+      we all feel very reluctant to comply with their request.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <stage>
+      (Looks surprised.)
+     </stage>
+     <p>
+      Indeed! How unexpected!
+      Take me home! But you will consent my parents, to my
+      staying one year more?
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <p>
+      No you must go — We going to cross the Mississippi,
+      and move to the Arkansas — We want you go with us
+      — We old people.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      But I just begin to know a little, and desire greatly
+      to stay one year more.
+     </p>
+    </sp>
+    <sp who="#themotherofcatharinebrown">
+     <speaker>
+      Mother.
+     </speaker>
+     <p>
+      We can't spare you — Your mother is old — You
+      all the daughter we have to make us happy.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      I love my parents. But the thought of leaving
+      these dear Missionaries, is very painful.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <p>
+      The thought of leaving you here, hurts us as bad
+      <pb n="23"/>
+      — I like Missionaries too — I wish we live here — but we
+      must go to Arkansas — Come fix away.
+     </p>
+    </sp>
+    <sp who="#catharinebrown">
+     <speaker>
+      Cath
+     </speaker>
+     <stage>
+      (Sees they are in earnest — begins to weep.)
+     </stage>
+     <p>
+      I beg
+      of you my beloved parents, let me stay one year more — or
+      even six months longer, and I will come to the Arkansas.
+     </p>
+    </sp>
+    <sp who="#themotherofcatharinebrown">
+     <speaker>
+      Mother.
+     </speaker>
+     <p>
+      No, you must go.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      But when I get more education, I will come to you,
+      and shall be better able to comfort you in the decline of life.
+      Shall be better able to read you the scriptures of truth; and
+      the precious promises which they contain.
+     </p>
+    </sp>
+    <sp who="#themotherofcatharinebrown">
+     <speaker>
+      Mother.
+     </speaker>
+     <p>
+      If you don't go I die.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      But to leave these dear Missionaries — the preaching
+      of the word — the sacraments, these most precious pivileges;
+      is to me worse than death. Were I to die, I should
+      hope to enter the mansions of the blessed, where all sin and
+      sorrow cease, and trials have no more room forever. If you
+      take me to the Arkansas, I shall go where none of these
+      privileges exist, where all is ignorance and vice, where all
+      go astray. I shall have none to guide me, I shall be alone
+      in that wilderness world.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <stage>
+      (Grows impatient.)
+     </stage>
+     <p>
+      You like these folks better
+      than father or mother, do you? You shall go. If you don't
+      go, I will disown you forever — You shan't be my daughter
+      any more.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      What shall I do? Ah me, how trying to offend
+      such beloved parents. Yet to leave this dear people, is a
+      trial equal in magnitude. What can I do?
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      (
+      Father.
+     </speaker>
+     <stage>
+      ( is somewhat smoothed. )
+     </stage>
+     <p>
+      I tell you what you
+      can do — If you will go to the Arkansas, when Missionaries
+      come there, you may live with them, as long as you please.
+      I guess some will come. We tell the good spirit every day
+      we want Missionaries — I guess some will come.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <stage>
+      Exit Catharine.
+     </stage>
+     <p>
+      I cannot now determine what I will do. I must
+      be alone; give me a short time to consider, and I will return
+      and tell you what I will do. I wish only to learn my
+      duty, and I will do it, be it ever so painful.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <p>
+      How can she think of staying — She knows we
+      want her to prop up our old age.
+     </p>
+    </sp>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      H.
+     </speaker>
+     <p>
+      She only asks permission to stay one year more,
+      or even six months. She greatly desires more education,
+      and she can easily obtain it by remaining here.
+     </p>
+    </sp>
+    <sp who="#themotherofcatharinebrown">
+     <speaker>
+      Mother.
+     </speaker>
+     <p>
+      We willing she have more, if we no go to the
+      Arkansas — but we can't go without her.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <p>
+      Can't you put off moving another year — she
+      is of great use here — she will be of greater use still, whereever
+      she may reside, if she only has more education.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <p>
+      We must go as soon as we can — the white people
+      determined to have the country. They steal our cattle,
+      hogs, sheep, they get all they can — we no want to quarrel —
+      rather live in peace — so we go — let them have the laud —
+      The good spirit take care of us — so we go soon — she must
+      go with us.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <p>
+      We will take good care of her and send her
+      to the Arkansas if you will let her stay.
+     </p>
+    </sp>
+    <sp who="#themotherofcatharinebrown">
+     <speaker>
+      Mother.
+     </speaker>
+     <p>
+      I glad you like her — I thought you would — I
+      glad she likes you — But she must go — don't ask us any
+      more about it — we be vex't, I fraid — You get our temper up,
+      we make her ashamed of us — say no more — she be back
+      soon — she no stay long away from her father and mother
+      that love her so.
+     </p>
+    </sp>
+    <stage>
+     Enter Catharine with a composed countenance
+    </stage>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <p>
+      Well my child, what is your conclusion. —
+      We wish you to stay. Your parents wish you to go.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      I have concluded to go, sir. It appears to me to
+      be my duty. When I first retired, the tumult of my soul
+      was very distressing. To leave this beloved spot, with its
+      many blessings, was an idea almost insupportable; and yet
+      I feared the providence of God was about to send me far,
+      far away. A flow of tears, relieved my bursting heart; at
+      the throne of Grace, I became calm and undisturbed. I began
+      to consider. I recollected I had given myself to my
+      God, and he had engaged to be my portion forever. His
+      word has passed, that his children shall have no more trials,
+      than they shall be able to endure; and that they shall not
+      be tempted, except there be a way for an escape. I recollected,
+      that Joseph, was sent by a mysterious providence,
+      far away from the house of Israel; and obliged to dwell in
+      in a land of idolaters. Yet God was with him, and ever
+      preserved him from partaking of their sins. I hope in God.
+      I will also put my trust in him, and endeavour to go on my
+      way rejoicing.
+     </p>
+    </sp>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      H.
+     </speaker>
+     <p>
+      Then the path of duty appears plain.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      Yes madam. And since it does, I can now, with
+      some degree of magnanimity, bid Brainard, with all its beloved
+      inhabitants, farewell.
+     </p>
+    </sp>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      H.
+     </speaker>
+     <p>
+      By your own feelings of tenderness, you can
+      judge what ours are on the occasion.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <stage>
+      Exeunt Catharine and Susan.
+     </stage>
+     <p>
+      Oh, spare me any further trial. My first object
+      now, is to have the event passed, as easy as possible. I
+      must make ready, my parents are impatient.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <p>
+      She acts like my daughter now — She always did
+      mind her father and mother — I thought she would go.
+     </p>
+    </sp>
+    <sp who="#themotherofcatharinebrown">
+     <speaker>
+      Mother.
+     </speaker>
+     <p>
+      I thought she would get right yet.
+     </p>
+    </sp>
+    <sp who="#mrshoyt">
+     <speaker>
+      Mrs.
+      H.
+     </speaker>
+     <p>
+      This is an unexpected separation — I fear it will
+      quite overcome us.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      H.
+     </speaker>
+     <p>
+      I hope the same power will support us, that has
+      so remarkably reconciled her to the trial.
+     </p>
+    </sp>
+    <sp who="#mrschamberlain">
+     <speaker>
+      Mrs.
+      C.
+     </speaker>
+     <p>
+      I hope you will suffer Catharine to own pen, ink
+      and paper, that she may converse with us, although at a distance.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <p>
+      Certainly, certainly — any thing to please you —
+      any thing to please her, if she only go.
+     </p>
+    </sp>
+    <sp who="#themotherofcatharinebrown">
+     <speaker>
+      Mother.
+     </speaker>
+     <p>
+      She may read, write — work much as she please,
+      if she only go — when she does, we shall think of the good
+      Missionaries — we thank them — we love them.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <p>
+      You good folks — we thank you — we thank you
+      for all you done for her.
+     </p>
+    </sp>
+    <stage>
+     Enter Catharine, with Bonnet, Shawl, and Gloves, accompanied by Susan
+    </stage>
+    <sp who="#themotherofcatharinebrown">
+     <speaker>
+      Mother.
+     </speaker>
+     <p>
+      You ready so soon, my daughter — how quick
+      you have been.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <p>
+      Friend Susan has assisted me.
+      <stage>
+       (She turns to Mr. Hoyt.)
+      </stage>
+      The parting moment has at length arrived, and if
+      we can unite in singing an hymn, and supplicating the divine
+      protection, I shall hope to pass on my journey, with
+      considerable composure.
+     </p>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      H.
+     </speaker>
+     <p>
+      With pleasure my dear child. Susan call in the
+      children.
+     </p>
+    </sp>
+    <stage>
+     Exit Susan.
+    </stage>
+    <sp who="#susan #children">
+     <speaker>
+      Susan with the children
+      .]
+     </speaker>
+     <stage>
+      Enter (They all unite in singing the parting hymn.)
+     </stage>
+     <l n="184">
+      "Blest be the tie that binds
+     </l>
+     <l n="185">
+      Our hearts in christian love,
+     </l>
+     <l n="186">
+      The fellowship of kindred minds,
+     </l>
+     <l n="187">
+      Is like to that above.
+     </l>
+     <l n="188">
+      Before our fathers throne,
+     </l>
+     <l n="189">
+      We pour our ardent prayers;
+     </l>
+     <l n="190">
+      Our fears, our hopes, our aims are one,
+     </l>
+     <l n="191">
+      Our comforts and our cares.
+     </l>
+     <l n="192">
+      We share our mutual woes;
+     </l>
+     <l n="193">
+      Our mutual burdens bear;
+     </l>
+     <l n="194">
+      And often for each other flows,
+     </l>
+     <l n="195">
+      The sympathising tear.
+     </l>
+     <l n="196">
+      When we asunder part,
+     </l>
+     <l n="197">
+      It gives us inward pain,
+     </l>
+     <l n="198">
+      But we shall still be join'd in heart.
+     </l>
+     <l n="199">
+      And hope to meet again.
+     </l>
+     <l n="200">
+      This glorious hope revives
+     </l>
+     <l n="201">
+      Our courage by the way,
+     </l>
+     <l n="202">
+      While each in expectation lives,
+     </l>
+     <l n="203">
+      And longs to see the day.
+     </l>
+     <l n="204">
+      From sorrow, toil and pain,
+     </l>
+     <l n="205">
+      And sin, we shall be free;
+     </l>
+     <l n="206">
+      And perfect love and friendship reign,
+     </l>
+     <l n="207">
+      Through all eternity."
+     </l>
+    </sp>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      Hoyt.
+     </speaker>
+     <stage>
+      ( Takes her hand .)
+     </stage>
+     <p>
+      Catharine, as painful as
+      it is, I must first say the trying word, farewel. May the
+      righteous Jehovah, ever be your guide and guard; and if
+      we never again meet in this world, may we all spend an eternity
+      together, blessed and happy.
+     </p>
+    </sp>
+    <sp who="#catharine">
+     <speaker>
+      Cath.
+     </speaker>
+     <stage>
+      (She puts her handkerchief to her face, and hastens out.)
+     </stage>
+     <p>
+      I thank you sir — be it even so.
+      <stage>
+       (Lets go of his hand and points to the ladies, who are weeping.)
+      </stage>
+      From
+      the tender embrace, and the parting kiss, I must tear myself
+      away; the indulgence of which, will be two much for my
+      already tried feelings. Ye fathers — ye more than mothers
+      — my beloved brothers and sisters — farewel.
+     </p>
+    </sp>
+    <sp who="#thefatherofcatharinebrown">
+     <speaker>
+      Father.
+     </speaker>
+     <p>
+      Come my woman, let us follow — Good bye
+      friends — I thank you for all you have done.
+     </p>
+    </sp>
+    <stage>
+     Exeunt Father and Mother.
+    </stage>
+    <sp who="#mrhoyt">
+     <speaker>
+      Mr.
+      H.
+     </speaker>
+     <p>
+      "Precious babe in Christ; a few months ago,
+      brought out of the dark wilderness; here illuminated by the
+      word and Spirit of God; and now to be sent back to the
+      dark shades of the forest, without one fellow-traveller, with
+      whom she can say, 'Our Father.' Oh ye, who with delight,
+      sit under the droppings of the sanctuary, and enjoy
+      the communion of saints, remember Catharine in your
+      prayers"
+     </p>
+    </sp>
+   </div>
+  </body>
+  <back>
+   <p>
+    [DRAMA ENDS.]
+   </p>
+  </back>
+ </text>
+</TEI>

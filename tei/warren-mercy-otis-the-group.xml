@@ -1,0 +1,2850 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am709" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Group
+    </title>
+    <author>
+     Warren, Mercy Otis
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Project Gutenberg
+     </name>
+     <idno>
+      https://www.gutenberg.org/ebooks/29224
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Representative Plays by American Dramatists: Vol 1, 1765-1819, ed. Montrose J. Moses
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+<particDesc>
+    <listPerson>
+     <person xml:id="collateralis" sex="MALE">
+      <persName>Collateralis</persName>
+     </person>
+     <person xml:id="dupe" sex="MALE">
+      <persName>Dupe</persName>
+     </person>
+     <person xml:id="judgemeagre" sex="MALE">
+      <persName>Judge Meagre</persName>
+     </person>
+     <person xml:id="hectormushroom" sex="MALE">
+      <persName>Hector Mushroom</persName>
+     </person>
+     <person xml:id="scribleriusfribble" sex="MALE">
+      <persName>Scriblerius Fribble</persName>
+     </person>
+     <person xml:id="humhumbug" sex="MALE">
+      <persName>Hum Humbug Esq;</persName>
+     </person>
+     <person xml:id="beautrumps" sex="MALE">
+      <persName>Beau Trumps</persName>
+     </person>
+     <person xml:id="monsieurdefrancois" sex="MALE">
+      <persName>Monsieur de Francois</persName>
+     </person>
+     <person xml:id="brigadierhateall" sex="MALE">
+      <persName>Brigadier Hateall</persName>
+     </person>
+     <person xml:id="crustycrowbar" sex="MALE">
+      <persName>Crusty Crowbar, Esq;</persName>
+     </person>
+     <person xml:id="dickthepublican" sex="MALE">
+      <persName>Dick the Publican</persName>
+     </person>
+     <person xml:id="sylla" sex="UNKNOWN">
+      <persName>Sylla</persName>
+     </person>
+     <person xml:id="hazelrod" sex="MALE">
+      <persName>Lord Chief Justice Hazlerod</persName>
+     </person>
+     <person xml:id="simplesapling" sex="MALE">
+      <persName>Simple Sapling, Esq;</persName>
+     </person>
+     <person xml:id="lady" sex="FEMALE">
+      <persName>Lady</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Farce
+     </term>
+     <term subtype="am" type="genreTitle">
+      Comedy
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Verse
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1775">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <div type="preface">
+    <p>
+     As lately acted, and to be re-acted to the wonder of all superior intelligences, nigh head-quarters at Amboyne.
+    </p>
+   </div>
+   <div type="preface">
+    <p>
+     As the great business of the polite world is the eager pursuit of amusement, and as the Public diversions of the season have been interrupted by the hostile parade in the capital; the exhibition of a new farce may not be unentertaining.
+    </p>
+   </div>
+   <div type="prologue">
+    <p>
+     The author has thought proper to borrow the following spirited lines from a late celebrated poet, and offer to the public by way of PROLOGUE, which cannot fail of pleasing at this crisis.
+    </p>
+    <p rend="l">
+     What! arm'd for virtue, and not point the pen ,
+    </p>
+    <p rend="l">
+     Brand the bold front of shameless guilty men ,
+    </p>
+    <p rend="l">
+     Dash the proud Gamester from his gilded car.
+    </p>
+    <p rend="l">
+     Bare the mean heart which lurks beneath a star ,
+    </p>
+    <p rend="l">
+    </p>
+    <p rend="l">
+    </p>
+    <p rend="l">
+     Shall I not strip the gilding off a knave ,
+    </p>
+    <p rend="l">
+     Unplac'd, unpension'd, no man's heir or slave?
+    </p>
+    <p rend="l">
+     I will or perish in the gen'rous cause ;
+    </p>
+    <p rend="l">
+     Hear this and tremble, ye who 'scape the laws ;
+    </p>
+    <p rend="l">
+     Yes, while I live, no rich or noble knave ,
+    </p>
+    <p rend="l">
+     Shall walk the world in credit to his grave ;
+    </p>
+    <p rend="l">
+     To virtue only, and her friends, a friend ,
+    </p>
+    <p rend="l">
+     The world beside may murmur, or commend.
+    </p>
+   </div>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      DRAMATIS PERSONÆ
+     </head>
+     <castItem>
+      Lord Chief Justice Halzerod ,
+     </castItem>
+     <castItem>
+      Judge Meagae ,
+     </castItem>
+     <castItem>
+      Brigadier Hateall ,
+     </castItem>
+     <castItem>
+      Hum Humbug, Esq;
+     </castItem>
+     <castItem>
+      Sir Sparrow Spendall ,
+     </castItem>
+     <castItem>
+      Hector Mushroom, — Col.
+     </castItem>
+     <castItem>
+      Beau Trumps,
+     </castItem>
+     <castItem>
+      Dick, the Publican ,
+     </castItem>
+     <castItem>
+      Simple Sapling, Esq;
+     </castItem>
+     <castItem>
+      Monsieur de Francois ,
+     </castItem>
+     <castItem>
+      Crusty Crowbar, Esq;
+     </castItem>
+     <castItem>
+      Dupe, — Secretary of State ,
+     </castItem>
+     <castItem>
+      Scriblerius Fribble,
+     </castItem>
+     <castItem>
+      Commodore Batteau,
+     </castItem>
+     <castItem>
+      Collateralis, — a new made Judge.
+     </castItem>
+     <castItem>
+      Attended by a swarm of court sycophants, hungry harpies, and unprincipled danglers, collected from the neighbouring villages, hovering over the stage in the shape of locusts, led by Massachusettensis in the form of a basilisk; the rear brought up by proteus, bearing a torch in one hand, and a powder-flask in the other: The whole supported by a mighty army and navy, from blunderland, for the laudible purpose of enslaving its best friends.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     ACT I.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      Scene, a little dark parlour, guards standing at the door.
+     </stage>
+     <stage>
+      Hazlerod, Crusty Crowbar, Simple-Sapling, Hateall, and Hector Mushroom.
+     </stage>
+     <sp who="#simplesapling">
+      <speaker>
+       Simple.
+      </speaker>
+      <l n="1">
+       I know
+       not what to think of these
+                                        sad times,
+      </l>
+      <l n="2">
+       The people arm'd — and all resolv'd to die
+      </l>
+      <l n="3">
+       E're they'll submit. — —
+      </l>
+     </sp>
+     <sp who="#crustycrowbar">
+      <speaker>
+       Crusty Crowbar.
+      </speaker>
+      <l n="4">
+       I too am almost sick of the parade
+      </l>
+      <l n="5">
+       Of honours purchas'd at the price of peace.
+      </l>
+     </sp>
+     <sp who="#simplesapling">
+      <speaker>
+       Simple.
+      </speaker>
+      <l n="6">
+       Fond as I am of greatness and her charms
+      </l>
+      <l n="7">
+       Elate with prospects of my rising name,
+      </l>
+      <l n="8">
+       Push'd into place, — a place I ne'er expected,
+      </l>
+      <l n="9">
+       My bounding heart leapt in my feeble breast
+      </l>
+      <l n="10">
+       And extasies entranc'd my slender brain. —
+      </l>
+      <l n="11">
+       But yet, e're this I hop'd more solid gains,
+      </l>
+      <l n="12">
+       As my low purse demands a quick supply. —
+      </l>
+      <l n="13">
+       Poor Sylvia weeps, — and urges my return
+      </l>
+      <l n="14">
+       To rural peace and humble happiness,
+      </l>
+      <l n="15">
+       As my ambition beggars all her babes.
+      </l>
+     </sp>
+     <sp who="#crustycrowbar">
+      <speaker>
+       Crusty.
+      </speaker>
+      <l n="16">
+       When first I listed in the desp'rate cause,
+      </l>
+      <l n="17">
+       And blindly swore obedience to his will,
+      </l>
+      <l n="18">
+       So wise, so just, so good I thought Rapatio,
+      </l>
+      <l n="19">
+       That if salvation rested on his word
+      </l>
+      <l n="20">
+       I'd pin my faith and risk my hopes thereon.
+      </l>
+     </sp>
+     <sp who="#hazelrod">
+      <speaker>
+       Hazlerod.
+      </speaker>
+      <l n="21">
+       And why not now? — What staggers thy belief?
+      </l>
+     </sp>
+     <sp who="#crustycrowbar">
+      <speaker>
+       Crusty.
+      </speaker>
+      <l n="22">
+       Himself — — his perfidy appears — —
+      </l>
+      <l n="23">
+       It is too plain he has betray'd his country.
+      </l>
+      <l n="24">
+       And we're the wretched tools by him mark'd out
+      </l>
+      <l n="25">
+       To seal its ruins — tear up the ancient forms,
+      </l>
+      <l n="26">
+       And every vestige treacherously destroy,
+      </l>
+      <l n="27">
+       Nor leave a trait of freedom in the land.
+      </l>
+      <l n="28">
+       Nor did I think hard fate wou'd call me up
+      </l>
+      <l n="29">
+       From drudging o'er my acres, — —
+      </l>
+      <l n="30">
+       Treading the glade, and sweating at the plough,
+      </l>
+      <l n="31">
+       To dangle at the tables of the great;
+      </l>
+      <l n="32">
+       At bowls and cards, to spend my frozen years;
+      </l>
+      <l n="33">
+       To sell my friends, my country, and my
+                                        conscience;
+      </l>
+      <l n="34">
+       Prophane the sacred sabbaths of my God;
+      </l>
+      <l n="35">
+       Scorn'd by the very men who want my aid
+      </l>
+      <l n="36">
+       To spread distress o'er this devoted people.
+      </l>
+     </sp>
+     <sp who="#hazelrod">
+      <speaker>
+       Hazlerod.
+      </speaker>
+      <l n="37">
+       Pho — what misgivings — why these idle qualms
+      </l>
+      <l n="38">
+       This shrinking backwards at the bugbear
+                                        conscience?
+      </l>
+      <l n="39">
+       In early life I heard the phantom nam'd,
+      </l>
+      <l n="40">
+       And the grave sages prate of moral sense
+      </l>
+      <l n="41">
+       Presiding in the bosom of the just;
+      </l>
+      <l n="42">
+       Or panting thongs about the guilty heart.
+      </l>
+      <l n="43">
+       Bound by these shackles, long my lab'ring mind
+      </l>
+      <l n="44">
+       Obscurely trod the lower walks of life,
+      </l>
+      <l n="45">
+       In hopes by honesty my bread to gain;
+      </l>
+      <l n="46">
+       But neither commerce, or my conjuring rods,
+      </l>
+      <l n="47">
+       Nor yet mechanics, or new fangled drills,
+      </l>
+      <l n="48">
+       Or all the Iron-mongers curious arts,
+      </l>
+      <l n="49">
+       Gave me a competence of shining ore,
+      </l>
+      <l n="50">
+       Or gratify'd my itching palm for more;
+      </l>
+      <l n="51">
+       Till I dismiss'd the bold intruding guest,
+      </l>
+      <l n="52">
+       And banish'd conscience from my wounded breast.
+      </l>
+     </sp>
+     <sp who="#crustycrowbar">
+      <speaker>
+       Crusty.
+      </speaker>
+      <l n="53">
+       Happy expedient! — Could I gain the art,
+      </l>
+      <l n="54">
+       Then balmy sleep might sooth my waking lids,
+      </l>
+      <l n="55">
+       And rest once more refresh my weary soul. —
+      </l>
+     </sp>
+     <sp who="#hazelrod">
+      <speaker>
+       Hazlerod.
+      </speaker>
+      <l n="56">
+       Resolv'd more rapidly to gain my point,
+      </l>
+      <l n="57">
+       I mounted high in justice's sacred seat,
+      </l>
+      <l n="58">
+       With flowing robes, and head equip'd without,
+      </l>
+      <l n="59">
+       A heart unfeeling and a stubborn soul,
+      </l>
+      <l n="60">
+       As qualify'd as e'er a
+       Jefferies
+       was;
+      </l>
+      <l n="61">
+       Save in the knotty rudiments of law,
+      </l>
+      <l n="62">
+       The smallest requisite for modern times,
+      </l>
+      <l n="63">
+       When wisdom, law, and justice, are supply'd
+      </l>
+      <l n="64">
+       By swords, dragoons, and ministerial nods,
+      </l>
+      <l n="65">
+       Sanctions most sacred in the pander's creed,
+      </l>
+      <l n="66">
+       I sold my country for a splendid bribe.
+      </l>
+      <l n="67">
+       Now let her sink — and all the dire alarms
+      </l>
+      <l n="68">
+       Of war, confusion, pestilence and blood,
+      </l>
+      <l n="69">
+       And tenfold mis'ry be her future doom —
+      </l>
+      <l n="70">
+       Let civil discord lift her sword on high,
+      </l>
+      <l n="71">
+       Nay sheathe its hilt e'en in my brother's blood;
+      </l>
+      <l n="72">
+       It ne'er shall move the purpose of my soul;
+      </l>
+      <l n="73">
+       Tho' once I trembled at a thought so bold;
+      </l>
+      <l n="74">
+       By Philalethes's arguments, convinc'd
+      </l>
+      <l n="75">
+       We may live Demons, as we die like brutes,
+      </l>
+      <l n="76">
+       I give my tears, and conscience to the winds,
+      </l>
+     </sp>
+     <sp who="#brigadierhateall">
+      <speaker>
+       Hateall.
+      </speaker>
+      <l n="77">
+       Curse on their coward fears, and dastard souls,
+      </l>
+      <l n="78">
+       Their soft compunctions and relenting qualms,
+      </l>
+      <l n="79">
+       Compassion ne'er shall seize my stedtast breast
+      </l>
+      <l n="80">
+       Though blood and carnage spread thro' all the
+                                        land;
+      </l>
+      <l n="81">
+       Till streaming purple tinge the verdant turf,
+      </l>
+      <l n="82">
+       Till ev'ry street shall float with human gore,
+      </l>
+      <l n="83">
+       I Nero like, the capital in flames,
+      </l>
+      <l n="84">
+       Could laugh to see her glotted sons expire,
+      </l>
+      <l n="85">
+       Tho' much too rough my soul to touch the lyre.
+      </l>
+     </sp>
+     <sp who="#simplesapling">
+      <speaker>
+       Simple.
+      </speaker>
+      <l n="86">
+       I fear the brave, the injur'd multitude;
+      </l>
+      <l n="87">
+       Repeated wrongs, arouse them to resent,
+      </l>
+      <l n="88">
+       And every patriot like old Brutus stands,
+      </l>
+      <l n="89">
+       The shining steal half drawn — its glitt'ring
+                                        point
+      </l>
+      <l n="90">
+       Scarce hid beneath the scabbard's friendly cell
+      </l>
+      <l n="91">
+       Resolv'd to die, or see their country free.
+      </l>
+     </sp>
+     <sp who="#brigadierhateall">
+      <speaker>
+       Hateall.
+      </speaker>
+      <l n="92">
+       Then let them die —
+       The dogs we will
+                                            keep down
+       —
+      </l>
+      <l n="93">
+       While N---'s my friend, and G — approves the
+                                        deed,
+      </l>
+      <l n="94">
+       Tho' hell and all its hell hounds should unite,
+      </l>
+      <l n="95">
+       I'll not recede to save from swift perdition
+      </l>
+      <l n="96">
+       My wife, my country, family or friends.
+      </l>
+      <l n="97">
+       G — 's mandamus I more highly prize
+      </l>
+      <l n="98">
+       Than all the mandates of th' etherial king.
+      </l>
+     </sp>
+     <sp who="#hectormushroom">
+      <speaker>
+       Hector Mushroom.
+      </speaker>
+      <l n="99">
+       Will our abettors in the distant towns
+      </l>
+      <l n="100">
+       Support us long against the common cause,
+      </l>
+      <l n="101">
+       When they shall see from Hampshire's northern
+                                        bounds
+      </l>
+      <l n="102">
+       Thro the wide western plains to southern shores
+      </l>
+      <l n="103">
+       The whole united continent in arms? —
+      </l>
+     </sp>
+     <sp who="#brigadierhateall">
+      <speaker>
+       Hateall.
+      </speaker>
+      <l n="104">
+       They shall — as sure as oaths or bonds can
+                                        bind;
+      </l>
+      <l n="105">
+       I've boldly sent my new-born brat abroad,
+      </l>
+      <l n="106">
+       Th' association of my morbid brain,
+      </l>
+      <l n="107">
+       To which each minion must affix his name.
+      </l>
+      <l n="108">
+       As all our hope depends on brutal force
+      </l>
+      <l n="109">
+       On quick destruction, misery and death;
+      </l>
+      <l n="110">
+       Soon may we see dark ruin stalk around,
+      </l>
+      <l n="111">
+       With murder, rapine, and inflicted pains,
+      </l>
+      <l n="112">
+       Estates confiscate, slav'ry and despair,
+      </l>
+      <l n="113">
+       Wrecks, halters, axes, gibbeting and chains,
+      </l>
+      <l n="114">
+       All the dread ills that wait on civil war; —
+      </l>
+      <l n="115">
+       How I could glut my vengeful eyes to see
+      </l>
+      <l n="116">
+       The weeping maid thrown helpless on the world,
+      </l>
+      <l n="117">
+       Her fire cut off. — Her orphan brothers stand
+      </l>
+      <l n="118">
+       While the big tear rools down the manly cheek.
+      </l>
+      <l n="119">
+       Robb'd of maternal care by grief's keen shaft,
+      </l>
+      <l n="120">
+       The sorrowing mother mourns her starving babes,
+      </l>
+      <l n="121">
+       Her murder'd lord torn guiltless from her side,
+      </l>
+      <l n="122">
+       And flees for shelter to the pitying grave
+      </l>
+      <l n="123">
+       To skreen at once from slavery and pain.
+      </l>
+     </sp>
+     <sp who="#hazelrod">
+      <speaker>
+       Hazlerod.
+      </speaker>
+      <l n="124">
+       But more compleat I view this scene of woe,
+      </l>
+      <l n="125">
+       By the incursions of a savage foe,
+      </l>
+      <l n="126">
+       Of which I warn'd them, if they dare refuse
+      </l>
+      <l n="127">
+       The badge of slaves, and bold resistance use.
+      </l>
+      <l n="128">
+       Now let them suffer — I'll no pity feel.
+      </l>
+     </sp>
+     <sp who="#brigadierhateall">
+      <speaker>
+       Hateall.
+      </speaker>
+      <l n="129">
+       Nor I — But had I power, as I have the Will
+      </l>
+      <l n="130">
+       I'd send them murm'ring to the shades of hell.
+      </l>
+     </sp>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT. II.
+    </head>
+    <stage>
+     The scene changes to a large dining room. The table furnished with bowls, bottles, glasses, and cards — The group appear sitting round in a restless attitude. In one corner of the room is discovered a small cabinet of books, for the use of the studious and contemplative; containing Hobbs's Leviathan, Sipthrop's Sermons, Hutchinson's History, Fable of the Bees, Philalethes on Philanthrop, with an appendix by Massachusettensis, Hoyle on Whist, Lives of the Stewarts, Statutes of Henry the eighth, and William the Conqueror, Wedderburn's speeches, and Acts of Parliament, for 1774.
+    </stage>
+    <div type="scene">
+     <head>
+      SCENE. I.
+     </head>
+     <stage>
+      Hateall, Hazlered, Monsieur, Beau Trumps, Simple, Humbug, Sir Sparrow. &amp;.mp;c. &amp;.mp;c.
+     </stage>
+     <sp who="#scribleriusfribble">
+      <speaker>
+       Scriblerius.
+      </speaker>
+      <l n="1">
+       Thy
+       toast Monsieur,
+      </l>
+      <l n="2">
+      </l>
+      <l n="3">
+       Pray, why that solemn phiz? —
+      </l>
+      <l n="4">
+       Art thou too balancing 'twixt right and wrong?
+      </l>
+      <l n="5">
+       Hast thou a thought so mean as to give up
+      </l>
+      <l n="6">
+       Thy present good, for promise in reversion
+      </l>
+      <l n="7">
+       'Tis true hereafter has some feeble terrors,
+      </l>
+      <l n="8">
+       But e'er our grizley heads are wrapt in clay
+      </l>
+      <l n="9">
+       We may compound, and make our peace with Heav'n.
+      </l>
+     </sp>
+     <sp who="#monsieurdefrancois">
+      <speaker>
+       Monsieur.
+      </speaker>
+      <l n="10">
+       Could I give up the dread of retribution,
+      </l>
+      <l n="11">
+       The awful reck'ning of some future day,
+      </l>
+      <l n="12">
+       Like surly Hateall I might curse mankind,
+      </l>
+      <l n="13">
+       And dare the threat'ned vengeance of the skies.
+      </l>
+      <l n="14">
+       Of like you apostate. — —
+       <stage>
+        [ Pointing to Hazlerod, retired to a corner to read Massachusettensis .]
+       </stage>
+      </l>
+      <l n="15">
+       Feel but slight remorse
+      </l>
+      <l n="16">
+       To sell my country for a grasp of Gold,
+      </l>
+      <l n="17">
+       But the impressions of my early youth,
+      </l>
+      <l n="18">
+       Infix'd by precepts of my pious fire,
+      </l>
+      <l n="19">
+       Are stings and Scorpions in my goaded breast;
+      </l>
+      <l n="20">
+       Oft have I hung upon my parents knee
+      </l>
+      <l n="21">
+       And heard him tell of his escape from France;
+      </l>
+      <l n="22">
+       He left the land of slaves, and wooden shoes;
+      </l>
+      <l n="23">
+       From place to place he fought a safe retreat,
+      </l>
+      <l n="24">
+       Till fair Bostonia stretch'd her friendly arm
+      </l>
+      <l n="25">
+       And gave the refugee both bread and peace,
+      </l>
+      <l n="26">
+       Shall I ungrateful brake the sacred bonds,
+      </l>
+      <l n="27">
+       And help to clank the tyrant's iron chains
+      </l>
+      <l n="28">
+       O'er these blest shores — once the sure assylum
+      </l>
+      <l n="29">
+       From all the ills of arbitrary sway
+      </l>
+      <l n="30">
+       With his expiring breath he bade his sons
+      </l>
+      <l n="31">
+       If e'er oppression reach'd the western world
+      </l>
+      <l n="32">
+       Resist its force, and break the servile yoke.
+      </l>
+     </sp>
+     <sp who="#scribleriusfribble">
+      <speaker>
+       Scriblerius.
+      </speaker>
+      <l n="33">
+       Well quit thy post; — Go make thy flatt'ring
+                                        court
+      </l>
+      <l n="34">
+       To Freedom's Son's and tell thy baby fears;
+      </l>
+      <l n="35">
+       Shew the soft traces in thy puny heart,
+      </l>
+      <l n="36">
+       Made by the trembling tongue and quiv'ring lip
+      </l>
+      <l n="37">
+       Of an old grandsire's superstitious whims.
+      </l>
+     </sp>
+     <sp who="#monsieurdefrancois">
+      <speaker>
+       Monsieur.
+      </speaker>
+      <l n="38">
+       No, — — I never can —
+      </l>
+      <l n="39">
+       So great the itch I feel for titl'd place
+      </l>
+      <l n="40">
+       Some honorary post, some small distinction,
+      </l>
+      <l n="41">
+       To save my name from dark oblivions jaws,
+      </l>
+      <l n="42">
+       I'll Hazard all, but ne'er give up my place,
+      </l>
+      <l n="43">
+       For that I'll see Rome's antient rites restor'd,
+      </l>
+      <l n="44">
+       And flame and faggot blaze in ev'ry street.
+      </l>
+     </sp>
+     <sp who="#beautrumps">
+      <speaker>
+       Beau-Trumps.
+      </speaker>
+      <l n="45">
+       — — That's right Monsieur,
+      </l>
+      <l n="46">
+       There's nought on earth that has such tempting
+                                        charms
+      </l>
+      <l n="47">
+       As rank and show, and pomp, and glitt'ring dress,
+      </l>
+      <l n="48">
+       Save the dear counters at belov'd quadrill,
+      </l>
+      <l n="49">
+       Viner unsoil'd, and Littleton may sleep,
+      </l>
+      <l n="50">
+       And Coke lie mould'ring on the dusty shelf,
+      </l>
+      <l n="51">
+       If I by shuffling draw some lucky card
+      </l>
+      <l n="52">
+       That wins the livers, or lucrative place.
+      </l>
+     </sp>
+     <sp who="#humhumbug">
+      <speaker>
+       Hum-Humbuc.
+      </speaker>
+      <l n="53">
+       When sly Rapatio shew'd his friends the scrall,
+      </l>
+      <l n="54">
+       I wonder'd much to see thy patriot name
+      </l>
+      <l n="55">
+       Among the list of rebels to the state,
+      </l>
+      <l n="56">
+       I thought thee one of Rusticus's sworn friends.
+      </l>
+     </sp>
+     <sp who="#beautrumps">
+      <speaker>
+       Beau-Trumps.
+      </speaker>
+      <l n="57">
+       When first I enter'd on the public stage
+      </l>
+      <l n="58">
+       My country groan'd beneath base Brundo's hand,
+      </l>
+      <l n="59">
+       Virtue look'd fair and beckon'd to her lure,
+      </l>
+      <l n="60">
+       Thro' truth's bright mirror I beheld her charms
+      </l>
+      <l n="61">
+       And wish'd to tread the patriotic path.
+      </l>
+      <l n="62">
+       And wear the Laurels that adorn his fame;
+      </l>
+      <l n="63">
+       I walk'd a while and tasted solid peace
+      </l>
+      <l n="64">
+       With Cassius, Rusticus and good Hortensius,
+      </l>
+      <l n="65">
+       And many more, whose names will be rever'd
+      </l>
+      <l n="66">
+       When you and I, and all the venal herd
+      </l>
+      <l n="67">
+       Weigh'd in Nemosis just impartial scale,
+      </l>
+      <l n="68">
+       Are mark'd with infamy till time blot out
+      </l>
+      <l n="69">
+       And in oblivion sink our hated names.
+      </l>
+      <l n="70">
+       But 'twas a poor unprofitable path
+      </l>
+      <l n="71">
+       Nought to be gain'd, save solid peace of mind,
+      </l>
+      <l n="72">
+       No pensions, place or title there I found;
+      </l>
+      <l n="73">
+       I saw Rapatio's arts had struck so deep
+      </l>
+      <l n="74">
+       And giv'n his country such a fatal wound
+      </l>
+      <l n="75">
+       None but its foes promotion could expect;
+      </l>
+      <l n="76">
+       I trim'd, and pimp'd, and veer'd, and wav'ring
+                                        stood
+      </l>
+      <l n="77">
+       But half resolv'd to show myself a knave,
+      </l>
+      <l n="78">
+       Till the Arch Traitor prowling round for aid
+      </l>
+      <l n="79">
+       Saw my suspense and bid me doubt no more; —
+      </l>
+      <l n="80">
+       He gently bow'd, and smiling took my hand,
+      </l>
+      <l n="81">
+       And whispering softly in my listening ear,
+      </l>
+      <l n="82">
+       Shew'd me my name among his chosen band,
+      </l>
+      <l n="83">
+       And laugh'd at virtue dignify'd by fools,
+      </l>
+      <l n="84">
+       Clear'd all my doubts, and bid me persevere
+      </l>
+      <l n="85">
+       In spite of the restraints, or hourly checks
+      </l>
+      <l n="86">
+       Of wounded friendship, and a goaded mind,
+      </l>
+      <l n="87">
+       Or all the sacred ties of truth and honour.
+      </l>
+     </sp>
+     <sp who="#collateralis">
+      <speaker>
+       Collateralis.
+      </speaker>
+      <l n="88">
+       Come 'mongst ourselves we'll e'en speak out the
+                                        truth.
+      </l>
+      <l n="89">
+       Can you suppose there yet is such a dupe
+      </l>
+      <l n="90">
+       As still believes that wretch an honest man?
+      </l>
+      <l n="91">
+       The latter strokes of his serpentine brain
+      </l>
+      <l n="92">
+       Outvie the arts of Machiavel himself;
+      </l>
+      <l n="93">
+       His Borgian model here is realiz'd,
+      </l>
+      <l n="94">
+       And the stale tricks of politicians play'd
+      </l>
+      <l n="95">
+       Beneath a vizard fair — —
+      </l>
+      <l n="96">
+       — — — — Drawn from the Heav'nly form
+      </l>
+      <l n="97">
+       Of blest religion weeping o'er the land
+      </l>
+      <l n="98">
+       For virtue fall'n, and for freedom lost.
+      </l>
+     </sp>
+     <sp who="#beautrumps">
+      <speaker>
+       Beau-Trumps.
+      </speaker>
+      <l n="99">
+       I think with you. — —
+      </l>
+      <l n="100">
+       — — — — unparallelled his effront'ry,
+      </l>
+      <l n="101">
+       When by chican'ry and specious art,
+      </l>
+      <l n="102">
+       Mid'st the distress in which he'd brought the
+                                        city,
+      </l>
+      <l n="103">
+       He found a few, (by artifice and cunning,
+      </l>
+      <l n="104">
+       By much industry of his wily friend
+      </l>
+      <l n="105">
+       The false Philanthrop — — fly undermining tool,
+      </l>
+      <l n="106">
+       Who with the Syren's voice — —
+      </l>
+      <l n="107">
+       Deals daily round the poison of his tongue,)
+      </l>
+      <l n="108">
+       To speak him fair — and overlook his guilt.
+      </l>
+      <l n="109">
+       They by reiterated promise made
+      </l>
+      <l n="110">
+       To stand their friend at Britain's mighty court,
+      </l>
+      <l n="111">
+       And vindicate his native injur'd land,
+      </l>
+      <l n="112">
+       Lent him their names to sanctify his deeds.
+      </l>
+      <l n="113">
+       But mark the traitor — his high crime gloss'd
+                                        o'er
+      </l>
+      <l n="114">
+       Conceals the tender feelings of the man,
+      </l>
+      <l n="115">
+       The social ties that bind the human heart;
+      </l>
+      <l n="116">
+       He strikes a bargain with his country's soes,
+      </l>
+      <l n="117">
+       And joins to wrap America in flames.
+      </l>
+      <l n="118">
+       Yet with feign'd pity, and Satanic grin,
+      </l>
+      <l n="119">
+       As if more deep to fix the keen insult,
+      </l>
+      <l n="120">
+       Or make his life a farcestill more compleat,
+      </l>
+      <l n="121">
+       He sends a groan across the broad Atlantic,
+      </l>
+      <l n="122">
+       And with a phiz of Crocodilian stamp,
+      </l>
+      <l n="123">
+       Can weep, and wreathe, still hoping to deceive,
+      </l>
+      <l n="124">
+       He cries the gath'ring clouds hang thick about
+                                        her,
+      </l>
+      <l n="125">
+       But laughs within — — then sobs — —
+      </l>
+      <l n="126">
+       — — — — — Alas! my country!
+      </l>
+     </sp>
+     <sp who="#humhumbug">
+      <speaker>
+       Hum-Humbug.
+      </speaker>
+      <l n="127">
+       Why so severe, or why exclaim at all,
+      </l>
+      <l n="128">
+       Against the man who made thee what thou art?
+      </l>
+     </sp>
+     <sp who="#beautrumps">
+      <speaker>
+       Beau-Trumps.
+      </speaker>
+      <l n="129">
+       I know his guilt, — I ever knew the man,
+      </l>
+      <l n="130">
+       Thy father knew him e're we trod the stage;
+      </l>
+      <l n="131">
+       I only speak to such as know him well;
+      </l>
+      <l n="132">
+       Abroad I tell the World he is a saint.
+      </l>
+      <l n="133">
+       But as for interest, I betray'd my own
+      </l>
+      <l n="134">
+       With the same views, I rank'd among his friends;
+      </l>
+      <l n="135">
+       But my ambition sighs for something more.
+      </l>
+      <l n="136">
+       What merits has sir Sparrow of his own.
+      </l>
+      <l n="137">
+       And yet a feather graces the Fool's cap:
+      </l>
+      <l n="138">
+       Which did he wear for what himself atchiev'd,
+      </l>
+      <l n="139">
+       'Twould stamp some honour on his latest heir —
+      </l>
+      <l n="140">
+       But I'll suspen'd my murm'ring rays awhile;
+      </l>
+      <l n="141">
+       Come t'other glass — — and try our luck at loo,
+      </l>
+      <l n="142">
+       And if before the dawn your gold I win,
+      </l>
+      <l n="143">
+       Or e'er bright Phoebus does his course begin,
+      </l>
+      <l n="144">
+       The eastern breeze from Britain's hostile shore
+      </l>
+      <l n="145">
+       Should waft her lofty floating towers o'er,
+      </l>
+      <l n="146">
+       Whose waving pendants sweep the wat'ry main,
+      </l>
+      <l n="147">
+       Dip their proud beaks and dance towards the
+                                        plain,
+      </l>
+      <l n="148">
+       The destin'd plains of slaughter and distress,
+      </l>
+      <l n="149">
+       Laden with troops from Hanover and Hess,
+      </l>
+      <l n="150">
+       I would invigorate my sinking soul,
+      </l>
+      <l n="151">
+       For then the continent we might controul;
+      </l>
+      <l n="152">
+       Not all the millions that she vainly boasts
+      </l>
+      <l n="153">
+       Can cope with Veteran Barbarian hosts; —
+      </l>
+      <l n="154">
+       But the brave sons of Albion's warlike race,
+      </l>
+      <l n="155">
+       Their arms, and honours, never can disgrace,
+      </l>
+      <l n="156">
+       Or draw their swords in such a hated cause
+      </l>
+      <l n="157">
+       In blood to seal a N---'s oppressive laws.
+      </l>
+      <l n="158">
+       They'll spurn the service; — Briton's must
+                                        recoil,
+      </l>
+      <l n="159">
+       And show themselves the natives of an isle
+      </l>
+      <l n="160">
+       Who fought for freedom, in the worst of times
+      </l>
+      <l n="161">
+       Produc'd her Hampden's, Fairfaxe's and Pym's.
+      </l>
+      <l n="162">
+       But if by carnage we should win the game,
+      </l>
+      <l n="163">
+       Perhaps by my abilities and same,
+      </l>
+      <l n="164">
+       I might attain a splendid glitt'ring car,
+      </l>
+      <l n="165">
+       And mount aloft, and sail in liquid air,
+      </l>
+      <l n="166">
+       Like Phæton, I'd then out-strip the wind,
+      </l>
+      <l n="167">
+       And leave my low competitors behind.
+      </l>
+     </sp>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT II.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      Collateralis — — Dick the Publican.
+     </stage>
+     <sp who="#dickthepublican">
+      <speaker>
+       Publican.
+      </speaker>
+      <l n="1">
+       This
+       dull inaction will no longer
+                                        do;
+      </l>
+      <l n="2">
+       Month after Month the idle troops have lain,
+      </l>
+      <l n="3">
+       Nor struck one stroke that leads us to our wish.
+      </l>
+      <l n="4">
+       The trifling beckerings at the city gates,
+      </l>
+      <l n="5">
+       Or bold outrages of their midnight routs,
+      </l>
+      <l n="6">
+       Bring us no nearer to the point in view.
+      </l>
+      <l n="7">
+       Though much the daily suff'rings of the people,
+      </l>
+      <l n="8">
+       Commerce destroy'd, and government unhing'd,
+      </l>
+      <l n="9">
+       No talk of tame submission yet I hear.
+      </l>
+     </sp>
+     <sp who="#collateralis">
+      <speaker>
+       Collateralis.
+      </speaker>
+      <l n="10">
+       No — — — not the least — — — — — —
+      </l>
+      <l n="11">
+       — — — — — they're more resolv'd than ever.
+      </l>
+      <l n="12">
+       They're firm, united, bold, undaunted, brave,
+      </l>
+      <l n="13">
+       And every villa boasts their marshall'd ranks.
+      </l>
+      <l n="14">
+       The warlike Clarion sounds through ev'ry street;
+      </l>
+      <l n="15">
+       Both vig'rous youth, and the grey headed fire
+      </l>
+      <l n="16">
+       Bear the Fusee, in regimental garbs,
+      </l>
+      <l n="17">
+       Repairing to defend invaded right,
+      </l>
+      <l n="18">
+       And if push'd hard, by manly force repel;
+      </l>
+      <l n="19">
+       And tho' Britannia sends her legions o'er,
+      </l>
+      <l n="20">
+       To plant her daggers in her children's breast,
+      </l>
+      <l n="21">
+       It will rebound — — — New whetted, the keen
+                                        point,
+      </l>
+      <l n="22">
+       Will had a sheath in ev'ry tyrant's heart.
+      </l>
+     </sp>
+     <sp who="#dickthepublican">
+      <speaker>
+       Publican.
+      </speaker>
+      <l n="23">
+       — — — — — — What then is to be done?
+      </l>
+      <l n="24">
+       My finances too low to stand it long.
+      </l>
+      <l n="25">
+       You well remember — — — — —
+      </l>
+      <l n="26">
+       When station'd there to gripe the honest trader,
+      </l>
+      <l n="27">
+       How much I plunder'd from your native town.
+      </l>
+      <l n="28">
+       Under the sanctions of the laws of trade,
+      </l>
+      <l n="29">
+       I the hard earnings of industry
+      </l>
+      <l n="30">
+       Filch'd from their hands, and built my nest on
+                                        high.
+      </l>
+      <l n="31">
+       And on the spoils I rioted a while,
+      </l>
+      <l n="32">
+       But soon the unrighteous pelf slip'd through my
+                                        hand.
+      </l>
+      <l n="33">
+       Nor longer idly could I waste my time,
+      </l>
+      <l n="34">
+       A num'rous flock was rising round my Board,
+      </l>
+      <l n="35">
+       Who urg'd to something that might give them
+                                        bread.
+      </l>
+      <l n="36">
+       My only game was hither to repair,
+      </l>
+      <l n="37">
+       And court the proud oppressors of my Country,
+      </l>
+      <l n="38">
+       By the parade of pompous luxury,
+      </l>
+      <l n="39">
+       To win their favour, and obtain a place;
+      </l>
+      <l n="40">
+       That (with my limbeck) might have kept me on,
+      </l>
+      <l n="41">
+       But for the cursed, persevering spirit
+      </l>
+      <l n="42">
+       Of Freedom's sons — who triumph or'e distress,
+      </l>
+      <l n="43">
+       Nor will comply with requisitions, made
+      </l>
+      <l n="44">
+       By haughty mandates from corrupted courts.
+      </l>
+      <l n="45">
+       To pay the workmen for the chains, they'd Forg'd.
+      </l>
+     </sp>
+     <sp who="#collateralis">
+      <speaker>
+       Collateralis.
+      </speaker>
+      <l n="46">
+       No — tho' proud Britain wafts her wooden walls
+      </l>
+      <l n="47">
+       O're the broad waves — and plants them round these
+                                        Coasts,
+      </l>
+      <l n="48">
+       Shuts up their Ports, and robs them of their
+                                        bread,
+      </l>
+      <l n="49">
+       They're not dismay'd — nor servilely comply
+      </l>
+      <l n="50">
+       To pay the hunters of the Nabob shores
+      </l>
+      <l n="51">
+       Their high demand for India's pois'nous weed,
+      </l>
+      <l n="52">
+       Long since a sacrifice to
+       Thetis
+       made,
+      </l>
+      <l n="53">
+       A rich regale — Now all the wat'ry dames
+      </l>
+      <l n="54">
+       May snuff Souchong, and sip in flowing bowls,
+      </l>
+      <l n="55">
+       The higher flavour'd choice Hysonian stream,
+      </l>
+      <l n="56">
+       And leave their Nectar to old Homer's Gods.
+      </l>
+     </sp>
+     <sp who="#dickthepublican">
+      <speaker>
+       Publican.
+      </speaker>
+      <l n="57">
+       The Group this morn were summon'd to the camp;
+      </l>
+      <l n="58">
+       The council early meets at Sylla's tent,
+      </l>
+      <l n="59">
+       But for what purpose yet I cannot learn.
+      </l>
+     </sp>
+     <sp who="#collateralis">
+      <speaker>
+       Collateralis.
+      </speaker>
+      <l n="60">
+       Then let us haste, 'tis novel to be call'd,
+      </l>
+      <l n="61">
+       By Sylla's order, summon'd to attend,
+      </l>
+      <l n="62">
+       So close he keeps his counsels in his breast,
+      </l>
+      <l n="63">
+       Nor trustsus with the manoeuvers of state,
+      </l>
+      <l n="64">
+       I fear he half despises us himself.
+      </l>
+      <l n="65">
+       And if he does, we cannot wonder much,
+      </l>
+      <l n="66">
+       We're made the jest of ev'ry idle boy:
+      </l>
+      <l n="67">
+       Most of us hunted from our rural seats,
+      </l>
+      <l n="68">
+       Drove from our homes, a prey to guilty fears,
+      </l>
+      <l n="69">
+       When — — When dare we return!
+      </l>
+      <l n="70">
+       And now shut up in this devoted City,
+      </l>
+      <l n="71">
+       Amidst the pestilence on either hand,
+      </l>
+      <l n="72">
+       Pursued by every dreadful Execration
+      </l>
+      <l n="73">
+       That the bold Tongue of innocence oppress'd,
+      </l>
+      <l n="74">
+       Pours forth in anguish for a ruin'd state.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      The fragments of the broken Council appear with trembling servile Gestures, shewing several applications to the General from the Under-Tools in the distant Counties, begging each a guard of myrmidons to protect them from the armed multitudes (which the guilty horrors of their wounded consciences hourly presented to their frighted imaginations) approaching to take speedy vengeance on the Court Parasites, who had fled for refuge to the Camp, by immediate destruction to their Pimps, Panders and Sycophants left behind.
+     </stage>
+     <stage>
+      — — Sylla walking in great Perplexity.
+     </stage>
+     <sp who="#sylla">
+      <speaker>
+       Sylla.
+      </speaker>
+      <l n="1">
+       Pray
+       , how will it comport with my
+                                        pretence
+      </l>
+      <l n="2">
+       For building walls, and shutting up the Town,
+      </l>
+      <l n="3">
+       Erecting fortresses, and strong redoubts,
+      </l>
+      <l n="4">
+       To keep my troops from any bold inroads?
+      </l>
+      <l n="5">
+       A brave insulted people might attempt,
+      </l>
+      <l n="6">
+       If I send out my little scatter'd parties,
+      </l>
+      <l n="7">
+       And the long suff'ring, gen'rous patriot's Care
+      </l>
+      <l n="8">
+       Prevents a Skirmish.
+      </l>
+      <l n="9">
+       Though they're the sport of wanton cruel power,
+      </l>
+      <l n="10">
+       And Hydra headed ills start up around,
+      </l>
+      <l n="11">
+       Till the last hope of a redress cut off
+      </l>
+      <l n="12">
+       Their humane feeling, Urge them to forbear,
+      </l>
+      <l n="13">
+       And wait some milder means to bring relief.
+      </l>
+     </sp>
+     <sp who="#brigadierhateall">
+      <speaker>
+       Hateall.
+      </speaker>
+      <l n="14">
+       'Tis now the time to try their daring tempers.
+      </l>
+      <l n="15">
+       Send out a few — and if they are cut off,
+      </l>
+      <l n="16">
+       What are a thousand souls, sent swiftly down
+      </l>
+      <l n="17">
+       To Pluto's gloomy shades, — to tell in anguish
+      </l>
+      <l n="18">
+       Half their compeers shall sit pandimonic,
+      </l>
+      <l n="19">
+       E're we will suffer Liberty to reign,
+      </l>
+      <l n="20">
+       Or
+       see her sons triumphant win the
+                                            day
+       .
+      </l>
+      <l n="21">
+       I feign would push them to the last extreme,
+      </l>
+      <l n="22">
+       To draw their swords against their legal King,
+      </l>
+      <l n="23">
+       Then short's the process to compleat destruction.
+      </l>
+     </sp>
+     <sp who="#dupe">
+      <speaker>
+       Secretary Dupe.
+      </speaker>
+      <l n="24">
+       Be not so sanguine — the day is not our own,
+      </l>
+      <l n="25">
+       And much I fear it never will be won.
+      </l>
+      <l n="26">
+       Their discipline is equal to our own,
+      </l>
+      <l n="27">
+       Their valour has been try'd,-and in a field
+      </l>
+      <l n="28">
+       They're not less brave than are a Fred'ricks
+                                        troops,
+      </l>
+      <l n="29">
+       Those members formidable pour along,
+      </l>
+      <l n="30">
+       While virtue's banners throud each warrior's head
+      </l>
+      <l n="31">
+       Stern Justice binds the helmet on his brow,
+      </l>
+      <l n="32">
+       And liberty sits perch'd on ev'ry shield.
+      </l>
+      <l n="33">
+       But who's apply'd, and ask'd the General's aid,
+      </l>
+      <l n="34">
+       Or wish'd his peaceful Villa such a curse,
+      </l>
+      <l n="35">
+       As posting Troops beside the peasant's cot?
+      </l>
+     </sp>
+     <sp who="#judgemeagre">
+      <speaker>
+       Judge Meagre.
+      </speaker>
+      <l n="36">
+       None but the very dregs of all mankind,
+      </l>
+      <l n="37">
+       The Stains of nature, — The blots of human race,
+      </l>
+      <l n="38">
+       Yet that's no matter, still they are our friends,
+      </l>
+      <l n="39">
+       'Twill help our projects if we give them aid.
+      </l>
+     </sp>
+     <sp who="#simplesapling">
+      <speaker>
+       Simple Sappling.
+      </speaker>
+      <l n="40">
+       Though my paternal Acres are eat up,
+      </l>
+      <l n="41">
+       My patrimony spent, I've yet an house
+      </l>
+      <l n="42">
+       My lenient creditors let me improve,
+      </l>
+      <l n="43">
+       Send up the Troops, 'twill serve them well for
+                                        Barracks.
+      </l>
+      <l n="44">
+       I some how think 'twould bear a noble sound,
+      </l>
+      <l n="45">
+       To have my mansion guarded by the King.
+      </l>
+     </sp>
+     <sp who="#sylla">
+      <speaker>
+       Sylla.
+      </speaker>
+      <l n="46">
+       Hast thou no sons or blooming daughters there,
+      </l>
+      <l n="47">
+       To call up all the feelings of a Father,
+      </l>
+      <l n="48">
+       Least their young minds contaminate by vice,
+      </l>
+      <l n="49">
+       Caught from such inmates, dangerous and vile,
+      </l>
+      <l n="50">
+       Devoid of virtue, rectitude, or honour
+      </l>
+      <l n="51">
+       Save what accords with military fame?
+      </l>
+      <l n="52">
+       Hast thou no wife who asks thy tender care,
+      </l>
+      <l n="53">
+       To guard her from Belona's hardy sons?
+      </l>
+      <l n="54">
+       Who when not toiling in the hostile field,
+      </l>
+      <l n="55">
+       Are faithful vot'ries to the Cyprian Queen,
+      </l>
+      <l n="56">
+       Or is her soul of such materials made,
+      </l>
+      <l n="57">
+       Indelicate, and thoughtless of her fame:
+      </l>
+      <l n="58">
+       So void of either sentiment or sense
+      </l>
+      <l n="59">
+       As makes her a companion fit for thee!
+      </l>
+     </sp>
+     <sp who="#simplesapling">
+      <speaker>
+       Simple Sappling.
+      </speaker>
+      <l n="60">
+       Silvia's good natur'd, and no doubt will yield,
+      </l>
+      <l n="61">
+       And take the brawny vet'rans to her board,
+      </l>
+      <l n="62">
+       When she's assur'd 'twill help her husband's
+                                        fame.
+      </l>
+      <l n="63">
+       If she complains or murmurs at the plan,
+      </l>
+      <l n="64">
+       Let her solicit charity abroad;
+      </l>
+      <l n="65">
+       Let her go out and seek some pitying friend
+      </l>
+      <l n="66">
+       To give her shelter from the wint'ry blast,
+      </l>
+      <l n="67">
+       Disperse her children round the neighb'ring cots,
+      </l>
+      <l n="68">
+       And then — — — —
+      </l>
+     </sp>
+     <sp who="#dickthepublican">
+      <speaker>
+       Publican.
+      </speaker>
+      <l n="69">
+       — — Then weep thy folly, and her own hard fate!
+      </l>
+      <l n="70">
+       I pity Silvia, I knew the beauteous maid
+      </l>
+      <l n="71">
+       E'er she descended to become thy wife:
+      </l>
+      <l n="72">
+       She silent mourns the weakness of her lord,
+      </l>
+      <l n="73">
+       For she's too virtuous to approve thy deeds.
+      </l>
+     </sp>
+     <sp who="#brigadierhateall">
+      <speaker>
+       Hateall.
+      </speaker>
+      <l n="74">
+       Pho — — what's a woman's tears,
+      </l>
+      <l n="75">
+       Or all the whinings of that trifling sex?
+      </l>
+      <l n="76">
+       I never felt one tender thought towards them.
+      </l>
+      <l n="77">
+       When young, indeed, I wedded nut brown Kate,
+      </l>
+      <l n="78">
+       (Blyth buxsom Dowager, the jockey's prey)
+      </l>
+      <l n="79">
+       But all I wish'd was to secure her dower.
+      </l>
+      <l n="80">
+       I broke her spirits when I'd won her purse;
+      </l>
+      <l n="81">
+       For which I'll give a recipe most sure
+      </l>
+      <l n="82">
+       To ev'ry hen peck'd husband round the board;
+      </l>
+      <l n="83">
+       If crabbed words or surly looks won't tame
+      </l>
+      <l n="84">
+       The haughty shrew, nor bend the stubborn mind,
+      </l>
+      <l n="85">
+       Then the green Hick'ry, or the willow twig,
+      </l>
+      <l n="86">
+       Will prove a curse for each rebellious dame
+      </l>
+      <l n="87">
+       Who dare oppose her lord's superior will.
+      </l>
+     </sp>
+     <sp who="#sylla">
+      <speaker>
+       Sylla.
+      </speaker>
+      <l n="88">
+       Enough of this, ten thousand harrowing cares
+      </l>
+      <l n="89">
+       Tear up my peace, and swell my anxious breast.
+      </l>
+      <l n="90">
+       I see some mighty victim must appease
+      </l>
+      <l n="91">
+       An injured nation, tott'ring on the verge
+      </l>
+      <l n="92">
+       Of wide destruction, made the wanton sport.
+      </l>
+      <l n="93">
+       Of hungry Harpies, gaping for their prey;
+      </l>
+      <l n="94">
+       Which if by misadventures they should miss,
+      </l>
+      <l n="95">
+       The disappointed vultures angry Fang,
+      </l>
+      <l n="96">
+       Will sieze the lesser gudgeons of the state,
+      </l>
+      <l n="97">
+       And sacrifice to mad Alecto's rage;
+      </l>
+      <l n="98">
+       Lest the tide turning, with a rapid course
+      </l>
+      <l n="99">
+       The booming torrent rushes o'er their heads,
+      </l>
+      <l n="100">
+       And sweeps the "cawing cormorants from earth".
+      </l>
+     </sp>
+     <sp who="#brigadierhateall">
+      <speaker>
+       Hateall.
+      </speaker>
+      <l n="101">
+       Then strike some sudden blow, and if hereafter
+      </l>
+      <l n="102">
+       Dangers should rise — then set up for thyself,
+      </l>
+      <l n="103">
+       And make thy name as famous in Columbia,
+      </l>
+      <l n="104">
+       As ever Cæsar's was in ancient Gaul.
+      </l>
+      <l n="105">
+       Who would such distant Provinces subdue,
+      </l>
+      <l n="106">
+       And then resign them to a foreign lord!
+      </l>
+      <l n="107">
+       With such an armament at thy command
+      </l>
+      <l n="108">
+       Why all this cautious prudence?
+      </l>
+     </sp>
+     <sp who="#sylla">
+      <speaker>
+       Sylla.
+      </speaker>
+      <l n="109">
+       I only wish to serve my Sov'reign well,
+      </l>
+      <l n="110">
+       And bring new glory to my master's crown,
+      </l>
+      <l n="111">
+       Which can't be done by spreading ruin round
+      </l>
+      <l n="112">
+       This loyal country — — — — — —
+      </l>
+      <l n="113">
+       — — Wro't up to madness by oppression's hand,
+      </l>
+      <l n="114">
+       How much deceiv'd my royal master is
+      </l>
+      <l n="115">
+       By those he trusts! — but more of this anon.
+      </l>
+      <l n="116">
+       Were it consistent with my former plan,
+      </l>
+      <l n="117">
+       I'd gladly send my sickly troops abroad
+      </l>
+      <l n="118">
+       Out from the stench of this infected town,
+      </l>
+      <l n="119">
+       To breath some air more free from putrefaction;
+      </l>
+      <l n="120">
+       To brace their nerves against approaching
+                                        spring,
+      </l>
+      <l n="121">
+       If my ill stars should destine a campaign,
+      </l>
+      <l n="122">
+       And call me forth to fight in such a cause.
+      </l>
+      <l n="123">
+       To quench the gen'rous spark, the innate love
+      </l>
+      <l n="124">
+       Of glorious freedom, planted in the breast
+      </l>
+      <l n="125">
+       Of ev'ry man who boasts a Briton's name,
+      </l>
+      <l n="126">
+       Until some base born lust of foreign growth
+      </l>
+      <l n="127">
+       Contaminate his soul, till false ambition,
+      </l>
+      <l n="128">
+       Or the sordid hope of swelling coffers,
+      </l>
+      <l n="129">
+       Poison the mind, and brutalize the man.
+      </l>
+     </sp>
+     <sp who="#collateralis">
+      <speaker>
+       Collateralis.
+      </speaker>
+      <l n="130">
+       I almost wish I never had engag'd
+      </l>
+      <l n="131">
+       To rob my country of her native rights,
+      </l>
+      <l n="132">
+       Nor strove to mount on justice solemn bench,
+      </l>
+      <l n="133">
+       By mean submission cringing for a place.
+      </l>
+      <l n="134">
+       How great the pain, and yet how small the
+       purchase!
+      </l>
+      <l n="135">
+       Had I been dumb, or my right hand cut off,
+      </l>
+      <l n="136">
+       E'er I so servilely had held it up,
+      </l>
+      <l n="137">
+       Or giv'n my voice abjectly to rescind
+      </l>
+      <l n="138">
+       The wisest step that mortal man could take
+      </l>
+      <l n="139">
+       To curb the tallons of tyrannic power,
+      </l>
+      <l n="140">
+       Out stretch'd rapacious ready to devour
+      </l>
+      <l n="141">
+       The fair possessions, by our Maker given
+      </l>
+      <l n="142">
+       Confirm'd by compacts — ratify'd by Heav'n.
+      </l>
+     </sp>
+     <sp who="#sylla">
+      <speaker>
+       Sylla.
+      </speaker>
+      <l n="143">
+       Look o'er the annals of our virtuous sires,
+      </l>
+      <l n="144">
+       And search the story of Britannia's deeds,
+      </l>
+      <l n="145">
+       From Cæsar's ravages to Hambden's fall;
+      </l>
+      <l n="146">
+       From the good Hambden down to glorious Wolfe,
+      </l>
+      <l n="147">
+       Whose soul took wing on Abraham's fatal plain,
+      </l>
+      <l n="148">
+       Where the young Hero fought Britannia's foes,
+      </l>
+      <l n="149">
+       And vanquish'd Bourbons dark ferocious hosts,
+      </l>
+      <l n="150">
+       Till the slaves trembled at a George's name.
+      </l>
+      <l n="151">
+       'Twas love of freedom drew a Marlborough's
+                                        sword;
+      </l>
+      <l n="152">
+       This glorious passion mov'd a Sydney's pen;
+      </l>
+      <l n="153">
+       And crown'd with Bayes a Harrington and Locke;
+      </l>
+      <l n="154">
+       'Tis freedom wreathes the Garlands o'er their
+                                        tombs.
+      </l>
+      <l n="155">
+       For her how oft have bleeding Heroes fall'n!
+      </l>
+      <l n="156">
+       With the warm fluid, gushing from their wounds,
+      </l>
+      <l n="157">
+       Convey'd the purchase to their distant heirs!
+      </l>
+      <l n="158">
+       And shall I rashly draw my guilty sword,
+      </l>
+      <l n="159">
+       And dip its hungry hilt in the rich blood
+      </l>
+      <l n="160">
+       Of the best subjects that a Brunswick boasts,
+      </l>
+      <l n="161">
+       And for no cause, but that they nobly scorn
+      </l>
+      <l n="162">
+       To wear the fetters of his venal slaves!
+      </l>
+      <l n="163">
+       But swift time rolls, and on his rapid wheel
+      </l>
+      <l n="164">
+       Bears the winged hours, and the circling years.
+      </l>
+      <l n="165">
+       The cloud cap'd morn, the dark short wintry
+                                        day,
+      </l>
+      <l n="166">
+       And the keen blasts of roughned Borea's breath,
+      </l>
+      <l n="167">
+       Will soon evanish, and approaching spring
+      </l>
+      <l n="168">
+       Opes with the fate of empires on her wing.
+      </l>
+     </sp>
+     <stage>
+      Exit Sylla.
+     </stage>
+     <sp who="#hazlerod">
+      <speaker>
+       Hazlerod
+      </speaker>
+      <stage>
+       rises in great. agitation.
+      </stage>
+      <l n="169">
+       This ballancing of passions ne'er will do,
+      </l>
+      <l n="170">
+       And by the scale which virtue holds to reason,
+      </l>
+      <l n="171">
+       Weighing the business e'er he executes,
+      </l>
+      <l n="172">
+       Doubting, deliberating, half resolv'd
+      </l>
+      <l n="173">
+       To be the saviour of a virtuous state,
+      </l>
+      <l n="174">
+       Instead of guarding refugees and knaves,
+      </l>
+      <l n="175">
+       The buzzing reptiles that crawl round his court,
+      </l>
+      <l n="176">
+       And lick his hand for some delicious crumb,
+      </l>
+      <l n="177">
+       Or painted plume to grace the guilty brow,
+      </l>
+      <l n="178">
+       Stain'd with ten thousand falsities, trumped up
+      </l>
+      <l n="179">
+       To injure every good and virtuous name
+      </l>
+      <l n="180">
+       Who won't strike hands and be his country's foe:
+      </l>
+      <l n="181">
+       I'll hasten after, and stir up his soul,
+      </l>
+      <l n="182">
+       To dire revenge and bloody resolutions,
+      </l>
+      <l n="183">
+       Or the whole fabrick falls, on which we hang,
+      </l>
+      <l n="184">
+       And down the pit of infamy we plunge,
+      </l>
+      <l n="185">
+       Without the spoils we long have hop'd to reap.
+      </l>
+     </sp>
+     <stage>
+      He crosses the stage hastily and goes out after Sylla. Meagre and Secretary Dupe at the further part of the stage.
+     </stage>
+     <sp who="#judgemeagre">
+      <speaker>
+       Meagre.
+      </speaker>
+      <l n="186">
+       As Sylla pass'd I mark'd his anxious brow;
+      </l>
+      <l n="187">
+       I fear his soul is with compassion mov'd
+      </l>
+      <l n="188">
+       For suff'ring virtue, wounded and betray'd;
+      </l>
+      <l n="189">
+       For freedom hunted down in this fair field,
+      </l>
+      <l n="190">
+       The only soil, in these degenerate days,
+      </l>
+      <l n="191">
+       In which the heavenly goddess can exist.
+      </l>
+     </sp>
+     <sp who="#dupe">
+      <speaker>
+       Secretary.
+      </speaker>
+      <l n="192">
+       Humanity recoils — his heart relucts
+      </l>
+      <l n="193">
+       To execute the black the accurst design.
+      </l>
+      <l n="194">
+       Such I must call it, though thy guilty friends,
+      </l>
+      <l n="195">
+       Thy subtle brother, laid the artful plan,
+      </l>
+      <l n="196">
+       "And like the toad squat at the ear of Eve"
+      </l>
+      <l n="197">
+       Infusing poisons by his snaky tongue,
+      </l>
+      <l n="198">
+       Push'd Brundo on to tread the thorny path,
+      </l>
+      <l n="199">
+       And plunge his country in ten thousand woes;
+      </l>
+      <l n="200">
+       Then slyly justling him behind the scenes,
+      </l>
+      <l n="201">
+       Step'd in his place for which he long had
+                                        sigh'd.
+      </l>
+     </sp>
+     <sp who="#judgemeagre">
+      <speaker>
+       Meagre.
+      </speaker>
+      <l n="202">
+       Yes all allow he play'd a master game,
+      </l>
+      <l n="203">
+       And dealt his cards with such peculiar skill,
+      </l>
+      <l n="204">
+       That every dangler about the court,
+      </l>
+      <l n="205">
+       As you and I and all might well suppose,
+      </l>
+      <l n="206">
+       Thought the chains fix'd which Brundo only
+                                        clank'd,
+      </l>
+      <l n="207">
+       But yet unless some speedy method's found
+      </l>
+      <l n="208">
+       To break the union, and dissolve the bonds
+      </l>
+      <l n="209">
+       That bind this mighty continent so firm,
+      </l>
+      <l n="210">
+       Their Congresses, their Covenants, and leagues,
+      </l>
+      <l n="211">
+       With their Committees, working in each town
+      </l>
+      <l n="212">
+       With unremitting vigilance and care,
+      </l>
+      <l n="213">
+       To baffle ev'ry evil machination
+      </l>
+      <l n="214">
+       Of all state rooks, who peck about the land,
+      </l>
+      <l n="215">
+       If not broke up, will ruin all at last.
+      </l>
+      <l n="216">
+       Amidst the many scriblers of the age,
+      </l>
+      <l n="217">
+       Can none be found to set their schemes afloat,
+      </l>
+      <l n="218">
+       To sow dissention — and distrust abroad,
+      </l>
+      <l n="219">
+       Sap that cement that bears down all before it,
+      </l>
+      <l n="220">
+       And makes America a match for all
+      </l>
+      <l n="221">
+       The hostile powers that proud Europa boasts?
+      </l>
+     </sp>
+     <sp who="#dupe">
+      <speaker>
+       Secretary.
+      </speaker>
+      <l n="222">
+       Not all the swarms of prostituted pens,
+      </l>
+      <l n="223">
+       Nor hireling smatterers scribbling for gain,
+      </l>
+      <l n="224">
+       From the first pension'd on the nothern list
+      </l>
+      <l n="225">
+       To bigot Priests — who write from southern
+                                        shores,
+      </l>
+      <l n="226">
+       With all their phantoms, bugbears, threats or
+                                        smiles,
+      </l>
+      <l n="227">
+       Will e'er persuade them to renounce their claim
+      </l>
+      <l n="228">
+       To freedom, purchas'd with their fathers blood.
+      </l>
+      <l n="229">
+       How various are the arts already try'd,
+      </l>
+      <l n="230">
+       What pains unwearied to write men to sleep,
+      </l>
+      <l n="231">
+       Or rock them in the cradle of despair,
+      </l>
+      <l n="232">
+       To doze supinely, 'till they should believe
+      </l>
+      <l n="233">
+       They'd, neither eyes, nor tongues, or strength to
+                                        move
+      </l>
+      <l n="234">
+       But at the nod of some despotic lord!
+      </l>
+      <l n="235">
+       What shifts, evasions, what delusive tales,
+      </l>
+      <l n="236">
+       What poor prevarication for rash oaths,
+      </l>
+      <l n="237">
+       What nightly watchings, and what daily cares
+      </l>
+      <l n="238">
+       To dress up falshood in some fair disguise,
+      </l>
+      <l n="239">
+       Or wrap the bantling of their midnight dreams
+      </l>
+      <l n="240">
+       In the soft vest of friendship, to betray,
+      </l>
+      <l n="241">
+       Then send it forth in every fairy form,
+      </l>
+      <l n="242">
+       To stalk at noon tide, giddy with fond hope
+      </l>
+      <l n="243">
+       That some new gambols might deceive again
+      </l>
+      <l n="244">
+       Men broad awake, who see through all the cheat.
+      </l>
+     </sp>
+     <sp who="#judgemeagre">
+      <speaker>
+       Meagre.
+      </speaker>
+      <l n="245">
+       There still is hope — why need we yet despair?
+      </l>
+      <l n="246">
+       The doughty champion of our sinking cause,
+      </l>
+      <l n="247">
+       The deep "arcana" of whose winding brain
+      </l>
+      <l n="248">
+       Is fraught with dark expedients to betray,
+      </l>
+      <l n="249">
+       By the long labours of his vet'ran quill,
+      </l>
+      <l n="250">
+       By scattering scraps from ev'ry musty code
+      </l>
+      <l n="251">
+       Of canon, civil, or draconian laws,
+      </l>
+      <l n="252">
+       Quoting old statutes or defining new,
+      </l>
+      <l n="253">
+       Treasons, misprissions, riots, routs, cabals,
+      </l>
+      <l n="254">
+       And insurrections of these stubborn times,
+      </l>
+      <l n="255">
+       He'll sure prevail and terrify at last,
+      </l>
+      <l n="256">
+       By bringing precedents from those blest days
+      </l>
+      <l n="257">
+       When royal Stewarts, Britain's sceptre sway'd,
+      </l>
+      <l n="258">
+       And taught her sons the right divine of Kings.
+      </l>
+      <l n="259">
+       When pains and forfeitures an hundred sold
+      </l>
+      <l n="260">
+       Were dealt to traitors, puny when compared
+      </l>
+      <l n="261">
+       To the bold rebels of this continent,
+      </l>
+      <l n="262">
+       From Merrimack to Messisipi's — Banks
+      </l>
+      <l n="263">
+       Who dare resist a ministerial frown.
+      </l>
+      <l n="264">
+       In spite of all the truths
+       Nov.
+                                            anglus
+       tells,
+      </l>
+      <l n="265">
+       And his cool reas'ning argumentive stile,
+      </l>
+      <l n="266">
+       Or master strokes of his unrival'd pen,
+      </l>
+      <l n="267">
+       They will divide, and wav'ring will submit
+      </l>
+      <l n="268">
+       And take the word of
+       Massachusettensis
+      </l>
+      <l n="269">
+       That men were born all ready bitted, curb'd,
+      </l>
+      <l n="270">
+       And on their backs the saddles prominent,
+      </l>
+      <l n="271">
+       For every upstart sycophant to mount.
+      </l>
+     </sp>
+     <sp who="#dupe">
+      <speaker>
+       Secretary.
+      </speaker>
+      <l n="272">
+       Not
+       Massachusettensis
+       oily
+                                        tongue,
+      </l>
+      <l n="273">
+       Or retail'd nonsense of a
+       Philarene
+      </l>
+      <l n="274">
+       Not
+       Senex
+       rant, nor yet dull
+       Grotius
+       ' pen,
+      </l>
+      <l n="275">
+       Or the whole Group of selfish venal men,
+      </l>
+      <l n="276">
+       If gather'd from cold Zembla's frozen shore,
+      </l>
+      <l n="277">
+       To the warm zone where rapid rivers roar,
+      </l>
+      <l n="278">
+       Can either coax them, or the least controul
+      </l>
+      <l n="279">
+       The val'rous purpose of their roman souls.
+      </l>
+     </sp>
+     <sp who="#judgemeagre">
+      <speaker>
+       Meagre.
+      </speaker>
+      <l n="280">
+       Let not thy soft temidity of heart
+      </l>
+      <l n="281">
+       Urge thee to terms, till the last stake is
+                                        thrown.
+      </l>
+      <l n="282">
+       Tis not my temper ever to forgive,
+      </l>
+      <l n="283">
+       When once resentment's kindled in my breast.
+      </l>
+      <l n="284">
+       I hated Brutus for his noble stand
+      </l>
+      <l n="285">
+       Against the oppressors of his injur'd country.
+      </l>
+      <l n="286">
+       I hate the leaders of these restless factions,
+      </l>
+      <l n="287">
+       For all their gen'rous efforts to be free.
+      </l>
+      <l n="288">
+       I curse the senate which defeats our bribes,
+      </l>
+      <l n="289">
+       Who Hazlerod impeach'd for the same crime.
+      </l>
+      <l n="290">
+       I hate the people, who, no longer gull'd,
+      </l>
+      <l n="291">
+       See through the schemes of our aspiring clan.
+      </l>
+      <l n="292">
+       And from the rancour of my venom'd mind,
+      </l>
+      <l n="293">
+       I look askance on all the human race,
+      </l>
+      <l n="294">
+       And if they'r not to be appall'd by fear,
+      </l>
+      <l n="295">
+       I wish the earth might drink that vital stream
+      </l>
+      <l n="296">
+       That warms the heart, and seeds the manly glow,
+      </l>
+      <l n="297">
+       The love inherent, planted in the breast,
+      </l>
+      <l n="298">
+       To equal liberty, confer'd on man,
+      </l>
+      <l n="299">
+       By him who form'd the peasant and the King!
+      </l>
+      <l n="300">
+       Could we erase these notions from their minds,
+      </l>
+      <l n="301">
+       Then (paramount to these ideal whims,
+      </l>
+      <l n="302">
+       Utopian dreams, of patriotic virtue,
+      </l>
+      <l n="303">
+       Which long has danc'd in their distemper'd
+                                        brains)
+      </l>
+      <l n="304">
+       We'd smoothly glide on midst a race of slaves,
+      </l>
+      <l n="305">
+       Nor heave one sigh tho' all the human race
+      </l>
+      <l n="306">
+       Were plung'd in darkness, slavery and vice.
+      </l>
+      <l n="307">
+       If we could keep our foot-hold in the stirrup,
+      </l>
+      <l n="308">
+       And, like the noble Claudia of old,
+      </l>
+      <l n="309">
+       Ride o'er the people, if they don't give way;
+      </l>
+      <l n="310">
+       O wish their fates were all involv'd in one;
+      </l>
+      <l n="311">
+       For iv'e a
+       Brother
+       , as the
+                                        roman dame,
+      </l>
+      <l n="312">
+       Who would strike off the rebel neck at once.
+      </l>
+     </sp>
+     <sp who="#dupe">
+      <speaker>
+       Secretary.
+      </speaker>
+      <l n="313">
+       No all is o'er unless the sword decides,
+      </l>
+      <l n="314">
+       Which cuts down Kings, and kingdoms oft divides.
+      </l>
+      <l n="315">
+       By that appeal I think we can't prevail.
+      </l>
+      <l n="316">
+       Their valour's great, and justice holds the
+                                        scale.
+      </l>
+      <l n="317">
+       They fight for freedom, while we stab the breast
+      </l>
+      <l n="318">
+       Of every man, who is her friend profest.
+      </l>
+      <l n="319">
+       They fight in virtue's ever sacred cause,
+      </l>
+      <l n="320">
+       While we tread on divine and human laws.
+      </l>
+      <l n="321">
+       Glory and victory, and lasting fame,
+      </l>
+      <l n="322">
+       Will crown their arms and bless each Hero's
+                                        name!
+      </l>
+     </sp>
+     <sp who="#judgemeagre">
+      <speaker>
+       Meagre.
+      </speaker>
+      <l n="323">
+       Away with all thy foolish, trifling cares,
+      </l>
+      <l n="324">
+       And to the winds give all thy empty fears;
+      </l>
+      <l n="325">
+       Let us repair and urge brave Sylla on,
+      </l>
+      <l n="326">
+       I long to see the sweet revenge begun.
+      </l>
+      <l n="327">
+       As fortune is a sickle, sportive dame,
+      </l>
+      <l n="328">
+       She may for us the victory proclaim,
+      </l>
+      <l n="329">
+       And with success our busy ploddings crown,
+      </l>
+      <l n="330">
+       Though injured justice stern and solemn frown.
+      </l>
+      <l n="331">
+       Then they shall smart for ev'ry bold offence,
+      </l>
+      <l n="332">
+       Estates confiscated will pay th' expence;
+      </l>
+      <l n="333">
+       On their lost fortunes we a while will plume
+      </l>
+      <l n="334">
+       And strive to think there is no after doom.
+      </l>
+     </sp>
+     <stage>
+      Ex. Om — ;
+     </stage>
+     <sp who="#lady">
+      <speaker>
+       Lady
+      </speaker>
+      <stage>
+       As they pass off the stage the curtain draws up, and discovers to the audience a nearly connected with one of the principal actors in the group, reclined in an adjoining alcove, who in mournful accents accosts them — thus —
+      </stage>
+      <l n="335">
+       What painful scenes are hov'ring o'er the morn,
+      </l>
+      <l n="336">
+       When spring again invigorates the lawn!
+      </l>
+      <l n="337">
+       Instead of the gay landscape's beautious dies,
+      </l>
+      <l n="338">
+       Must the stain'd field salute our weeping eyes,
+      </l>
+      <l n="339">
+       Must the green turf, and all the mournful
+                                        glades,
+      </l>
+      <l n="340">
+       Drench'd in the stream, absorb their dewy heads,
+      </l>
+      <l n="341">
+       Whilst the tall oak, and quiv'ring willow bends
+      </l>
+      <l n="342">
+       To make a covert for their countrs friends,
+      </l>
+      <l n="343">
+       Deny'd a grave! — amid the hurrying scene
+      </l>
+      <l n="344">
+       Of routed armies scouring o'er the plain.
+      </l>
+      <l n="345">
+       Till British troops shall to Columbia yield,
+      </l>
+      <l n="346">
+       And freedom's sons are Masters of the field;
+      </l>
+      <l n="347">
+       Then o'er the purpl'd plain the victors tread
+      </l>
+      <l n="348">
+       Among the slain to seek each patriot dead,
+      </l>
+      <l n="349">
+       (
+       While Freedom weeps that
+                                        merit could not save
+      </l>
+      <l n="350">
+       But conq'ring Hero's must enrich the Grave
+       )
+      </l>
+      <l n="351">
+       An adamantine monument they rear
+      </l>
+      <l n="352">
+       With this inscription —
+       Virtue's
+                                            sons lie here!
+      </l>
+     </sp>
+     <stage>
+      FINIS.
+     </stage>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,7859 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am30" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Patriot Chief
+    </title>
+    <author>
+     Markoe, Peter
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Oxford Text Archive
+     </name>
+     <idno>
+      https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/N14636/N14636.html
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Markoe, Peter: The patriot chief. A tragedy.
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+<particDesc>
+    <listPerson>
+     <person xml:id="otanes" sex="MALE">
+      <persName>Otanes</persName>
+     </person>
+     <person xml:id="eudocia" sex="FEMALE">
+      <persName>Eudocia</persName>
+     </person>
+     <person xml:id="arbaces" sex="MALE">
+      <persName>Arbaces</persName>
+     </person>
+     <person xml:id="dorus" sex="MALE">
+      <persName>Dorus</persName>
+     </person>
+     <person xml:id="cleanthe" sex="FEMALE">
+      <persName>Cleanthe</persName>
+     </person>
+     <person xml:id="adrastus" sex="MALE">
+      <persName>Adrastus</persName>
+     </person>
+     <personGrp xml:id="soldiers" sex="MALE">
+      <persName>Soldiers</persName>
+     </personGrp>
+     <person xml:id="olinthus" sex="MALE">
+      <persName>Olinthus</persName>
+     </person>
+     <person xml:id="officer" sex="MALE">
+      <persName>Officer</persName>
+     </person>
+     <person xml:id="slave" sex="MALE">
+      <persName>Slave</persName>
+     </person>
+     <person xml:id="ismene" sex="FEMALE">
+      <persName>Ismene</persName>
+     </person>
+     <person xml:id="araspes" sex="MALE">
+      <persName>Araspes</persName>
+     </person>
+     <person xml:id="priest" sex="MALE">
+      <persName>Priest</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Tragedy
+     </term>
+     <term subtype="am" type="genreTitle">
+      Drama
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Verse
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1784">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <!--
+-->
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      Dramatis Personæ.
+     </head>
+     <castItem>
+      Dorus,
+     </castItem>
+     <castItem>
+      Olinthus,
+     </castItem>
+     <castItem>
+      Araspes,
+     </castItem>
+     <castItem>
+      Adrastus,
+     </castItem>
+     <castItem>
+      Otanes,
+     </castItem>
+     <castItem>
+      Arbaces,
+     </castItem>
+     <castItem>
+      Priest, Attendants.
+     </castItem>
+     <castItem>
+      Eudocia,
+     </castItem>
+     <castItem>
+      Ismene,
+     </castItem>
+     <castItem>
+      Cleanthe.
+     </castItem>
+    </castList>
+   </div>
+   <set>
+    <p>
+     Scene Sardis , Capital of Lydia.
+    </p>
+   </set>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     ACT I.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      OTANES, ADRASTUS.
+     </stage>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="1">
+       'Twas
+       weak; 'twas wrong; this
+                                        turbulence forebodes
+      </l>
+      <l n="2">
+       Some greater evil, and the King may soon
+      </l>
+      <l n="3">
+       Repent his tame compliance.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="4">
+       You are warm.
+      </l>
+      <l n="5">
+       Your zeal, Otanes, hurries you beyond
+      </l>
+      <l n="6">
+       The bounds of reason; but the people's voice,
+      </l>
+      <l n="7">
+       The voice of millions in so just a cause,
+      </l>
+      <l n="8">
+       Demands the monarch's ear, and should enforce
+      </l>
+      <l n="9">
+       Conviction.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="10">
+       Much I fear, their factious clamors
+      </l>
+      <l n="11">
+       Will gain upon the easy King to grant
+      </l>
+      <l n="12">
+       More insolent demands; then may we see
+      </l>
+      <l n="13">
+       The sceptre wrested from the feeble hand
+      </l>
+      <l n="14">
+       Of flexile majesty.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="15">
+       You wrong the people.
+      </l>
+      <l n="16">
+       They idolize their King; his better years,
+      </l>
+      <l n="17">
+       They know, were spent amidst the rage of war,
+      </l>
+      <l n="18">
+       To save them from the hated Persian yoke.
+      </l>
+      <l n="19">
+       Heaven crown'd his valor with success, and now,
+      </l>
+      <l n="20">
+       With filial piety and veneration,
+      </l>
+      <l n="21">
+       They view his sacred head, hoary with age,
+      </l>
+      <l n="22">
+       And bending with the weight of public cares
+      </l>
+      <l n="23">
+       For Lydia's safety.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="24">
+       Slightly they regard
+      </l>
+      <l n="25">
+       His cares and valor; and for wealth and freedom
+      </l>
+      <l n="26">
+       Repay him with the insolence of faction.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="27">
+       Long since has Lydia graced with full
+                                        reward
+      </l>
+      <l n="28">
+       The actions of her chief; with fame, respect,
+      </l>
+      <l n="29">
+       Obedience and a crown. Think not, I speak
+      </l>
+      <l n="30">
+       With democratic zeal; with sacred awe
+      </l>
+      <l n="31">
+       I venerate the hand, that sways the sceptre,
+      </l>
+      <l n="32">
+       And bow before the delegate of Heaven.
+      </l>
+      <l n="33">
+       His country's love, not wild ambition, rouz'd
+      </l>
+      <l n="34">
+       His matchless valor; when the Persian fled,
+      </l>
+      <l n="35">
+       And freedom, the reward of public virtue,
+      </l>
+      <l n="36">
+       Benignly smil'd again, the warrior sought
+      </l>
+      <l n="37">
+       His lov'd domestic ease, as if he scorn'd
+      </l>
+      <l n="38">
+       That sceptre, which the fates had destin'd for
+                                        him.
+      </l>
+      <l n="39">
+       But Lydia, urg'd by civil discontent,
+      </l>
+      <l n="40">
+       And mindful of her hero's long-tried worth,
+      </l>
+      <l n="41">
+       Plac'd him reluctant on the throne, and grac'd
+      </l>
+      <l n="42">
+       His honour'd brows with glory nobly earn'd.
+      </l>
+      <l n="43">
+       And shall that people, whose all-giving hand
+      </l>
+      <l n="44">
+       Whose matchless bounty — —
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="45">
+       Spare that argument;
+      </l>
+      <l n="46">
+       I feel its utmost force. But grant, a King,
+      </l>
+      <l n="47">
+       Blest in his subjects' love, and fully warm'd
+      </l>
+      <l n="48">
+       With grateful sentiments, to their desires
+      </l>
+      <l n="49">
+       Should sacrifice his will, why should the people
+      </l>
+      <l n="50">
+       Controul the father, and invade a right
+      </l>
+      <l n="51">
+       The meanest hind enjoys. You know the cares,
+      </l>
+      <l n="52">
+       That wring his aged heart and bow him down
+      </l>
+      <l n="53">
+       More than the weight of years; the ills, that
+                                        threaten
+      </l>
+      <l n="54">
+       His son, his lov'd Olinthus.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="55">
+       I have heard
+      </l>
+      <l n="56">
+       The tale confusedly; but the Gods will never
+      </l>
+      <l n="57">
+       Desert their image; virtue is their care,
+      </l>
+      <l n="58">
+       And Dorus claims their patronage; his sun,
+      </l>
+      <l n="59">
+       Which in its zenith shone with so much lustre,
+      </l>
+      <l n="60">
+       Must set serene, unfullied with a cloud.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="61">
+       I doubt it much.
+       <stage>
+        (aside.)
+       </stage>
+       Hard were their hearts indeed,
+      </l>
+      <l n="62">
+       Who could, unmoved, behold the tears stream down
+      </l>
+      <l n="63">
+       His furrow'd cheeks, whilst all in vain he
+                                        pleaded
+      </l>
+      <l n="64">
+       His former services, his present cares.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="65">
+       Never, Otanes, shall we see again
+      </l>
+      <l n="66">
+       So great a scene. The King is more than man.
+      </l>
+      <l n="67">
+       He felt as man; but like a God resolv'd.
+      </l>
+      <l n="68">
+       Soon as the rays of truth dispell'd the mist
+      </l>
+      <l n="69">
+       Of weak paternal love, his frame grew larger,
+      </l>
+      <l n="70">
+       As if some heavenly impulse swell'd his bosom.
+      </l>
+      <l n="71">
+       His sparkling eyes shone with unequall'd lustre;
+      </l>
+      <l n="72">
+       His voice imprinted awe; but when he bent
+      </l>
+      <l n="73">
+       His knees, and rais'd his trembling hands to
+                                        Heaven,
+      </l>
+      <l n="74">
+       Imploring Jove to guide his wandering steps
+      </l>
+      <l n="75">
+       Thro' the dark labyrinth of dreaded woes,
+      </l>
+      <l n="76">
+       I melted, wept — They were not tears of sorrow;
+      </l>
+      <l n="77">
+       No, they were tears of joy, and, might I say it,
+      </l>
+      <l n="78">
+       Of adoration.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="79">
+       Still my heart forebodes,
+      </l>
+      <l n="80">
+       Some sad disaster threats his close of life.
+      </l>
+      <l n="81">
+       Hast thou not heard, that awful prodigies
+      </l>
+      <l n="82">
+       Alarm the priests and awe the trembling city.
+      </l>
+      <l n="83">
+       When they led forth, in all the pomp of prayer,
+      </l>
+      <l n="84">
+       The sacrifice for Dorus' life and safety,
+      </l>
+      <l n="85">
+       Th' ungovern'd victim rush'd among the crowd,
+      </l>
+      <l n="86">
+       Fled thro' the streets, and with unequall'd
+                                        swiftness,
+      </l>
+      <l n="87">
+       Travers'd the plain, and has not since been seen.
+      </l>
+      <l n="88">
+       In great Cybele's sane strange founds were heard,
+      </l>
+      <l n="89">
+       Like dying infants' cries, as if again
+      </l>
+      <l n="90">
+       Old Saturn cruelly prepar'd to feast
+      </l>
+      <l n="91">
+       On his own offspring. Every cheek is pale
+      </l>
+      <l n="92">
+       With gloomy apprehension, and the priests
+      </l>
+      <l n="93">
+       Tremble with sacred horror.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="94">
+       To the Gods
+      </l>
+      <l n="95">
+       Let us, Otanes, leave th' accomplishment
+      </l>
+      <l n="96">
+       Of their decrees. It ill befits frail man,
+      </l>
+      <l n="97">
+       To strive, with feeble eyes, to pierce the cloud
+      </l>
+      <l n="98">
+       Of dark futurity. The Gods must crown
+      </l>
+      <l n="99">
+       The virtuous man with never-fading bliss.
+      </l>
+      <l n="100">
+       To check the haughty, to exalt the good,
+      </l>
+      <l n="101">
+       But chiefly to instruct his son to rise
+      </l>
+      <l n="102">
+       By the same steps to equal heights of virtue,
+      </l>
+      <l n="103">
+       These should be Dorus' cares: Futurity
+      </l>
+      <l n="104">
+       Belongs to Heaven.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="105">
+       The People seem to dread
+      </l>
+      <l n="106">
+       A war impending.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="107">
+       They judge right, Otanes.
+      </l>
+      <l n="108">
+       The Persian views our happy state with envy,
+      </l>
+      <l n="109">
+       And meditates new chains.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="110">
+       I know him loyal,
+      </l>
+      <l n="111">
+       But still the dread of rivalry may rouze
+      </l>
+      <l n="112">
+       Some spark of envy.
+       <stage>
+        (aside)
+       </stage>
+       Dorus is grown old,
+      </l>
+      <l n="113">
+       O'erspent with former toils. Occasion smiles
+      </l>
+      <l n="114">
+       On the young Prince. He now may prove the blood
+      </l>
+      <l n="115">
+       From which he sprung, and emulate his fire.
+      </l>
+      <l n="116">
+       Wak'd from the sleep of peace, the veteran,
+      </l>
+      <l n="117">
+       Train'd by your skill, by your example brave,
+      </l>
+      <l n="118">
+       Will joy to fight beneath his youthful banner,
+      </l>
+      <l n="119">
+       His princely spirit will inspire new courage,
+      </l>
+      <l n="120">
+       And guide their swords, quick as the lightning's
+                                        speed
+      </l>
+      <l n="121">
+       Against their foes.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="122">
+       In many a well-fought field,
+      </l>
+      <l n="123">
+       'Tis true, I've follow'd glory. But my tongue
+      </l>
+      <l n="124">
+       Must not be boastful. If my arm has conquer'd,
+      </l>
+      <l n="125">
+       I have my full reward in Lydia's safety
+      </l>
+      <l n="126">
+       And the King's smile. But could I see the
+                                        Prince,
+      </l>
+      <l n="127">
+       Great as his fire, when on yon blood-stain'd
+                                        field,
+      </l>
+      <l n="128">
+       (I then was young) the Persians saw his sword
+      </l>
+      <l n="129">
+       Flame like a comet, threatening desolation,
+      </l>
+      <l n="130">
+       How would I bless the Gods and bid adieu
+      </l>
+      <l n="131">
+       To arms and glory, pleas'd to hear the crowd
+      </l>
+      <l n="132">
+       Admire his gallant actions, far surpassing
+      </l>
+      <l n="133">
+       My slender fame, and rivalling his father's.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="134">
+       But hast thou seen the Prince in his retirement?
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="135">
+       I have, Otanes; and methought perceiv'd
+      </l>
+      <l n="136">
+       The dawn of future glory. How I wish'd
+      </l>
+      <l n="137">
+       To be Araspes thy much honour'd son!
+      </l>
+      <l n="138">
+       The Prince doats on him. He with duteous care
+      </l>
+      <l n="139">
+       Repays his master's love. One will, one spirit,
+      </l>
+      <l n="140">
+       Actuate both. The chace is their delight.
+      </l>
+      <l n="141">
+       How have I seen their ardent spirits rise,
+      </l>
+      <l n="142">
+       Their youthful bosoms throb with fierce delight,
+      </l>
+      <l n="143">
+       When they have chac'd the stag, or rouz'd the
+                                        boar
+      </l>
+      <l n="144">
+       With martial rage!
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="145">
+       These praises call the tears
+      </l>
+      <l n="146">
+       Of transport down my cheek.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="147">
+       Happy old man!
+      </l>
+      <l n="148">
+       I once had such a son.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="149">
+       Thou hast a daughter
+      </l>
+      <l n="150">
+       Gentle and good, and blooming as the flowers,
+      </l>
+      <l n="151">
+       Which nature scatters round with lavish hand.
+      </l>
+      <l n="152">
+       Araspes shall supply the son you mourn,
+      </l>
+      <l n="153">
+       Blest in Ismene's love.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="154">
+       Thanks, good Otanes.
+      </l>
+      <l n="155">
+       But I have doubts.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="156">
+       What doubts? dost thou reject? —
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="157">
+       No, your alliance has my warmest wishes.
+      </l>
+      <l n="158">
+       My doubts are these: The little jealous God
+      </l>
+      <l n="159">
+       Smiles at parental wisdom, and derides
+      </l>
+      <l n="160">
+       The prudent plan design'd by sober age.
+      </l>
+      <l n="161">
+       Love is the cordial drop, which sweetens life,
+      </l>
+      <l n="162">
+       Without it all is bitterness and woe.
+      </l>
+      <l n="163">
+       Ismene 's gentle; never yet have I
+      </l>
+      <l n="164">
+       Controul'd her will. Whoever wins her heart,
+      </l>
+      <l n="165">
+       Wins my consent.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="166">
+       O! may Araspes view
+      </l>
+      <l n="167">
+       Her charms with soft desire!
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="168">
+       And may the God
+      </l>
+      <l n="169">
+       Of love light up such flames in either heart,
+      </l>
+      <l n="170">
+       As warm'd my breast, when first my wond'ring
+                                        eyes
+      </l>
+      <l n="171">
+       Beheld her mother! But the King approaches,
+      </l>
+      <l n="172">
+       With other look, with other mien we have seen
+                                        him
+      </l>
+      <l n="173">
+       Towering like Mars, the terror of the plain.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      OTANES, ADRASTUS, DORUS.
+     </stage>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="1">
+       Otanes, art thou here? Adrastus too?
+      </l>
+      <l n="2">
+       Draw near, and let me on your faithful bosoms
+      </l>
+      <l n="3">
+       Repose my wearied frame. Alas! I tremble.
+      </l>
+      <l n="4">
+       Here let me rest a while.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="5">
+       Permit me, Dorus,
+      </l>
+      <l n="6">
+       To ask, with honest zeal, whence flow those tears
+      </l>
+      <l n="7">
+       Which stain thy manly cheek. I blush to see them.
+      </l>
+      <l n="8">
+       Pardon a soldier's frankness.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="9">
+       Well I knew
+      </l>
+      <l n="10">
+       Thou wouldst condemn my weakness. But, Adrastus,
+      </l>
+      <l n="11">
+       Thou little know'st the torments I endure.
+      </l>
+      <l n="12">
+       The monarch's glory and the father's love
+      </l>
+      <l n="13">
+       Rack me by turns.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="14">
+       O! may almighty Jove
+      </l>
+      <l n="15">
+       Who grac'd thy opening youth and riper manhood
+      </l>
+      <l n="16">
+       With valor, glory, and thy country's love,
+      </l>
+      <l n="17">
+       Protect thy weak declining age; nor suffer
+      </l>
+      <l n="18">
+       Mankind to pity, whom they once rever'd!
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="19">
+       There, there I feel thee. But I bless the hand
+      </l>
+      <l n="20">
+       That probes my wounds.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="21">
+       Hast thou, great sir, retracted
+      </l>
+      <l n="22">
+       Th' unworthy orders by the crowd extorted?
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="23">
+       Otanes, no. When I retract my word,
+      </l>
+      <l n="24">
+       May I be curst to bear the odious name
+      </l>
+      <l n="25">
+       Of tyrant!
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="26">
+       These were Dorus' words. There spoke
+      </l>
+      <l n="27">
+       The King, the father of a happy people.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="28">
+       Am I their father? Yes, their love, their duty
+      </l>
+      <l n="29">
+       Speak them my children; and shall I reject
+      </l>
+      <l n="30">
+       Their prayers? no, never; when I shut my ears
+      </l>
+      <l n="31">
+       Against their plaints, may I be curs'd to reign
+      </l>
+      <l n="32">
+       O'er Scythian slaves, where the deluded crowd
+      </l>
+      <l n="33">
+       With shouts of triumph sooth their tyrant's
+                                        pride,
+      </l>
+      <l n="34">
+       The scourge of human kind; like Egypt's sons,
+      </l>
+      <l n="35">
+       Who count destruction from the crocodile,
+      </l>
+      <l n="36">
+       And deify the monster that devours them!
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="37">
+       I dread the oracle; the Sybil's voice
+      </l>
+      <l n="38">
+       Even now with holy terror damps my heart.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="39">
+       O 'twas an awful sound, and big with terror,
+      </l>
+      <l n="40">
+       Thou heardst it, my Otanes, and thou sawst
+      </l>
+      <l n="41">
+       My grief, my anguish. Though my soul, resolv'd,
+      </l>
+      <l n="42">
+       Still holds its purpose, hushing nature's voice,
+      </l>
+      <l n="43">
+       Yet must the father feel. Olinthus' life
+      </l>
+      <l n="44">
+       His country claims; my sorrows are my own.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="45">
+       I then was in the camp, and since engaged
+      </l>
+      <l n="46">
+       In war's tumultuous scenes, have heard the tale
+      </l>
+      <l n="47">
+       Imperfectly.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="48">
+       But thou shalt hear it now.
+      </l>
+      <l n="49">
+       Yet do not chide, Adrastus, when thou seest
+      </l>
+      <l n="50">
+       My bosom swell with grief. The monarch's glory,
+      </l>
+      <l n="51">
+       Trust me, has overpower'd the father's love.
+      </l>
+      <l n="52">
+       For many a year in my Semanthe's arms
+      </l>
+      <l n="53">
+       I tasted happiness; the harmony
+      </l>
+      <l n="54">
+       Of soft agreeing minds; domestic bliss
+      </l>
+      <l n="55">
+       Even on a throne. But still one joy was wanting.
+      </l>
+      <l n="56">
+       No issue blest our loves; with ceaseless prayers
+      </l>
+      <l n="57">
+       And frequent hecatombs I crav'd the blessing.
+      </l>
+      <l n="58">
+       At length 't was granted. Ye celestial Powers,
+      </l>
+      <l n="59">
+       When to my lips ye held the cup of bliss,
+      </l>
+      <l n="60">
+       Why did ye dash it with such bitterness!
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="61">
+       Such are the wise decrees of Providence,
+      </l>
+      <l n="62">
+       A constant round of happiness elates
+      </l>
+      <l n="63">
+       The human mind, and makes it spurn at Jove,
+      </l>
+      <l n="64">
+       As the fierce pamper's steed rejects the rider,
+      </l>
+      <l n="65">
+       And scorns the guiding rein.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="66">
+       Fir'd with impatience
+      </l>
+      <l n="67">
+       (O fatal curiosity!) to know
+      </l>
+      <l n="68">
+       Olinthus' fate, I sought the Delphic fane.
+      </l>
+      <l n="69">
+       The altars blaz'd; the incense reach'd the skies.
+      </l>
+      <l n="70">
+       At length the priestess, from her tripod
+                                        starting,
+      </l>
+      <l n="71">
+       Full of th' inspiring Godhead, thus exclaim'd!
+      </l>
+      <l n="72">
+       "Intrepid offspring of a martial sire.
+      </l>
+      <l n="73">
+       Will no kind Power avert the threaten'd stroke?
+      </l>
+      <l n="74">
+       For ah! I see the fatal steel prepar'd,
+      </l>
+      <l n="75">
+       Against his life. Th' impatient crowd demands
+      </l>
+      <l n="76">
+       His guiltless blood; his weeping fire consents.
+      </l>
+      <l n="77">
+       But fate in thickest night has hid the rest.
+      </l>
+      <l n="78">
+       Adore the Gods; be virtuous, live and hope."
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="79">
+       'T was terrible.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="80">
+       I swoon'd, I fell to earth,
+      </l>
+      <l n="81">
+       Nor saw the hated light for many a day.
+      </l>
+      <l n="82">
+       But my Semanthe! O what sorrows heav'd
+      </l>
+      <l n="83">
+       Thy tender breast! — she sicken'd, pined and
+                                        died.
+      </l>
+      <l n="84">
+       Yet e're she sought the blissful plains she hid
+      </l>
+      <l n="85">
+       In yon deep solitude her darling boy,
+      </l>
+      <l n="86">
+       Conjuring me, since Heaven allow'd to hope,
+      </l>
+      <l n="87">
+       Never to see him. — But ye both have seen him,
+      </l>
+      <l n="88">
+       And say, how looks my boy?
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="89">
+       Like the young eagle,
+      </l>
+      <l n="90">
+       Who in his nest confin'd, as yet unfledg'd,
+      </l>
+      <l n="91">
+       Still meditates a slight beyond the clouds,
+      </l>
+      <l n="92">
+       And longs to perch upon the hand of Jove.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="93">
+       Thy son, the lov'd companion of his youth,
+      </l>
+      <l n="94">
+       Has won his friendship. In Araspes' favour
+      </l>
+      <l n="95">
+       The world speaks loudly.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="96">
+       To Olinthus' service
+      </l>
+      <l n="97">
+       Adraspes holds his heart and life devoted.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="98">
+       Then since my presence, like some fatal star,
+      </l>
+      <l n="99">
+       Scowls on Olinthus, to the field of fame
+      </l>
+      <l n="100">
+       Together let them rush, together reap
+      </l>
+      <l n="101">
+       Unfading laurels in their country's cause.
+      </l>
+      <l n="102">
+       Again the pride of Persia threatens war,
+      </l>
+      <l n="103">
+       And tyranny with hasty strides approaches.
+      </l>
+      <l n="104">
+       To thee, Adrastus, I intrust Olinthus.
+      </l>
+      <l n="105">
+       Thy great example in his breast will raise
+      </l>
+      <l n="106">
+       The truly martial flame, and wifely check
+      </l>
+      <l n="107">
+       The mounting blaze of youth's impetuous valor.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="1">
+       Thus far success has crown'd my deep-laid schemes,
+      </l>
+      <l n="2">
+       And empire, which for many a year I have woo'd
+      </l>
+      <l n="3">
+       With all the warmth of love, with ev'ry art
+      </l>
+      <l n="4">
+       And ev'ry blandishment, now smiles consent,
+      </l>
+      <l n="5">
+       And sinks into my arms, a willing conquest.
+      </l>
+      <l n="6">
+       The people, by my emissaries rouz'd,
+      </l>
+      <l n="7">
+       Demand the presence of the Prince. —
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IV.
+     </head>
+     <sp who="#otanes #arbaces">
+      <speaker>
+       Otanes, Arbaces.
+      </speaker>
+      <l n="1">
+       Arbaces!
+      </l>
+      <l n="2">
+       Welcome thou faithful friend. Thy haste has
+                                        equall'd
+      </l>
+      <l n="3">
+       My swiftest wishes. Say, what sends Darius?
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="4">
+       Warmly he wish'd success — —
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="5">
+       He wish'd success!
+      </l>
+      <l n="6">
+       And was that all? — Curse on his empty wishes!
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="7">
+       Tho' much he hates the King, yet much he fears —
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="8">
+       'Tis cowardice, 'tis Persian cowardice,
+      </l>
+      <l n="9">
+       And more than female weakness. Why did I
+      </l>
+      <l n="10">
+       Request assistance from a despot, nurtur'd
+      </l>
+      <l n="11">
+       In slothful ease and base effeminacy,
+      </l>
+      <l n="12">
+       The slave of women. Where, where are the troops,
+      </l>
+      <l n="13">
+       Where is the gold he promis'd?
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="14">
+       I have brought
+      </l>
+      <l n="15">
+       Such sums as will amaze thee and might dazzle
+      </l>
+      <l n="16">
+       The eyes of virtue.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="17">
+       Then some hope remains.
+      </l>
+      <l n="18">
+       He is not wholly false.
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="19">
+       A numerous army
+      </l>
+      <l n="20">
+       Surrounds the borders, and but waits thy summons.
+      </l>
+      <l n="21">
+       But much Darius fears, the hardy Lydians
+      </l>
+      <l n="22">
+       Will boldly throng around the royal standard,
+      </l>
+      <l n="23">
+       Lavish of life, as when in former days,
+      </l>
+      <l n="24">
+       Rouz'd by their chief's example, through his
+                                        hosts
+      </l>
+      <l n="25">
+       They scatter'd death and terror. Gold, he says,
+      </l>
+      <l n="26">
+       Will work its way, with slow but certain venom,
+      </l>
+      <l n="27">
+       Through every rank of men, and slacken all
+      </l>
+      <l n="28">
+       The sinews of the state, 'till the whole frame
+      </l>
+      <l n="29">
+       Relax'd and languid, totters, droops and falls.
+      </l>
+      <l n="30">
+       Then will he pour, at thy behest, his troops
+      </l>
+      <l n="31">
+       Resistless o'er the weaken'd land, and raise thee
+      </l>
+      <l n="32">
+       To royalty, still paying yearly tribute
+      </l>
+      <l n="33">
+       To Persia's throne.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="34">
+       O my ambitious heart!
+      </l>
+      <l n="35">
+       How dost thou swell with transport at the thought
+      </l>
+      <l n="36">
+       Of future glory! Thus the traveller,
+      </l>
+      <l n="37">
+       Wandering with weary steps amid the gloom
+      </l>
+      <l n="38">
+       Of all-surrounding night, elated hails
+      </l>
+      <l n="39">
+       The early dawn, streaking the eastern sky
+      </l>
+      <l n="40">
+       With purple light. Already, my Arbaces,
+      </l>
+      <l n="41">
+       I have alarm'd the superstitious herd
+      </l>
+      <l n="42">
+       With prodigies. In ev'ry flying cloud
+      </l>
+      <l n="43">
+       They see dire omens, in each whisp'ring breeze
+      </l>
+      <l n="44">
+       Hear horrid sounds, whilst fancy shrinks aghast
+      </l>
+      <l n="45">
+       And trembles at the fiends herself has form'd.
+      </l>
+      <l n="46">
+       Be it thy care, Arbaces, to invent
+      </l>
+      <l n="47">
+       New tales of horror, 'till religious phrenzy
+      </l>
+      <l n="48">
+       Rage through the land with epidemic fury,
+      </l>
+      <l n="49">
+       And loosen ev'ry tie of love, respect
+      </l>
+      <l n="50">
+       And loyalty.
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="51">
+       Even from my greenest years
+      </l>
+      <l n="52">
+       I have felt the genial influence of thy smile.
+      </l>
+      <l n="53">
+       When in Darius' cause my father fell,
+      </l>
+      <l n="54">
+       Thy bounty rais'd me, a poor Persian orphan,
+      </l>
+      <l n="55">
+       To ease and greatness; and when I forget — —
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="56">
+       I know thy worth, Arbaces; in my kingdom
+      </l>
+      <l n="57">
+       Thy services shall meet their due reward.
+      </l>
+      <l n="58">
+       Araspes too shall love thee, and shall grace
+      </l>
+      <l n="59">
+       Thy zeal with honours equal to thy merit.
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="60">
+       But hast thou tamper'd with Adrastus yet?
+      </l>
+      <l n="61">
+       I dread his Influence.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="62">
+       If he scorns to bend
+      </l>
+      <l n="63">
+       Before the storm, he must be hurl'd to earth
+      </l>
+      <l n="64">
+       Uprooted by its rage. He dies, unless
+      </l>
+      <l n="65">
+       His virtue melts, when he beholds Ismene
+      </l>
+      <l n="66">
+       In my Araspes' arms, the destin'd mother
+      </l>
+      <l n="67">
+       Of kings and heroes.
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="68">
+       Then I'm lost indeed
+       <stage>
+        (aside)
+       </stage>
+      </l>
+      <l n="69">
+       Ismene, saidst thou?
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="70">
+       Yes, that happy union
+      </l>
+      <l n="71">
+       Will doubtless draw Adrastus to my party.
+      </l>
+      <l n="72">
+       His name, his valor will support my cause,
+      </l>
+      <l n="73">
+       And quell the turbulent.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE V.
+     </head>
+     <stage>
+      OTANES, ARBACES, ADRASTUS,
+     </stage>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="1">
+       Otanes, haste!
+      </l>
+      <l n="2">
+       The King demands your presence, to receive
+      </l>
+      <l n="3">
+       His final orders; you must meet the Prince.
+      </l>
+      <l n="4">
+       The eager citizens desert their houses
+      </l>
+      <l n="5">
+       And pour upon the plain, like rolling waves.
+      </l>
+      <l n="6">
+       The streets are strew'd with flowers, the shout of
+                                        joy
+      </l>
+      <l n="7">
+       Swells in the air; glad opulence presents
+      </l>
+      <l n="8">
+       The flowing cup; the crowded windows shine
+      </l>
+      <l n="9">
+       With gazing beauty. Age and sickness quit
+      </l>
+      <l n="10">
+       Their long-press'd pillows, eager to behold
+      </l>
+      <l n="11">
+       The nation's hope, then close their aching eyes
+      </l>
+      <l n="12">
+       With day afflicted. Poverty looks gay,
+      </l>
+      <l n="13">
+       And misery smiles.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="14">
+       I come; Arbaces, follow.
+      </l>
+     </sp>
+     <stage>
+      End of the FIRST ACT.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT II.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      EUDOCIA, ISMENE, CLEANTHE,
+     </stage>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="1">
+       Yes, my Ismene; I approve thy scorn.
+      </l>
+      <l n="2">
+       'Tis just; 'tis worthy of Adrastus' daughter,
+      </l>
+      <l n="3">
+       Sole offspring of that chief, who long has prop'd
+      </l>
+      <l n="4">
+       The Lydian throne.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="5">
+       Even now with hasty steps
+      </l>
+      <l n="6">
+       And eyes, which shew'd at once revenge and love
+      </l>
+      <l n="7">
+       And sullen pride, he pass'd along in silence.
+      </l>
+      <l n="8">
+       That awful silence bodes th' approaching storm,
+      </l>
+      <l n="9">
+       Which soon may burst —
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="10">
+       Away with idle fear.
+      </l>
+      <l n="11">
+       He dares not; though protected by Otanes,
+      </l>
+      <l n="12">
+       His haughty patron, still Arbaces dreads
+      </l>
+      <l n="13">
+       Thy father's fury. Let this Persian captive
+      </l>
+      <l n="14">
+       Disturb no more thy quiet. Other thoughts
+      </l>
+      <l n="15">
+       And prospects, brighter far, should cheer the
+                                        heart
+      </l>
+      <l n="16">
+       Of great Adrastus' daughter. Hark! that shout
+      </l>
+      <l n="17">
+       Proclaims Olinthus nigh.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="18">
+       I oft have wonder'd
+      </l>
+      <l n="19">
+       Why thus remote from men the Prince so long
+      </l>
+      <l n="20">
+       Has wasted youth, the season of instruction.
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="21">
+       It was not wasted. With a chosen few
+      </l>
+      <l n="22">
+       The awful secret rests. Again they shout.
+      </l>
+      <l n="23">
+       But my Ismene, if thy mother's love,
+      </l>
+      <l n="24">
+       Her soft indulgence and her tender cares,
+      </l>
+      <l n="25">
+       Have touch'd thy heart with filial piety,
+      </l>
+      <l n="26">
+       Attend my counsel. Thou art young and artless,
+      </l>
+      <l n="27">
+       Unpractis'd in the arts of men; then dread
+      </l>
+      <l n="28">
+       The voice of calumny, respect the fame
+      </l>
+      <l n="29">
+       Of thy great ancestors — and shun the Prince.
+      </l>
+      <l n="30">
+       They come; let us retire.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      DORUS, OTANES, ADRASTUS, ARBACES, OLINTHUS, ARASPES, and Courtiers.
+     </stage>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="1">
+       My son! my son!
+      </l>
+      <l n="2">
+       Rise my Olinthus; to thy father's bosom,
+      </l>
+      <l n="3">
+       O let me hold thee fast.
+      </l>
+     </sp>
+     <sp who="#olinthus">
+      <speaker>
+       Olinthus.
+      </speaker>
+      <l n="4">
+       This happy moment
+      </l>
+      <l n="5">
+       O'erpays an age of absence. O my father!
+      </l>
+      <l n="6">
+       Am I permitted to behold at length
+      </l>
+      <l n="7">
+       That venerable form, from which I sprung,
+      </l>
+      <l n="8">
+       Great author of my being!
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="9">
+       Hear his Voice;
+      </l>
+      <l n="10">
+       Behold that face, Otanes; thus I spoke,
+      </l>
+      <l n="11">
+       Thus look'd, when on Pactolus' banks my sword
+      </l>
+      <l n="12">
+       First shone in freedom's cause. — Another son!
+      </l>
+      <l n="13">
+       How like Olinthus! Heaven! what kindred graces
+      </l>
+      <l n="14">
+       Appear in either frame. Approach, Araspes!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="15">
+       Thus, humbly thus, let me with eyes, that speak
+      </l>
+      <l n="16">
+       Respect and veneration gaze upon
+      </l>
+      <l n="17">
+       The god-like Dorus.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="18">
+       To his heart, Araspes,
+      </l>
+      <l n="19">
+       Thy King, thy kinsman holds thee. O my sister!
+      </l>
+      <l n="20">
+       O my Semanthe! could ye now behold
+      </l>
+      <l n="21">
+       My joy, my transports — but unerring Fate
+      </l>
+      <l n="22">
+       Has otherwise decreed — and I submit.
+      </l>
+      <l n="23">
+       But say, Olinthus, how hast thou beguil'd
+      </l>
+      <l n="24">
+       The dreary hours, which kept thee from my arms,
+      </l>
+      <l n="25">
+       But kept thee too from luxury and courts.
+      </l>
+     </sp>
+     <sp who="#olinthus">
+      <speaker>
+       Olinthus.
+      </speaker>
+      <l n="26">
+       Arm'd with our spears oft have my friend and I
+      </l>
+      <l n="27">
+       Explor'd the thickest gloom of yonder forest,
+      </l>
+      <l n="28">
+       And trac'd the rav'nous monster to his haunts;
+      </l>
+      <l n="29">
+       Then rouz'd him from his den, and as he rush'd,
+      </l>
+      <l n="30">
+       Furious with rage and famine, boldly met him,
+      </l>
+      <l n="31">
+       And stretch'd his horrid carcase on the earth.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="32">
+       And oft o'er fancy's flowry wilds we stray'd,
+      </l>
+      <l n="33">
+       Gathering the brightest truths, with rapture
+                                        viewing
+      </l>
+      <l n="34">
+       How eagle-like unconquer'd virtue soars
+      </l>
+      <l n="35">
+       Above misfortune and contending fate.
+      </l>
+     </sp>
+     <sp who="#olinthus">
+      <speaker>
+       Olinthus.
+      </speaker>
+      <l n="36">
+       The hero's gallant deeds inflam'd our breasts,
+      </l>
+      <l n="37">
+       Like him we wish'd amidst the ranks of war,
+      </l>
+      <l n="38">
+       To seize bright same.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="39">
+       Like him we wish'd to die,
+      </l>
+      <l n="40">
+       Crown'd with immortal praise.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="41">
+       O gallant spirits!
+      </l>
+      <l n="42">
+       These princely lions need not to be rous'd
+      </l>
+      <l n="43">
+       To martial contest. It shall be my care
+      </l>
+      <l n="44">
+       To point them out their prey. Then will they rush
+      </l>
+      <l n="45">
+       Headlong amidst the horrors of the chace,
+      </l>
+      <l n="46">
+       Shiv'ring the hunter's spear.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="47">
+       Curse on the wretch,
+      </l>
+      <l n="48">
+       Who loiters, when his country's cause demands
+                                        him.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="49">
+       Come to my arms, ye gallant youths; already
+      </l>
+      <l n="50">
+       In these fair op'ning buds I see th' assurance
+      </l>
+      <l n="51">
+       Of full-blown glory. (O propitious Jove!
+      </l>
+      <l n="52">
+       Avert the threaten'd tempest!) say, Otanes,
+      </l>
+      <l n="53">
+       Does not thy heart like mine exult with joy?
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="54">
+       It does; 'till now I never knew those joys,
+      </l>
+      <l n="55">
+       Those sweetest joys, which filial virtue gives.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="56">
+       Olinthus, I have oft' implor'd the Gods
+      </l>
+      <l n="57">
+       To grant a son, whose valour might preserve
+      </l>
+      <l n="58">
+       The land I freed — and they have heard my
+                                        prayers.
+      </l>
+      <l n="59">
+       To-morrow's sun shall see thee shine in arms,
+      </l>
+      <l n="60">
+       Thy country's champion, and the scourge of
+                                        Persra,
+      </l>
+      <l n="61">
+       Nor throw them off, 'till thou approve thyself
+      </l>
+      <l n="62">
+       Worthy of a throne; to-morrow haste to glory,
+      </l>
+      <l n="63">
+       Thou and Araspes.
+      </l>
+     </sp>
+     <sp who="#olinthus">
+      <speaker>
+       Olinthus.
+      </speaker>
+      <l n="64">
+       On my knees I thank thee.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="65">
+       And I. As long as strength shall nerve this arm,
+      </l>
+      <l n="66">
+       And active life inform my frame, bear witness,
+      </l>
+      <l n="67">
+       Immortal Powers! my sword shall flame against
+      </l>
+      <l n="68">
+       The foes of Dorus, Lydia and Olinthus.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="69">
+       Rise, my Araspes; whether nature's voice,
+      </l>
+      <l n="70">
+       Or the strong sympathy of kindred souls
+      </l>
+      <l n="71">
+       Has work'd this tenderness, I cannot tell;
+      </l>
+      <l n="72">
+       But sure I love thee, and my heart presages,
+      </l>
+      <l n="73">
+       Thou shalt be great and happy.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="74">
+       Who can see
+      </l>
+      <l n="75">
+       Such merit so rewarded, but must own
+      </l>
+      <l n="76">
+       The power of virtue and confess, the Gods
+      </l>
+      <l n="77">
+       Rais'd thee to empire. They will guard thee
+                                        still,
+      </l>
+      <l n="78">
+       Fight in thy battles, and confound thy foes
+      </l>
+      <l n="79">
+       With heaven-born terror. O my Prince, to-morrow
+      </l>
+      <l n="80">
+       To-morrow we begin to live. No more
+      </l>
+      <l n="81">
+       Consin'd in narrow limits shall we see
+      </l>
+      <l n="82">
+       Day following day in dull succession pass
+      </l>
+      <l n="83">
+       Unheeded by. Thy father bids us rush
+      </l>
+      <l n="84">
+       To arms, to fame, to conquest. Now our souls,
+      </l>
+      <l n="85">
+       Like the plum'd songsters, from their prisons
+                                        freed,
+      </l>
+      <l n="86">
+       Shall soar on high and wing their way to fame.
+      </l>
+     </sp>
+     <sp who="#olinthus">
+      <speaker>
+       Olinthus.
+      </speaker>
+      <l n="87">
+       Oft have we shar'd the dangers of the chace
+      </l>
+      <l n="88">
+       With force and skill united. Now, my friend,
+      </l>
+      <l n="89">
+       Together let us rush upon the foe,
+      </l>
+      <l n="90">
+       And to his friend each prove a sure defence.
+      </l>
+      <l n="91">
+       I know thee brave, Araspes, but I trust,
+      </l>
+      <l n="92">
+       Thou wilt not far out-strip me in the race
+      </l>
+      <l n="93">
+       Of honour.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="94">
+       God-like emulation! when
+      </l>
+      <l n="95">
+       Two souls, devoid of envy, pant for glory,
+      </l>
+      <l n="96">
+       And from each other catch the noble flame.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="97">
+       Sure I was ne'er unhappy; sure the Gods
+      </l>
+      <l n="98">
+       Ne'er threaten'd misery to this hoary head;
+      </l>
+      <l n="99">
+       Or if they did, 'twas but to try my virtue.
+      </l>
+      <l n="100">
+       But now to pine in gloomy discontent
+      </l>
+      <l n="101">
+       Were rank ingratitude. Then welcome joy!
+      </l>
+      <l n="102">
+       Hence ev'ry care! I leave you to the wretch,
+      </l>
+      <l n="103">
+       Who joyless views his hoarded treasures rise,
+      </l>
+      <l n="104">
+       Nor thanks the Gods, because some sordid trifle
+      </l>
+      <l n="105">
+       Is wanting to complete the sum he wishes.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      EUDOCIA, ISMENE, CLEANTHE.
+     </stage>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="1">
+       O powerful nature! how thy magic works,
+      </l>
+      <l n="2">
+       Deep, secret, sure! controuling ev'ry sense
+      </l>
+      <l n="3">
+       With force resistless! true to thee, the heart
+      </l>
+      <l n="4">
+       Feels strange emotions, unsuspecting whence
+      </l>
+      <l n="5">
+       Springs the all-ruling impulse. O complete
+      </l>
+      <l n="6">
+       Thy wond'rous work, whilst I in silence view
+      </l>
+      <l n="7">
+       Thy mighty influence, and adore thy God!
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IV,
+     </head>
+     <stage>
+      ISMENE, CLEANTHE.
+     </stage>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="1">
+       Cleanthe, didst thou mark that faultless form,
+      </l>
+      <l n="2">
+       Those eyes, which spoke at once heroic ardor,
+      </l>
+      <l n="3">
+       And melting tenderness.
+      </l>
+     </sp>
+     <sp who="#cleanthe">
+      <speaker>
+       Cleanthe.
+      </speaker>
+      <l n="4">
+       Those eyes were fix'd
+      </l>
+      <l n="5">
+       On fair Ismene's charms; the Prince already
+      </l>
+      <l n="6">
+       Has felt their power.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="7">
+       Talk not of the Prince.
+      </l>
+      <l n="8">
+       And couldst thou gaze upon a star, Cleanthe,
+      </l>
+      <l n="9">
+       When the fair regent of the night disclos'd
+      </l>
+      <l n="10">
+       Superior lustre. In Araspes' form
+      </l>
+      <l n="11">
+       What graces bloom! but sure that form contains
+      </l>
+      <l n="12">
+       A spirit brave, though mild. The temple thus,
+      </l>
+      <l n="13">
+       Though deck'd with all that human art can boast,
+      </l>
+      <l n="14">
+       And shining with the gifts of lavish zeal,
+      </l>
+      <l n="15">
+       Owes its chief glories to the powerful God,
+      </l>
+      <l n="16">
+       Who deigns to dwell within.
+      </l>
+     </sp>
+     <sp who="#cleanthe">
+      <speaker>
+       Cleanthe.
+      </speaker>
+      <l n="17">
+       This warmth of language
+      </l>
+      <l n="18">
+       Denotes a wond'rous change. At length thy heart,
+      </l>
+      <l n="19">
+       Thy haughty heart, is soften'd by Araspes,
+      </l>
+      <l n="20">
+       And all thy slighted lovers are reveng'd.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="21">
+       What means Cleanthe? dost thou think, I love?
+      </l>
+      <l n="22">
+       O no, my soul disdains the tender weakness.
+      </l>
+      <l n="23">
+       'Tis true, with admiration I beheld
+      </l>
+      <l n="24">
+       The wond'rous youth, yet oft with equal pleasure
+      </l>
+      <l n="25">
+       My eyes have wander'd o'er the verdant meads,
+      </l>
+      <l n="26">
+       And the gay treasures of the bounteous spring.
+      </l>
+     </sp>
+     <sp who="#cleanthe">
+      <speaker>
+       Cleanthe.
+      </speaker>
+      <l n="27">
+       But when thou saw'st such beauties bloom around,
+      </l>
+      <l n="28">
+       Did thine eyes glisten, or thy bosom heave
+      </l>
+      <l n="29">
+       With unknown throbbing? Did thy quicken'd blood
+      </l>
+      <l n="30">
+       Rush thro' thy veins, now spreading o'er thy
+                                        cheek
+      </l>
+      <l n="31">
+       A crimson glow, and now each charm resigning
+      </l>
+      <l n="32">
+       To death-like paleness? Did thy tongue betray
+      </l>
+      <l n="33">
+       In melting accents, what thy words would hide?
+      </l>
+      <l n="34">
+       These are the marks, th' unerring marks, by which
+      </l>
+      <l n="35">
+       I trace the progress of the Paphian God.
+      </l>
+      <l n="36">
+       Already he is busy in thy heart,
+      </l>
+      <l n="37">
+       And soon, Ismene — —
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="38">
+       O! thou wrong'st me much,
+      </l>
+      <l n="39">
+       If thou canst think, that such emotions sprung
+      </l>
+      <l n="40">
+       From such a source. From piety they flowed,
+      </l>
+      <l n="41">
+       And not from love. Again my father seeks
+      </l>
+      <l n="42">
+       The fierce invading foe, again exposes
+      </l>
+      <l n="43">
+       The remnant of his days to toil and danger.
+      </l>
+      <l n="44">
+       And should he fall, (protect him Heaven!) should
+                                        he
+      </l>
+      <l n="45">
+       For whom my bosom bleeds, that gallant youth —
+      </l>
+     </sp>
+     <sp who="#cleanthe">
+      <speaker>
+       Cleanthe.
+      </speaker>
+      <l n="46">
+       What youth?
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="47">
+       O how my troubled fancy strays,
+      </l>
+      <l n="48">
+       Perplex'd, bewilder'd!
+      </l>
+     </sp>
+     <sp who="#cleanthe">
+      <speaker>
+       Cleanthe.
+      </speaker>
+      <l n="49">
+       See! he comes.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="50">
+       Who comes?
+      </l>
+     </sp>
+     <sp who="#cleanthe">
+      <speaker>
+       Cleanthe.
+      </speaker>
+      <l n="51">
+       Araspes.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="52">
+       Haste,
+      </l>
+      <l n="53">
+       Support my feeble frame; conceal my blushes.
+      </l>
+      <l n="54">
+       O lost Ismene!
+      </l>
+     </sp>
+     <sp who="#cleanthe">
+      <speaker>
+       Cleanthe.
+      </speaker>
+      <l n="55">
+       Summon to thy aid
+      </l>
+      <l n="56">
+       Thy strength of mind, thy sex's dignity,
+      </l>
+      <l n="57">
+       And innate pride, which, though already yielding
+      </l>
+      <l n="58">
+       Yet must be sooth'd, before it seems to yield.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE V.
+     </head>
+     <stage>
+      ISMENE, CLEANTHE, ARASPES.
+     </stage>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="1">
+       Pardon, bright nymph, the lips prophane, that dare
+      </l>
+      <l n="2">
+       Accost such excellence. O do not frown,
+      </l>
+      <l n="3">
+       While I, with rash but trembling step, approach
+                                        thee.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="4">
+       Do words, like these, become Otanes' son?
+      </l>
+      <l n="5">
+       That favour'd youth, grac'd with the Prince's
+                                        love!
+      </l>
+      <l n="6">
+       Can he in terms, so humble and so distant,
+      </l>
+      <l n="7">
+       Accost Adrastus' daughter?
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="8">
+       Art thou then
+      </l>
+      <l n="9">
+       That maid, the fame of whose transcendent charms
+      </l>
+      <l n="10">
+       Pierc'd the thick gloom, which fenc'd me from the
+                                        world,
+      </l>
+      <l n="11">
+       And bade me wish and languish to behold thee?
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="12">
+       O flattery! thou growth of ev'ry soil!
+      </l>
+      <l n="13">
+       Thou blooming poison, and thou deadly fruit!
+      </l>
+      <l n="14">
+       No longer let misjudging mortals deem thee
+      </l>
+      <l n="15">
+       Peculiar to the court; even in the vale,
+      </l>
+      <l n="16">
+       Where innocence and truth should only bloom,
+      </l>
+      <l n="17">
+       Thou grow'st insidious; there the rural youth
+      </l>
+      <l n="18">
+       Plucks thee with fell design, and to the maid,
+      </l>
+      <l n="19">
+       He seems to love, presents thee, fatal gift!
+      </l>
+      <l n="20">
+       Which should she, artless, taste, then shame
+                                        attends,
+      </l>
+      <l n="21">
+       And misery and death!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="22">
+       By all my hopes,
+      </l>
+      <l n="23">
+       By Heaven and thee, my soul disdains the mean,
+      </l>
+      <l n="24">
+       Th' unmanly office of a flatterer.
+      </l>
+      <l n="25">
+       Nurtur'd by fair simplicity, and taught
+      </l>
+      <l n="26">
+       To follow nature, from my earliest dawn,
+      </l>
+      <l n="27">
+       I paid my vows to truth. I found thee fair,
+      </l>
+      <l n="28">
+       Beauteous beyond my brightest, best idea,
+      </l>
+      <l n="29">
+       And told thee so. If 'tis a crime to speak it,
+      </l>
+      <l n="30">
+       Then Heaven should be ador'd in silence only.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="31">
+       Cleanthe, we must hence. Perhaps my father,
+      </l>
+      <l n="32">
+       Engag'd in preparation, needs my presence.
+      </l>
+      <l n="33">
+       Thou know'st to-morrow — —
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="34">
+       Wilt thou leave me thus,
+      </l>
+      <l n="35">
+       Thus leave me, torn with agonizing doubts?
+      </l>
+      <l n="36">
+       Stay, cruel maid; but few short hours are given
+      </l>
+      <l n="37">
+       To speak what I could dwell upon for ages;
+      </l>
+      <l n="38">
+       My love. —
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="39">
+       Araspes, dost thou speak of love,
+      </l>
+      <l n="40">
+       Of love to me, scarce seen, so soon belov'd?
+      </l>
+      <l n="41">
+       I did not think thou wouldst insult me thus.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="42">
+       Insult thee! O Ismene, do not think
+      </l>
+      <l n="43">
+       So hardly of the youth, who doats upon thee.
+      </l>
+      <l n="44">
+       Love lights his flame but slowly in the breast
+      </l>
+      <l n="45">
+       Damp'd by low pleasures, or by mean pursuits.
+      </l>
+      <l n="46">
+       My breast was wholly occupied by glory.
+      </l>
+      <l n="47">
+       Thus love found easy entrance. Glory soon
+      </l>
+      <l n="48">
+       Welcom'd the lovely stranger, own'd the force
+      </l>
+      <l n="49">
+       Of birth congenial, and his empire shares
+      </l>
+      <l n="50">
+       With his fair sister-passion.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="51">
+       Well I know
+      </l>
+      <l n="52">
+       Thy martial ardour hurries thee to arms,
+      </l>
+      <l n="53">
+       And canst thou think so poorly of Ismene,
+      </l>
+      <l n="54">
+       That she should wish with artful blandishments,
+      </l>
+      <l n="55">
+       To keep thee back from fame.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="56">
+       Sprung from Adrastus,
+      </l>
+      <l n="57">
+       I know thou must disdain the abject wretch,
+      </l>
+      <l n="58">
+       Who on the couch of indolence reposes,
+      </l>
+      <l n="59">
+       When Mars, accoutred in terrific charms,
+      </l>
+      <l n="60">
+       Summons to war. But may I dare to hope,
+      </l>
+      <l n="61">
+       That when the trumpet sounds and slaughter rages,
+      </l>
+      <l n="62">
+       Thou wilt bestow one thought upon Araspes?
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="63">
+       Still must I think of thee as of a youth,
+      </l>
+      <l n="64">
+       Whom virtue leads to fame; and when my fancy,
+      </l>
+      <l n="65">
+       Anxious for him, from whom I sprung, shall paint
+      </l>
+      <l n="66">
+       Embattled hosts, then shall I see thee fight
+      </l>
+      <l n="67">
+       Fast by his side, and shield him from the foe.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="68">
+       Enchanting words! then thou wilt think upon
+                                        me.
+      </l>
+      <l n="69">
+       That thought, like cheering hope to dying
+                                        sinners,
+      </l>
+      <l n="70">
+       Shall in the combat beam upon my soul,
+      </l>
+      <l n="71">
+       Bright'ning the gloom of war, 'till horror
+                                        smiles.
+      </l>
+      <l n="72">
+       Yes, lovely maid, I will, with all the strength
+      </l>
+      <l n="73">
+       This arm can boast, protect thy fire from death,
+      </l>
+      <l n="74">
+       Or yield my worthless life to rescue his.
+      </l>
+      <l n="75">
+       Ismene asks; can I refuse? But mark,
+      </l>
+      <l n="76">
+       How vain thy goodness has already made me.
+      </l>
+      <l n="77">
+       I was about to pray, that, if the fates
+      </l>
+      <l n="78">
+       Permit return, thou wouldst regard in peace
+      </l>
+      <l n="79">
+       Thy soldier with an eye —
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="80">
+       No more Araspes.
+      </l>
+      <l n="81">
+       I must not hear thee further; but remember,
+      </l>
+      <l n="82">
+       That I with warmth conjur'd thee to protect
+      </l>
+      <l n="83">
+       My father's life — yet not expose thy own.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VI.
+     </head>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="1">
+       She's gone — — ah no, she's here — here dwells her
+                                        image,
+      </l>
+      <l n="2">
+       Beats at my heart and spreads through ev'ry vein.
+      </l>
+      <l n="3">
+       Did she not listen to my ardent vows
+      </l>
+      <l n="4">
+       With gentleness, and pray me, not t'expose
+      </l>
+      <l n="5">
+       My life, as if — O what a thought is there!
+      </l>
+      <l n="6">
+       Down, swelling heart, or you will burst your
+                                        limits.
+      </l>
+      <l n="7">
+       Gods! can I taste such extasy, and live!
+      </l>
+      <l n="8">
+       Ismene, yes, thy wonder-working charms
+      </l>
+      <l n="9">
+       Have rais'd me above man.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VII.
+     </head>
+     <stage>
+      ARASPES, OTANES.
+     </stage>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="1">
+       My son, I sought thee —
+      </l>
+      <l n="2">
+       But ah! he sees me not — his cheek is flush'd
+      </l>
+      <l n="3">
+       With some intemperate passion — —
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="4">
+       Still Adrastus —
+      </l>
+      <l n="5">
+       I must not think so — — hence despair —
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="6">
+       Araspes.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="7">
+       My father —
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="8">
+       Thou art discompos'd — some matter
+      </l>
+      <l n="9">
+       That claims paternal confidence, disturbs thee.
+      </l>
+      <l n="10">
+       Disclose thy thoughts.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="11">
+       Pardon my wandering mind,
+      </l>
+      <l n="12">
+       I saw thee not; for oh! my soul was full
+      </l>
+      <l n="13">
+       Of love and fair Ismene.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <stage>
+       (aside)
+      </stage>
+      <l n="14">
+       Gods! I thank ye.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="15">
+       O she is sweeter than the breath of morn,
+      </l>
+      <l n="16">
+       Brighter than day, and mild as infancy;
+      </l>
+      <l n="17">
+       And if my father will approve my passion,
+      </l>
+      <l n="18">
+       I will pursue her with such a warmth of love,
+      </l>
+      <l n="19">
+       That she perhaps may catch the tender flame.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="20">
+       Love, when well-plac'd, exalts the noble mind,
+      </l>
+      <l n="21">
+       And adds fresh transports to the joys of glory.
+      </l>
+      <l n="22">
+       Pursue, my son; win and possess the maid.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="23">
+       May fav'ring Heaven with lengthen'd days reward
+                                        thee
+      </l>
+      <l n="24">
+       For thy paternal goodness! On the wings
+      </l>
+      <l n="25">
+       Of love, O let me fly to meet Adrastus.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="26">
+       Restrain a while the torrent of thy joy,
+      </l>
+      <l n="27">
+       And listen to the tranquil voice of reason.
+      </l>
+      <l n="28">
+       Perhaps Ismene's heart. — —
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="29">
+       Even now I saw her,
+      </l>
+      <l n="30">
+       And breath'd my vows in terms so warm and artless
+      </l>
+      <l n="31">
+       That she with patience heard me. Love, tho' hid
+      </l>
+      <l n="32">
+       Beneath the sweet disguise of modesty,
+      </l>
+      <l n="33">
+       Methought, look'd forth, and cheer'd my soul with
+                                        hope.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="34">
+       But hast thou calmly thought, what toils, what
+                                        merit,
+      </l>
+      <l n="35">
+       What bright success should dignify the youth,
+      </l>
+      <l n="36">
+       What hopes for such a treasure?
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="37">
+       If to toil
+      </l>
+      <l n="38">
+       In winter camps, oppress'd with cold and famine,
+      </l>
+      <l n="39">
+       To pant, to thirst beneath the glowing sun,
+      </l>
+      <l n="40">
+       To brook no rival in pursuit of fame,
+      </l>
+      <l n="41">
+       And follow danger, though she leads to death,
+      </l>
+      <l n="42">
+       If these may win her — why should I despair!
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="43">
+       Alas! Unpractis'd in the arts of courts,
+      </l>
+      <l n="44">
+       You think, that greatness must attend on valor;
+      </l>
+      <l n="45">
+       But know, Araspes, ev'ry youth excell'd
+      </l>
+      <l n="46">
+       Becomes a dangerous foe, and weak-eyed envy
+      </l>
+      <l n="47">
+       Delights to tarnish even the brightest merit,
+      </l>
+      <l n="48">
+       Hating that lustre, which it dares not gaze on.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="49">
+       And what base tongue will dare malign the youth,
+      </l>
+      <l n="50">
+       Whom Dorus favours and Olinthus loves?
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="51">
+       Too oft the wretch who thinks himself possess'd
+      </l>
+      <l n="52">
+       Of royal favour, like the gaudy bow,
+      </l>
+      <l n="53">
+       Shines for an hour, and then is seen no more.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="54">
+       Such there have been. But can I think, a King
+      </l>
+      <l n="55">
+       So good, so gentle, so belov'd by heaven,
+      </l>
+      <l n="56">
+       Can kill with cold neglect the plant he rais'd,
+      </l>
+      <l n="57">
+       And blast the hopes that bloom'd beneath his
+                                        smile?
+      </l>
+      <l n="58">
+       Impossible! — But grant those evils happen,
+      </l>
+      <l n="59">
+       Will not Ismene soften ev'ry woe?
+      </l>
+      <l n="60">
+       In her I'll centre all my happiness,
+      </l>
+      <l n="61">
+       Obscurely blest in love and conscious virtue.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="62">
+       Obscurely blest! I shudder at thy baseness.
+      </l>
+      <l n="63">
+       Ismene would despise such grovelling thoughts.
+      </l>
+      <l n="64">
+       I know, she's nobly taught, and great of soul.
+      </l>
+      <l n="65">
+       If thou presum'st to gain her by such means,
+      </l>
+      <l n="66">
+       Strive to forget her.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="67">
+       I am all amazement.
+      </l>
+      <l n="68">
+       Didst thou not tell me of the poison'd breath
+      </l>
+      <l n="69">
+       Of envy, and the fickle smiles of power?
+      </l>
+      <l n="70">
+       If these obstruct my way to fame and greatness,
+      </l>
+      <l n="71">
+       What can Araspes?
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="72">
+       To a soul resolv'd —
+      </l>
+      <l n="73">
+       But I have done — obscurely blest! — shame,
+                                        shame!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="74">
+       What means my father? O disclose the great,
+      </l>
+      <l n="75">
+       Th'important thought, that labors in thy mind;
+      </l>
+      <l n="76">
+       And if thou seest me basely shrink from danger,
+      </l>
+      <l n="77">
+       May I spin out a long inglorious life,
+      </l>
+      <l n="78">
+       Hated by thee, and scorn'd by her I love,
+      </l>
+      <l n="79">
+       By men detested, and by Heaven abandon'd!
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="80">
+       Again I am myself; then hear, Araspes,
+      </l>
+      <l n="81">
+       Hear what thy father, anxious for thy fame,
+      </l>
+      <l n="82">
+       Has plan'd with deepest art; a god-like scheme,
+      </l>
+      <l n="83">
+       Which, if perform'd, will raise thee to the
+                                        height
+      </l>
+      <l n="84">
+       Of all thy wishes, satisfy thy soul
+      </l>
+      <l n="85">
+       With love, with glory, and will render thee
+      </l>
+      <l n="86">
+       The theme and wonder of succeeding ages.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="87">
+       O thou hast rouz'd me. Shew me fame, tho' plac'd
+      </l>
+      <l n="88">
+       Upon the summit of the loftiest mount,
+      </l>
+      <l n="89">
+       Whose steepy sides are smooth'd with ice, and
+                                        mock
+      </l>
+      <l n="90">
+       The tread of mortal; led by mighty love,
+      </l>
+      <l n="91">
+       Methinks, with steady foot I could ascend it,
+      </l>
+      <l n="92">
+       Clasp the bright prize, and make her all my own.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="93">
+       Know then (for sure I may confide in thee)
+      </l>
+      <l n="94">
+       The Gods, who long have beam'd upon the King
+      </l>
+      <l n="95">
+       The brightest rays of fortune, now desert him.
+      </l>
+      <l n="96">
+       Oppress'd with age, he drags a feeble being,
+      </l>
+      <l n="97">
+       And crowds no longer view him with the eye
+      </l>
+      <l n="98">
+       Of love, or hail him with the voice of triumph.
+      </l>
+      <l n="99">
+       Domestic ills and foreign dangers cloud
+      </l>
+      <l n="100">
+       The evening of his days.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="101">
+       Impatience throbs
+      </l>
+      <l n="102">
+       Within my breast; point out thy glorious
+                                        project,
+      </l>
+      <l n="103">
+       That thy Araspes my approve himself
+      </l>
+      <l n="104">
+       Worthy of thee, and of the blood he boasts.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="105">
+       Thy transports charm me, but with calmness
+                                        hear me.
+      </l>
+      <l n="106">
+       I saw those gath'ring evils from afar,
+      </l>
+      <l n="107">
+       And soon conceiv'd the happy means to raise
+                                        thee,
+      </l>
+      <l n="108">
+       Thee, my Araspes, to such heights of glory —
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="109">
+       O 'twas a godlike thought! my warmest fancy
+      </l>
+      <l n="110">
+       Could ne'er have flatter'd me with such a
+                                        prospect.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="111">
+       A band intrepid, won by gold, by hopes,
+      </l>
+      <l n="112">
+       And offices of trust, compose my party.
+      </l>
+      <l n="113">
+       From Persia too a gallant army hastes —
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="114">
+       From Persia, saidst thou?
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="115">
+       Yes, the great Darius
+      </l>
+      <l n="116">
+       Knows my long-labor'd scheme, and hopes to share
+      </l>
+      <l n="117">
+       The harvest of my toils; but Lydia scorns
+      </l>
+      <l n="118">
+       A foreign tyranny.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="119">
+       Proceed, my father.
+      </l>
+      <l n="120">
+       O my foreboding heart
+       <stage>
+        (aside)
+       </stage>
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="121">
+       The bold Adrastus
+      </l>
+      <l n="122">
+       To-morrow leads to war his wav'ring bands.
+      </l>
+      <l n="123">
+       With him Olinthus goes. Myself at home,
+      </l>
+      <l n="124">
+       Freed from the gen'ral's presence, and
+                                        surrounded
+      </l>
+      <l n="125">
+       By thronging friends, shall seize the gates, the
+                                        palace
+      </l>
+      <l n="126">
+       The King himself — his blood perhaps — thou
+                                        startest.
+      </l>
+      <l n="127">
+       He turns away his face; by Heaven he trembles.
+      </l>
+      <l n="128">
+       Araspes, whence this terror?
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="129">
+       Horror! horror!
+      </l>
+      <l n="130">
+       <stage>
+        (Kneeling)
+       </stage>
+      </l>
+      <l n="131">
+       If in thy breast one spark of pity dwells,
+      </l>
+      <l n="132">
+       If love of virtue, if the dread of Heaven,
+      </l>
+      <l n="133">
+       Avenging Heaven, are not extinguish'd in thee,
+      </l>
+      <l n="134">
+       Ah! spare his life!
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="135">
+       How, dost thou kneel for this?
+      </l>
+      <l n="136">
+       Have I betray'd myself to thee, thou wretch!
+      </l>
+      <l n="137">
+       Go to the King, relate the mighty tale,
+      </l>
+      <l n="138">
+       Rise on my ruin, welter in my blood.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="139">
+       No, never, never; still thou art my father,
+      </l>
+      <l n="140">
+       Spare, spare his hoary head; respect his
+                                        virtues,
+      </l>
+      <l n="141">
+       Think on his bounty — — O reflect upon
+      </l>
+      <l n="142">
+       The infamy, th' eternal infamy —
+      </l>
+      <l n="143">
+       Behold me at thy feet; thy son implores —
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="144">
+       Hence I renounce thee; death is not more horrid
+      </l>
+      <l n="145">
+       Than thy detested presence; loose me, traitor.
+      </l>
+      <l n="146">
+       Then thus I cast thee off, thou stain to glory.
+      </l>
+      <l n="147">
+       Haste thee and till the barren soil of virtue,
+      </l>
+      <l n="148">
+       And reap contempt, disgrace and poverty.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VIII.
+     </head>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <stage>
+       (solus.)
+      </stage>
+      <l n="1">
+       Open, kind parent, earth; O take me, hide me
+      </l>
+      <l n="2">
+       From this most horrid fight, a murder'd King!
+      </l>
+      <l n="3">
+       Thou only art my parent; — hold, barbarian;
+      </l>
+      <l n="4">
+       Restrain thy impious hand; it is thy King,
+      </l>
+      <l n="5">
+       Thy friend, the first of men; 'tis god-like Dorus.
+      </l>
+      <l n="6">
+       — 'Twas fancy's work — be calm, my soul, be calm;
+      </l>
+      <l n="7">
+       Lest thy fierce conflicts fatally betray
+      </l>
+      <l n="8">
+       What duty, rigid duty, bids conceal.
+      </l>
+     </sp>
+     <stage>
+      End of the SECOND ACT.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT III.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="1">
+       Ismene destin'd to Araspes arms!
+      </l>
+      <l n="2">
+       Then what am I? a wretch, the veriest wretch
+      </l>
+      <l n="3">
+       The sun beholds; for her I have renounc'd
+      </l>
+      <l n="4">
+       Honour and virtue, plunging midst a sea
+      </l>
+      <l n="5">
+       Of crimes, which shock my nature; she alone
+      </l>
+      <l n="6">
+       Was all my hope, the goal of my ambition.
+      </l>
+      <l n="7">
+       Love urg'd me on to treason; treason now
+      </l>
+      <l n="8">
+       Affords no hope; and shall another clasp —
+      </l>
+      <l n="9">
+       I will alarm the King, unfold the plot
+      </l>
+      <l n="10">
+       That threats his life, his kingdom and his son.
+      </l>
+      <l n="11">
+       But hold — 't were vain; for though Araspes fail,
+      </l>
+      <l n="12">
+       May not some other favorite of fortune —
+      </l>
+      <l n="13">
+       Too cruel Gods! and must I lose her? No;
+      </l>
+      <l n="14">
+       I thank thee, Heaven; it beams upon my soul,
+      </l>
+      <l n="15">
+       Like some bright star, that glimmers through the
+                                        gloom
+      </l>
+      <l n="16">
+       Of night, and cheers the mariner with hope,
+      </l>
+      <l n="17">
+       E'er yet the fury of the storm be spent.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      ARBACES, OTANES.
+     </stage>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <stage>
+       (kneeling.)
+      </stage>
+      <l n="1">
+       Hail, great Otanes, hail.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="2">
+       What means this posture?
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="3">
+       It well becomes thy faithful slave, who
+                                        thus
+      </l>
+      <l n="4">
+       Pays early homage to his King, to thee.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="5">
+       Thy King! and lives not Dorus?
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="6">
+       Yes, but lives
+      </l>
+      <l n="7">
+       No longer than thy clemency permits.
+      </l>
+      <l n="8">
+       Speak but the word; he dies this day. So wishes
+      </l>
+      <l n="9">
+       The great Darius, who for thy Araspes
+      </l>
+      <l n="10">
+       Has destin'd his lov'd daughter fair Ismene.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="11">
+       Ismene for Araspes! By my hopes,
+      </l>
+      <l n="12">
+       He dies this day, this hour; but say, who brings
+      </l>
+      <l n="13">
+       These happy tidings?
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="14">
+       Artabanes, clad
+      </l>
+      <l n="15">
+       In peasant's garb; thou know'st his subtle
+                                        genius.
+      </l>
+      <l n="16">
+       Soon as he spoke his message (for he brought
+      </l>
+      <l n="17">
+       No written orders, to elude detection)
+      </l>
+      <l n="18">
+       For Persia he departed. Say, Otanes,
+      </l>
+      <l n="19">
+       How shall the wretch expire, who wears the crown
+      </l>
+      <l n="20">
+       Thy brows would dignify? Behold this dagger,
+      </l>
+      <l n="21">
+       I'll plunge it in his breast. Or shall he drain
+      </l>
+      <l n="22">
+       The fatal bowl? I know a Persian slave
+      </l>
+      <l n="23">
+       Vers'd in the trade of death, who knows no
+                                        danger,
+      </l>
+      <l n="24">
+       So the reward be freedom.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="25">
+       Nobly thought!
+      </l>
+      <l n="26">
+       Haste and collect our friends; tell them, Otanes
+      </l>
+      <l n="27">
+       Now claims their proffer'd service, now demands
+      </l>
+      <l n="28">
+       Their hearts, their hands; that at a signal given
+      </l>
+      <l n="29">
+       They may rush on, and boldly hew their way
+      </l>
+      <l n="30">
+       Even to the throne; first let Adrastus bleed.
+      </l>
+      <l n="31">
+       Resistance then will languish. E'er the sun
+      </l>
+      <l n="32">
+       Sinks in the west, this King shall fall for ever,
+      </l>
+      <l n="33">
+       To know no other morn.
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="34">
+       I fly.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="35">
+       Yet stay.
+      </l>
+      <l n="36">
+       Thy boldness charms me. Would to Heaven, Araspes
+      </l>
+      <l n="37">
+       Glow'd with an equal warmth.
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="38">
+       Hast thou disclos'd
+      </l>
+      <l n="39">
+       Thy great design?
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="40">
+       I have; but oh my friend,
+      </l>
+      <l n="41">
+       He clings to virtue, that pale wither'd maid,
+      </l>
+      <l n="42">
+       And slights for her the bright substantial joys
+      </l>
+      <l n="43">
+       Of empire. Much he loves the fair Ismene.
+      </l>
+      <l n="44">
+       Even by that spring I strove to raise ambition.
+      </l>
+      <l n="45">
+       But 'twas in vain; he trembled, wept and kneel'd;
+      </l>
+      <l n="46">
+       Talk'd of the virtues of the King, his age,
+      </l>
+      <l n="47">
+       Of honour, gratitude and infamy;
+      </l>
+      <l n="48">
+       Till madden'd by such insolence of virtue
+      </l>
+      <l n="49">
+       I spurn'd him from me.
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="50">
+       'Twas too rashly done.
+      </l>
+      <l n="51">
+       I dread his wild enthusiastic spirit
+      </l>
+      <l n="52">
+       May urge him to our ruin. When thou seest him,
+      </l>
+      <l n="53">
+       Command thy temper, praise him for his virtue,
+      </l>
+      <l n="54">
+       And let him think, thou dost forego thy purpose.
+      </l>
+      <l n="55">
+       Thus will his fears subside, and thou may'st
+                                        raise,
+      </l>
+      <l n="56">
+       Against his will, thy much-lov'd son to empire.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="57">
+       Think not, my friend, my firmer soul e'er felt
+      </l>
+      <l n="58">
+       The weak, unworthy tenderness of nature.
+      </l>
+      <l n="59">
+       O no, by Heaven, I love him for myself,
+      </l>
+      <l n="60">
+       For my own greatness, that from him may rise
+      </l>
+      <l n="61">
+       A race of Kings, who shall preserve my fame,
+      </l>
+      <l n="62">
+       And wast my glory to remotest ages.
+      </l>
+      <l n="63">
+       But see, he comes; I will observe thy counsel;
+      </l>
+      <l n="64">
+       Leave me; he knows thou art confederate
+      </l>
+      <l n="65">
+       In this attempt, and must not see thee here.
+      </l>
+      <l n="66">
+       Remember, O my friend, 'tis death or empire.
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <stage>
+       (aside)
+      </stage>
+      <l n="67">
+       'Tis death or bright Ismene. Oromazes,
+      </l>
+      <l n="68">
+       Prosper the happy thought! Let others fight
+      </l>
+      <l n="69">
+       For crowns and glory; love unsheaths my sword,
+      </l>
+      <l n="70">
+       Inflames my heart and nerves my arm to battle.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      OTANES, ARASPES.
+     </stage>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="1">
+       Once more in virtue's cause behold me come
+      </l>
+      <l n="2">
+       To tell thee thou hast wrong'd me. Would to
+                                        Heaven,
+      </l>
+      <l n="3">
+       That were thy only crime! — To tell thee further,
+      </l>
+      <l n="4">
+       With all the veneration nature claims,
+      </l>
+      <l n="5">
+       But with that duty, which I owe to Heaven,
+      </l>
+      <l n="6">
+       Thou hast conceiv'd a project, dark as hell,
+      </l>
+      <l n="7">
+       Which will degrade thy deeds and fling to earth
+      </l>
+      <l n="8">
+       The trophies of thy fame, which rais'd on virtue,
+      </l>
+      <l n="9">
+       The patriot's valor and the subject's love,
+      </l>
+      <l n="10">
+       With them must fall. O deaf to honor's voice,
+      </l>
+      <l n="11">
+       Dost thou not hear the shouts of honest praise
+      </l>
+      <l n="12">
+       The people raise to thee, to thee the second
+      </l>
+      <l n="13">
+       In that illustrious band, who bled for freedom,
+      </l>
+      <l n="14">
+       And fix'd her empire here? Who mentions Dorus,
+      </l>
+      <l n="15">
+       And does not join with his thy honour'd name?
+      </l>
+      <l n="16">
+       O blind to all the woes, that must ensue!
+      </l>
+      <l n="17">
+       Dost thou not see revenge, led on by honour,
+      </l>
+      <l n="18">
+       Pursue thee swift to death? — But death alone
+      </l>
+      <l n="19">
+       For such a crime were recompence too cheap.
+      </l>
+      <l n="20">
+       Thy name in infamy's eternal records
+      </l>
+      <l n="21">
+       Shall stand supreme; for justice must forbid,
+      </l>
+      <l n="22">
+       That common murderers should share equal guilt
+      </l>
+      <l n="23">
+       With him who slew his King. And canst thou think
+      </l>
+      <l n="24">
+       That I will live to hear thy name repeated
+      </l>
+      <l n="25">
+       The scoff of clowns, the public execration?
+      </l>
+      <l n="26">
+       By Heaven! whatever fate attend my father,
+      </l>
+      <l n="27">
+       Death or a crown, this ready hand shall pierce
+      </l>
+      <l n="28">
+       My breast, that future times may know thy son
+      </l>
+      <l n="29">
+       Shrunk not at danger, but disdain'd to share
+      </l>
+      <l n="30">
+       Thy infamy, or prop thy guilty greatness.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="31">
+       My son! my glory! my Araspes! O
+      </l>
+      <l n="32">
+       How shall I speak my anguish and remorse!
+      </l>
+      <l n="33">
+       Thy virtue has prevail'd.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="34">
+       All-gracious Heaven!
+      </l>
+      <l n="35">
+       And does my father lay aside the base,
+      </l>
+      <l n="36">
+       The curst design?
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="37">
+       A curst design indeed!
+      </l>
+      <l n="38">
+       I do; so witness Heaven! How have I doubted,
+      </l>
+      <l n="39">
+       Since I beheld thee prostrate at my feet!
+      </l>
+      <l n="40">
+       Now thou hast fully conquer'd. Virtue shines
+      </l>
+      <l n="41">
+       With such superior blaze, that weak ambition
+      </l>
+      <l n="42">
+       Grows dim, and loses all its feebler lustre.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="43">
+       Hear this, ye Powers! The wise, the good Otanes
+      </l>
+      <l n="44">
+       Again is virtue's friend; again resolves
+      </l>
+      <l n="45">
+       To tread the paths of loyalty and honor,
+      </l>
+      <l n="46">
+       And strengthen drooping majesty.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="47">
+       My son,
+      </l>
+      <l n="48">
+       I must betimes correct the ills I caus'd
+      </l>
+      <l n="49">
+       And quench the latent sparks of wild ambition.
+      </l>
+      <l n="50">
+       'Tis true from virtue's paths a while I wander'd,
+      </l>
+      <l n="51">
+       But soon I hope to find the well-known track,
+      </l>
+      <l n="52">
+       Never again to stray.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IV,
+     </head>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="1">
+       Direct him, Heaven!
+      </l>
+      <l n="2">
+       Compleat the happy change, and in his breast
+      </l>
+      <l n="3">
+       Bid honour bloom again — But see! she comes,
+      </l>
+      <l n="4">
+       She who can add new lustre to renown,
+      </l>
+      <l n="5">
+       Or gild the gloomy hours of penury.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE V.
+     </head>
+     <stage>
+      ARASPES, ISMENE.
+     </stage>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="1">
+       Ismene! fair enslaver! art thou come
+      </l>
+      <l n="2">
+       To gaze with haughty triumph on thy conquest?
+      </l>
+      <l n="3">
+       Th' unhappy claim compassion. Oft the judge,
+      </l>
+      <l n="4">
+       E'er he devotes the criminal to death,
+      </l>
+      <l n="5">
+       Divests his brows of stern severity,
+      </l>
+      <l n="6">
+       And mixes pity with the awful sentence,
+      </l>
+      <l n="7">
+       Or may I think, those soften'd features speak
+      </l>
+      <l n="8">
+       A language grateful to a bleeding heart,
+      </l>
+      <l n="9">
+       That thou wilt bid me live, and cheer my soul
+      </l>
+      <l n="10">
+       With some faint hope, some ray of distant bliss.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="11">
+       Still wilt thou persevere in this strange
+                                        passion,
+      </l>
+      <l n="12">
+       The offspring of caprice and youthful fancy?
+      </l>
+      <l n="13">
+       What sprung so quickly may as quickly perish.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="14">
+       How shall I chace thy doubts. This solid earth
+      </l>
+      <l n="15">
+       And you celestial vault were at an instant
+      </l>
+      <l n="16">
+       Drawn forth from chaos by th' Almighty hand,
+      </l>
+      <l n="17">
+       And form'd as we behold them. Thus thy charms,
+      </l>
+      <l n="18">
+       Thou heavenly maid, have in my breast created
+      </l>
+      <l n="19">
+       A little world, an empire of thy own,
+      </l>
+      <l n="20">
+       Where thou and love shall reign with boundless
+                                        sway.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="21">
+       Even from your birth secluded from the world,
+      </l>
+      <l n="22">
+       I was the first you saw, the first you fancied.
+      </l>
+      <l n="23">
+       Some happier maid shall raise a lasting flame,
+      </l>
+      <l n="24">
+       And build a passion on a firmer basis.
+      </l>
+      <l n="25">
+       Soon wilt thou scorn my brittle chains, and
+                                        wonder
+      </l>
+      <l n="26">
+       Thy heart could be subdued without a struggle.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="27">
+       Unkind Ismene! hear almighty Jove
+      </l>
+      <l n="28">
+       And all ye Powers, who cherish truth and honour,
+      </l>
+      <l n="29">
+       If I prove faithless to such excellence,
+      </l>
+      <l n="30">
+       Pour down your fiercest vengeance on my head,
+      </l>
+      <l n="31">
+       Make me so lost, so vile, so execrable,
+      </l>
+      <l n="32">
+       That parricides shall blush at being human,
+      </l>
+      <l n="33">
+       And fiends lament that such a wretch was born.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="34">
+       Then hear me too, all ye celestial Powers,
+      </l>
+      <l n="35">
+       Whilst here —
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="36">
+       Ah! speak — —
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="37">
+       'Tis treasur'd in the skies.
+      </l>
+      <l n="38">
+       The Gods have heard me.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="39">
+       Aid me, bounteous Heaven!
+      </l>
+      <l n="40">
+       Support my feeble reason, lest my brain,
+      </l>
+      <l n="41">
+       Giddy with joy, should sink in endless night,
+      </l>
+      <l n="42">
+       And I should cease to live, when life begins
+      </l>
+      <l n="43">
+       To be a blessing.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="44">
+       Think not, my Araspes,
+      </l>
+      <l n="45">
+       O think not meanly of the maid who loves thee,
+      </l>
+      <l n="46">
+       That she should thus precipitately own
+      </l>
+      <l n="47">
+       What caution should conceal.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="48">
+       O rather say,
+      </l>
+      <l n="49">
+       Why didst thou thus withhold the soft confession,
+      </l>
+      <l n="50">
+       And torture me with doubt.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="51">
+       It was not pride,
+      </l>
+      <l n="52">
+       Nor love of flattery that seduc'd my mind.
+      </l>
+      <l n="53">
+       How hard the fate of woman, form'd to feel
+      </l>
+      <l n="54">
+       Each soft sensation, elegant desire,
+      </l>
+      <l n="55">
+       And all the melting tenderness of love.
+      </l>
+      <l n="56">
+       But tyrant custom shackles ev'ry thought,
+      </l>
+      <l n="57">
+       Restrains the virtuous ardor of our souls,
+      </l>
+      <l n="58">
+       Checks the fond sigh, forbids th' impassion'd
+                                        look,
+      </l>
+      <l n="59">
+       Chaces bright truth, and yields us up a prey
+      </l>
+      <l n="60">
+       To mean reserve and dark dissimulation.
+      </l>
+      <l n="61">
+       But now, sincerity, behold me here
+      </l>
+      <l n="62">
+       Thy steady vot'ress.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="63">
+       Thou art all perfection.
+      </l>
+      <l n="64">
+       hat have I merited to be rewarded
+      </l>
+      <l n="65">
+       With charms so great, such purity of mind?
+      </l>
+      <l n="66">
+       Pardon the virtuous boldness of my love,
+      </l>
+      <l n="67">
+       Whilst thus I hold thee to a heart, which pants
+      </l>
+      <l n="68">
+       For thee — for thee, and glory.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="69">
+       Haste to glory.
+      </l>
+      <l n="70">
+       Dar on thy country's foes, whilst I in Sardis
+      </l>
+      <l n="71">
+       Bend to the Gods for thine and Lydia's safety.
+      </l>
+      <l n="72">
+       Thus may they prove propitious to our vows,
+      </l>
+      <l n="73">
+       And smile upon our union.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="74">
+       Each kind Power
+      </l>
+      <l n="75">
+       Shall from Olympus lean to hear the prayer,
+      </l>
+      <l n="76">
+       Sent from the lips of innocence and beauty.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="77">
+       The same kind Powers shall guard the gallant
+                                        youth,
+      </l>
+      <l n="78">
+       Who, mindful of his vows, aspires to join
+      </l>
+      <l n="79">
+       The hero's laurel with the lover's wreath.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VI.
+     </head>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="1">
+       Thy father just, thy vows successful, all
+      </l>
+      <l n="2">
+       Thy wishes crown'd by sav'ring Heaven, Araspes,
+      </l>
+      <l n="3">
+       Think, what a wide-extended plain of bliss
+      </l>
+      <l n="4">
+       Invites thy steps, and courts thee to be happy.
+      </l>
+      <l n="5">
+       The King — he seems in grief — be hush'd, my joys,
+      </l>
+      <l n="6">
+       For at a fight so awful love must droop
+      </l>
+      <l n="7">
+       And gay prosperity be taught to tremble.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VII.
+     </head>
+     <stage>
+      ARASPES, DORUS, ADRASTUS.
+     </stage>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="1">
+       Adrastus, leave me for a while. I feel
+      </l>
+      <l n="2">
+       Recruited strength; my mind is more at ease.
+      </l>
+      <l n="3">
+       The Gods are ever just; like the kind parent,
+      </l>
+      <l n="4">
+       Even to the duteous they display the scourge,
+      </l>
+      <l n="5">
+       But let it fall in mercy. Seek Otanes.
+      </l>
+      <l n="6">
+       Bid him prepare the solemn scene.
+      </l>
+      <l n="7">
+       <stage>
+        (exit Adrastus.)
+       </stage>
+      </l>
+      <l n="8">
+       Araspes!
+      </l>
+      <l n="9">
+       I am well-pleas'd to meet thee thus alone.
+      </l>
+      <l n="10">
+       Perhaps this night we part to meet no more.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="11">
+       Or rather say, we part to meet in glory,
+      </l>
+      <l n="12">
+       To boast of conquest, freedom, and renown,
+      </l>
+      <l n="13">
+       When proud oppression shall no longer stalk
+      </l>
+      <l n="14">
+       With giant stride, but prostrate lick the dust.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="15">
+       Thy gen'rous warmth reminds me of my youth.
+      </l>
+      <l n="16">
+       Like thee, I sicken'd at inglorious ease,
+      </l>
+      <l n="17">
+       And courted danger with a lover's ardor.
+      </l>
+      <l n="18">
+       Beardless, unknown, I mingled with the throng
+      </l>
+      <l n="19">
+       Of hardy warriors, rushing 'midst the foe,
+      </l>
+      <l n="20">
+       Where death seem'd busiest. One successful deed,
+      </l>
+      <l n="21">
+       <stage>
+        (Beneath my arm a valiant Satrap bled)
+       </stage>
+      </l>
+      <l n="22">
+       First rais'd me to renown. For twice ten years
+      </l>
+      <l n="23">
+       With equal eye the God of battles view'd
+      </l>
+      <l n="24">
+       The warring hosts, 'till by the gen'ral voice
+      </l>
+      <l n="25">
+       Rais'd to supreme command, I fought and
+                                        conquer'd.
+      </l>
+      <l n="26">
+       Resistance was no more. 'Twas victory,
+      </l>
+      <l n="27">
+       Pursuit and slaughter.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="28">
+       Gods! let me partake
+      </l>
+      <l n="29">
+       The glory of so great a day! Then snatch me
+      </l>
+      <l n="30">
+       From all the joys of youth, and just ambition!
+      </l>
+      <l n="31">
+       How should I bless my fate and smile in death!
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="32">
+       O! what a world of woe would I have shun'd
+      </l>
+      <l n="33">
+       Had such a fate been mine. Sweet is the death
+      </l>
+      <l n="34">
+       Of the brave youth, who falls in virtue's cause.
+      </l>
+      <l n="35">
+       Unfading laurels deck his tomb; his fame
+      </l>
+      <l n="36">
+       Remotest times revere. Early he breaks
+      </l>
+      <l n="37">
+       Those fetters, which retard the old man's flight,
+      </l>
+      <l n="38">
+       And bind him fast to earth. He shuns the stings
+      </l>
+      <l n="39">
+       Of changeful fortune and low-minded envy;
+      </l>
+      <l n="40">
+       He shuns — alas! he shuns — the pangs — I suffer.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="41">
+       How awful are his tears!
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="42">
+       Possess'd of all,
+      </l>
+      <l n="43">
+       That might content ambition's boldest wish,
+      </l>
+      <l n="44">
+       Alas! what is my meed? — Superior cares!
+      </l>
+      <l n="45">
+       Unequall'd toil! precedency in woe!
+      </l>
+      <l n="46">
+       Am I not rais'd above the crowd by sorrow
+      </l>
+      <l n="47">
+       More than by royalty? reserv'd to see
+      </l>
+      <l n="48">
+       My country ravaged by th' insulting foe,
+      </l>
+      <l n="49">
+       Groaning in chains! to live, because my blood
+      </l>
+      <l n="50">
+       Would yield disgrace, not glory to the conqu'ror!
+      </l>
+      <l n="51">
+       Condemn'd to breathe, yet wishing death! The
+                                        first,
+      </l>
+      <l n="52">
+       The last of Lydia's Kings — and of my race.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="53">
+       O virtue, piety, success, renown!
+      </l>
+      <l n="54">
+       How feebly ye support the hero's mind, warmth.
+      </l>
+      <l n="55">
+       Since Dorus weeps! — Excuse a young man's
+      </l>
+      <l n="56">
+       Can such imaginary evils shake
+      </l>
+      <l n="57">
+       Thy steady soul? O damp not, Royal Sir,
+      </l>
+      <l n="58">
+       The glow of enterprize, which kindling runs
+      </l>
+      <l n="59">
+       From beast to breast. Does not our Lydia boast
+      </l>
+      <l n="60">
+       Hearts as devoted to their country's cause,
+      </l>
+      <l n="61">
+       As when thy great example bade them conquer?
+      </l>
+      <l n="62">
+       Does not Adrastus, Persia's dreaded foe,
+      </l>
+      <l n="63">
+       The scourge of tyranny, lead on our hosts?
+      </l>
+      <l n="64">
+       Does not thy own Olinthus —
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="65">
+       Ah! where is he?
+      </l>
+      <l n="66">
+       O let me clasp him — bear him, bear him from me.
+      </l>
+      <l n="67">
+       Tear us asunder — hurry him amidst
+      </l>
+      <l n="68">
+       The thickest war — there let him greatly conquer,
+      </l>
+      <l n="69">
+       Or die by some brave hand!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="70">
+       You speak the wishes,
+      </l>
+      <l n="71">
+       The ardent wishes of his princely soul.
+      </l>
+      <l n="72">
+       There's not a youth, but will aspire at glory,
+      </l>
+      <l n="73">
+       Eager to emulate his glorious actions.
+      </l>
+      <l n="74">
+       Myriads of slaves must shrink before the band,
+      </l>
+      <l n="75">
+       Who fight in such a cause with such a leader.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="76">
+       Again I am myself. Decrepit age
+      </l>
+      <l n="77">
+       Is often overcast with gloomy doubts,
+      </l>
+      <l n="78">
+       Which melted in the summer of our days
+      </l>
+      <l n="79">
+       Before the ray of reason. Yet, Araspes,
+      </l>
+      <l n="80">
+       If what my fancy fears — my tears will flow —
+      </l>
+      <l n="81">
+       If he must fall — too cruel fate! — on thee
+      </l>
+      <l n="82">
+       Thy country's hopes must rest. Thou art in blood
+      </l>
+      <l n="83">
+       Next to Olinthus, to the throne allied
+      </l>
+      <l n="84">
+       By virtue more than birth.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="85">
+       Shield him, ye Powers,
+      </l>
+      <l n="86">
+       Who cherish youthful merit, and reward
+      </l>
+      <l n="87">
+       The virtuous parent in a happy offspring!
+      </l>
+      <l n="88">
+       But if the Gods decree, the race of Dorus
+      </l>
+      <l n="89">
+       With him must cease, let me not live to see
+      </l>
+      <l n="90">
+       That dreadful day, and mourn the honour'd youth,
+      </l>
+      <l n="91">
+       Whom nature, reason, duty bid me love!
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <stage>
+       (embraces him.)
+      </stage>
+      <l n="92">
+       My second son! my other hope! in whom
+      </l>
+      <l n="93">
+       Parental virtues join! thy father's zeal,
+      </l>
+      <l n="94">
+       Thy mother's tenderness!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="95">
+       O ecstasy!
+      </l>
+      <l n="96">
+       Unusual transport fills my swelling heart,
+      </l>
+      <l n="97">
+       As if some Power propitious stood before me,
+      </l>
+      <l n="98">
+       And gave a foretaste of Elysium's bliss.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="99">
+       O memory! why dost thou haunt the wretch,
+      </l>
+      <l n="100">
+       Who fain would shun thee? Bring not to my view
+      </l>
+      <l n="101">
+       My brighter days, 'tis cruelty to shew
+      </l>
+      <l n="102">
+       Th' unclouded scene, then plunge me in the gloom
+      </l>
+      <l n="103">
+       Of present misery! — Yet I will indulge
+      </l>
+      <l n="104">
+       The dear sensation; still methinks I see
+      </l>
+      <l n="105">
+       My lov'd Cleone, sweet'ner of my toils.
+      </l>
+      <l n="106">
+       She comes, attended by her virgin choir,
+      </l>
+      <l n="107">
+       And hails me victor. O'er her blooming cheek
+      </l>
+      <l n="108">
+       A deeper crimson spreads, the glow of triumph.
+      </l>
+      <l n="109">
+       Anon a death-like paleness clouds her beauties.
+      </l>
+      <l n="110">
+       She sees my wounds, she trembles for my safety,
+      </l>
+      <l n="111">
+       Then weeps, and prays, and wearies Heaven with
+                                        thanks.
+      </l>
+      <l n="112">
+       Thy mother too — — — O I shall ne'er forget
+      </l>
+      <l n="113">
+       That awful hour, when grasping fast my hand,
+      </l>
+      <l n="114">
+       Whilst all the mother struggled on her lips,
+      </l>
+      <l n="115">
+       She cast a dying look of fondness on thee,
+      </l>
+      <l n="116">
+       And in that look implor'd me to protect thee.
+      </l>
+      <l n="117">
+       I will — I will — Thou art the legacy
+      </l>
+      <l n="118">
+       She left a much-lov'd brother — I will keep thee
+      </l>
+      <l n="119">
+       Next to my heart — Olinthus too demands
+      </l>
+      <l n="120">
+       In me a double parent. Gods! that thought
+      </l>
+      <l n="121">
+       Produces horror.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="122">
+       Why those looks of terror,
+      </l>
+      <l n="123">
+       O venerable Dorus? why those eyes,
+      </l>
+      <l n="124">
+       That stream with causeless sorrow, rais'd to
+                                        Heav'n
+      </l>
+      <l n="125">
+       Upbraidingly? Thy frame too shakes — Alas,
+      </l>
+      <l n="126">
+       He sees, nor hears me. I too tremble. Gods!
+      </l>
+      <l n="127">
+       Sure this is more than human!
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="128">
+       Yes they left me,
+      </l>
+      <l n="129">
+       Meanly they left me for Elysium's bliss,
+      </l>
+      <l n="130">
+       Alone to struggle with contending fate
+      </l>
+      <l n="131">
+       And hostile Gods, to drain the bitter dregs
+      </l>
+      <l n="132">
+       Of life's last cup, to crawl upon the earth,
+      </l>
+      <l n="133">
+       A weak, deserted, miserable being,
+      </l>
+      <l n="134">
+       O'erburthen'd with my woes!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="135">
+       Here let me kneel,
+      </l>
+      <l n="136">
+       Thus prop thy feeble frame, that sinks to earth,
+      </l>
+      <l n="137">
+       Nor rise, till thy returning reason bless
+      </l>
+      <l n="138">
+       Offended Heaven. Look on me, speak to me,
+      </l>
+      <l n="139">
+       My more than father!
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="140">
+       Lead me hence, Araspes.
+      </l>
+      <l n="141">
+       I'm weak; I'm very weak; my mind too droops.
+      </l>
+      <l n="142">
+       I fear I have been rash; did not my frenzy
+      </l>
+      <l n="143">
+       Accuse the Gods?
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="144">
+       Alas! your reason wander'd.
+      </l>
+      <l n="145">
+       You knew not what you said.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="146">
+       My grief requires
+      </l>
+      <l n="147">
+       A short repose. I shall be well anon.
+      </l>
+      <l n="148">
+       Araspes, let this scene instruct thy youth.
+      </l>
+      <l n="149">
+       Behold in me th' uncertain state of man,
+      </l>
+      <l n="150">
+       A King, unhappy in a well-earn'd crown,
+      </l>
+      <l n="151">
+       A father, joyless in a worthy son.
+      </l>
+      <l n="152">
+       Yet heaven deserves no blame. I was too happy.
+      </l>
+      <l n="153">
+       Excess of bliss corrupts the noblest heart.
+      </l>
+      <l n="154">
+       The richest soil throws up unnumber'd weeds.
+      </l>
+      <l n="155">
+       Then treasure in thy breast an old man's
+                                        counsel.
+      </l>
+      <l n="156">
+       When Heaven afflicts us, let us deprecate
+      </l>
+      <l n="157">
+       Its wrath with tears and humblest supplications.
+      </l>
+      <l n="158">
+       We must feel sorrow; but should ne'er upbraid.
+      </l>
+     </sp>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT IV.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      ADRASTUS, EUDOCIA.
+     </stage>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="1">
+       Urge me no further; 'tis in vain; as well
+      </l>
+      <l n="2">
+       Thou might'st attempt to shake the firm Olympus,
+      </l>
+      <l n="3">
+       As sway me from my purpose.
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="4">
+       Yet reflect
+      </l>
+      <l n="5">
+       On thy Ismene's sufferings. Think thou seest her
+      </l>
+      <l n="6">
+       Weak, trembling, pale, expiring at thy feet,
+      </l>
+      <l n="7">
+       Torn from the youth she loves.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="8">
+       Now by my wrongs
+      </l>
+      <l n="9">
+       Thy folly more provokes me, than the scorn
+      </l>
+      <l n="10">
+       Of proud Otanes. Wouldst thou see me kneel
+      </l>
+      <l n="11">
+       And strive with prayers to sooth his haughty
+                                        spirit?
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="12">
+       And did he scorn thee?
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="13">
+       Hear, and as thou hearest,
+      </l>
+      <l n="14">
+       Let ev'ry spark of virtuous pride be rous'd
+      </l>
+      <l n="15">
+       And kindle into rage. Before they met,
+      </l>
+      <l n="16">
+       He proffer'd his alliance; but when now,
+      </l>
+      <l n="17">
+       Curse on my weakness, I with warmth consented,
+      </l>
+      <l n="18">
+       He scarce vouchsaf'd an ear, then turn'd away
+      </l>
+      <l n="19">
+       Abrupt; he even dar'd to frown disdainful,
+      </l>
+      <l n="20">
+       And left me swol'n with rage, too big for
+                                        utterance.
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="21">
+       Otanes well deserves redoubled scorn,
+      </l>
+      <l n="22">
+       Contempt and hatred; but Araspes' worth. —
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="23">
+       I know him well, noble, sincere and valiant.
+      </l>
+      <l n="24">
+       But by th'immortal Powers —
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="25">
+       O be not rash;
+      </l>
+      <l n="26">
+       Thou know'st not all; forgive me, righteous
+                                        Heav'n!
+      </l>
+      <l n="27">
+       He is — he is —
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="28">
+       I care not, though he be
+      </l>
+      <l n="29">
+       The nephew of the King; for is he not
+      </l>
+      <l n="30">
+       The son of curst Otanes? Mark my counsel.
+      </l>
+      <l n="31">
+       Go to Ismene; teach her to subdue
+      </l>
+      <l n="32">
+       What honour must condemn; to act with firmness,
+      </l>
+      <l n="33">
+       And tear th' unworthy passion from her bosom.
+      </l>
+      <l n="34">
+       Araspes ne'er shall wed her; to reply
+      </l>
+      <l n="35">
+       Were vain. Do this, for this alone becomes
+      </l>
+      <l n="36">
+       Ismene's mother and Adrastus' wife.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="1">
+       Impetuous man! wilder than storms he rages,
+      </l>
+      <l n="2">
+       Whene'er his honour suffers. Yet must I
+      </l>
+      <l n="3">
+       Tamely relinquish all my soul holds dear,
+      </l>
+      <l n="4">
+       And wound a daughter's peace, perhaps destroy her,
+      </l>
+      <l n="5">
+       Because he raves? Soon shall his haughty spirit
+      </l>
+      <l n="6">
+       Confess the nobler purpose of my soul,
+      </l>
+      <l n="7">
+       And wonder at a woman's gallant daring.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      EUDOCIA, ISMENE.
+     </stage>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="1">
+       O Madam, what has caus'd my father's anger?
+      </l>
+      <l n="2">
+       Wherein have I offended? For his looks,
+      </l>
+      <l n="3">
+       That pierc'd my heart, declare, I have offended.
+      </l>
+      <l n="4">
+       He spoke with angry accent. "Hence," he cried,
+      </l>
+      <l n="5">
+       "Thy mother seeks thee; learn from her my will,
+      </l>
+      <l n="6">
+       A father's will, who brooks not disobedience."
+      </l>
+      <l n="7">
+       But thou art silent.
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="8">
+       Be compos'd, Ismene.
+      </l>
+      <l n="9">
+       Restrain thy grief; all shall be well anon.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="10">
+       Have I not cause to weep? 'Till now I've found
+                                        him
+      </l>
+      <l n="11">
+       Tender, and most indulgent to my wishes.
+      </l>
+      <l n="12">
+       But he is chang'd, — how chang'd! — In pity,
+      </l>
+      <l n="13">
+       Declare the crime, the hated crime, which thus
+                                        Madam,
+      </l>
+      <l n="14">
+       Deprives me of his love.
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="15">
+       Inhuman Sire!
+      </l>
+      <l n="16">
+       To crush with disappointment's cruel weight,
+      </l>
+      <l n="17">
+       The tenderest feelings of the heart!
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="18">
+       Alas!
+      </l>
+      <l n="19">
+       I fear'd this stroke; but am prepar'd; no more
+      </l>
+      <l n="20">
+       My eyes shall flow, no more my bosom heave
+      </l>
+      <l n="21">
+       With swelling anguish. Here behold me, Madam,
+      </l>
+      <l n="22">
+       Behold me ready to perform his will,
+      </l>
+      <l n="23">
+       Tho' death should follow. My stern father deems
+                                        me
+      </l>
+      <l n="24">
+       Weak, light of faith, a conquest, cheap, nay
+                                        vile.
+      </l>
+      <l n="25">
+       He thinks I have transgress'd the bounds of
+                                        prudence,
+      </l>
+      <l n="26">
+       Betray'd my sex's cause, and meanly spoke
+      </l>
+      <l n="27">
+       My love without a struggle or a blush.
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="28">
+       Thy reason errs; he thinks not meanly of thee.
+      </l>
+      <l n="29">
+       For well he knows, thou hadst a mother's
+                                        sanction,
+      </l>
+      <l n="30">
+       Nay more, his own consent. His calmer reason
+      </l>
+      <l n="31">
+       Approv'd, what now his frantic rage rejects.
+      </l>
+      <l n="32">
+       I will appease his wrath.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="33">
+       Ah! see Araspes!
+      </l>
+      <l n="34">
+       Hither he comes; his looks are pale and wild;
+      </l>
+      <l n="35">
+       His eyes are fix'd upon the earth, and now
+      </l>
+      <l n="36">
+       He raises them to Heav'n. His cheek is wet
+      </l>
+      <l n="37">
+       With tears — I can not bear those tears, my
+                                        mother.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IV,
+     </head>
+     <stage>
+      EUDOCIA, ISMENE, ARASPES.
+     </stage>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="1">
+       Ismene, why those tears, why swells that bosom,
+      </l>
+      <l n="2">
+       Where love, with peace and harmony, should dwell?
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="3">
+       O speak to him, my mother; let him know
+      </l>
+      <l n="4">
+       All my soul's anguish, my stern father's will,
+      </l>
+      <l n="5">
+       He must not for a moment think me faithless.
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="6">
+       When Heaven approves and fortune smooths our
+                                        paths,
+      </l>
+      <l n="7">
+       How swiftly do we run the race of life,
+      </l>
+      <l n="8">
+       And reach the goal of bliss. But greater far
+      </l>
+      <l n="9">
+       The merit of the youth, who boldly climbs
+      </l>
+      <l n="10">
+       Misfortune's cliffs, and treads the thorny paths
+      </l>
+      <l n="11">
+       Of disappointment, with unceasing courage.
+      </l>
+      <l n="12">
+       Then happiness spreads wide her plains before
+                                        him,
+      </l>
+      <l n="13">
+       And Heaven relents and fortune frowns no more.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="14">
+       These are the smaller ills of life, which care
+      </l>
+      <l n="15">
+       And courage must surmount. What human voice
+      </l>
+      <l n="16">
+       Can still the raging of the sea? What prayers
+      </l>
+      <l n="17">
+       Can sooth the fury of tumultuous pride,
+      </l>
+      <l n="18">
+       When two fierce fouls with equal haughtiness
+      </l>
+      <l n="19">
+       Endued, disdain to bend before an equal?
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="20">
+       Yet there are means.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="21">
+       The King —
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="22">
+       On me depend,
+      </l>
+      <l n="23">
+       On me. The mother will protect her child,
+      </l>
+      <l n="24">
+       Who knows thy virtues, and approves her passion.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="25">
+       Where is my father? cruel as he is,
+      </l>
+      <l n="26">
+       I'll clasp his knees; he will not spurn me from
+                                        him.
+      </l>
+      <l n="27">
+       He lov'd me fondly. Each glad day could witness
+      </l>
+      <l n="28">
+       Encreasing transport, and at night his prayers
+      </l>
+      <l n="29">
+       Commended me to Heav'n.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="30">
+       Thou beauteous mourner!
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="31">
+       Now canst thou doubt my wish to give her comfort?
+      </l>
+      <l n="32">
+       And sooth her sorrows? Am I not her mother?
+      </l>
+      <l n="33">
+       Man, sterner man, to rougher scenes inur'd
+      </l>
+      <l n="34">
+       And wars discordant din, but faintly hears
+      </l>
+      <l n="35">
+       The voice of nature. Pride, that dazzling meteor,
+      </l>
+      <l n="36">
+       Misguides his steps and leads him oft to woe.
+      </l>
+      <l n="37">
+       lsmene, on thy mother's cares rely,
+      </l>
+      <l n="38">
+       Nor thou despond, brave youth. The Gods will find
+      </l>
+      <l n="39">
+       Some blest occasion to reward that love
+      </l>
+      <l n="40">
+       Themselves inspir'd.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE V.
+     </head>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="1">
+       To their supreme decrees
+      </l>
+      <l n="2">
+       With reverence I bow. Where dwellst thou, beauty?
+      </l>
+      <l n="3">
+       Nor in the beaming eye, the blooming cheek,
+      </l>
+      <l n="4">
+       The graceful gesture, or the faultless shape;
+      </l>
+      <l n="5">
+       No, in the foul thy throne is plac'd, and thence
+      </l>
+      <l n="6">
+       With conscious dignity thou deign'st to look
+      </l>
+      <l n="7">
+       On life's low pleasures and the baits of sense.
+      </l>
+      <l n="8">
+       But when congenial virtues catch thine eye,
+      </l>
+      <l n="9">
+       The Gods light up the purest flame, excite
+      </l>
+      <l n="10">
+       The tender wish, approve the fair resemblance
+      </l>
+      <l n="11">
+       And shower down blessings on the happy union.
+      </l>
+      <l n="12">
+       It must be so — its origin divine,
+      </l>
+      <l n="13">
+       My passion must be blest — my great protector —
+      </l>
+      <l n="14">
+       I'll speak my love.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VI.
+     </head>
+     <stage>
+      ARASPES, DORUS, OLINTHUS, OTANES, ADRASTUS, ARBACES and Courtiers.
+     </stage>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="1">
+       Not only in the fane,
+      </l>
+      <l n="2">
+       Glowing with gold, and rich in human skill,
+      </l>
+      <l n="3">
+       Th' Almighty Power resides. Earth's central gloom
+      </l>
+      <l n="4">
+       And ocean's depths th' eternal presence fills.
+      </l>
+      <l n="5">
+       Feeble with age, I cannot seek their altars;
+      </l>
+      <l n="6">
+       Then let us here pour forth our orisons,
+      </l>
+      <l n="7">
+       Convinc'd that Heaven regards the pious mind
+      </l>
+      <l n="8">
+       Its noblest temple. Now the car of day
+      </l>
+      <l n="9">
+       Rolls down the steep of Heav'n with fervid wheel
+      </l>
+      <l n="10">
+       The glowing God pants for his Theris' breast.
+      </l>
+      <l n="11">
+       To-morrow his first beams shall rouse our youth,
+      </l>
+      <l n="12">
+       And guide them to their foes. Olinthus take
+      </l>
+      <l n="13">
+       This sword, the first that fill'd my youthful
+                                        grasp,
+      </l>
+      <l n="14">
+       And may it fall with fury on the head
+      </l>
+      <l n="15">
+       Of curst oppression.
+      </l>
+     </sp>
+     <sp who="#olinthus">
+      <speaker>
+       Olinthus.
+      </speaker>
+      <l n="16">
+       As the gift of Heaven
+      </l>
+      <l n="17">
+       I take it from thy hand, and as thy arm
+      </l>
+      <l n="18">
+       Ne'er wielded it but in thy country's cause,
+      </l>
+      <l n="19">
+       Her soldier, her deliverer, her King,
+      </l>
+      <l n="20">
+       To the same cause thy son shall hold it sacred.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="21">
+       Araspes, next in love, approach. Behold
+      </l>
+      <l n="22">
+       Thy future King.
+       <stage>
+        (such grateful Lydia deems him)
+       </stage>
+      </l>
+      <l n="23">
+       Remote from men, from luxury and courts,
+      </l>
+      <l n="24">
+       Ye drank not of th' intoxicating cup
+      </l>
+      <l n="25">
+       Of pleasure. Friendship nobly has matur'd
+      </l>
+      <l n="26">
+       What Nature first began. Thou on the throne
+      </l>
+      <l n="27">
+       Esteem thy kinsman, thou revere thy King,
+      </l>
+      <l n="28">
+       And let this only strife subsist between you,
+      </l>
+      <l n="29">
+       Who most shall love his friend, who most his
+                                        country.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="30">
+       May Heaven so love me, as I mean to prove
+      </l>
+      <l n="31">
+       Myself the humblest of my Prince's servants,
+      </l>
+      <l n="32">
+       To fight his battles, to relieve his cares,
+      </l>
+      <l n="33">
+       To toil, to watch, to bleed and die for him.
+      </l>
+     </sp>
+     <sp who="#olinthus">
+      <speaker>
+       Olinthus.
+      </speaker>
+      <l n="34">
+       Friend of my youth, thou shalt partake my glory,
+      </l>
+      <l n="35">
+       And share in ev'ry joy Olinthus knows.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="36">
+       Adrastus, is all ready?
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="37">
+       All; the troops
+      </l>
+      <l n="38">
+       Have sought the frontiers, save some few, who
+                                        stay
+      </l>
+      <l n="39">
+       To grace the Prince's journey.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="40">
+       Then receive
+      </l>
+      <l n="41">
+       My last embrace, my son, my lov'd Araspes!
+      </l>
+      <l n="42">
+       Haste at the early dawn to deeds of glory.
+      </l>
+      <l n="43">
+       Go, emulate the conduct of your sires;
+      </l>
+      <l n="44">
+       Be brave and mild; be just and merciful;
+      </l>
+      <l n="45">
+       Nor let the rashness of the warrior soil
+      </l>
+      <l n="46">
+       The hero's lustre. — Ye, who guard the just,
+      </l>
+      <l n="47">
+       Who in the hour of slaughter turn aside
+      </l>
+      <l n="48">
+       The hireling's sword, and strike to earth the lance
+                                        cause;
+      </l>
+      <l n="49">
+       Of tyranny, accept this pure libation.
+      </l>
+      <l n="50">
+       Protect these youths; they fight their country's
+      </l>
+      <l n="51">
+       Protect our Lydian hosts; they fight for freedom.
+      </l>
+      <l n="52">
+       And thou, who rul'st the orb of day, O hear
+      </l>
+      <l n="53">
+       A King, and father! If the fates still threaten,
+      </l>
+      <l n="54">
+       If prayers and sacrifices have prov'd vain,
+      </l>
+      <l n="55">
+       If I may yet pronounce his dreaded sentence,
+      </l>
+      <l n="56">
+       O let him in some glorious conflict find
+      </l>
+      <l n="57">
+       The hero's death; propitious Phoebus, hear!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="58">
+       Forbear to drink; behold yon trembling slave,
+      </l>
+      <l n="59">
+       See, from his cheek the colour flies; his lips,
+      </l>
+      <l n="60">
+       Quiv'ring betray his guilt; he shakes, he falls!
+      </l>
+     </sp>
+     <sp who="#slave">
+      <speaker>
+       Slave.
+      </speaker>
+      <l n="61">
+       O mercy, mercy!
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="62">
+       Villain, whence thy terror?
+      </l>
+     </sp>
+     <sp who="#slave">
+      <speaker>
+       Slave.
+      </speaker>
+      <l n="63">
+       The cup — O pardon!
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="64">
+       God of justice!
+      </l>
+     </sp>
+     <sp who="#olinthus">
+      <speaker>
+       Olinthus.
+      </speaker>
+      <l n="65">
+       Horror!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="66">
+       Detested sacrilege!
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="67">
+       Despair —
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="68">
+       Be calm.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="69">
+       Who urg'd thee to the deed?
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <stage>
+       (stabs the slave.)
+      </stage>
+      <l n="70">
+       Thus perish all,
+      </l>
+      <l n="71">
+       Whose villainy attempts the life of Dorus!
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="72">
+       O deed of rashness! who can trace his guilt?
+      </l>
+     </sp>
+     <sp who="#slave">
+      <speaker>
+       Slave
+      </speaker>
+      <l n="73">
+       <stage>
+        (dies.)
+       </stage>
+      </l>
+      <l n="74">
+       Induc'd by gold and O! — — —
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes,
+      </speaker>
+      <l n="75">
+       I own t'was rash;
+      </l>
+      <l n="76">
+       But could a loyal spirit tamely brook
+      </l>
+      <l n="77">
+       So black a crime? Ye friends of Dorus, arm.
+      </l>
+      <l n="78">
+       Perhaps even now the palace swarms with traitors.
+      </l>
+      <l n="79">
+       Who love your King and Lydia, follow me.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VII.
+     </head>
+     <stage>
+      DORUS, OLINTHUS, ARASPES, ADRASTUS, &amp;.mp;c.
+     </stage>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="1">
+       Remove this bloody corse.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="2">
+       No Lydian heart
+      </l>
+      <l n="3">
+       Plann'd this attempt; behold my friends, the mean
+      </l>
+      <l n="4">
+       Th' unmanly artifice of tyranny.
+      </l>
+      <l n="5">
+       O let it nerve your arms with tenfold fury,
+      </l>
+      <l n="6">
+       That in the face of Heav'n, ye may repay
+      </l>
+      <l n="7">
+       The arts of cowardice with noble valor.
+      </l>
+      <l n="8">
+       No act of treachery, however base,
+      </l>
+      <l n="9">
+       Can warrant treachery. The soldier draws
+      </l>
+      <l n="10">
+       The sword of justice with a steady hand,
+      </l>
+      <l n="11">
+       And leaves the dagger and the poison'd bowl
+      </l>
+      <l n="12">
+       To the pale trembling coward.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VIII.
+     </head>
+     <stage>
+      DORUS, OLINTHUS, ARASPES, ADRASTUS, a Priest.
+     </stage>
+     <sp who="#priest">
+      <speaker>
+       Priest.
+      </speaker>
+      <l n="1">
+       Arm, ye friends
+      </l>
+      <l n="2">
+       Of Dorus, arm! A band of traitors press
+      </l>
+      <l n="3">
+       Even to the palace' gates.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="4">
+       Traitors! what traitors?
+      </l>
+      <l n="5">
+       Say whom have I oppress'd? — Thy fears, weak
+                                        Priest,
+      </l>
+      <l n="6">
+       Create those traitors.
+      </l>
+     </sp>
+     <sp who="#priest">
+      <speaker>
+       Priest.
+      </speaker>
+      <l n="7">
+       By the Powers I serve —
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="8">
+       He speaks the truth; they come —
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="9">
+       Give me a sword —
+      </l>
+      <l n="10">
+       Some ruffian band suborn'd by Persian gold —
+      </l>
+      <l n="11">
+       Give me a sword
+       <stage>
+        (he snatches one)
+       </stage>
+       my hand has not forgot
+      </l>
+      <l n="12">
+       The task of valor; still —
+      </l>
+     </sp>
+     <sp who="#olinthus">
+      <speaker>
+       Olinthus.
+      </speaker>
+      <l n="13">
+       What means my father?
+      </l>
+      <l n="14">
+       Can thy weak arm oppose the raging torrent?
+      </l>
+      <l n="15">
+       O seek some place of safety. We will guard
+      </l>
+      <l n="16">
+       Thy sacred life; rush not on certain death.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="17">
+       Illustrious Dorus, leave to us, whose hearts
+      </l>
+      <l n="18">
+       Beat high with youth and vigor, leave to us
+      </l>
+      <l n="19">
+       The dangers of the fight; enough of glory
+      </l>
+      <l n="20">
+       Thy better years have known.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="21">
+       This chosen band
+      </l>
+      <l n="22">
+       Shall guard their King; another waits at hand.
+      </l>
+      <l n="23">
+       With them, when headed by those youthful Princes,
+      </l>
+      <l n="24">
+       Success is certain; listen to our prayers.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="25">
+       How! fly from Danger; yet it must be so.
+      </l>
+      <l n="26">
+       'Twas but a feeble warmth — and now 'tis over.
+      </l>
+      <l n="27">
+       Go then, brave youths; Adrastus, guard their
+                                        lives.
+      </l>
+      <l n="28">
+       Repel the rebel train, but in the rage
+      </l>
+      <l n="29">
+       Of slaughter, listen to the voice of mercy.
+      </l>
+      <l n="30">
+       Remember they are Lydians.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="31">
+       Shield him, Heaven!
+      </l>
+     </sp>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT V.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="1">
+       Horror! my guilty Sire! Gods, give me madness!
+      </l>
+      <l n="2">
+       Let me not think: He call'd you all to witness —
+      </l>
+      <l n="3">
+       Deceit, and treason perjury and murder!
+      </l>
+      <l n="4">
+       Where shall I turn? I saw him stain'd with blood;
+      </l>
+      <l n="5">
+       He bade me join him, nerveless dropt my arm.
+      </l>
+      <l n="6">
+       I fled, I left my Prince; perhaps he bleeds,
+      </l>
+      <l n="7">
+       Perhaps my father — whither shall I fly?
+      </l>
+      <l n="8">
+       Hark! 't was the clash of swords; the found
+                                        approaches,
+      </l>
+      <l n="9">
+       It still comes nearer; O it is Otanes;
+      </l>
+      <l n="10">
+       He lives, but lives for what? Gods, must it be?
+      </l>
+      <l n="11">
+       I will defend his life; 'gainst whom? the world.
+      </l>
+      <l n="12">
+       Here will I stand; here die, or save my king.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      ARASPES, OTANES and Soldiers.
+     </stage>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="1">
+       Ye fought like men, resolv'd on death or conquest.
+      </l>
+      <l n="2">
+       Another effort, and the day is ours.
+      </l>
+      <l n="3">
+       Where is Arbaces?
+      </l>
+     </sp>
+     <sp who="#soldiers">
+      <speaker>
+       Soldiers.
+      </speaker>
+      <l n="4">
+       With a chosen band,
+      </l>
+      <l n="5">
+       He storms the western gate.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="6">
+       I grieve, the Prince
+      </l>
+      <l n="7">
+       Escaped my sword. Adrastus too is fled.
+      </l>
+      <l n="8">
+       No matter; now, my friends, compleat your
+                                        conquest.
+      </l>
+      <l n="9">
+       By Heaven you lurking coward, bars my way.
+      </l>
+      <l n="10">
+       Retire, thou soul disgrace to me and glory,
+      </l>
+      <l n="11">
+       Retire, and hide thee in some cavern's gloom,
+      </l>
+      <l n="12">
+       Where human eye may never see thy meanness.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="13">
+       O might indeed earth swallow me from shame.
+      </l>
+      <l n="14">
+       For now each eye will glare upon thy son,
+      </l>
+      <l n="15">
+       And ev'ry tongue upbraid me with thy guilt.
+      </l>
+      <l n="16">
+       Desist, my father; justice may relent;
+      </l>
+      <l n="17">
+       Myself will kneel; the King is merciful.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="18">
+       Degenerate boy! mean dastard! — burst the door.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="19">
+       Now by the Gods he dies, who dares approach!
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="20">
+       They stand aghast; will none advance?
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="21">
+       Retire,
+      </l>
+      <l n="22">
+       Ye slaves, retire. Here strike, and as thy sword
+      </l>
+      <l n="23">
+       Thirsts but for royal blood, here try its edge.
+      </l>
+      <l n="24">
+       First plunge it in the bosom of thy son.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="25">
+       I will not kill thee, wretch. I'll drag thee
+                                        hence.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="26">
+       My brain turns round; beware; advance not nearer.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      ARASPES, OTANES, Soldiers and an Officer.
+     </stage>
+     <sp who="#officer">
+      <speaker>
+       Officer.
+      </speaker>
+      <l n="1">
+       Adrastus and the Prince approach. They lead
+      </l>
+      <l n="2">
+       A num'rous party.
+      </l>
+     </sp>
+     <sp who="#otanes">
+      <speaker>
+       Otanes.
+      </speaker>
+      <l n="3">
+       Ha! then we must meet them.
+      </l>
+      <l n="4">
+       Curse on my weakness, that could thus delay
+      </l>
+      <l n="5">
+       Th'important stroke; I should have forc'd a
+                                        passage
+      </l>
+      <l n="6">
+       Even through a bleeding son; unworthy boy,
+      </l>
+      <l n="7">
+       When next I see thee tremble at my rage!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="8">
+       Inhuman Sire! I tremble for thy life.
+      </l>
+      <l n="9">
+       The Gods will ne'er permit such horrid crimes.
+      </l>
+      <l n="10">
+       Justice must overtake him; turn, my father;
+      </l>
+      <l n="11">
+       Drop thy vain sword; O save thy son from horror;
+      </l>
+      <l n="12">
+       O save thyself from infamy and death.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene
+      </speaker>
+      <stage>
+       within.
+      </stage>
+      <l n="13">
+       Help, gracious Heaven!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="14">
+       A woman's voice. Perhaps
+      </l>
+      <l n="15">
+       Amidst the outrages of lawless fury —
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="16">
+       Hence, villain! monster hence!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="17">
+       It is Ismene.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IV.
+     </head>
+     <stage>
+      ARASPES, ISMENE, ARBACES.
+     </stage>
+     <sp who="#arbaces">
+      <speaker>
+       Areaces.
+      </speaker>
+      <l n="1">
+       Nor prayers, nor cries avail thee.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="2">
+       Traitor turn,
+      </l>
+      <l n="3">
+       And find the death thy villainy deserves.
+      </l>
+     </sp>
+     <sp who="#arbaces">
+      <speaker>
+       Arbaces.
+      </speaker>
+      <l n="4">
+       Araspes ha! I did not wish to meet thee.
+      </l>
+      <l n="5">
+       But since thou seekst my life, defend thy own.
+      </l>
+      <l n="6">
+       Now judge, ye Powers, who best deserves Ismene.
+      </l>
+     </sp>
+     <stage>
+      (They fight.)
+     </stage>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="7">
+       Ye who defend the weak and innocent,
+      </l>
+      <l n="8">
+       Strike down the ruffian's sword; protect Araspes,
+      </l>
+      <l n="9">
+       Let not this Persian slave — the traitor falls.
+      </l>
+      <l n="10">
+       He lives, he lives, my brave preserver lives!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="11">
+       Even in this dear embrace dost thou not feel
+      </l>
+      <l n="12">
+       Grief throbbing at my heart? Dost thou not see
+      </l>
+      <l n="13">
+       The marks of horror stamp'd upon my face?
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="14">
+       I see, and fear — why dost thou gaze so wildly?
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="15">
+       He was my father's friend.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="16">
+       He was a villain.
+      </l>
+      <l n="17">
+       His hated love inspir'd the bold design,
+      </l>
+      <l n="18">
+       And shook those peaceful walls with war's alarms.
+      </l>
+      <l n="19">
+       But he is fall'n, and treason is no more.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="20">
+       Otanes, O —
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="21">
+       Thy Sire may yet relent.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="22">
+       He — leads the rebel train.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="23">
+       Gods! can it be?
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="24">
+       But death shall be my refuge.
+       <stage>
+        (aside)
+       </stage>
+       Canst thou love
+      </l>
+      <l n="25">
+       The wretch, whom shame attends, whom hooting
+                                        crowds
+      </l>
+      <l n="26">
+       Shall hunt to deserts? Can thy tender frame
+      </l>
+      <l n="27">
+       Endure rough toil and chilling penury?
+      </l>
+      <l n="28">
+       Wilt thou not shrink before the wintry blast?
+      </l>
+      <l n="29">
+       Wilt thou not droop beneath the sultry ray?
+      </l>
+      <l n="30">
+       For no kind roof will shield thy tender frame,
+      </l>
+      <l n="31">
+       Damp earth thy bed, and heav'n thy only shelter.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="32">
+       All this I can. For thee I can renounce
+      </l>
+      <l n="33">
+       My father's roof, my mother's lov'd embrace,
+      </l>
+      <l n="34">
+       For thee renounce the gay parade of courts,
+      </l>
+      <l n="35">
+       And all the gaudy joys which poorly please
+      </l>
+      <l n="36">
+       My vainer sex. With more than female courage
+      </l>
+      <l n="37">
+       (For love shall yield me strength) I'll climb with
+                                        thee
+      </l>
+      <l n="38">
+       The steepy mountain, tread the thorny brake,
+      </l>
+      <l n="39">
+       And be indebted for support to nature.
+      </l>
+      <l n="40">
+       Her bounteous forests, and her blooming wilds
+      </l>
+      <l n="41">
+       Shall yield a rich repast; and when at night
+      </l>
+      <l n="42">
+       Fast by some murm'ring brook you sink to rest,
+      </l>
+      <l n="43">
+       My wakeful eyes shall watch my only care.
+      </l>
+      <l n="44">
+       At early dawn I'll chide the feather'd choir
+      </l>
+      <l n="45">
+       That wake my love, smile with the chearful morn,
+      </l>
+      <l n="46">
+       Kneel to the Gods, and thank them — for Araspes.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="47">
+       No, leave me to my ruin. Wilt thou cling
+      </l>
+      <l n="48">
+       With feeble arms around a falling column?
+      </l>
+      <l n="49">
+       I am a wretch curs'd with unequall'd woes.
+      </l>
+      <l n="50">
+       Link not thy fate with mine, lest thou with me
+      </l>
+      <l n="51">
+       Shouldst share the hate of men, and wrath of
+                                        Heav'n.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="52">
+       Cruel, unjust Araspes!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="53">
+       My Ismene!
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="54">
+       Is thus my love requited? Go, deceiver,
+      </l>
+      <l n="55">
+       Go, fly, and leave me to despair and death.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="56">
+       Too gen'rous maid! yet, yet reflect,
+                                        Ismene.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="57">
+       Hear me, Araspes. 'Twas not thy descent,
+      </l>
+      <l n="58">
+       Nor yet those graces, which enchant my sex
+      </l>
+      <l n="59">
+       And render thee the envy of thy own,
+      </l>
+      <l n="60">
+       Endear'd thee to my heart. Thy merit won me.
+      </l>
+      <l n="61">
+       I saw, I heard, I wonder'd — and I lov'd.
+      </l>
+      <l n="62">
+       Heaven sure decreed, the gallant youth, whose arm
+      </l>
+      <l n="63">
+       Preserv'd my honour, should possess my love.
+      </l>
+      <l n="64">
+       Know then my firm resolve; it is to live
+      </l>
+      <l n="65">
+       For thee alone or greatly die with thee;
+      </l>
+      <l n="66">
+       And so reward me, Heaven, as I maintain it.
+      </l>
+      <l n="67">
+       The storm of war is o'er; e'er now my mother
+      </l>
+      <l n="68">
+       Has left the temple and expects my presence.
+      </l>
+      <l n="69">
+       Farewell.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="70">
+       One dear embrace — farewell — for ever.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE V.
+     </head>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="1">
+       For ever! yes, my soul, be firm, and shew,
+      </l>
+      <l n="2">
+       Thou art allied to Dorus and to virtue.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VI.
+     </head>
+     <stage>
+      ARASPES, ADRASTUS,
+     </stage>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="1">
+       I fear to ask —
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="2">
+       And much it grieves my heart
+      </l>
+      <l n="3">
+       To tell thee what must pain thy virtuous soul.
+      </l>
+      <l n="4">
+       Otanes is no more.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="5">
+       O curst ambition!
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="6">
+       The Prince —
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="7">
+       How! speak —
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="8">
+       Fell in the rage of slaughter.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="9">
+       O miserable Dorus! — tell aloud
+      </l>
+      <l n="10">
+       Thy horrid tale, till from its deepest caverns,
+      </l>
+      <l n="11">
+       Hell echo back the sound! the Prince is fallen,
+      </l>
+      <l n="12">
+       Say next, the King — —
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="13">
+       Behold the royal mourner!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="14">
+       Gods! we are taught that virtue is your care.
+      </l>
+      <l n="15">
+       Whence then this undeserv'd, this cruel weight
+      </l>
+      <l n="16">
+       Of Misery?
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VII.
+     </head>
+     <stage>
+      ARASPES, DORUS, ADRASTUS, Officers bearing the Body of Olinthus.
+     </stage>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="1">
+       Are these my promis'd joys?
+      </l>
+      <l n="2">
+       And is it thus I meet thee? Yet even this
+      </l>
+      <l n="3">
+       Affords some comfort; no dishonor stain'd
+      </l>
+      <l n="4">
+       His blooming youth, nor was his father doom'd
+      </l>
+      <l n="5">
+       To see him perish by his cruel sentence.
+      </l>
+      <l n="6">
+       Ye see me, Gods! oppress'd with age and woe,
+      </l>
+      <l n="7">
+       A weak, deserted wretch; my offspring slain,
+      </l>
+      <l n="8">
+       My friend a traitor; yet I meet your wrath
+      </l>
+      <l n="9">
+       With patient grief, and bow beneath the stroke.
+      </l>
+      <l n="10">
+       Be merciful and grant an old man's prayer.
+      </l>
+      <l n="11">
+       O take the wretched father with the son,
+      </l>
+      <l n="12">
+       And let one urn contain our mingled ashes.
+      </l>
+      <l n="13">
+       My son, my son!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="14">
+       Stand off — thus let me clasp
+      </l>
+      <l n="15">
+       His mangled corse and kiss those streaming
+                                        wounds.
+      </l>
+      <l n="16">
+       My Prince! my friend!
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="17">
+       Unhappy youth!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="18">
+       What hand
+      </l>
+      <l n="19">
+       Accurst, with more than savage fury, gave
+      </l>
+      <l n="20">
+       That deadly blow?
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="21">
+       Amidst my poignant grief,
+      </l>
+      <l n="22">
+       I feel for thee.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="23">
+       I claim not pity, Dorus.
+      </l>
+      <l n="24">
+       I call for justice, for I knew this treason.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="25">
+       Why didst thou then conceal it?
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="26">
+       Piety,
+      </l>
+      <l n="27">
+       Mistaken piety at first restrain'd
+      </l>
+      <l n="28">
+       My tongue, then tears and oaths lull'd all
+                                        suspicion.
+      </l>
+      <l n="29">
+       Strike, strike, thou once blest father; take a
+                                        great,
+      </l>
+      <l n="30">
+       A just revenge. My guilty Sire destroy'd
+      </l>
+      <l n="31">
+       Thy only son, now punish him in me.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="32">
+       Murder my sister's son, my only hope?
+      </l>
+      <l n="33">
+       No, thou shalt gladden millions with thy virtues.
+      </l>
+      <l n="34">
+       Live, my Araspes; thou shalt find in me
+      </l>
+      <l n="35">
+       A second parent; O forget the former.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="36">
+       Am I then doom'd to bear about a being,
+      </l>
+      <l n="37">
+       Hated by all, and hateful to myself?
+      </l>
+      <l n="38">
+       Dear murder'd youth! we soon shall meet again,
+      </l>
+      <l n="39">
+       United in our death as in our lives.
+      </l>
+      <l n="40">
+       Thus —
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="41">
+       Hold, rash youth! unjust Araspes! stay
+      </l>
+      <l n="42">
+       Thy cruel hand; has not the blood of Dorus
+      </l>
+      <l n="43">
+       Already flow'd in copious streams? Wilt thou
+      </l>
+      <l n="44">
+       Encrease my woes? Thy life is not thy own.
+      </l>
+      <l n="45">
+       Thy friends, thy King, thy future people claim
+                                        it.
+      </l>
+      <l n="46">
+       The Gods heap sorrows on us, but they give us
+      </l>
+      <l n="47">
+       Patience to bear and fortitude to live.
+      </l>
+      <l n="48">
+       Despair and rashness are the weak mind's refuge.
+      </l>
+      <l n="49">
+       O drop thy sword, and must I kneel to thee?
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="50">
+       Thy words subdue despair, unnerve my arm,
+      </l>
+      <l n="51">
+       And give me back to reason.
+      </l>
+     </sp>
+     <stage>
+      (Enter an Officer.)
+     </stage>
+     <sp who="#officer">
+      <speaker>
+       Officer.
+      </speaker>
+      <l n="52">
+       Mighty King!
+      </l>
+      <l n="53">
+       The people with united voice demand
+      </l>
+      <l n="54">
+       Araspes' blood.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="55">
+       How?
+      </l>
+     </sp>
+     <sp who="#officer">
+      <speaker>
+       Officer.
+      </speaker>
+      <l n="56">
+       With encreasing crowds
+      </l>
+      <l n="57">
+       They swarm around the palace, and exclaim,
+      </l>
+      <l n="58">
+       Araspes, as confederate with his fire,
+      </l>
+      <l n="59">
+       Deserves the traitor's death.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <stage>
+       (Exit Officer.)
+      </stage>
+      <stage>
+       (Pointing to Olinthus.)
+      </stage>
+      <l n="60">
+       Return, and say,
+      </l>
+      <l n="61">
+       He is innocent, abhors his father's guilt,
+      </l>
+      <l n="62">
+       And has approv'd himself his King's defender.
+      </l>
+      <l n="63">
+       Inhuman crowd! will not his blood suffice?
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="64">
+       Restless as waves, and changeful as the wind,
+      </l>
+      <l n="65">
+       They move obedient to each gust of passion.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <stage>
+       (Re-enter Officer.)
+      </stage>
+      <l n="66">
+       I beg to die; I beg it on my knees;
+      </l>
+      <l n="67">
+       Lead me to death through torture, for my soul
+      </l>
+      <l n="68">
+       Sickens at life; oppose not their request;
+      </l>
+      <l n="69">
+       'Tis justice calls; I am not worth a pang.
+      </l>
+      <l n="70">
+       The tumult rages with redoubled fury.
+      </l>
+      <l n="71">
+       They say, that treason lurks about thy person,
+      </l>
+      <l n="72">
+       And rashly threaten, if thou shouldst withhold
+                                        him,
+      </l>
+      <l n="73">
+       To tear him from thy arms.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="74">
+       We'll die together;
+      </l>
+      <l n="75">
+       They shall not part us.
+      </l>
+     </sp>
+     <sp who="#officer">
+      <speaker>
+       Officer.
+      </speaker>
+      <l n="76">
+       Royal Sir, excuse
+      </l>
+      <l n="77">
+       My forward zeal. This guilty paper tells
+      </l>
+      <l n="78">
+       A horrid tale. Araspes here consents
+      </l>
+      <l n="79">
+       To wed the daughter of the Persian Monarch,
+      </l>
+      <l n="80">
+       And league with Lydia's foes. 'T was found within
+      </l>
+      <l n="81">
+       Arbaces' helmet.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="82">
+       Ye celestial Powers!
+      </l>
+      <l n="83">
+       What must I think? Unwonted terrors seize me,
+      </l>
+      <l n="84">
+       Shake my old frame, and rend my whirling brain.
+      </l>
+      <l n="85">
+       Couldst thou consent?
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="86">
+       Let vengeance strike the blow.
+      </l>
+      <l n="87">
+       Behold me ready.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="88">
+       Justify thyself.
+      </l>
+      <l n="89">
+       Fain would I find thee guiltless. See my tears.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="90">
+       Art thou a King, and dost thou lean to mercy,
+      </l>
+      <l n="91">
+       When crimes like mine demand the stroke of
+                                        justice?
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="92">
+       Pity and justice struggle in my bosom.
+      </l>
+      <l n="93">
+       Adrastus, speak; relieve me with thy counsel.
+      </l>
+     </sp>
+     <sp who="#adrastus">
+      <speaker>
+       Adrastus.
+      </speaker>
+      <l n="94">
+       I am distress'd, but since compell'd to speak,
+      </l>
+      <l n="95">
+       Though I behold his blooming years with pity,
+      </l>
+      <l n="96">
+       And know, that mercy oft adorns the crown,
+      </l>
+      <l n="97">
+       Pardon me, Dorus, when I freely tell thee,
+      </l>
+      <l n="98">
+       Thy country's love should quell the petty
+                                        struggle.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="99">
+       My country — yes, he leagues with Lydia's foes.
+      </l>
+      <l n="100">
+       He merits death; conduct him from my presence.
+      </l>
+      <l n="101">
+       I can not see him bleed — he sav'd my life,
+      </l>
+      <l n="102">
+       And must his blood — —
+      </l>
+     </sp>
+     <stage>
+      (faints.)
+     </stage>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="103">
+       Ye pitying Powers! assist him,
+      </l>
+      <l n="104">
+       Erase each sentiment of fond regard,
+      </l>
+      <l n="105">
+       Nor let him cease to think, that I was guilty.
+      </l>
+      <l n="106">
+       Now lead me to my fate.
+      </l>
+     </sp>
+     <stage>
+      (Exit guarded.)
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VII.
+     </head>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <stage>
+       (recovering.)
+      </stage>
+      <l n="1">
+       Weak, suffering nature!
+      </l>
+      <l n="2">
+       Why linger thus with step irresolute,
+      </l>
+      <l n="3">
+       When death, the wretch's last best comforter,
+      </l>
+      <l n="4">
+       Invites thee to the realmns of peace and bliss?
+      </l>
+      <l n="5">
+       Methought Araspes — horror! haste, preserve him.
+      </l>
+     </sp>
+     <stage>
+      Enter EUDOCIA.
+     </stage>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="6">
+       Where is the King? I fear I come too late;
+      </l>
+      <l n="7">
+       Fly, Lydians; save your Prince — —
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="8">
+       What means Eudocia?
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="9">
+       Let this explain; it bears Cleone's signet,
+      </l>
+      <l n="10">
+       Long treasur'd in the Temple's holy records.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus
+      </speaker>
+      <stage>
+       reads.
+      </stage>
+      <l n="11">
+       "In him thou thinkst thy sister's son, behold
+      </l>
+      <l n="12">
+       Thy own Olinthus; to avert his fate
+      </l>
+      <l n="13">
+       (Since Heav'n denied not hope) I us'd this art.
+      </l>
+      <l n="14">
+       Cherish thy offspring; Gods, protect my son!"
+      </l>
+      <l n="15">
+       O for the lightning's speed; fly, save Olinthus;
+      </l>
+      <l n="16">
+       Restore him to my arms; he's dead, he's murder'd,
+      </l>
+      <l n="17">
+       Murder'd by me! Slave, speak —
+      </l>
+     </sp>
+     <stage>
+      Enter a Slave.
+     </stage>
+     <sp who="#slave">
+      <speaker>
+       Slave.
+      </speaker>
+      <l n="18">
+       O deed of wonder
+      </l>
+      <l n="19">
+       A timid virgin has preserv'd his life.
+      </l>
+      <l n="20">
+       Amazement hush'd the crowd; their fury ceas'd,
+      </l>
+      <l n="21">
+       As if a Deity controul'd their rage.
+      </l>
+      <l n="22">
+       The sword was rais'd; she dauntless rush'd
+                                        between,
+      </l>
+      <l n="23">
+       And struck — behold them here.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VIII.
+     </head>
+     <stage>
+      DORUS, ARASPES, ADRASTUS, EUDOCIA, ISMENE.
+     </stage>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="1">
+       He would have slain him;
+      </l>
+      <l n="2">
+       The vile assassin would have slain my love.
+      </l>
+      <l n="3">
+       But see his blood; it smokes upon my dagger.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <stage>
+       kneels.
+      </stage>
+      <l n="4">
+       My son; my son! dear offspring of Cleone!
+      </l>
+      <l n="5">
+       I thought thee guilty, gave thee up to death;
+      </l>
+      <l n="6">
+       But thou art sav'd — and thus I thank the Gods!
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="7">
+       My father, since that tender name is thine,
+      </l>
+      <l n="8">
+       (And O my heart at first confess'd the tie)
+      </l>
+      <l n="9">
+       I ne'er conspir'd against thy life or crown,
+      </l>
+      <l n="10">
+       But own'd the guilt, that I might rouse thy rage,
+      </l>
+      <l n="11">
+       And find in death a refuge from my sorrows.
+      </l>
+      <l n="12">
+       Be bountiful and to the life you gave
+      </l>
+      <l n="13">
+       Add happiness; that heavenly maid is mine,
+      </l>
+      <l n="14">
+       Mine by the strongest vows —
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="15">
+       She well deserves thee.
+      </l>
+      <l n="16">
+       She was the chosen instrument, whom Heav'n
+      </l>
+      <l n="17">
+       Inspir'd with courage far beyond her sex,
+      </l>
+      <l n="18">
+       To save my soul from horror.
+      </l>
+     </sp>
+     <sp who="#araspes">
+      <speaker>
+       Araspes.
+      </speaker>
+      <l n="19">
+       My Ismene,
+      </l>
+      <l n="20">
+       Rescued from shame, restor'd to life and thee,
+      </l>
+      <l n="21">
+       What further blessing can I ask from Heaven?
+      </l>
+      <l n="22">
+       Your wond'rous love shall bless the life you
+                                        sav'd.
+      </l>
+     </sp>
+     <sp who="#ismene">
+      <speaker>
+       Ismene.
+      </speaker>
+      <l n="23">
+       Why should I blush to own what Heav'n approves?
+      </l>
+      <l n="24">
+       Thy virtues charm'd me, as thy valor sav'd,
+      </l>
+      <l n="25">
+       And that I love thee is but to obey
+      </l>
+      <l n="26">
+       The will of Heav'n. When I preserv'd thy life,
+      </l>
+      <l n="27">
+       I sav'd my own. I heard the deathful shout.
+      </l>
+      <l n="28">
+       My reason vanish'd. Love, wild, desperate love,
+      </l>
+      <l n="29">
+       Roughen'd my sex, and gave me strength and fury.
+      </l>
+      <l n="30">
+       I scarce remember what my rage has done,
+      </l>
+      <l n="31">
+       But sure this dagger ill becomes my hand.
+      </l>
+      <l n="32">
+       My mother —
+      </l>
+     </sp>
+     <sp who="#eudocia">
+      <speaker>
+       Eudocia.
+      </speaker>
+      <l n="33">
+       See the tears of transport flow.
+      </l>
+     </sp>
+     <sp who="#dorus">
+      <speaker>
+       Dorus.
+      </speaker>
+      <l n="34">
+       Adrastus, why that cloud upon thy brow?
+      </l>
+      <l n="35">
+       We both have err'd; we both should now rejoice,
+      </l>
+      <l n="36">
+       Deriving happiness from former errors.
+      </l>
+      <l n="37">
+       Now let us seek the temple to adore
+      </l>
+      <l n="38">
+       Th' All-ruling Powers and confess their justice,
+      </l>
+      <l n="39">
+       Who rouse our virtues by affliction's stings,
+      </l>
+      <l n="40">
+       Rear bliss on woe, from ills elicit good,
+      </l>
+      <l n="41">
+       And to the virtuous Sire preserve the son.
+      </l>
+     </sp>
+    </div>
+   </div>
+  </body>
+  <back>
+   <p>
+    FINIS.
+   </p>
+  </back>
+ </text>
+</TEI>

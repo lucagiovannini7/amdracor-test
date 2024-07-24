@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am749" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Bit of Instruction
+    </title>
+    <author>
+     Sutherland, Evelyn Greenleaf Baker
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Internet Archive
+     </name>
+     <idno>
+      https://archive.org/details/powhitetrashothe00suth
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Sutherland, Evelyn Greenleaf Baker. Po' white trash and other one-act dramas
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="mertounnewbury" sex="MALE">
+      <persName>
+       Mertoun Newbury
+      </persName>
+     </person>
+     <person xml:id="jackdespard" sex="MALE">
+      <persName>
+       Jack Despard
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      One-act
+     </term>
+     <term subtype="am" type="genreTitle">
+      Comedy
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1900">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      DRAMATIS PERSONÆ.
+     </head>
+     <castItem>
+      Jack Despard , of the Thalia Company.
+     </castItem>
+     <castItem>
+      Mertoun Newbury , of the Best Society.
+     </castItem>
+    </castList>
+   </div>
+   <div type="preface">
+    <head>
+     A BIT OF INSTRUCTION
+    </head>
+    <p>
+     Was first produced by Mr. Henry Woodruff, at a special performance at Brattee Hall, Cambridge, on February 25, 1898. On this occasion, Mr. Woodruff appeared as " Despard "; and Mr. Harry Gay as " Newbury ."
+    </p>
+    <p>
+     The play was given by Mr. Woodruff, at the Lyceum Theatre, New York, on April 22, 1898. Mr. Woodruff then played " Newbury ," and Mr. Robert Edeson was the " Despard ."
+    </p>
+    <p>
+     The play was used by Mr. Woodruff professionally for an extended vaudeville tour, in the autumn of 1898.
+    </p>
+    <p>
+     The time is the present. The scene is the bachelor apartment of Jack Despard. The time is half-past twelve, of a mid-winter night.
+    </p>
+   </div>
+  </front>
+  <body>
+   <stage>
+    The scene is the bachelor sitting-room, of Jack Despard's lodgings. It is comfortably, even luxuriously furnished, in the manner of a bachelor's "den." There is a large divan, with cushions: a fireplace, R., with a bright fire: — low bookcases, well filled: lounging-chairs: — a table strewn with magazines, etc. The walls are hung with water-color sketches, pipe racks, etc. As the curtain rises, Newbury is discovered, asleep in a large arm-chair, before the fire. The chair is partly concealed from any one entering, by a screen. After a second's pause, Jack enters. He comes in, somewhat wearily. He wears a handsome, fur-lined coat. He does not see Newbury: his attention being concentrated on the fact that, in addition to the lamp, three gas-jets are in full flame .
+   </stage>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Well, upon my soul! My landlady will land me in the insolvency court, if I don't get a raise of salary, presently. Does the woman think I'm running a torchlight parade?
+    </p>
+   </sp>
+   <stage>
+    ( Newbury has awaked at the first sound of Jack's voice, and is sitting sleepily up. Jack sees him .)
+   </stage>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Why, I beg your pardon, Mr. — Newbury, is it?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Yes; Newbury — Mertoun Newbury, you know.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     With a hyphen?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     I beg your pardon?
+    </p>
+   </sp>
+   <stage>
+    ( During this scene, Jack is taking off his topcoat, warming his hands, changing his coat for a smoking-jacket, etc. )
+   </stage>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     When there isn't a hyphen, one name goes, you know. When there is, the two names are compulsory.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( Stiffly .)
+    </stage>
+    <p>
+     Mertoun is my Christian name. There is no hyphen.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Thanks.
+    </p>
+   </sp>
+   <stage>
+    ( There is an awkward pause .)
+   </stage>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     You remember seeing me at the Club? We've met there several times, you know — the St. Dives Club.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Have we? O, I dare say, I didn't remember your face, for a moment, but one sees such a kaleidoscope of faces, you know, in a season.
+    </p>
+   </sp>
+   <stage>
+    ( Another awkward pause .)
+   </stage>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( Rather explosively .)
+    </stage>
+    <p>
+     Late to-night, aren't you?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Yes; rather. Why?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     O, I've been waiting an hour or so, I fancy. That's how I dropped off — the room was so warm.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     If I had known of your visit —
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     O, that's all right. I didn't know myself that I was coming. Just decided to, on the jump, you know.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Yes?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Yes. Thought I'd find you in about half-past eleven, perhaps.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     So you would, if the business-manager hadn't brought around an infernal pile of photographs for me to sign, for the souvenir matinee. Strange what asses some business managers are.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Autographed photographs, eh? Great idea, that. Pull in matinee-girls by the hundred, I dare say.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     I dare say —
+     <stage>
+      ( Yawns .)
+     </stage>
+     I beg your
+     <pb n="108"/>
+     pardon, but I'm rather done up. It is late, as you say — and matinee day.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     I always supposed you play-actor chaps must rather revel in matinee days.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Do you know any fellows who like working double time? If you do, I'll bet a tenner they're not in our line of work.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Well, but aren't the matinees the really interesting days? Fancy playing to an audience of adorers.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     If they're adorers, they conceal it skillfully. I'd about as soon start out with Nansen, in search of a chill, as play to a matinee audience.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     The matinee maids must keep their warmth for their letters, then, eh?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Bosh! When the papers get out of sea-serpent specials they write up matinee letters. They're a myth, mostly; though now and then —
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( Rather eagerly .)
+    </stage>
+    <p>
+     Yes? Now and then?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Well, now and then a fellow gets a letter that he'd like to enclose to a girl's mother, with a manual on "The Duties of Parents."
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Bless you! Most of the mothers have letters of their own. The duties of parents are obsolete, except in manuals.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     That view of it hadn't struck me. I don't do the society act enough to keep my morals up to date.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     And the girls in your business, — I wager they're always getting letters you'd like to send to the chaps' fathers?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     N-no. I think I should prefer to talk that sort of letters over with the chaps themselves.
+    </p>
+   </sp>
+   <stage>
+    ( He takes a riding-whip from the table, as if absent-mindedly, and nervously plays with it .)
+   </stage>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( Indicating whip .)
+    </stage>
+    <p>
+     With — accessories?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     As you say — with accessories.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Wouldn't you have rather a chore, sometimes, you know? Rafts of the fellows who write 'em are working in the Gym. right along.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Yes. I've put on the gloves with them there, now and then.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     There?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Of course. I learned my A B C's at Harvard, once on a time.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Harvard? Why, I didn't know —
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     No. I've managed to conceal the fact from our press-agent, up to date. Yes, I've put on the gloves in the old Gym. more times than a few. Great sport! I say, wouldn't you like to try a bout, now?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Now? Good Lord! No. What for?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <stage>
+     ( He leisurely exchanges boots for slippers .)
+    </stage>
+    <p>
+     O, nothing. I — I just thought you might feel like it. I felt like it. You don't mind my changing my shoes?
+    </p>
+    <p>
+     You see, I've been doing a society part to-day; and I never did find tight boots compatible with repose of mind.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     O, that's all right, Despard. By the way, — that reminds me to ask you something. We had a bet on, down at the Club to-night.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <stage>
+     ( With polite boredom .)
+    </stage>
+    <p>
+     Yes?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Yes. We were betting about your real name. Do you mind telling me what your real name is?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <stage>
+     ( His exasperation is evidently growing tense. He opens his card-case, and hands Newbury his card .)
+    </stage>
+    <p>
+     My card.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( Reads .)
+    </stage>
+    <p>
+     John Randolph Despard. O, but I didn't mean your stage name, you know.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Neither did I. My name's on that card. Is it necessary, to settle your Club bet, that I send to Virginia for my birth-certificate?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Great Scott! You're not one of the Despards of —
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     My people rode with Light-Horse Harry. Did you think all actors were raised from bulbs, in window-glasses?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Well, it's no wonder the matinee girls —
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     O, da — bless the matinee girls. I say, Newbury, you didn't come here at this ungodly hour to talk about matinee girls, did you?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Well, yes — perhaps — in a way. You see, the fellows at the Club were saying that — that it would be a good joke to see one of the real — what one of those matinee letters really was like, don't you know.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <stage>
+     ( Rising .)
+    </stage>
+    <p>
+     And they thought I might give them the chance of finding out? I say, what paper are you reporting for, Newbury?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     I? Reporting?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     If you're not doing the sneak reporter act, what the devil are you doing?
+    </p>
+   </sp>
+   <stage>
+    ( They face each other, in self-contained anger .)
+   </stage>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Do you mind telling me what you mean by treating me as if I were an intrusive ass?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Do you mind telling me how else it would be appropriate for me to treat you?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Will you explain yourself?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     How else would you treat a man who, on the strength of a Club introduction, wheels himself, uninvited, into your rooms, at midnight, — asks you whether your name is not an alias, — suggests that you can't make your hands keep your head, — winds up by inviting you to turn over to a parcel of Club loungers the confidence a silly girl or two have put in your decency?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Why, — I thought — being an actor, — Bohemia, you know, and all that —
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     You thought because actors sometimes have to sell their talents in a damned poor market, that we put up our private honor for sale at the same shop? That's a mistake; and you may find it a costly one.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( After a short pause he peels off his right-hand glove, and offers his hand .)
+    </stage>
+    <p>
+     Shake?
+    </p>
+   </sp>
+   <sp who="jack">
+    <stage>
+     ( Amazed .)
+    </stage>
+    <p>
+     Jack
+     .
+    </p>
+    <p>
+     Eh?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Shake — won't you? You have such a jolly, convincing way of putting things, I thought I'd like to shake hands with you, don't you know. O, I'm an ass, all right, Despard, and I'm a near-sighted ass; but when I do see a gentleman, I know the breed. I beg your pardon, Despard. Shake — will you?
+    </p>
+   </sp>
+   <stage>
+    ( They shake hands, heartily .)
+   </stage>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Have a cigar?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Thanks.
+     <stage>
+      ( They light cigars .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Sit down, won't you?
+    </p>
+   </sp>
+   <stage>
+    ( They sit .)
+   </stage>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <stage>
+     ( Reaching across table .)
+    </stage>
+    <p>
+     I say — Shake again, won't you? You see, Newbury, I've an infernal temper, and that's a fact.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     O, that's all right. From your own standpoint, it was uncommonly kind of you not to pitch me down stairs. I say, one of the things I came in for, you know, was this: I want you to give me a bit of instruction.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Instruction isn't much in my line; but fire ahead.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     I want to know if you'll teach me to act, you know.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     To act? O, well, a little thing like that, you know!
+     <stage>
+      ( Looks at watch .)
+     </stage>
+     Quarter to one. Do you think you could give me till half-past four? With a college education as a foundation, you know, you really ought, ... ...
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Don't chaff. I'm in a beastly hole. You see, my cousin Ethel Marlborough — well, she really isn't my cousin, you know, but her mother married my uncle Jim.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     If you could skip the Creation, old fellow, and come to the Deluge —
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     O, well, all right. You see, my cousin Ethel is getting up a fair.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     I sympathize with her relations.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     And she's determined to have one night of theatricals; and, hang it, you know, I've got to act.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     I transfer my sympathy to your relations.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Yes; I've got to act, because there's only one Ferdinand costume, and I'm the only fellow it will fit.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     "Ferdinand?" Great Shakespeare! You don't mean that you are going to tackle "The Tempest"?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     O, but we are, then. You see, Ethel has
+     <pb n="114"/>
+     written a play, and we were going to give that; but she thought we didn't have time to do it justice, and we'd better do something from Shakespeare.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Well, perhaps he could bear it better. He's been dead a long time.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     We're just going to do a scene or two, you know. Ethel has been wild to have a go at Miranda, ever since she saw Ada Rehan do her, you know.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Yes — naturally. And you're Ferdinand?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Yes. Damned hard luck, isn't it?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     O, I don't know. As I said, the author has been dead a long time.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     O, hang it! I say, don't chaff. I mean bad luck for me. But I can't quit. The costume is such a dizzy fit; and then, you know, Ethel's to do Miranda; and there are speeches that — well, you know, the family wouldn't like any one not a relation,....
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Such as a cousin by marriage.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     O, it's just the same. She came into the family when she was in pinafores. And now, you see, I'm in for it; and I don't want to look a bigger fool than I can help.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     You naturally wouldn't. — No.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     And I thought you might be able to give me a leg up, in the log-rolling scene.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Log-rolling scene is good — sounds political.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Hang it. Don't chaff. Will you, or won't you?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     O, I will — I will. If there is anything on earth I find soothing and refreshing, it is teaching an amateur. Want to start in now?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Might as well, eh?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Come — business, business.
+     <stage>
+      ( Pushes centre-table back, leaving clear space .)
+     </stage>
+     Where's Shakespeare?
+     <stage>
+      ( Rummages among books on shelf .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Yes; you'd best have him handy. Ethel copied my part in her best Wellesley slant, and I've made out about one word in ten.
+     <stage>
+      ( Produces a muchcrumpled manuscript .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Here we are — "Enter Ferdinand, with a log on his shoulder." Props — props; where's your log?
+     <stage>
+      ( Hands him Indian Club: — business of getting it poised on his shoulder .)
+     </stage>
+     Come, now, Ferdinand, your lines — your lines.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     "There be some spots are painful — "
+    </p>
+   </sp>
+   <stage>
+    ( He rubs shoulder .)
+   </stage>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Good Lord! What? Say that again.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     "There be some spots are painful — " That means his shoulder, doesn't it, where he's carrying logs? I supposed so; that's why I rubbed it.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     The line happens to be, "There are some
+     sports
+     are painful — "
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     "Sports" — "Spots"? Hang Ethel's writing! I've learned that "spots"; and it's the only thing in the whole confounded speech I understood. I thought the beggar had lamed himself, piling up logs, don't you know? Hang it, Despard! He
+     says
+     he's lame. Doesn't he say he's piling up logs "upon a sore injunction"?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <stage>
+     ( In ecstasies of laughter .)
+    </stage>
+    <p>
+     O, read it that way — read it that way. A new reading is a precious thing, you know; and it's not much queerer than some of the new Juliets.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     I say — Let's skip that speech, anyhow. What I really want to coach up on is that rigmarole he has to reel off to Miranda. They've run it all together for me, you know, because they say that if Miranda once stopped me I'd never get up steam again. Ethel won't have me in it at any price; she says I make love like a cigar-store Indian.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Apparently she has critical gifts. Fire away.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     "O, my father. I've broke your head — "
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Hold up! In the name of Stratford, what's the matter with your text?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( Aggrievedly showing MS. )
+    </stage>
+    <p>
+     Confound it, man, see for yourself. "O, my father, I've broke your head to — "
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Man alive, that's the
+     cue
+     — that's
+     Miranda's
+     speech.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Well, why in Heligoland don't she say "cue"? And, besides, Miranda didn't break her father's head, did she?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Not according to Shakespeare. She says she "broke her father's hest" — her father's "hest" —
+     be
+     hest — command, you know.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     I wish she'd talk English, then. I don't care what it is, as long as I don't have to break it.
+     <stage>
+      ( Reads speech with queer effects of punctuation, and absolute uncomprehension of sense, as — )
+     </stage>
+    </p>
+    <l>
+     "Admired Miranda —
+    </l>
+    <l>
+     Indeed the top of admiration worth —
+    </l>
+    <l>
+     What's dearest in the worldfull many a lady I have
+    </l>
+    <l>
+     I have eyed with best regard and many a time.
+    </l>
+    <l>
+     The harmony of their tongues. — Hath into bondage
+    </l>
+    <l>
+     Brought my too — too — "
+    </l>
+    <p>
+     something-or-other "ears for several virtues."
+     <stage>
+      ( Out of breath .)
+     </stage>
+     Whew! How does the thing go on? I say, Despard, what gestures go with that kind of speech — eh?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     On my soul, Newbury, I don't know.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Well, no matter; we can pick them out afterward. Let's see — O —
+    </p>
+    <l>
+     "I have liked several women? Never! with so full soul
+    </l>
+    <l>
+     But some defect in her did quarrel;
+    </l>
+    <l>
+     But, O you! O you! —
+    </l>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Man — man! — stop it, can't you?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( Bewildered and aggrieved .)
+    </stage>
+    <p>
+     Stop what?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Stop the execution.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     What execution?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     I wonder if you have the least idea how that fellow felt?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     What fellow?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Ferdinand.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Felt? Why, the chap wasn't a real chap, you know.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Man, he was realer than you or I; and he'll last a blamed sight longer. Put yourself in the fellow's place, can't you? That's what you've got to do — not stand up there like a graven image, reeling off lines out of a book. Can't you see them there, — him and the girl? It's morning, you know, — the sea's out there —
+     <stage>
+      ( New. turns bewilderedly to see where .)
+     </stage>
+     — the sea, all shining in the sun; — and she's standing there, — just a girl, you know — just a girl — with a girl's eyes; — just a slip of a thing, all in white, her eyes as blue as the sea, and the white stuff falling back from her soft, pure little throat, and her yellow hair all blowing about in the seawind, ...
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( In a daze .)
+    </stage>
+    <p>
+     I say, will she look like that?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     She
+     did
+     look like that, — she
+     will
+     look like that — thank God and Shakespeare — as long as youth is youth. And you stand there, worshiping her, and
+     <pb n="119"/>
+     aching for her; — and one minute you want to crush her — here —
+     <stage>
+      ( With a motion of straining a woman to his breast .)
+     </stage>
+     — and the next, you want to grovel there at her little feet, and cry your heart out; and her big eyes are pitying you, — and something else — and she herself doesn't know what else — and it's going to be yours to teach her — yours, and no other man's on God's earth — and your heart just tears itself to your lips — and you say to her:
+    </p>
+    <l>
+     Admired Miranda —
+    </l>
+    <l>
+     Indeed the top of admiration, — worth
+    </l>
+    <l>
+     What's dearest in the world. — Full many a lady
+    </l>
+    <l>
+     I have eyed with best regard; and many a time
+    </l>
+    <l>
+     The harmony of their tongues hath into bondage
+    </l>
+    <l>
+     Brought my too diligent ear: for several virtues
+    </l>
+    <l>
+     Have I liked several women: never any
+    </l>
+    <l>
+     With so full soul, but some defect on her
+    </l>
+    <l>
+     Did quarrel with the noblest grace she owned,
+    </l>
+    <l>
+     And put it to the foil: but you, — O you, —
+    </l>
+    <l>
+     So perfect and so peerless, art created
+    </l>
+    <l>
+     Of every creature's best. — Hear my soul speak.
+    </l>
+    <l>
+     The very instant that I saw you did my heart
+    </l>
+    <l>
+     Fly to your service: — there — "
+    </l>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     O, for God's sake — stop it, can't you?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <stage>
+     ( In his turn bewildered .)
+    </stage>
+    <p>
+     Stop what?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     I can't stand it! O, I see now, — I understand it — she couldn't help it. Poor little Ethel — she
+     <pb n="120"/>
+     couldn't help it! And it — it may not be so bad. You're a gentleman — if you are an actor, you're a gentleman, — but if you don't — if you're not good to her, — by God — I —
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <stage>
+     ( In cold anger and amazement .)
+    </stage>
+    <p>
+     Do you mind telling me, Newbury, what you are talking about?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Talking about? — I'm talking about my cousin Ethel.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Your cousin Ethel?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     My cousin Ethel — the poor little girl who's been looking at you, — and you know it — who's been looking at you for weeks, with just such eyes as — as you said — my cousin Ethel — the girl who wrote you that letter that I —
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     On my honor, I don't know what you are talking about.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     You don't know — my cousin Ethel?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     I never saw nor heard of her in my life.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Why, man, you
+     must
+     have seen her. She's at every last matinee you play. She's the little girl with the yellow hair and the big blue eyes: — she's only eighteen; — she always has a bunch of violets pinned to her seal-skin muff; — she's always eating sugared things, out of a silver filigree box. Why, do you mean to say —
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     I mean to say, my dear fellow, that I suppose at a hundred or so matinees a year there are a
+     <pb n="121"/>
+     hundred or so such girls; and I never saw one of them.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     But you said you never had heard of her; and she signed her full name to that letter she sent you; she told Kit so.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     What letter?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     She told my sister Kit about it. Kit told me. She's no sneak, Kit; she's an awfully good sort; but she's older than Ethel; and she was scared blue when Ethel told her she'd sent that letter. You know, old chap, there are actors — that —
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     O, yes, — I know. They're the kind that get into the newspapers.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     And she thought — Ethel did — she told Kit she knew — that you were all the time playing just to her — like Garrick did, you know, to Ada Ingot; — and she wrote to you and said that she — that if you —
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Poor little girl! She wrote that? Poor little girl! Where's her mother?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     She died two years ago.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Poor little girl! I say, do you know when she sent that letter, Newbury?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Yesterday morning. She told Kit, last night.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Yesterday? I remember.
+     <stage>
+      ( Opens table drawer .)
+     </stage>
+     I remember. I brought home a pocketful of things; and I was so fagged, I fired them all in
+     <pb n="122"/>
+     here, and then cold forgot them.
+     <stage>
+      ( He gathers up a number of letters, from drawer, and holds them all out, to Newbury .)
+     </stage>
+     Do you mind seeing — if —
+    </p>
+   </sp>
+   <stage>
+    ( Newbury, after a moment's search, selects one, and holds it out to him .)
+   </stage>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     There's the fire.
+    </p>
+   </sp>
+   <stage>
+    ( Newbury slowly goes to fireplace, and thrusts the letter into the coals. Both men stand silently watching it burn .)
+   </stage>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( Gripping Jack's hand hard .)
+    </stage>
+    <p>
+     Thanks, old chap. You — I — O, damn it, you know what I mean. Thanks, old chap. You see, I've known her ever since she was in pinafores, and — I —
+     <stage>
+      ( Dashes his hand across his eyes, and finishes, chokingly .)
+     </stage>
+     — I — Thanks, old chap.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     O, that's all right, Newbury. And — look here, — it'll be all right, — you'll see. All girls dream dreams. It'll be all right.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( He puts on his coat, and prepares to go out, as he speaks .)
+    </stage>
+    <p>
+     I — I'd like to — but I can't; — you know, don't you, Despard?
+     <stage>
+      ( He crosses to Jack, hesitatingly .)
+     </stage>
+     I'm an ass to ask you, I know — but you don't suppose, — if you ever did meet her — hang it — she's such a dear little thing.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <stage>
+     ( Opens a locket that hangs at his watchchain, and holds it up .)
+    </stage>
+    <p>
+     See that? Well, that is the little girl I'm going to marry, if ever the Lord
+     <pb n="123"/>
+     and the managers let us stay in the same town long enough. Satisfied?
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Why, I know that face, don't I? Yes. By Jove, that's Maisie Marston, of the —
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Yes, that is
+     Miss
+     Marston.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( Musingly .)
+    </stage>
+    <p>
+     Maisie Marston — Why, she's the one, when I was in Yale, two years ago —
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <stage>
+     ( With a dryness of voice .)
+    </stage>
+    <p>
+     Yes; she's the one. She showed me that letter you wrote her.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( Aghast .)
+    </stage>
+    <p>
+     She — showed you — that letter?
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Yes. She's a way of showing me — all her letters of that sort.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( After a pause, strips off both his coats .)
+    </stage>
+    <p>
+     It's all I can do, old chap, — you know, — but if you like, I'll stand up to you, without the gloves.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Put on your coat. Two years are two years. And, as you say, you were only an ass.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <stage>
+     ( Fervently .)
+    </stage>
+    <p>
+     Thanks, old chap!
+     <stage>
+      ( He puts on his coat and starts to go. In doorway .)
+     </stage>
+     Good-night, Despard.
+    </p>
+   </sp>
+   <sp who="#jackdespard">
+    <speaker>
+     Jack
+     .
+    </speaker>
+    <p>
+     Good-night. O, I say, Newbury! If you're hereabout to-morrow night, look in, won't you, and we'll have another go at Ferdinand.
+    </p>
+   </sp>
+   <sp who="#mertounnewbury">
+    <speaker>
+     New.
+    </speaker>
+    <p>
+     Why, — if I may, — why, thanks, old chap!
+    </p>
+   </sp>
+   <stage>
+    ( Newbury goes out. Despard follows him to door: calls "Find your way, all right?" Newbury's voice answers from below, "O, yes, thanks." The lower door closes. Despard closes his own door. He blows out the lamp, leaving only the red glow of the firelight. He crosses slowly to the mantel, and stands looking down into the fire. After a moment's pause, he opens the locket, and stands looking down, musingly, on the pictured face .
+   </stage>
+  </body>
+  <back>
+   <p>
+    ( Curtain .)
+   </p>
+  </back>
+ </text>
+</TEI>

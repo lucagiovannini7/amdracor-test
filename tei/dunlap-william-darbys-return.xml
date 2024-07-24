@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am300" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Darby's Return
+    </title>
+    <author>
+     Dunlap, William
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Oxford Text Archive
+     </name>
+     <idno>
+      https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/N16932/N16932.html
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Dunlap, William: Darby's return. A comic sketch
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="dermot" sex="MALE">
+      <persName>Dermot</persName>
+     </person>
+     <person xml:id="kathleen" sex="FEMALE">
+      <persName>Kathleen</persName>
+     </person>
+     <person xml:id="darby" sex="MALE">
+      <persName>Darby</persName>
+     </person>
+     <person xml:id="oldwoman" sex="FEMALE">
+      <persName>Old Woman</persName>
+     </person>
+     <person xml:id="clown" sex="MALE">
+      <persName>Clown</persName>
+     </person>
+     <person xml:id="fatherluke" sex="MALE">
+      <persName>Father Luke</persName>
+     </person>
+     <personGrp xml:id="villagers" sex="UNKNOWN">
+      <persName>Villagers</persName>
+     </personGrp>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Comic Opera
+     </term>
+     <term subtype="am" type="genreTitle">
+      Farce
+     </term>
+     <term subtype="am" type="genreTitle">
+      Comedy
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Verse
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1789">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <head>
+    TO THE PUBLIC.
+   </head>
+   <p>
+    THE following Dramatic trifle was not written for publication, but merely to serve the Gentleman on whose night it was performed. — The Author is fully sensible, that the plea of its being a hasty Production is no excuse for obtruding on the Public an incorrect Composition; but, being importuned by his Friends, he has consented to throw this Child of the Day on the protection of the World, encouraged by the flattering reception it received at the Theatre, and the candour once before shewn to its Author.
+   </p>
+   <p>
+    The lines marked with inverted comma's, were omitted in the representation.
+   </p>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      CHARACTERS.
+     </head>
+     <head>
+      MEN.
+     </head>
+     <castItem>
+      Darby, Mr. Wignell.
+     </castItem>
+     <castItem>
+      Dermot, Mr. Woolls.
+     </castItem>
+     <castItem>
+      Clown, Mr. Ryan.
+     </castItem>
+     <castItem>
+      Father Luke, Mr. Biddle.
+     </castItem>
+     <castItem>
+      WOMEN.
+     </castItem>
+     <castItem>
+      Old Woman, Mrs. Hamilton.
+     </castItem>
+     <castItem>
+      Kathleen, Mrs. Morris.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     SCENE.
+    </head>
+    <stage>
+     The Village of Carton.
+    </stage>
+    <stage>
+     After some airs from the Poor Soldier, the curtain draws, and discovers Darby , surrounded by Father Luke, Dermot, Kathleen , and villagers — They huzza and advance.
+    </stage>
+    <stage>
+     Air . — "What true Felicity."
+    </stage>
+    <sp who="#fatherluke">
+     <speaker>
+      Father Luke.
+     </speaker>
+     <l n="1">
+      Come neighbours come, come, all
+                                                around me come
+      ,
+     </l>
+     <l n="2">
+      Let's welcome home
+      ,
+     </l>
+     <l n="3">
+      This silly loon
+      ,
+     </l>
+     <l n="4">
+      That's wandering been
+      ,
+     </l>
+     <l n="5">
+      Thro' many a scene
+      ,
+     </l>
+     <l n="6">
+      And left his own village to mourn
+                                                him.
+     </l>
+    </sp>
+    <sp who="#kathleen">
+     <speaker>
+      Kathleen.
+     </speaker>
+     <l n="7">
+      Now Darby we're glad to see
+                                                you
+      ,
+     </l>
+     <l n="8">
+      Good wishes have ever been wi'
+                                                you
+      ,
+     </l>
+     <l n="9">
+      Since Dermot is mine
+      ,
+     </l>
+     <l n="10">
+      My friendship is thine
+      ;
+     </l>
+     <l n="11">
+      No longer good Darby I'll flout you.
+     </l>
+    </sp>
+    <sp who="#villagers">
+     <speaker>
+      Villagers
+     </speaker>
+     <stage>
+      Chorus of
+     </stage>
+     <l n="12">
+      Now Darby we're glad to
+                                                see you
+      ,
+     </l>
+     <l n="13">
+      Good wishes have ever
+                                                been wi' you
+      ,
+     </l>
+     <l n="14">
+      Now where have you been?
+     </l>
+     <l n="15">
+      And what have you seen?
+     </l>
+     <l n="16">
+      I prythee good fellow now tell us?
+     </l>
+    </sp>
+    <sp who="#fatherluke">
+     <speaker>
+      Father Luke.
+     </speaker>
+     <l n="17">
+      Now Darby let's hear of the many
+                                                scars
+      ,
+     </l>
+     <l n="18">
+      You got in wars;
+     </l>
+     <l n="19">
+      The man who dares
+     </l>
+     <l n="20">
+      In battle to mix
+      ,
+     </l>
+     <l n="21">
+      'Tis seven to six
+      ,
+     </l>
+     <l n="22">
+      But he'd make a good seive ever
+                                                after.
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <l n="23">
+      Oh trust me no bit of a wound
+                                                sir
+      ,
+     </l>
+     <l n="24">
+      O'er Darby's whole carcase is found
+                                                sir;
+     </l>
+     <l n="25">
+      He doesn't know fear
+      —
+     </l>
+     <l n="26">
+      But he never could bear
+      ,
+     </l>
+     <l n="27">
+      To dirty good cloaths on the ground
+                                                sir.
+     </l>
+    </sp>
+    <sp who="#villagers">
+     <speaker>
+      Villagers
+     </speaker>
+     <stage>
+      Chorus of
+     </stage>
+     <l n="28">
+      Now Darby we're glad to
+                                                see you
+      ,
+     </l>
+     <l n="29">
+      Good wishes have ever
+                                                been wi'you
+      ,
+     </l>
+     <l n="30">
+      Now where have you been?
+     </l>
+     <l n="31">
+      And what have you seen?
+     </l>
+     <l n="32">
+      I prythee good fellow now tell us!
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      "Darby.
+     </speaker>
+     <l n="33">
+      "I prythee good people now stand away —
+     </l>
+     <l n="34">
+      "Make room I pray!
+     </l>
+     <l n="35">
+      "Hear what I say —
+     </l>
+     <l n="36">
+      "I'll tell you such seats
+      ,
+     </l>
+     <l n="37">
+      "In colds and in heats
+      ,
+     </l>
+     <l n="38">
+      "As will make ye all gape 'till ye choak
+                                                sirs.
+     </l>
+     <l n="39">
+      "Now neighbours stand off; pray
+                                                don't crowd so
+      ,
+     </l>
+     <l n="40">
+      "And what need ye all gabble loud
+                                                so
+      ,
+     </l>
+     <l n="41">
+      "Who the devil can speak
+      ,
+     </l>
+     <l n="42">
+      "While ye cackle and squeak
+      ,
+     </l>
+     <l n="43">
+      "Like so many geese in a hog-stye.
+     </l>
+    </sp>
+    <sp who="#villagers">
+     <speaker>
+      Villagers
+     </speaker>
+     <stage>
+      Chorus of
+     </stage>
+     <l n="44">
+      "Now Darby we're glad to see you;
+     </l>
+     <l n="45">
+      "Good wishes have ever been wi' you;
+     </l>
+     <l n="46">
+      "Now where have you been?
+     </l>
+     <l n="47">
+      "And what have you seen?
+     </l>
+     <l n="48">
+      "I prythee good fellow now tell us!"
+     </l>
+    </sp>
+    <stage>
+     (Music ceases.
+    </stage>
+    <sp who="#darby">
+     <speaker>
+      Darby,
+     </speaker>
+     <stage>
+      advancing.
+     </stage>
+     <l n="49">
+      Now! give me room to breathe; there! stand away;
+     </l>
+     <l n="50">
+      All form a ring, and then we'll see fair play.
+     </l>
+     <l n="51">
+      You —
+     </l>
+    </sp>
+    <sp who="#oldwoman">
+     <speaker>
+      Old Woman.
+     </speaker>
+     <l n="52">
+      Darby
+      I'm deaf, and must nearer
+                                    come.
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <l n="53">
+      If you would hear good dame, you must be dumb.
+     </l>
+     <l n="54">
+      You all remember, neighbours, ah! too well,
+     </l>
+     <l n="55">
+      (Tho' faith! full cheery I'll the story tell.)
+     </l>
+     <l n="56">
+      How I was jilted by this gypsy here —
+      <stage>
+       ( to Kathleen.
+      </stage>
+     </l>
+     <l n="57">
+      Never tight Irish boy sure, felt so queer:
+     </l>
+     <l n="58">
+      Then
+      Pat
+      must come too, with his "row
+                                    de dow,"
+     </l>
+     <l n="59">
+      So, for a gen'ral's staff I sold my plough,
+     </l>
+     <l n="60">
+      My
+      bald fac'd Robin
+      , and my
+      brindled Cow
+      ;
+     </l>
+     <l n="61">
+      Then off to Dublin, joy, I nimbly pack,
+     </l>
+     <l n="62">
+      And there I play'd a game at paddy whack:
+     </l>
+     <l n="63">
+      Oh, to be sure, I didn't flash at all!
+     </l>
+     <l n="64">
+      I did'nt dance a little at the ball!
+     </l>
+     <l n="65">
+      But having spent my cash — for cash will go!
+     </l>
+    </sp>
+    <sp who="#fatherluke">
+     <speaker>
+      Father Luke.
+     </speaker>
+     <l n="66">
+      Ah, Darby! that's a truth we all well know!
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <l n="67">
+      Sure I resolv'd for London; aye my boys!
+     </l>
+     <l n="68">
+      When I took leave we made a glorious noise!
+     </l>
+    </sp>
+    <sp who="#oldwoman">
+     <speaker>
+      Old Woman.
+     </speaker>
+     <l n="69">
+      Good souls! shed tears so, ha?
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <l n="70">
+      Tears, mother! no,
+     </l>
+     <l n="71">
+      We nothing shed but whisky: — Off I go!
+     </l>
+     <l n="72">
+      Pop board a ship — suddled — mistook my way;
+     </l>
+     <l n="73">
+      And when I come to rub my eyes next day,
+     </l>
+     <l n="74">
+      Was on my way to
+      Dantzick
+      : Silly
+                                    loon! —
+     </l>
+    </sp>
+    <sp who="#oldwoman">
+     <speaker>
+      Old Woman.
+     </speaker>
+     <l n="75">
+      Poor Darby! taken
+      sea sick
+      too, so
+                                    soon!
+     </l>
+    </sp>
+    <sp who="#clown">
+     <speaker>
+      Clown.
+     </speaker>
+     <l n="76">
+      Oh,
+      Darby
+      , did you ever see a
+                                    whale?
+     </l>
+    </sp>
+    <sp who="#dermot">
+     <speaker>
+      Dermot.
+     </speaker>
+     <l n="77">
+      Hush, neighbours, hush, let
+      Darby
+      tell his tale.
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <l n="78">
+      Well, see me landed; sure, without a farthing,
+     </l>
+     <l n="79">
+      So, Prussian hero turn'd, to keep from starving;
+     </l>
+     <l n="80">
+      Drill'd, drub'd and basted, curst and kick't and
+                                    fisted,
+     </l>
+     <l n="81">
+      My nice shock golden hair, black't, greas'd &amp;.mp;
+                                    twisted;
+     </l>
+     <l n="82">
+      I'm sure I wonder how it ever come
+     </l>
+     <l n="83">
+      To bring its own dear carrot-colour home;
+     </l>
+     <l n="84">
+      So close screw'd up, — sure,
+      Dermot
+      ,
+                                    you would think,
+     </l>
+     <l n="85">
+      My skin like drum-head tight: — I couldn't wink;
+     </l>
+     <l n="86">
+      Loaded with belts and buckles at all points,
+     </l>
+     <l n="87">
+      We mov'd like wooden men with iron joints.
+     </l>
+     <l n="88">
+      — — But merit can't be hid: — I soon was rais'd.
+     </l>
+    </sp>
+    <sp who="#oldwoman">
+     <speaker>
+      Old Woman.
+     </speaker>
+     <l n="89">
+      Aye, aye, I warrant, goodness now be prais'd!
+     </l>
+    </sp>
+    <sp who="#fatherluke">
+     <speaker>
+      Father Luke.
+     </speaker>
+     <l n="90">
+      What, to a Halbert? Thirteen-pence a day?
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <l n="91">
+      No, to three halberts; — cat-o-nine-tail pay:
+     </l>
+     <l n="92">
+      There I was sav'd by little
+      Captain
+                                        Pat
+      ,
+     </l>
+     <l n="93">
+      And where d'ye think I went to after that?
+     </l>
+     <l n="94">
+      To Austria, my lads! and there I swagger'd,
+     </l>
+     <l n="95">
+      Strutted &amp;.mp; puff'd, look'd big, drank hard &amp;.mp;
+                                    stagger'd,
+     </l>
+     <l n="96">
+      While my great master, doing much the same,
+     </l>
+     <l n="97">
+      Bully'd the Dutchman — thus we play'd the game;
+     </l>
+     <l n="98">
+      Till the curst Turks, those whisker'd, sabred dogs,
+     </l>
+     <l n="99">
+      Men-eating Hannibals, with hearts like logs,
+     </l>
+     <l n="100">
+      Made war upon us; then I thought 'twas best,
+     </l>
+     <l n="101">
+      To seek an army that was more at rest;
+     </l>
+     <l n="102">
+      Not that I minded fighting: Not a button!
+     </l>
+     <l n="103">
+      (For some may think I meant to save my mutton:)
+     </l>
+     <l n="104">
+      No, no! — But being taught by
+      Father
+                                        Luke
+      ,
+     </l>
+     <l n="105">
+      That Turks are heretics, I wisely took
+     </l>
+     <l n="106">
+      Precautions not to have my morals hurt,
+     </l>
+     <l n="107">
+      By any intercourse with such vile dirt:
+     </l>
+     <l n="108">
+      So finding this was not the place for me,
+     </l>
+     <l n="109">
+      Once more, good neighbours, I embark'd for sea.
+     </l>
+    </sp>
+    <sp who="#kathleen">
+     <speaker>
+      Kathleen.
+     </speaker>
+     <l n="110">
+      Alas! what hardships 'twas your lot to prove.
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <l n="111">
+      Yes, Kathleen, yes! and all for sake of love.
+     </l>
+     <l n="112">
+      Now on the waves again, with swelling sail —
+     </l>
+    </sp>
+    <sp who="#clown">
+     <speaker>
+      Clown.
+     </speaker>
+     <l n="113">
+      Do
+      Darby
+      tell me! — Did you see a
+                                    whale?
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <l n="114">
+      Whales! Aye, yes — thick as hops — since you must
+                                    know,
+     </l>
+     <l n="115">
+      Dancing Scotch reels — two thousand strong or so.
+     </l>
+    </sp>
+    <sp who="#clown">
+     <speaker>
+      Clown.
+     </speaker>
+     <l n="116">
+      Oh marcy!
+     </l>
+    </sp>
+    <sp who="#oldwoman">
+     <speaker>
+      Old Woman.
+     </speaker>
+     <l n="117">
+      Gooddy!
+     </l>
+    </sp>
+    <sp who="#clown">
+     <speaker>
+      Clown.
+     </speaker>
+     <l n="118">
+      Odds bobs sningers.
+     </l>
+    </sp>
+    <sp who="#oldwoman">
+     <speaker>
+      Old Woman.
+     </speaker>
+     <l n="119">
+      Oh!
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <l n="120">
+      Well neighbours, now by destinies and fates,
+     </l>
+     <l n="121">
+      See me safe landed in the United States;
+     </l>
+     <l n="122">
+      And now I'm at the best part of my story,
+     </l>
+     <l n="123">
+      For there poor Darby was in all his glory;
+     </l>
+     <l n="124">
+      From north to south, where ever I appear'd,
+     </l>
+     <l n="125">
+      With deeds and words, my spirits oft they cheer'd;
+     </l>
+     <l n="126">
+      But more especially I lik'd to work,
+     </l>
+     <l n="127">
+      At one nice little place they call'd New-York;
+     </l>
+     <l n="128">
+      Oh! there they lov'd me dearly, never fear
+     </l>
+     <l n="129">
+      But Darby loves them too, with heart sincere.
+     </l>
+     <l n="130">
+      There too I saw some mighty pretty shows;
+     </l>
+     <l n="131">
+      A revolution without blood or blows;
+     </l>
+     <l n="132">
+      For as I understood the cunning elves,
+     </l>
+     <l n="133">
+      The people all revolted from themselves;
+     </l>
+     <l n="134">
+      Then after joining in a kind confession,
+     </l>
+     <l n="135">
+      They all agreed to walk in a procession;
+     </l>
+     <l n="136">
+      So turners, taylors, tinkers, tavern-keepers,
+     </l>
+     <l n="137">
+      With parsons, blacksmiths, lawyers, chimney
+                                    sweepers,
+     </l>
+     <l n="138">
+      All neatly dress'd, and all in order fair,
+     </l>
+     <l n="139">
+      Nice painted standards, waving in the air,
+     </l>
+     <l n="140">
+      March'd thro' the town — eat beef — and drank strong
+                                    beer.
+     </l>
+     <l n="141">
+      Soon after that I saw another show,
+     </l>
+     <l n="142">
+      A man who'd fought to free the land from woe,
+     </l>
+     <l n="143">
+      Like me
+      had left his
+      farm
+      a
+      soldiering
+      to go;
+     </l>
+     <l n="144">
+      But having gain'd his point, he had,
+      like
+                                        me
+      ,
+     </l>
+     <l n="145">
+      Return'd his own
+      potatoe ground
+      to
+                                    see;
+     </l>
+     <l n="146">
+      But there he coldn't rest; — with one accord
+     </l>
+     <l n="147">
+      He's call'd to be a kind of — — ,not a Lord — —
+     </l>
+     <l n="148">
+      I don't know what — he's rot a great man, sure,
+     </l>
+     <l n="149">
+      For poor men love him, just as he was poor!
+     </l>
+     <l n="150">
+      They love him like a father or a brother.
+     </l>
+    </sp>
+    <sp who="#dermot">
+     <speaker>
+      Dermot.
+     </speaker>
+     <l n="151">
+      As we poor Irishmen love one another.
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <l n="152">
+      Just so.
+     </l>
+    </sp>
+    <sp who="#fatherluke">
+     <speaker>
+      Father Luke.
+     </speaker>
+     <l n="153">
+      Why that's the strangest sight of all.
+     </l>
+    </sp>
+    <sp who="#kathleen">
+     <speaker>
+      Kathleen.
+     </speaker>
+     <l n="154">
+      How look'd he Darby? Was he short or tall?
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <l n="155">
+      Why sure I didn't see him: to be sure,
+     </l>
+     <l n="156">
+      As I was looking hard from out the door,
+     </l>
+     <l n="157">
+      I saw a man in regimentals fine,
+     </l>
+     <l n="158">
+      All lace and glitter, bother'um and shine;
+     </l>
+     <l n="159">
+      And so I look'd at him, till all was gone,
+     </l>
+     <l n="160">
+      And then, I found that he was not the one.
+     </l>
+     <l n="161">
+      "By this time, boys, I wanted to get home;
+     </l>
+     <l n="162">
+      "I thought you would be glad to see me come;
+     </l>
+     <l n="163">
+      "So, as I've often heard the people say,
+     </l>
+     <l n="164">
+      "The farthest round is much the shortest way,
+     </l>
+     <l n="165">
+      "I went to France. I always did love quiet,
+     </l>
+     <l n="166">
+      "And there I got in the middle of a riot.
+     </l>
+     <l n="167">
+      "There they cried "
+      vive la nation,"
+                                        "liberty
+      ,"
+     </l>
+     <l n="168">
+      "And all the
+      bag and tails
+      swore
+                                    they'd be free;
+     </l>
+     <l n="169">
+      "They caught the fire quite across the ocean,
+     </l>
+     <l n="170">
+      "And to be sure, they're in a nice commotion:
+     </l>
+     <l n="171">
+      "(Down with the bastile — tuck up the jailor.
+     </l>
+     <l n="172">
+      "Cut off my lor's head, then pay his taylor.)
+     </l>
+     <l n="173">
+      "Oh bless their hearts, if they can but get free,
+     </l>
+     <l n="174">
+      "They'll soon be as fat and as jolly as we;
+     </l>
+     <l n="175">
+      "Some took the
+      liberty
+      to plunder
+                                    others,
+     </l>
+     <l n="176">
+      "Because equality is more like brothers.
+     </l>
+     <l n="177">
+      "You may be sure I didn't stay there long.
+     </l>
+     <l n="178">
+      "So here I am boys, hearty hale and strong!"
+     </l>
+     <l n="179">
+      But oh, New-York's the place to get a wife,
+     </l>
+     <l n="180">
+      Aye, that's the place to lead a merry life.
+     </l>
+    </sp>
+    <sp who="#fatherluke">
+     <speaker>
+      Father Luke.
+     </speaker>
+     <l n="181">
+      Why Darby, boy, why didn't you stay there?
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <l n="182">
+      Because I wish'd to pay a visit here;
+     </l>
+     <l n="183">
+      To see how all the
+      Carton
+      lasses
+                                    thrive,
+     </l>
+     <l n="184">
+      And ask ye, sure, if ye are all alive.
+     </l>
+     <l n="185">
+      But I'll go back again, oh never fear!
+     </l>
+     <l n="186">
+      I'll not be after leaving them, my dear:
+     </l>
+     <l n="187">
+      You will not catch me staying a great while,
+     </l>
+     <l n="188">
+      From where I'm never seen without a smile.
+     </l>
+     <l n="189">
+      Oh may their little country ever prove,
+     </l>
+     <l n="190">
+      The land of liberty and seat of love.
+     </l>
+     <l n="191">
+      Oh bless their little hearts, and all they've got,
+     </l>
+     <l n="192">
+      And may they soon
+      have
+      all that they
+      have not.
+     </l>
+    </sp>
+    <sp who="#clown">
+     <speaker>
+      Clown.
+     </speaker>
+     <l n="193">
+      Well, Darby, but did you see nothing more?
+     </l>
+     <l n="194">
+      Didst see no Indians?
+     </l>
+    </sp>
+    <sp who="#darby">
+     <speaker>
+      Darby.
+     </speaker>
+     <stage>
+      Air — " The Taylor done over."
+     </stage>
+     <l n="195">
+      Indians? — By the score.
+     </l>
+     <l n="196">
+      I saw balloons too, and I learn'd a song;
+     </l>
+     <l n="197">
+      I'll sing it t'ye — it isn't very long.
+     </l>
+     <l n="198">
+      We had a balloon there, as
+                                                  big as a church sirs
+      ,
+     </l>
+     <l n="199">
+      And when it went off we were left in
+                                                  the lurch sirs;
+     </l>
+     <l n="200">
+      For while we were watching,
+                                                  like sportsmen for plover
+      ,
+     </l>
+     <l n="201">
+      The linen took fire — and did us all
+                                                  over.
+     </l>
+     <l n="202">
+      Over, over, oh!
+     </l>
+     <l n="203">
+      Oh when we look'd up and saw nothing
+                                                  but smoke sirs;
+     </l>
+     <l n="204">
+      We all of us laugh'd; — tho'
+                                                  none found out the joke sirs
+      ,
+     </l>
+     <l n="205">
+      Then all in a flock, like
+                                                  before-mentioned plover
+      ,
+     </l>
+     <l n="206">
+      We sneak'd into town; — very fairly
+                                                  done over.
+     </l>
+     <l n="207">
+      Over, over, oh!
+     </l>
+     <l n="208">
+      Thus Darby his travels, has
+                                                  briefly related
+      ,
+     </l>
+     <l n="209">
+      And all his adventures, in due order
+                                                  stated:
+     </l>
+     <l n="210">
+      And as he has prov'd, that of
+                                                  truth he's a lover
+      ,
+     </l>
+     <l n="211">
+      He hopes the
+      pit critics
+      — will not do him over.
+     </l>
+     <l n="212">
+      Over, over, oh!
+     </l>
+     <l n="213">
+      He looks to the boxes, in
+                                                  hopes to find favour
+      ,
+     </l>
+     <l n="214">
+      He's a tight Irish boy — tho' of
+                                                  clownish behaviour;
+     </l>
+     <l n="215">
+      Let the ladies remember, love
+                                                  made him a rover
+      ,
+     </l>
+     <l n="216">
+      And they can't have the heart, sure —
+                                                  to do Darby over.
+     </l>
+     <l n="217">
+      Over, over, oh!
+     </l>
+     <l n="218">
+      You jolly round faces, poor
+                                                  Darby's long lov'd you
+      ,
+     </l>
+     <l n="219">
+      <stage>
+       (to the gallery.
+      </stage>
+     </l>
+     <l n="220">
+      Your applause he may hope since he
+                                                  often has prov'd you:
+     </l>
+     <l n="221">
+      May you ne'er want for fun,
+                                                  while you're here under cover
+      ,
+     </l>
+     <l n="222">
+      And the siddles still play you — the
+                                                  Taylor done over.
+     </l>
+     <l n="223">
+      Over, over, oh!
+     </l>
+     <l n="224">
+      Your healths will be drink,
+                                                  in a cup of brown nappy
+      ,
+     </l>
+     <l n="225">
+      <stage>
+       (all around.
+      </stage>
+     </l>
+     <l n="226">
+      May the single he married, the
+                                                  married be happy:
+     </l>
+     <l n="227">
+      And as gratitude many great
+                                                  sailings may cover
+      ,
+     </l>
+     <l n="228">
+      Darby's heart shall be
+                                                  grateful
+      — till death does him over.
+     </l>
+     <l n="229">
+      Over, over, oh!
+     </l>
+    </sp>
+   </div>
+  </body>
+  <back>
+   <p>
+    THE END.
+   </p>
+  </back>
+ </text>
+</TEI>

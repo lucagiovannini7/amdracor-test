@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am466" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Battle of Bunkers-Hill
+    </title>
+    <author>
+     Brackenridge, H. H. (Hugh Henry)
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Project Gutenberg
+     </name>
+     <idno>
+      https://www.gutenberg.org/ebooks/29225
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Representative Plays by American Dramatists: Vol 1, 1765-1819, ed. Montrose J. Moses
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="clinton" sex="MALE">
+      <persName>Clinton</persName>
+     </person>
+     <person xml:id="burgoyne" sex="MALE">
+      <persName>Burgoyne</persName>
+     </person>
+     <person xml:id="putnam" sex="MALE">
+      <persName>Putnam</persName>
+     </person>
+     <person xml:id="warren" sex="MALE">
+      <persName>Warren</persName>
+     </person>
+     <person xml:id="howe" sex="MALE">
+      <persName>Howe</persName>
+     </person>
+     <person xml:id="gage" sex="MALE">
+      <persName>Gage</persName>
+     </person>
+     <person xml:id="sherwin" sex="MALE">
+      <persName>Sherwin</persName>
+     </person>
+     <person xml:id="lordpigot" sex="MALE">
+      <persName>Lord Pigot</persName>
+     </person>
+     <person xml:id="gardiner" sex="MALE">
+      <persName>Gardiner</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Drama
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Verse
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1776">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <p rend="l">
+    — Pulcrumque mori succurrit in armis.
+   </p>
+   <p rend="l">
+    'Tis glorious to die in Battle.
+   </p>
+   <head>
+    TO  RICHARD STOCKTON, Esquire ;
+                             MEMBER  OF THE HONOURABLE,  THE  CONTINENTAL
+                            CONGRESS,  FOR THE STATE  OF  NEW-JERSEY.
+   </head>
+   <p>
+    SIR,
+   </p>
+   <p>
+    I take the Freedom to Inscribe with YOUR Name, the following short Performance in Honour of some brave Men , who have fallen in the Cause of Liberty.
+   </p>
+   <p>
+    It was at first drawn up for an Exercise in Oratory, to a number of young Gentlemen in a southern Academy, but being now Published, may serve the same Purpose, in other American Seminaries.
+   </p>
+   <p>
+    The many Civilities, received from YOUR Family, at an earlier Period of my Life, while a Student at New-Jersey College, demand the warmest Gratitude; and I do continually, with the most sincere Pleasure, recollect and acknowledge them.
+   </p>
+   <p>
+    It is my fervent wish, that the Ruler of the Universe may Crown with Success, the Cause of Freedom , and speedily relieve our bleeding Country in whose Service YOU have distinguishedly exerted YOUR eminent Abilities, by assisting HER Deliberations in the grand Council of the Empire.
+   </p>
+   <!--THE AUTHOR.-->
+   <head>
+    PROLOGUE  TO THE  BATTLE  OF 
+                            BUNKERS-HILL. 
+                            By a Lieutenant Colonel in the
+                            Continental Army. [By unknown]
+   </head>
+   <p rend="l">
+    This mighty Æra big with dread alarms,
+   </p>
+   <p rend="l">
+    Aloud calls each American to arms.
+   </p>
+   <p rend="l">
+    Let ev'ry Breast with martial ardor glow,
+   </p>
+   <p rend="l">
+    Nor dread to meet the proud usurping foe.
+   </p>
+   <p rend="l">
+    What tho' our bodies feel an earthly chain,
+   </p>
+   <p rend="l">
+    Still the free soul, unblemish'd and serene
+   </p>
+   <p rend="l">
+    Enjoys a mental Liberty , — — a charm,
+   </p>
+   <p rend="l">
+    Beyond the power of fate itself to harm.
+   </p>
+   <p rend="l">
+    Should vict'ry crown us in the doubtful strife —
+   </p>
+   <p rend="l">
+    Eternal honours mark the hero's life.
+   </p>
+   <p rend="l">
+    Should Wounds and slaughter be our hapless doom —
+   </p>
+   <p rend="l">
+    Unfading laurels deck the Martyr's Tomb:
+   </p>
+   <p rend="l">
+    A sure reward awaits his soul on high,
+   </p>
+   <p rend="l">
+    On earth his memory shall never die.
+   </p>
+   <p rend="l">
+    For when we read the fatal story o'er,
+   </p>
+   <p rend="l">
+    One tear shall drop for him who is — no more.
+   </p>
+   <p rend="l">
+    Who nobly struggled to support our laws,
+   </p>
+   <p rend="l">
+    And bravely fell in freedom's sacred cause
+   </p>
+   <p rend="l">
+    Let virtue fire as to the martial deed;
+   </p>
+   <p rend="l">
+    We fight to conquer and we dare to bleed:
+   </p>
+   <p rend="l">
+    Witness ye fathers! whose protracted time,
+   </p>
+   <p rend="l">
+    Fruitful of story, chronicles the clime.
+   </p>
+   <p rend="l">
+    These howling deserts, hospitably tame,
+   </p>
+   <p rend="l">
+    Erst snatch'd you martyrs, from the hungry flame;
+   </p>
+   <p rend="l">
+    'Twas Heav'n's own cause, beneath whose shelt'ring power,
+   </p>
+   <p rend="l">
+    Ye grew the wonder of this present hour — —
+   </p>
+   <p rend="l">
+    The task — be ours with unremitted toil,
+   </p>
+   <p rend="l">
+    To guard the rights of this dear-purchas'd soil,
+   </p>
+   <p rend="l">
+    From Royal plund'rers, greedy of our spoil,
+   </p>
+   <p rend="l">
+    Who come resolv'd to murder and enslave,
+   </p>
+   <p rend="l">
+    To shackle Freemen and to rob the brave.
+   </p>
+   <p rend="l">
+    The loud mouth'd cannon threaten from afar,
+   </p>
+   <p rend="l">
+    Be this our comfort in the storm of war — —
+   </p>
+   <p rend="l">
+    Who fights, to take our liberty away,
+   </p>
+   <p rend="l">
+    Dead-hearted fights, and falls an easy prey.
+   </p>
+   <p rend="l">
+    Then, on my brethren to the embattl'd plain,
+   </p>
+   <p rend="l">
+    Who shrinks with fear, anticipates a chain.
+   </p>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      DRAMATIS PERSONÆ.
+     </head>
+     <castItem>
+      Warren. American Officer.
+     </castItem>
+     <castItem>
+      Putnam. American Officer.
+     </castItem>
+     <castItem>
+      Gardiner. American Officer.
+     </castItem>
+     <castItem>
+      Gage. British Officer.
+     </castItem>
+     <castItem>
+      Howe. British Officer.
+     </castItem>
+     <castItem>
+      Burgoyne. British Officer.
+     </castItem>
+     <castItem>
+      Clinton. British Officer.
+     </castItem>
+     <castItem>
+      Lord Pigot. British Officer.
+     </castItem>
+     <castItem>
+      Sherwin . Aid de Camp to General Howe.
+     </castItem>
+     <castItem>
+      Soldiers, &amp;.mp;c.
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     ACT I.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      Camp at Cambridge.
+     </stage>
+     <stage>
+      Enter Warren, Putnam , and Gardiner.
+     </stage>
+     <sp who="#warren">
+      <speaker>
+       Warren.
+      </speaker>
+      <l n="1">
+       Why
+       thus brave
+       Putnam
+       , shall we still encamp
+      </l>
+      <l n="2">
+       Inactive here; and with this gentle flood,
+      </l>
+      <l n="3">
+       By
+       Cambridge
+       murmuring, mix briny
+                                        tears?
+      </l>
+      <l n="4">
+       Salt tears of grief by many a parent shed,
+      </l>
+      <l n="5">
+       For sons detain'd, and tender innocents
+      </l>
+      <l n="6">
+       In yon fair City, famishing for bread;
+      </l>
+      <l n="7">
+       For not fond mothers or their weeping babes
+      </l>
+      <l n="8">
+       Can move the hard heart of relentless
+       Gage.
+      </l>
+      <l n="9">
+       Perfidious man! Who pledg'd his oath so late,
+      </l>
+      <l n="10">
+       And word of honour to those patriots
+      </l>
+      <l n="11">
+       Yet in his power, that yielding him their arms,
+      </l>
+      <l n="12">
+       They should receive permission to depart,
+      </l>
+      <l n="13">
+       And join once more their valiant countrymen;
+      </l>
+      <l n="14">
+       But now detains as hostages these men.
+      </l>
+      <l n="15">
+       In low damp dungeons, and in gaols chain'd down,
+      </l>
+      <l n="16">
+       While grief and famine on their vitals prey.
+      </l>
+      <l n="17">
+       Say noble
+       Putnam
+       , shall we hear
+                                        of this,
+      </l>
+      <l n="18">
+       And let our idle swords rust in the sheath,
+      </l>
+      <l n="19">
+       While slaves of Royal Power impeach our worth
+      </l>
+      <l n="20">
+       As vain, and call our patience cowardice?
+      </l>
+     </sp>
+     <sp who="#putnam">
+      <speaker>
+       Putnam.
+      </speaker>
+      <l n="21">
+       Not less bold
+       Warren
+       have I felt
+                                        the pangs
+      </l>
+      <l n="22">
+       Of woe severe in this calamity:
+      </l>
+      <l n="23">
+       And could I with my life redeem the times,
+      </l>
+      <l n="24">
+       The richest blood that circles round my heart,
+      </l>
+      <l n="25">
+       Should hastily be shed. But what avails
+      </l>
+      <l n="26">
+       The genuine flame and vigour of the soul,
+      </l>
+      <l n="27">
+       When nature's self, and all the strength of art,
+      </l>
+      <l n="28">
+       Opposes every effort in our power?
+      </l>
+      <l n="29">
+       These sons of slavery dare not advance,
+      </l>
+      <l n="30">
+       And meet in equal fight our hostile arms.
+      </l>
+      <l n="31">
+       For yet they well remember
+       Lexington
+       ,
+      </l>
+      <l n="32">
+       And what they suffer'd on that rueful day,
+      </l>
+      <l n="33">
+       When wantoning in savage rage, they march'd
+      </l>
+      <l n="34">
+       Onward to
+       Concord
+       , in a firm
+                                        array,
+      </l>
+      <l n="35">
+       Mock music playing, and the ample flag
+      </l>
+      <l n="36">
+       Or tyranny display'd; but with dire loss
+      </l>
+      <l n="37">
+       And infamy drove back, they gain'd the town,
+      </l>
+      <l n="38">
+       And under cover of their ships of war,
+      </l>
+      <l n="39">
+       Rein'd, confounded and dismay'd. No more
+      </l>
+      <l n="40">
+       In mirthful mood to combat us, or mix
+      </l>
+      <l n="41">
+       Their jocund music with the sounds of war.
+      </l>
+      <l n="42">
+       To tempt no more unequal fight with men,
+      </l>
+      <l n="43">
+       Who to oppose dire arbitrary sway,
+      </l>
+      <l n="44">
+       Have grasp'd the sword; and resolute to brave
+      </l>
+      <l n="45">
+       Death in a thousand dreary shapes, can know,
+      </l>
+      <l n="46">
+       In the warm breast, no sentiment of fear.
+      </l>
+     </sp>
+     <sp who="#gardiner">
+      <speaker>
+       Gardiner.
+      </speaker>
+      <l n="47">
+       The free born spirit of immortal fire
+      </l>
+      <l n="48">
+       Is stranger to ignoble deeds, and shuns
+      </l>
+      <l n="49">
+       The name of cowardice. But well thy mind,
+      </l>
+      <l n="50">
+       Sage, and matur'd by long experience, weighs
+      </l>
+      <l n="51">
+       The perilous attempt, to storm the town,
+      </l>
+      <l n="52">
+       And rescue thence, the suff'ring citizens.
+      </l>
+      <l n="53">
+       For but one pass to that peninsula,
+      </l>
+      <l n="54">
+       On which the city stands, on all sides barr'd.
+      </l>
+      <l n="55">
+       And here what numbers can supply the rage,
+      </l>
+      <l n="56">
+       Or the all devouring, deep mouth'd cannon,
+                                        plac'd,
+      </l>
+      <l n="57">
+       On many a strong redoubt; While on each side,
+      </l>
+      <l n="58">
+       The ships of war, moor'd, in the winding bay,
+      </l>
+      <l n="59">
+       Can sweep ten thousand from the level beach,
+      </l>
+      <l n="60">
+       "And render all access impregnable."
+      </l>
+     </sp>
+     <sp who="#warren">
+      <speaker>
+       Warren.
+      </speaker>
+      <l n="61">
+       True valiant
+       Gard'ner
+       , the
+                                        attempt is vain,
+      </l>
+      <l n="62">
+       To force that entrance to the sea-girt town;
+      </l>
+      <l n="63">
+       Which while we hop'd for peace, and in that view,
+      </l>
+      <l n="64">
+       Kept back our swords, we saw them fortify.
+      </l>
+      <l n="65">
+       But what if haply, with a chosen few,
+      </l>
+      <l n="66">
+       Led through the midnight shades, yon heights were
+                                        gain'd,
+      </l>
+      <l n="67">
+       And that contiguous hill, whose grassy foot,
+      </l>
+      <l n="68">
+       By Mystick's gentle tide is wash'd. Here rais'd,
+      </l>
+      <l n="69">
+       Strong batt'ries jutting o'er the level sea,
+      </l>
+      <l n="70">
+       With everlasting thunder, shall annoy
+      </l>
+      <l n="71">
+       Their navy far beneath; and in some lucky hour,
+      </l>
+      <l n="72">
+       When dubious darkness on the land is spread,
+      </l>
+      <l n="73">
+       A chosen band may pierce their sep'rate fleet,
+      </l>
+      <l n="74">
+       And in swift boats, across the narrow tide,
+      </l>
+      <l n="75">
+       Pour like a flame, on their unguarded ranks,
+      </l>
+      <l n="76">
+       And wither them: As when an Angel smote,
+      </l>
+      <l n="77">
+       The Assyrian camp. The proud Sennacherib,
+      </l>
+      <l n="78">
+       With impious rage, against the hill of God,
+      </l>
+      <l n="79">
+       Blasphem'd. Low humbl'd, when the dawning light,
+      </l>
+      <l n="80">
+       Saw all his host dead men: So yet I trust,
+      </l>
+      <l n="81">
+       The God of battles, will avouch our cause,
+      </l>
+      <l n="82">
+       And those proud champions of despotic power,
+      </l>
+      <l n="83">
+       Who turn our fasting to their mirth, and mock
+      </l>
+      <l n="84">
+       Our prayers, naming us the
+       Saints
+       , shall yet,
+      </l>
+      <l n="85">
+       Repay with blood, the tears and agonies,
+      </l>
+      <l n="86">
+       Of tender mothers, and their infant babes,
+      </l>
+      <l n="87">
+       Shut up in
+       Boston.
+      </l>
+     </sp>
+     <sp who="#putnam">
+      <speaker>
+       Putnam.
+      </speaker>
+      <l n="88">
+       Heaven, smile on us then,
+      </l>
+      <l n="89">
+       And favour this attempt. Now from our troops,
+      </l>
+      <l n="90">
+       Seven hundred gallant men, and skill'd in arms,
+      </l>
+      <l n="91">
+       With speed select, choice spirits of the war.
+      </l>
+      <l n="92">
+       By you, led on brave
+       Gard'ner
+       , to
+                                        the heights,
+      </l>
+      <l n="93">
+       E're yet the morn, with dawning light breaks
+                                        forth,
+      </l>
+      <l n="94">
+       Intrench on
+       Bunkers Hill
+       ; and
+                                        when the day,
+      </l>
+      <l n="95">
+       First, o'er the hill top rises, we shall join
+      </l>
+      <l n="96">
+       United arms, against the assailing foe,
+      </l>
+      <l n="97">
+       Should they attempt to cross the narrow tide,
+      </l>
+      <l n="98">
+       In deep battalion to regain the hill.
+      </l>
+     </sp>
+     <sp who="#gardiner">
+      <speaker>
+       Gardiner.
+      </speaker>
+      <l n="99">
+       The thought is perilous, and many men,
+      </l>
+      <l n="100">
+       In this bold enterprize, must strew the ground.
+      </l>
+      <l n="101">
+       But since we combat in the cause of God,
+      </l>
+      <l n="102">
+       I draw my sword, nor shall the sheath again,
+      </l>
+      <l n="103">
+       Receive the shining blade, till on the heights,
+      </l>
+      <l n="104">
+       Of
+       Charles-Town
+       , and
+       Bunker's
+       pleasant
+       Hill
+       ,
+      </l>
+      <l n="105">
+       It drinks the blood of many a warrior slain.
+      </l>
+     </sp>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT II.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      Boston.
+     </stage>
+     <stage>
+      Enter Gage, Howe , and Burgoyne.
+     </stage>
+     <sp who="#burgoyne">
+      <speaker>
+       Burgoyne.
+      </speaker>
+      <l n="1">
+       How long brave gen'rals, shall the rebel foe,
+      </l>
+      <l n="2">
+       In vain arrangements, and mock siege, display,
+      </l>
+      <l n="3">
+       Their haughty insolence? — Shall in this town,
+      </l>
+      <l n="4">
+       So many thousands, of
+       Britannia's
+       troops,
+      </l>
+      <l n="5">
+       With watch incessant, and sore toil oppress'd.
+      </l>
+      <l n="6">
+       Remain besieg'd? A vetr'an army pent,
+      </l>
+      <l n="7">
+       In the inclosure, of so small a space,
+      </l>
+      <l n="8">
+       By a disorder'd herd, untaught, unofficer'd.
+      </l>
+      <l n="9">
+       Let not sweet Heav'n, the envious mouth of fame,
+      </l>
+      <l n="10">
+       With breath malignant, o'er the Atlantic wave,
+      </l>
+      <l n="11">
+       Bear this to Europe's shores, or tell to France,
+      </l>
+      <l n="12">
+       Or haughty Spain of
+       Lexington's
+       retreat.
+      </l>
+      <l n="13">
+       Who could have thought it, in the womb of time,
+      </l>
+      <l n="14">
+       That
+       British
+       soldiers, in this
+                                        latter age,
+      </l>
+      <l n="15">
+       Beat back by peasants, and in flight disgrac'd,
+      </l>
+      <l n="16">
+       Could tamely brook the base discomfiture;
+      </l>
+      <l n="17">
+       Nor sallying out, with spirit reassum'd,
+      </l>
+      <l n="18">
+       Exact due tribute of their victory?
+      </l>
+      <l n="19">
+       Drive back the foe, to Alleghany hills,
+      </l>
+      <l n="20">
+       In woody vallies, or on mountain tops,
+      </l>
+      <l n="21">
+       To mix with wolves and kindred savages.
+      </l>
+     </sp>
+     <sp who="#gage">
+      <speaker>
+       Gage.
+      </speaker>
+      <l n="22">
+       This mighty paradox, will soon dissolve.
+      </l>
+      <l n="23">
+       Hear first,
+       Burgoyne
+       , the valour
+                                        of these men.
+      </l>
+      <l n="24">
+       Fir'd with the zeal, of fiercest liberty,
+      </l>
+      <l n="25">
+       No fear of death, to terrible to all,
+      </l>
+      <l n="26">
+       Can stop their rage. Grey-headed clergymen,
+      </l>
+      <l n="27">
+       With holy bible, and continual prayer.
+      </l>
+      <l n="28">
+       Bear up their fortitude — and talk of heav'n,
+      </l>
+      <l n="29">
+       And tell them, that sweet soul, who dies in
+                                        battle,
+      </l>
+      <l n="30">
+       Shall walk, with spirits of the just. These
+                                        words,
+      </l>
+      <l n="31">
+       Add wings to native rage, and hurry them
+      </l>
+      <l n="32">
+       Impetuous to war. Nor yet in arms
+      </l>
+      <l n="33">
+       Unpractised. The day of
+       Lexington
+       ,
+      </l>
+      <l n="34">
+       A sad conviction gave our soldiery,
+      </l>
+      <l n="35">
+       That these
+       Americans
+       , were not
+                                        that herd,
+      </l>
+      <l n="36">
+       And rout ungovern'd, which we painted them.
+      </l>
+     </sp>
+     <sp who="#howe">
+      <speaker>
+       Howe.
+      </speaker>
+      <l n="37">
+       Not strange to your maturer thought,
+       Burgoyne
+       ,
+      </l>
+      <l n="38">
+       This matter will appear. A people brave,
+      </l>
+      <l n="39">
+       Who never yet, of luxury, or soft
+      </l>
+      <l n="40">
+       Delights, effeminate, and false, have tasted.
+      </l>
+      <l n="41">
+       But, through hate of chains, and slav'ry,
+                                        suppos'd,
+      </l>
+      <l n="42">
+       Forsake their mountain tops, and rush to arms.
+      </l>
+      <l n="43">
+       Oft have I heard their valour, published:
+      </l>
+      <l n="44">
+       Their perseverance, and untameable
+      </l>
+      <l n="45">
+       Fierce mind, when late they fought with us, and
+                                        drove,
+      </l>
+      <l n="46">
+       The French encroaching on their settlements,
+      </l>
+      <l n="47">
+       Back to their frozen lakes. Or when with us
+      </l>
+      <l n="48">
+       On Cape Breton, they stormed Louisburg.
+      </l>
+      <l n="49">
+       With us in Canada, they took Quebec;
+      </l>
+      <l n="50">
+       And at the Havannah, these
+       New-England
+                                            men
+       ,
+      </l>
+      <l n="51">
+       Led on by
+       Putnam
+       , acted
+                                        gallantly.
+      </l>
+      <l n="52">
+       I had a brother once, who in that war,
+      </l>
+      <l n="53">
+       With fame commanded them, and when he fell,
+      </l>
+      <l n="54">
+       Not unlamented; for these warriors,
+      </l>
+      <l n="55">
+       So brave themselves, and sensible of merit,
+      </l>
+      <l n="56">
+       Erected him a costly monument;
+      </l>
+      <l n="57">
+       And much it grieves me that I draw my sword,
+      </l>
+      <l n="58">
+       For this late insurrection, and revolt,
+      </l>
+      <l n="59">
+       To chastise them. Would to Almighty God,
+      </l>
+      <l n="60">
+       The task unnatural, had been assign'd,
+      </l>
+      <l n="61">
+       Else where. But since by Heaven, determined,
+      </l>
+      <l n="62">
+       Let's on, and wipe the day of
+       Lexington
+       ,
+      </l>
+      <l n="63">
+       Thus soil'd, quite from our soldiers memories.
+      </l>
+      <l n="64">
+       This reinforcement, which with us have sail'd,
+      </l>
+      <l n="65">
+       In many a transport, from
+       Britannia's
+       shores,
+      </l>
+      <l n="66">
+       Will give new vigour to the Royal Arms,
+      </l>
+      <l n="67">
+       And crush rebellion, in its infancy.
+      </l>
+      <l n="68">
+       Let's on, and from this siege, calamitous,
+      </l>
+      <l n="69">
+       Assert our liberty; nay rather die,
+      </l>
+      <l n="70">
+       Transfix'd in battle, by their bayonets,
+      </l>
+      <l n="71">
+       Than thus remain, the scoff, and ridicule
+      </l>
+      <l n="72">
+       Of gibing wits, and paultry gazetteers,
+      </l>
+      <l n="73">
+       On this, their madding continent, who cry,
+      </l>
+      <l n="74">
+       Where is the
+       British
+       valour: that
+                                        renown
+      </l>
+      <l n="75">
+       Which spoke in thunder, to the Gallic shores?
+      </l>
+      <l n="76">
+       That spirit is evaporate, that fire;
+      </l>
+      <l n="77">
+       Which erst distinguish'd them, that flame;
+      </l>
+      <l n="78">
+       And gen'rous energy of soul, which fill'd,
+      </l>
+      <l n="79">
+       Their Henry's, Edwards, thunder-bolts of war;
+      </l>
+      <l n="80">
+       Their Hampdens, Marlboroughs, and the immortal
+                                        Wolfe,
+      </l>
+      <l n="81">
+       On the Abraham heights, victorious.
+      </l>
+      <l n="82">
+       Britannia's
+       genius, is
+                                        unfortunate,
+      </l>
+      <l n="83">
+       And flags say they, when Royal tyranny
+      </l>
+      <l n="84">
+       Directs her arms. This let us then disprove,
+      </l>
+      <l n="85">
+       In combat speedily, and take from them,
+      </l>
+      <l n="86">
+       The wantonness of this fell pride, and boasting.
+      </l>
+     </sp>
+     <sp who="#gage">
+      <speaker>
+       Gage.
+      </speaker>
+      <l n="87">
+       Tho' much I dread the issue of the attempt,
+      </l>
+      <l n="88">
+       So full of hazard, and advent'rous spirit;
+      </l>
+      <l n="89">
+       Yet since your judgment, and high skill in arms,
+      </l>
+      <l n="90">
+       From full experience, boldly prompts you on,
+      </l>
+      <l n="91">
+       I give my voice, and when one day hath pass'd,
+      </l>
+      <l n="92">
+       In whose swift hours, may be wrought, highly up,
+      </l>
+      <l n="93">
+       The resolution, of the soldiery,
+      </l>
+      <l n="94">
+       With soothing words, and ample promises,
+      </l>
+      <l n="95">
+       Of rich rewards, in lands and settlements,
+      </l>
+      <l n="96">
+       From the confiscate property throughout,
+      </l>
+      <l n="97">
+       These rebel colonies, at length subdu'd;
+      </l>
+      <l n="98">
+       Then march we forth, beat up their drowsy camp,
+      </l>
+      <l n="99">
+       And with the sun, to this safe capital,
+      </l>
+      <l n="100">
+       Return, rich, with the triumphs of the war.
+      </l>
+      <l n="101">
+       And be our plan, that which brave Haldiman,
+      </l>
+      <l n="102">
+       E're yet recall'd, advis'd to us. Let first,
+      </l>
+      <l n="103">
+       Brave
+       Howe
+       , and
+       Clinton
+       , on that western point,
+      </l>
+      <l n="104">
+       Land with the transports, and mean time
+       Burgoyne
+       ,
+      </l>
+      <l n="105">
+       With the artillery, pour sharp cannonade,
+      </l>
+      <l n="106">
+       Along the neck, and sweep, that beachy plain,
+      </l>
+      <l n="107">
+       Which lies to
+       Roxborouch
+       , where
+                                        yon western stream,
+      </l>
+      <l n="108">
+       Flowing from
+       Cambridge
+       , mixes
+                                        with the Bay.
+      </l>
+      <l n="109">
+       Thus, these
+       Americans
+       , shall
+                                        learn to dread,
+      </l>
+      <l n="110">
+       The force of discipline, and skill in arms.
+      </l>
+     </sp>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT III.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      Bunkers-Hill.
+     </stage>
+     <stage>
+      Enter Gardiner , with Seven Hundred Men.
+     </stage>
+     <sp who="#gardiner">
+      <speaker>
+       Gardiner.
+      </speaker>
+      <l n="1">
+       This is the hill, brave countrymen, whose brow
+      </l>
+      <l n="2">
+       We mean to fortify. A strong redoubt,
+      </l>
+      <l n="3">
+       With saliant angles, and embrasures deep,
+      </l>
+      <l n="4">
+       Be speedily thrown up. Let each himself,
+      </l>
+      <l n="5">
+       Not underserving, of our choice approve,
+      </l>
+      <l n="6">
+       For out of thousands, I have challeng'd you,
+      </l>
+      <l n="7">
+       To this bold enterprize, as men of might,
+      </l>
+      <l n="8">
+       And valour eminent, and such this day,
+      </l>
+      <l n="9">
+       I trust, will honour you. Let each his spade,
+      </l>
+      <l n="10">
+       And pick-axe, vig'rously, in this hard soil,
+      </l>
+      <l n="11">
+       Where I have laid, the curved line, exert.
+      </l>
+      <l n="12">
+       For now the morning star, bright Lucifer,
+      </l>
+      <l n="13">
+       Peers on the firmament, and soon the day,
+      </l>
+      <l n="14">
+       Flush'd with the golden sun, shall visit us.
+      </l>
+      <l n="15">
+       Then gallant countrymen, should faithless
+       Gage
+       ,
+      </l>
+      <l n="16">
+       Pour forth his lean, and half starv'd myrmidons;
+      </l>
+      <l n="17">
+       We'll make them taste our cartridges, and know,
+      </l>
+      <l n="18">
+       What rugged steel, our bayonets are made of;
+      </l>
+      <l n="19">
+       Or if o'er charg'd, with numbers, bravely fall,
+      </l>
+      <l n="20">
+       Like those three hundred at
+       Thermopylæ
+       ,
+      </l>
+      <l n="21">
+       And give our Country, credit in our deaths.
+      </l>
+     </sp>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT IV.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      Boston.
+     </stage>
+     <sp who="#gage">
+      <speaker>
+       Gage
+      </speaker>
+      <stage>
+       Solus.
+      </stage>
+      <l n="1">
+       Oh sweet tranquillity, and peace of soul,
+      </l>
+      <l n="2">
+       That in the bosom of the cottager,
+      </l>
+      <l n="3">
+       Tak'st up thy residence — cannot the beams,
+      </l>
+      <l n="4">
+       Of royal sunshine, call thee to my breast.
+      </l>
+      <l n="5">
+       Fair honour, waits on thee, renown abroad,
+      </l>
+      <l n="6">
+       And high dominion, o'er this Continent,
+      </l>
+      <l n="7">
+       Soon as the spirit, of rebellious war,
+      </l>
+      <l n="8">
+       Is scourg'd into obedience. Why then ye Gods,
+      </l>
+      <l n="9">
+       This inward gnawing, and remorse of thought,
+      </l>
+      <l n="10">
+       For perfidy, and breach of promises!
+      </l>
+      <l n="11">
+       Why should the spouse, or weeping infant babe,
+      </l>
+      <l n="12">
+       Or meek ey'd virgin, with her fallow cheek,
+      </l>
+      <l n="13">
+       The rose by famine, wither'd out of it;
+      </l>
+      <l n="14">
+       Or why the father, or his youthful son,
+      </l>
+      <l n="15">
+       By me detain'd, from all their relatives,
+      </l>
+      <l n="16">
+       And, in low dungeons, and, in Gaols chain'd down,
+      </l>
+      <l n="17">
+       Affect my spirit, when the mighty cause,
+      </l>
+      <l n="18">
+       Of
+       George
+       and
+       Britain
+       , is endangered.
+      </l>
+      <l n="19">
+       For nobly struggling, in the cause of kings,
+      </l>
+      <l n="20">
+       We claim the high, the just prerogative,
+      </l>
+      <l n="21">
+       To rule mankind, and with an iron rod,
+      </l>
+      <l n="22">
+       Exact submission, due, tho' absolute.
+      </l>
+      <l n="23">
+       What tho' they stile me, villain, murderer,
+      </l>
+      <l n="24">
+       And imprecate from heaven, dire thunderbolts,
+      </l>
+      <l n="25">
+       To crush my purposes — Was that a gun,
+      </l>
+      <l n="26">
+       Which thunders o'er the wave? — Or is it guilt,
+      </l>
+      <l n="27">
+       That plays the coward, with my trembling heart,
+      </l>
+      <l n="28">
+       And cools the blood, with frightful images.
+      </l>
+      <l n="29">
+       Oh guilt, thy blackness, hovers on the mind,
+      </l>
+      <l n="30">
+       Nor can the morning dissipate thy shades.
+      </l>
+      <l n="31">
+       Yon ruddy morn, which over
+       Bunkers-hill
+       ,
+      </l>
+      <l n="32">
+       Advancing slowly, blushes to the bay,
+      </l>
+      <l n="33">
+       And tips with gold the spires of
+       Charles-town.
+      </l>
+     </sp>
+     <sp who="#burgogyne">
+      <speaker>
+       Burgoyne.
+      </speaker>
+      <stage>
+       Enter
+      </stage>
+      <l n="34">
+       The rebel foe, grown yet, more insolent,
+      </l>
+      <l n="35">
+       By that small loss, or rout, at
+       Lexington
+       ,
+      </l>
+      <l n="36">
+       Prevent our purpose and the night by-past,
+      </l>
+      <l n="37">
+       Have push'd intrenchments, and some flimsy works,
+      </l>
+      <l n="38">
+       With rude atchievement, on the rocky brow,
+      </l>
+      <l n="39">
+       Of that tall hill. A ship-boy, with the day,
+      </l>
+      <l n="40">
+       From the tall mast-head, of the Admiral,
+      </l>
+      <l n="41">
+       Descry'd their aim, and gave the swift alarm.
+      </l>
+      <l n="42">
+       Our glasses mark, but one small regiment there,
+      </l>
+      <l n="43">
+       Yet, ev'ry hour we languish in delay,
+      </l>
+      <l n="44">
+       Inspires fresh hope, and fills their pig'my
+                                        fouls,
+      </l>
+      <l n="45">
+       With thoughts of holding it. You hear the found
+      </l>
+      <l n="46">
+       Of spades and pick-axes, upon the hill,
+      </l>
+      <l n="47">
+       Incessant, pounding, like old Vulcan's forge,
+      </l>
+      <l n="48">
+       Urg'd by the Cyclops.
+      </l>
+     </sp>
+     <sp who="#howe">
+      <speaker>
+       Howe.
+      </speaker>
+      <stage>
+       Enter
+      </stage>
+      <l n="49">
+       To your alarm posts, officers; come gallant
+                                        souls,
+      </l>
+      <l n="50">
+       Let's out, and drive them from that eminence,
+      </l>
+      <l n="51">
+       On which the foe, doth earth himself.
+      </l>
+      <l n="52">
+       I relish not, such haughty neighbourhood.
+      </l>
+      <l n="53">
+       Give orders, swiftly, to the Admiral,
+      </l>
+      <l n="54">
+       That some stout ship heave up the narrow bay,
+      </l>
+      <l n="55">
+       And pour indignant, from the full-tide wave,
+      </l>
+      <l n="56">
+       Fierce cannonade, across the isthmus point,
+      </l>
+      <l n="57">
+       That no assistance may be brought to them.
+      </l>
+      <l n="58">
+       If but seven hundred, we can treat with them.
+      </l>
+      <l n="59">
+       Yes, strew the hill, with death, and carcases,
+      </l>
+      <l n="60">
+       And offer up, this band, a hecatomb.
+      </l>
+      <l n="61">
+       To Britain's glory, and the cause of kings.
+      </l>
+     </sp>
+     <stage>
+      Exeunt Burgoyne and Howe.
+     </stage>
+     <sp who="#gage">
+      <speaker>
+       Gage.
+      </speaker>
+      <stage>
+       Solus.
+      </stage>
+      <l n="62">
+       May Heaven, protect us, from their rage, I say,
+      </l>
+      <l n="63">
+       When but a boy, I dream'd, of deah in bed,
+      </l>
+      <l n="64">
+       And ever since that time, I hated things
+      </l>
+      <l n="65">
+       Which put him, like a pair of spectacles,
+      </l>
+      <l n="66">
+       Before my eyes. The thought Lies deep in fate,
+      </l>
+      <l n="67">
+       Nor can a mortal, see the bottom of it.
+      </l>
+      <l n="68">
+       'Tis here — 'Tis there — I could philosophize —
+      </l>
+      <l n="69">
+       Eternity, is like a winding sheet —
+      </l>
+      <l n="70">
+       The seven commandments like — I think there's seven,
+                                        —
+      </l>
+      <l n="71">
+       I scratch my head — but yet in vain I scratch —
+      </l>
+      <l n="72">
+       Oh
+       Bute
+       , and
+       Dartmouth
+       knew ye what I feel,
+      </l>
+      <l n="73">
+       You sure would pity, an old drinking man,
+      </l>
+      <l n="74">
+       That has more heart-ake, than philosophy.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      Howe with the British Army.
+     </stage>
+     <sp who="#howe">
+      <speaker>
+       Howe.
+      </speaker>
+      <l n="1">
+       The day at length, propitious shews itself,
+      </l>
+      <l n="2">
+       And with full beams of majesty, the sun,
+      </l>
+      <l n="3">
+       Hath bless'd, its fair nativity; when Heaven,
+      </l>
+      <l n="4">
+       Brave soldiers, and the cause of kings,
+      </l>
+      <l n="5">
+       Calls on the spirit of your loyalty,
+      </l>
+      <l n="6">
+       To chastise this rebellion, and tread down,
+      </l>
+      <l n="7">
+       Such soul ingratitude — such monstrous shape,
+      </l>
+      <l n="8">
+       Of horrid liberty, which spurns that love —
+      </l>
+      <l n="9">
+       That fond maternal tenderness of soul.
+      </l>
+      <l n="10">
+       Which on this dreary coast, first planted them:
+      </l>
+      <l n="11">
+       Restrain'd the rage, of murdering savages,
+      </l>
+      <l n="12">
+       Which, with fierce inroad, on their settlements,
+      </l>
+      <l n="13">
+       Made frequent war — struck down the arm of
+                                        France,
+      </l>
+      <l n="14">
+       Just rais'd, to crush them, in their infancy:
+      </l>
+      <l n="15">
+       And since that time, have bade their cities grow,
+      </l>
+      <l n="16">
+       To marts of trade: call'd fair-ey'd commerce
+                                        forth,
+      </l>
+      <l n="17">
+       To share dominion, on the distant wave,
+      </l>
+      <l n="18">
+       And visit every clime, and foreign shore.
+      </l>
+      <l n="19">
+       Yet this, brave soldiers, is the proud return,
+      </l>
+      <l n="20">
+       For the best blood of
+       England
+       ,
+                                        shed for them.
+      </l>
+      <l n="21">
+       Behold you hill, where fell rebellion rears,
+      </l>
+      <l n="22">
+       Her snake-stream'd ensign, and would seem to
+                                        brave
+      </l>
+      <l n="23">
+       With scarce seven hundred, this sea-bounded Camp,
+      </l>
+      <l n="24">
+       Where may be counted, full ten thousand men,
+      </l>
+      <l n="25">
+       That in the war with France to late, acquir'd
+      </l>
+      <l n="26">
+       Loud same, and shook the other continent.
+      </l>
+      <l n="27">
+       Come on brave soldiers, seize your gleaming arms,
+      </l>
+      <l n="28">
+       And let this day, in after times be held,
+      </l>
+      <l n="29">
+       As Minden famous, and each hostile field,
+      </l>
+      <l n="30">
+       Where British valour, shone victorious.
+      </l>
+      <l n="31">
+       The time moves slow, which enviously detains,
+      </l>
+      <l n="32">
+       Out just resentment from these traitors heads.
+      </l>
+      <l n="33">
+       Their richest farms, and cultur'd settlements,
+      </l>
+      <l n="34">
+       By winding river, or extensive bay,
+      </l>
+      <l n="35">
+       Shall be your first reward. Our noble king
+      </l>
+      <l n="36">
+       As things confiscate, holds their property,
+      </l>
+      <l n="37">
+       And in rich measure, will bestow on you,
+      </l>
+      <l n="38">
+       Who face the frowns, and labour of this day,
+      </l>
+      <l n="39">
+       He that outlives this battle, shall ascend,
+      </l>
+      <l n="40">
+       In titled honour, to the height of state,
+      </l>
+      <l n="41">
+       Dukedoms, and baronies, midst these our soes,
+      </l>
+      <l n="42">
+       In tributary vassalage, kept down,
+      </l>
+      <l n="43">
+       Shall be your fair inheritance. Come on,
+      </l>
+      <l n="44">
+       Beat up th' heroic found of war. The word,
+      </l>
+      <l n="45">
+       Is George
+       our sov'reign, and
+       Britannia's
+       arms.
+      </l>
+     </sp>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT V.
+    </head>
+    <div type="scene">
+     <head>
+      SCENE I.
+     </head>
+     <stage>
+      Bunkers-Hill.
+     </stage>
+     <stage>
+      Warren with the American Army.
+     </stage>
+     <sp who="#warren">
+      <speaker>
+       Warren.
+      </speaker>
+      <l n="1">
+       To arms, brave countrymen, for see the foe,
+      </l>
+      <l n="2">
+       Comes forth to battle, and would seem to try,
+      </l>
+      <l n="3">
+       Once more, their fortune in decisice war.
+      </l>
+      <l n="4">
+       Three thousand, 'gainst seven hundred, rang'd this
+                                        day,
+      </l>
+      <l n="5">
+       Shall give the world, an ample specimen,
+      </l>
+      <l n="6">
+       What strength, and noble confidence, the sound,
+      </l>
+      <l n="7">
+       Of Liberty inspires. That Liberty,
+      </l>
+      <l n="8">
+       Which, not the thunder of Bellona's voice,
+      </l>
+      <l n="9">
+       With fleets, and armies, from the
+       British
+       Shore,
+      </l>
+      <l n="10">
+       Shall wrest from us. Our noble ancestors,
+      </l>
+      <l n="11">
+       Out-brav'd the tempests, of the hoary deep,
+      </l>
+      <l n="12">
+       And on these hills, uncultivate, and wild,
+      </l>
+      <l n="13">
+       Sought an asylum, from despotic sway;
+      </l>
+      <l n="14">
+       A short asylum, for that envious power,
+      </l>
+      <l n="15">
+       With perfection dire, still follows us.
+      </l>
+      <l n="16">
+       At first, they deem'd our charters forfeited.
+      </l>
+      <l n="17">
+       Next, our just rights, in government, abridg'd.
+      </l>
+      <l n="18">
+       Then, thrust in viceroys, and bashaws, to rule,
+      </l>
+      <l n="19">
+       With lawless sovereignty. Now added force,
+      </l>
+      <l n="20">
+       Of standing armies, to secure their sway.
+      </l>
+      <l n="21">
+       Much, have we suffer'd from the licens'd rage,
+      </l>
+      <l n="22">
+       Of brutal soldiery, in each fair town.
+      </l>
+      <l n="23">
+       Remember march, brave countrymen, that day
+      </l>
+      <l n="24">
+       When
+       Boston's
+       streets ran blood.
+                                        Think on that day,
+      </l>
+      <l n="25">
+       And let the memory, to revenge, stir up,
+      </l>
+      <l n="26">
+       The temper of your souls. There might we still,
+      </l>
+      <l n="27">
+       On terms precarious, and disdainful liv'd,
+      </l>
+      <l n="28">
+       With daughters ravished, and butcher'd sons,
+      </l>
+      <l n="29">
+       But heaven, forbade the thought. These are the
+                                        men,
+      </l>
+      <l n="30">
+       Who in firm phalanx, threaten us with war,
+      </l>
+      <l n="31">
+       And aim this day, to fix forever down,
+      </l>
+      <l n="32">
+       The galling chains, which tyranny has forg'd for
+                                        us.
+      </l>
+      <l n="33">
+       These count our lands and settlements their own,
+      </l>
+      <l n="34">
+       And in their intercepted letters, speak,
+      </l>
+      <l n="35">
+       Of farms, and tenements, secur'd for friends,
+      </l>
+      <l n="36">
+       Which, if they gain, brave soldiers, let with
+                                        blood,
+      </l>
+      <l n="37">
+       The purchase, be seal'd down. Let every arm,
+      </l>
+      <l n="38">
+       This day be active, in fair freedom's cause,
+      </l>
+      <l n="39">
+       And shower down, from the hill, like Heav'n in
+                                        wrath,
+      </l>
+      <l n="40">
+       Full store of light'ning, and fierce iron hail,
+      </l>
+      <l n="41">
+       To blast the adversary. Let this ground,
+      </l>
+      <l n="42">
+       Like burning Ætna or Vesuvius top,
+      </l>
+      <l n="43">
+       Be wrapt in flame — The word is
+       Liberty
+       ,
+      </l>
+      <l n="44">
+       And Heaven smile on us, in so just a cause.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE II.
+     </head>
+     <stage>
+      Bunkers-Hill.
+     </stage>
+     <sp who="#gardiner">
+      <speaker>
+       Gardiner,
+      </speaker>
+      <stage>
+       Leading up his Men to the Engagement.
+      </stage>
+      <l n="1">
+       Fear not, brave soldiers, tho' their infantry,
+      </l>
+      <l n="2">
+       In deep array, so far out-numbers us.
+      </l>
+      <l n="3">
+       The justness of our cause, will brace each arm,
+      </l>
+      <l n="4">
+       And steel the soul, with fortitude; while they,
+      </l>
+      <l n="5">
+       Whose guilt, hangs trembling, on their
+                                        consciences,
+      </l>
+      <l n="6">
+       Must fail in battle, and receive that death,
+      </l>
+      <l n="7">
+       Which, in high vengeance, we prepare for them.
+      </l>
+      <l n="8">
+       Let then each spirit, to the height, wound up,
+      </l>
+      <l n="9">
+       Shew noble vigour, and full force this day.
+      </l>
+      <l n="10">
+       For on the merit, of our swords, is plac'd,
+      </l>
+      <l n="11">
+       The virgin honour, and true character,
+      </l>
+      <l n="12">
+       Of this whole Continent: and one short hour,
+      </l>
+      <l n="13">
+       May give complexion, to the whole event,
+      </l>
+      <l n="14">
+       Fixing the judgment whether as base slaves,
+      </l>
+      <l n="15">
+       We serve these masters, or more nobly live,
+      </l>
+      <l n="16">
+       Free as the breeze, that on the hill-top, plays,
+      </l>
+      <l n="17">
+       With these sweet fields, and tenements, our own.
+      </l>
+      <l n="18">
+       Oh fellow soldiers, let this battle speak,
+      </l>
+      <l n="19">
+       Dire disappointment, to the insulting foe,
+      </l>
+      <l n="20">
+       Who claim, our fair possessions, and set down,
+      </l>
+      <l n="21">
+       These cultur'd-farms, and bowry-hills, and
+                                        plains,
+      </l>
+      <l n="22">
+       As the rich prize, of certain victory.
+      </l>
+      <l n="23">
+       Shall we, the sons of
+       Massachusetts-bay
+       ,
+      </l>
+      <l n="24">
+       New Hampshire
+       , and
+       Connecticut
+       ; shall we
+      </l>
+      <l n="25">
+       Fall back, dishonour'd, from our native plains,
+      </l>
+      <l n="26">
+       Mix with the savages, and roam for food,
+      </l>
+      <l n="27">
+       On western mountains, or the desart shores,
+      </l>
+      <l n="28">
+       Of Canada's cold lakes? or state more vile,
+      </l>
+      <l n="29">
+       Sit down, in humble vassalage, content
+      </l>
+      <l n="30">
+       To till the ground for these proud conquerors?
+      </l>
+      <l n="31">
+       No, fellow soldiers, let us rise this day.
+      </l>
+      <l n="32">
+       Emancipate, from such ignoble choice.
+      </l>
+      <l n="33">
+       And should the battle, ravish our sweet lives,
+      </l>
+      <l n="34">
+       Late time, shall give, an ample monument,
+      </l>
+      <l n="35">
+       And bid her worthies, emulate our fame.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE III.
+     </head>
+     <stage>
+      Boston.
+     </stage>
+     <stage>
+      The British Army being Repuls'd, Sherwin is dispatch'd to General Gage , for Assistance.
+     </stage>
+     <stage>
+      Sherwin, Gage, Burgoyne , and Clinton.
+     </stage>
+     <sp who="#sherwin">
+      <speaker>
+       Sherwin.
+      </speaker>
+      <l n="1">
+       Our men advancing, have receiv'd dire loss,
+      </l>
+      <l n="2">
+       In this encounter, and the case demands,
+      </l>
+      <l n="3">
+       In the swift crisis, of extremity,
+      </l>
+      <l n="4">
+       A thousand men to reinforce the war.
+      </l>
+     </sp>
+     <sp who="#gage">
+      <speaker>
+       Gage.
+      </speaker>
+      <stage>
+       Exit.
+      </stage>
+      <l n="5">
+       Do as you please
+       Burgoyne
+       in this
+                                        affair,
+      </l>
+      <l n="6">
+       I'll hide myself in some deep vault beneath.
+      </l>
+     </sp>
+     <sp who="#burgoyne">
+      <speaker>
+       Burgoyne.
+      </speaker>
+      <l n="7">
+       'Tis yours, brave
+       Clinton
+       , to
+                                        command, these men.
+      </l>
+      <l n="8">
+       Embark them speedily. I see our troops,
+      </l>
+      <l n="9">
+       Stand on the margin, of the ebbing flood,
+      </l>
+      <l n="10">
+       (The flood affrighted, at the scene it views)
+      </l>
+      <l n="11">
+       And fear, once more, to climb the desp'rate hill,
+      </l>
+      <l n="12">
+       Whence the bold rebel, showr's destruction down.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IV.
+     </head>
+     <sp who="#warren">
+      <speaker>
+       Warren.
+      </speaker>
+      <stage>
+       Mortally wounded, falling on his right knee, covering his breast with his right hand, and supporting himself with his firelock in his left.
+      </stage>
+      <l n="1">
+       A deadly ball, hath limited my life,
+      </l>
+      <l n="2">
+       And now to god, I offer up my soul.
+      </l>
+      <l n="3">
+       But oh my Countrymen, let not the cause,
+      </l>
+      <l n="4">
+       The sacred cause of liberty, with me
+      </l>
+      <l n="5">
+       Faint or expire. By the last parting breath,
+      </l>
+      <l n="6">
+       And blood of this your fellow soldier slain,
+      </l>
+      <l n="7">
+       Be now adjur'd, never to yield the right,
+      </l>
+      <l n="8">
+       The grand deposite of all-giving heaven,
+      </l>
+      <l n="9">
+       To man's free nature, that he rule himself.
+      </l>
+      <l n="10">
+       With these rude Britons, wage life-scorning war,
+      </l>
+      <l n="11">
+       'Till they admit it, and like hell fall off,
+      </l>
+      <l n="12">
+       With ebbing billows, from this troubl'd coast,
+      </l>
+      <l n="13">
+       Where but for them firm Concord, and true love,
+      </l>
+      <l n="14">
+       Should individual, hold their court and reign.
+      </l>
+      <l n="15">
+       Th' infernal engin'ry of state, resist
+      </l>
+      <l n="16">
+       To death, that unborn times may be secure,
+      </l>
+      <l n="17">
+       And while men flourish in the peace you win,
+      </l>
+      <l n="18">
+       Write each fair name with worthies of the earth.
+      </l>
+      <l n="19">
+       Weep not your Gen'ral, who is snatch'd this day,
+      </l>
+      <l n="20">
+       From the embraces of a family,
+      </l>
+      <l n="21">
+       Five virgin daughters young and unendow'd,
+      </l>
+      <l n="22">
+       Now with the foe left lone and fatherless.
+      </l>
+      <l n="23">
+       Weep not for him who first espous'd the cause
+      </l>
+      <l n="24">
+       And risking life have met the enemy,
+      </l>
+      <l n="25">
+       In fatal opposition — But rejoyce —
+      </l>
+      <l n="26">
+       For now I go to mingle with the dead,
+      </l>
+      <l n="27">
+       Great Brutus, Hampden, Sidney, and the rest,
+      </l>
+      <l n="28">
+       Of old or modern memory, who liv'd,
+      </l>
+      <l n="29">
+       A mound to tyrants, and strong hedge to kings,
+      </l>
+      <l n="30">
+       Bounding the inundation of their rage,
+      </l>
+      <l n="31">
+       Against the happiness and peace of man,
+      </l>
+      <l n="32">
+       I see these heroes where they walk serene,
+      </l>
+      <l n="33">
+       By chrystal currents, on the vale of Heaven,
+      </l>
+      <l n="34">
+       High in full converse of immortal acts,
+      </l>
+      <l n="35">
+       Atchiev'd for truth and innocence on earth.
+      </l>
+      <l n="36">
+       Mean time the harmony and thrilling found
+      </l>
+      <l n="37">
+       Of mellow lutes, sweet viols, and guittars,
+      </l>
+      <l n="38">
+       Dwell on the soul and ravish ev'ry nerve.
+      </l>
+      <l n="39">
+       Anon the murmur of the tight-brac'd drum,
+      </l>
+      <l n="40">
+       With finely varied fifes to martial airs,
+      </l>
+      <l n="41">
+       Wind up the spirit to the mighty proof
+      </l>
+      <l n="42">
+       Of siege and battle, and attempt in arms.
+      </l>
+      <l n="43">
+       Illustrious group! They beckon me along,
+      </l>
+      <l n="44">
+       To ray my vissage with immortal light,
+      </l>
+      <l n="45">
+       And bind the amarinth around my brow.
+      </l>
+      <l n="46">
+       I come, I come, ye first-born of true fame.
+      </l>
+      <l n="47">
+       Fight on my countrymen, be FREE, be FREE.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE V.
+     </head>
+     <stage>
+      Charlestown.
+     </stage>
+     <stage>
+      The Reinforcement landed, and Orders given to burn Charlestown , that they may march up more securely under the smoke, General Howe , Rallies his Repuls'd and Broken Troops.
+     </stage>
+     <sp who="#howe">
+      <speaker>
+       Howe.
+      </speaker>
+      <l n="1">
+       Curse on the fortune, of
+       Britannia's
+       arms,
+      </l>
+      <l n="2">
+       That plays the jilt with us. Shall these few men,
+      </l>
+      <l n="3">
+       Beat back the flower, and best half of our troops,
+      </l>
+      <l n="4">
+       While on our side, so many ships of war,
+      </l>
+      <l n="5">
+       And floating batt'ries, from the mystic tide,
+      </l>
+      <l n="6">
+       Shake all the hill, and sweep its ridgy top.
+      </l>
+      <l n="7">
+       Oh Gods! no time, can blot its memory out.
+      </l>
+      <l n="8">
+       We've men enough, upon the field to day,
+      </l>
+      <l n="9">
+       To bury, this small handful, with the dust
+      </l>
+      <l n="10">
+       Our march excites — back to the charge — close
+                                        ranks,
+      </l>
+      <l n="11">
+       And drive these wizzards from th' enchanted
+                                        ground.
+      </l>
+      <l n="12">
+       The reinforcement, which bold
+       Clinton
+       heads,
+      </l>
+      <l n="13">
+       Gives such superiority of strength,
+      </l>
+      <l n="14">
+       That let each man of us, but cast a stone,
+      </l>
+      <l n="15">
+       We cover this small hill, with these sew foes,
+      </l>
+      <l n="16">
+       And over head, erect a pyramid.
+      </l>
+      <l n="17">
+       The smoke, you see, enwraps us in its shade,
+      </l>
+      <l n="18">
+       On, then, my countrymen, and try once more,
+      </l>
+      <l n="19">
+       To change the fortune, of the inglorious day.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VI.
+     </head>
+     <stage>
+      Bunkers-Hill.
+     </stage>
+     <sp who="#gardiner">
+      <speaker>
+       Gardiner,
+      </speaker>
+      <stage>
+       to the American Army.
+      </stage>
+      <l n="1">
+       You see, brave soldiers, how an evil cause,
+      </l>
+      <l n="2">
+       A cause of slavery, and civil death,
+      </l>
+      <l n="3">
+       Unmans the spirit, and strikes down the soul?
+      </l>
+      <l n="4">
+       The gallant Englishman, whose fame in arms,
+      </l>
+      <l n="5">
+       Through every clime, shakes terribly the globe,
+      </l>
+      <l n="6">
+       Is found this day, shorn off his wonted strength,
+      </l>
+      <l n="7">
+       Repuls'd, and driven from the flaming hill.
+      </l>
+      <l n="8">
+       Warren is fallen, on fair honour's bed,
+      </l>
+      <l n="9">
+       Pierc'd in the breast, with ev'ry wound before.
+      </l>
+      <l n="10">
+       'Tis ours, now tenfold, to avenge his death,
+      </l>
+      <l n="11">
+       And offer up, a reg'ment of the foe,
+      </l>
+      <l n="12">
+       Achilles-like, upon the Heroe's tomb.
+      </l>
+      <l n="13">
+       See, reinforc'd they face us yet again,
+      </l>
+      <l n="14">
+       And onward move in Phalanx to the war.
+      </l>
+      <l n="15">
+       Oh noble spirits, let this bold attack,
+      </l>
+      <l n="16">
+       Be bloody to their host.
+       God
+       is
+                                        our Aid
+      </l>
+      <l n="17">
+       Give then full scope, to just revenge this day.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VII.
+     </head>
+     <stage>
+      The Bay-Shore.
+     </stage>
+     <stage>
+      The British Army once more repuls d, Howe again rallies his flying Troops.
+     </stage>
+     <sp who="#howe">
+      <speaker>
+       Howe.
+      </speaker>
+      <l n="1">
+       But that so many mouths, can witness it,
+      </l>
+      <l n="2">
+       I would deny myself an Englishman,
+      </l>
+      <l n="3">
+       And swear this day, that with such cowardice,
+      </l>
+      <l n="4">
+       No kindred, or alliance, has my birth.
+      </l>
+      <l n="5">
+       Oh base degen'rate souls, whose ancestors,
+      </l>
+      <l n="6">
+       At Cressy, Poictiers, and at Agincourt,
+      </l>
+      <l n="7">
+       With tenfold numbers, combated, and pluck'd
+      </l>
+      <l n="8">
+       The budding laurels, from the brows of France.
+      </l>
+      <l n="9">
+       Back to the charge, once more, and rather die,
+      </l>
+      <l n="10">
+       Burn'd up, and wither'd on this bloody hill,
+      </l>
+      <l n="11">
+       Than live the blemish, of your Country's same,
+      </l>
+      <l n="12">
+       With everlasting infamy, oppress'd.
+      </l>
+      <l n="13">
+       Their ammunition, as you hear, is spent,
+      </l>
+      <l n="14">
+       So that unless, their looks, and visages,
+      </l>
+      <l n="15">
+       Like fierce-ey'd Basilisks, can strike you dead;
+      </l>
+      <l n="16">
+       Return, and rescue yet, sweet Countrymen,
+      </l>
+      <l n="17">
+       Some share of honour, on this hapless day.
+      </l>
+      <l n="18">
+       Let some brave officers, stand on the rear,
+      </l>
+      <l n="19">
+       And with the small sword, and sharp bayonet,
+      </l>
+      <l n="20">
+       Drive on each coward that attempts to lag,
+      </l>
+      <l n="21">
+       That thus, sure death may find the villain out,
+      </l>
+      <l n="22">
+       With more dread certainty, than him who moves,
+      </l>
+      <l n="23">
+       Full in the van, to meet the wrathful foe.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE VIII.
+     </head>
+     <stage>
+      Bunkers-hill.
+     </stage>
+     <stage>
+      Gardiner desperately wounded and borne from the field by two Soldiers.
+     </stage>
+     <sp who="#gardiner">
+      <speaker>
+       Gardiner.
+      </speaker>
+      <l n="1">
+       A musket-ball death wing'd, hath pierc'd my
+                                        groin,
+      </l>
+      <l n="2">
+       And widely op'd the swift curr'nt of my veins.
+      </l>
+      <l n="3">
+       Bear me then Soldiers, to that hollow space,
+      </l>
+      <l n="4">
+       A little hence, just in the hill's decline.
+      </l>
+      <l n="5">
+       A surgeon there, may stop the gushing wound,
+      </l>
+      <l n="6">
+       And gain a short respite to life, that yet,
+      </l>
+      <l n="7">
+       I may return, and fight one half hour more.
+      </l>
+      <l n="8">
+       Then, shall I die in peace, and to my
+       God
+       ,
+      </l>
+      <l n="9">
+       Surrender up, the spirit, which he gave.
+      </l>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE IX.
+     </head>
+     <sp who="putnam">
+      <speaker>
+       Putnam
+      </speaker>
+      <stage>
+       , to the American Army.
+      </stage>
+      <p rend="l">
+       Swift-rising fame, on early wing, mounts up,
+      </p>
+      <p rend="l">
+       To the convexity of bending Heaven,
+      </p>
+      <p rend="l">
+       And writes each name, who fought with us this day,
+      </p>
+      <p rend="l">
+       In fairest character, amidst the stars.
+      </p>
+      <p rend="l">
+       The world shall read it, and still talk of us,
+      </p>
+      <p rend="l">
+       Who, far out-number'd, twice drove back the foe,
+      </p>
+      <p rend="l">
+       With carnage horrid, murm'ring to their ships.
+      </p>
+      <p rend="l">
+       The Ghost of
+      Warren
+      says, enough — I
+                                see
+      </p>
+      <p rend="l">
+       One thousand veterans, mingled with the dust.
+      </p>
+      <p rend="l">
+       Now, for our sacred honour, and the wound,
+      </p>
+      <p rend="l">
+       Which Gard'ner feels, once more we charge — once more
+      </p>
+      <p rend="l">
+       Dear friends, And fence the obscur'd hill,
+      </p>
+      <p rend="l">
+       With hecatombs of slain. Let every piece,
+      </p>
+      <p rend="l">
+       Flash, like the fierce-consuming fire of Heaven,
+      </p>
+      <p rend="l">
+       And make the smoke, in which they wrap themselves,
+      </p>
+      <p rend="l">
+       "A darkness visible." — Now, once again,
+      </p>
+      <p rend="l">
+       Receive the battle, as a shore of rock
+      </p>
+      <p rend="l">
+       The ocean wave. And if at last we yield,
+      </p>
+      <p rend="l">
+       Leave many a death, amidst their hollow ranks,
+      </p>
+      <p rend="l">
+       To damp the measure, of their dear-bought joy.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      SCENE X.
+     </head>
+     <stage>
+      and Last.
+     </stage>
+     <stage>
+      Bunkers-Hill.
+     </stage>
+     <stage>
+      The American Army overpower'd by numbers, are obliged to retreat.
+     </stage>
+     <stage>
+      Enter Howe, Pigot , and Clinton with the British Army.
+     </stage>
+     <sp who="#richardson">
+      <speaker>
+       Richardson
+      </speaker>
+      <stage>
+       , a young Officer, on the Parapet.
+      </stage>
+      <l n="1">
+       The day is ours, huzza, the day is ours,
+      </l>
+      <l n="2">
+       This last attack has forc'd them to retreat.
+      </l>
+     </sp>
+     <sp who="#clinton">
+      <speaker>
+       Clinton.
+      </speaker>
+      <l n="3">
+       'Tis true, full victory declares for us,
+      </l>
+      <l n="4">
+       But we have dearly, dearly, purchas'd it.
+      </l>
+      <l n="5">
+       Full fifteen hundred, of our men lie dead,
+      </l>
+      <l n="6">
+       Who, with their officers, do swell the list
+      </l>
+      <l n="7">
+       Of this day's carnage — On the well-sought hill,
+      </l>
+      <l n="8">
+       Whole ranks cut down, lie struggling with their
+                                        wounds,
+      </l>
+      <l n="9">
+       Or close their bright eyes, in the shades of
+                                        night.
+      </l>
+      <l n="10">
+       No wonder! such incessant musketry,
+      </l>
+      <l n="11">
+       And fire of Cannon, from the hill-top pour'd,
+      </l>
+      <l n="12">
+       Seem'd not the agency, of mortal men,
+      </l>
+      <l n="13">
+       But heaven itself, with snares, and vengeance
+                                        arm'd,
+      </l>
+      <l n="14">
+       T' oppose our gaining it. E'en when was spent
+      </l>
+      <l n="15">
+       Their ammunition, and fierce
+       Warren
+       slain,
+      </l>
+      <l n="16">
+       Huge stones were hurled from the rocky brow,
+      </l>
+      <l n="17">
+       And war renew'd, by these inveterate;
+      </l>
+      <l n="18">
+       'Till
+       Gard'ner
+       wounded, the left
+                                        wing gave way.
+      </l>
+      <l n="19">
+       And with their shatter'd infantry, the whole,
+      </l>
+      <l n="20">
+       Drawn off by
+       Putnam
+       , to the
+                                        causeway fled,
+      </l>
+      <l n="21">
+       When from the ships, and batt'ries on the wave,
+      </l>
+      <l n="22">
+       They met deep loss, and strew'd the narrow
+                                        bridge,
+      </l>
+      <l n="23">
+       With lifeless carcases. O such a day,
+      </l>
+      <l n="24">
+       Since Sodom and Gomorrah sunk in flames,
+      </l>
+      <l n="25">
+       Hath not been heard of by the ear of man,
+      </l>
+      <l n="26">
+       Nor hath an eye beheld its parallel.
+      </l>
+     </sp>
+     <sp who="#lordpigot">
+      <speaker>
+       Lord Pigot.
+      </speaker>
+      <l n="27">
+       The day is ours, but with heart-piercing loss,
+      </l>
+      <l n="28">
+       Of soldiers slain, and gallant officers.
+      </l>
+      <l n="29">
+       Old Abercrombie, on the field lies dead.
+      </l>
+      <l n="30">
+       Pitcairn and Sherwin, in sure battle slain.
+      </l>
+      <l n="31">
+       The gallant reg'ment of Welsh fusileers,
+      </l>
+      <l n="32">
+       To seventeen privates, is this day reduc'd.
+      </l>
+      <l n="33">
+       The grenadiers, stand thinly on the hill,
+      </l>
+      <l n="34">
+       Like the tall fir-trees on the blasted heath,
+      </l>
+      <l n="35">
+       Scorch'd by the autumnal burnings, which have
+                                        rush'd,
+      </l>
+      <l n="36">
+       With wasting fire fierce through its leafy
+                                        groves.
+      </l>
+      <l n="37">
+       Should ev'ry hill by the rebellious foe,
+      </l>
+      <l n="38">
+       So well defended, cost thus dear to us,
+      </l>
+      <l n="39">
+       Not the united forces of the world,
+      </l>
+      <l n="40">
+       Could master them, and the proud rage subdue
+      </l>
+      <l n="41">
+       Of these
+       Americans
+       . — —
+      </l>
+     </sp>
+     <sp who="#howe">
+      <speaker>
+       Howe.
+      </speaker>
+      <l n="42">
+       E'en in an enemy I honour worth.
+      </l>
+      <l n="43">
+       And valour imminent The vanquish'd foe,
+      </l>
+      <l n="44">
+       In feats of prowess shew their ancestry,
+      </l>
+      <l n="45">
+       And speak their birth legitimate;
+      </l>
+      <l n="46">
+       The sons of Britons, with the genuine flame,
+      </l>
+      <l n="47">
+       Of British heat, and valour in their veins.
+      </l>
+      <l n="48">
+       What pity 'tis, such excellence of mind,
+      </l>
+      <l n="49">
+       Should spend itself, in the fantastic cause,
+      </l>
+      <l n="50">
+       Of wild-fire liberty. — Warren is dead,
+      </l>
+      <l n="51">
+       And lies unburied, on the smoky hill;
+      </l>
+      <l n="52">
+       But with rich honours he shall be inhum'd,
+      </l>
+      <l n="53">
+       To teach our soldiery, how much we love,
+      </l>
+      <l n="54">
+       E'en in a foe, true worth and noble fortitude.
+      </l>
+      <l n="55">
+       Come then brave soldiers, and take up the dead,
+      </l>
+      <l n="56">
+       Majors, and Col'nels, which are this day slain,
+      </l>
+      <l n="57">
+       And noble Captains of sweet live bereft.
+      </l>
+      <l n="58">
+       Fair flowers shall grow upon their grassy tombs,
+      </l>
+      <l n="59">
+       And fame in tears, shall tell their tragedy,
+      </l>
+      <l n="60">
+       To many a widow and soft weeping maid,
+      </l>
+      <l n="61">
+       Or parent woe-ful for an only son,
+      </l>
+      <l n="62">
+       Through mourning
+       Britain
+       , and
+       Hibernia's
+       Isle.
+      </l>
+     </sp>
+     <sp who="#burgoyne">
+      <speaker>
+       Burgoyne
+      </speaker>
+      <stage>
+       Enter from Boston.
+      </stage>
+      <l n="63">
+       Oft have I read, in the historic page,
+      </l>
+      <l n="64">
+       And witnessed myself, high scenes in war:
+      </l>
+      <l n="65">
+       But this rude day, unparallel'd in time,
+      </l>
+      <l n="66">
+       Has no competitor — The gazing eye,
+      </l>
+      <l n="67">
+       Of many a soldier, from the chimney-tops,
+      </l>
+      <l n="68">
+       And spires of Boston, witnessed when Howe,
+      </l>
+      <l n="69">
+       With his full thousands, moving up the hill,
+      </l>
+      <l n="70">
+       Receiv'd the onset of the impetuous foe.
+      </l>
+      <l n="71">
+       The hill itself, like Ida's burning mount,
+      </l>
+      <l n="72">
+       When Jove came down, in terrors, to dismay
+      </l>
+      <l n="73">
+       The Grecian host, enshrowded in thick flames;
+      </l>
+      <l n="74">
+       And round its margin, to the ebbing wave,
+      </l>
+      <l n="75">
+       A town on fire, and rushing from its base,
+      </l>
+      <l n="76">
+       With ruin hideous, and combustion down.
+      </l>
+      <l n="77">
+       Mean time, deep thunder, from the hollow sides
+      </l>
+      <l n="78">
+       Of the artill'ry, on the hill top hear'd,
+      </l>
+      <l n="79">
+       With roar of thunder, and loud mortars play'd,
+      </l>
+      <l n="80">
+       From the tall ships, and batt'ries on the wave,
+      </l>
+      <l n="81">
+       Bade you blue ocean, and wide heaven resound.
+      </l>
+      <l n="82">
+       A scene like which, perhaps, no time shall know,
+      </l>
+      <l n="83">
+       'Till heav'n with final ruin fires the ball,
+      </l>
+      <l n="84">
+       Burns up the cities, and the works of men,
+      </l>
+      <l n="85">
+       And wraps the mountains in one gen'ral blaze.
+      </l>
+     </sp>
+     <stage>
+      Exeunt.
+     </stage>
+     <stage>
+      THE END.
+     </stage>
+    </div>
+   </div>
+  </body>
+  <back>
+   <p>
+    EPILOGUE
+Written by a Gentleman of the Army.
+Supposed to be spoken, immediately after the Battle; By
+                            Lieutenant Colonel
+                            Webb , Aid de camp to General
+                            Putnam.
+
+The Field is their's, but dearly was it bought,
+ Thus long defended and severely fought.
+Now pale-fac'd death fits brooding o'er the strand,
+And views the carnage of his ruthless hand.
+But why my heart this deep unbidden sigh,
+Why steals the tear, soft trickling from the eye?
+Is Freedom master'd by our late defeat
+Or Honour wounded by a brave retreat?
+'Tis nature dictates; and in pride's despite,
+I mourn my brethren slaughter'd in the fight.
+'Th' insulting foe, now revels o'er the ground,
+Yet flush'd with victory, they feel the wound.
+Embru'd in gore, they bleed from ev'ry part,
+And deep wounds rankle at Britannia's heart.
+O fatal conquest! Speak thou crimson'd plain,
+Now press'd beneath the weight of hundreds slain!
+There heaps of British youth promiscuous lie,
+Here, murder'd Freemen catch the wand'ring eye.
+Observe you stripling bath'd in purple gore,
+He bleeds for Freedom on his native shore.
+His livid eyes in drear convulsions roll,
+While from his wounds escapes the flutt'ring soul,
+Breathless and naked on th' ensanguin'd plain,
+Midst friend and brothers, sons and fathers slain.
+No pitying hand his languid eyes to close,
+He breathes his last amidst insulting foes;
+His body plunder'd, massacred, abus'd;
+By Christians — Christian fun'ral rites refus'd — 
+Thrown as a carrion in the public way,
+To Dogs , to Britons , and to Birds a prey.
+Enwrapt in sulph'rous flame and clouds of smoke,
+Brave Gard'ner sinks beneath the deadly stroke,
+And Warren bleeds to grace the bloody strife
+And for his injur'd country gives his life.
+Yet while his mighty soul ascends the skies,
+On earth his blood for ten-fold vengeance cries.
+Great spirit rest — by Heaven it is decreed,
+Thy murd'ring tyrants by the sword shall bleed.
+E'en racks and gibbets would but consecrate,
+And death repeated be too kind a fate.
+The sword is drawn, in peace no more to rest,
+Till justice bathes it in some tyrants breast.
+Honour my weapon with the glorious task,
+And let me stab, 'tis all the the boon I ask.
+Kind pow'rs, beneath your all-protecting shield,
+I now unsheath my sword, and take the field,
+Sure of success, with this sweet comfort giv'n,
+Who fights for Freedom , — fights the cause of Heav'n.
+
+
+Soldier
+An
+ODE on the Battle of BUNKERS-HILL. Sung and Acted by a
+                                            
+                                         in a Military Habit, with his
+                                        Firelock, &amp;.mp;c.
+In the same Measure with a Sea Piece, Entitled
+                                        the Tempest.
+
+ — Cease rude BOREAS, blust'ring railer — 
+I.
+
+
+
+You bold warriors, who resemble, Flames, upon the distant hill,At whose view, the heroes tremble, Fighting with unequal skill.Loud-sounding drums now with hoarse murmurs, Rouse the spirit up to war,Fear not, fear not, tho' their numbers, Much to ours, superior are.Hear brave Warren bold commanding, "Gallant souls and vet'rans brave,See the enemy just landing, From the navy-cover'd wave.Close the wings — advance the center —  Engineers point well your guns — Clap the matches, let the rent air, Bellow to Britannia's sons."Now think you see, three thousand moving, Up the brow of Bunkers-Hill ,Many a gallant vet'ran, shoving, Cowards on against their will.The curling volumes all behind them, Dusky clouds of smoke arise,Our cannon-balls, brave boys shall find them, At each shot a heroe dies.Once more Warren midst this
+                                            terror, "Charge brave soldiers charge again,Many an expert vet'ran warrior Of the enemy is slain.Level well your charged pieces, In direction to the town;They shake, they shake, their light'ning ceases, That shot brought fix standards down."Maids in virgin beauty blooming, On Britannia's sea-girt isle,Say no more your swains are coming, Or with songs the day beguile.For sleeping sound in death's embraces, On their clay-cold beds they lie,Death, grim death, alas defaces, Youth and pleasure which must die."March the right wing Gard'ner
+                                            yonder, Take th' assailing foe in flank,The heroe's spirit lives in thunder, Close there Serjeants, close that rank,The conflict now doth loudly call or Highest proof of martial skill,Heroes shall sing of them, who fall on, The slipp'ry brow of Bunkers-Hill
+                                            ."Unkindest fortune, still thou changest, As the wind upon the wave,The good and bad alike thou rangest, Undistinguish'd in the grave.Shall kingly tyrants see thee smiling, Whilst the brave and just must die,Them of sweet hope and life beguiling In the arms of victory."Behave this day my lads with spirit, Wrap the hill top as in flame;Oh if we fall, let each one merit, Immortality in fame.From this high ground like Vesuv'us Pour the floods of fire along;Let not, let not, numbers move us, We are yet five hundred strong."Many a widow sore bewailing Tender husbands, shall remain,With tears and sorrows, unavailing, From this hour to mourn them slain.The rude scene striking all by-standers, Bids the little band retire,Who can live like salamanders, In such floods of liquid fire?"Ah! Our troops are sorely pressed,  Howe ascends the smoky hill,Wheel inward, let these ranks be faced, We have yet some blood to spill.Our right wing push'd, our left surrounded, Weight of numbers five to one,
+Warren dead, and Gard'ner wounded, Ammunition is quite gone".See the steely points, bright gleaming, In the sun's fierce dazling ray,Groans arising, life-blood streaming, Purple o'er the face of day.The field is cover'd with the dying, Free-men mixt with tyrants lie,The living with each other vying, Raise the shout of battle high.Now brave Putnam , aged soldier, "Come my vet'rans, we must yield;More equal match'd, we'll yet charge bolder, For the present quit the field.The God of battles shall revisit, On their heads each soul that dies,Take courage boys, we yet shan't miss it, From a thousand victories."
+A SPEECH 
+                            By General WASHINGTON,
+On his entering the Town of Boston ,
+                            at the Head of the American Army , after the British Troops were by his skilful Approaches obliged
+                            to abandon it.
+
+Auspicious day, of happiness unmix'd!
+ When this fair City, without blood-shed won,
+Receives to her sweet bosom, once again,
+Her free-born sons, of perseverance try'd,
+And noble fortitude, in deeds of arms.
+Now let the father, meet his infant son,
+His virgin daughter, and long faithful spouse,
+And kiss away all tears, but those of joy.
+Now, let the ardent lover clasp his fair,
+New flush the red rose in her damask cheek,
+Light up the glad beam in her rolling eye,
+And bid all pain and sorrowing be gone.
+Oh happy day — Shine on thou blissful sun,
+And not one vapour, blemish thy career,
+Till from thy mid-day champaign, wheeling down,
+Thou in the western ocean go to rest.
+O happy town — Now let thy buildings smile,
+Thy streets, run down, with silver floods of joy,
+And from thy temples, loudly, hymn and song,
+Sweep, the high arches, of resounding Heaven.
+Yes fellow soldiers, let us bend to him
+Who gave us strength, and confidence of soul,
+To meet the Battle and fierce iron war,
+Urg'd on severe by the tyrannic foe,
+With deadly thunder, and mischievous arms.
+To him who with his tempest, bulg'd the deep,
+And their full hundred war-ships, on the bay,
+Chain'd, with his strong wind, to the North-east shore.
+The hand of Heaven, is visible in this,
+And we Oh God, pour forth our souls in praise.
+O fellow soldiers let our off' rings rise,
+Not in rich hecatombs, of bulls and goats,
+But in true piety, and light of love,
+And warm devotion, in the inward part.
+Let your festivity, be mix'd with thought,
+And sober judgment, on this grand event.
+March on, and take true pleasure to your arms,
+You all are bridegrooms, to fair joy to day.
+
+ARMYA  MILLITARY SONG,  BY THE 
+                                        
+                                         :
+On General Washington's
+                                        victorious entry into the Town of Boston.
+
+
+
+Sons of valour, taste the glories; Of Celestial Liberty ,Sing a Triumph o'er the Tories, Let the pulse of joy beat high.Heaven this day hath foil'd the many, Fallacies of George their King,Let the echo reach Britan'y, Bid her mountain summits ring.See yon Navy swell the bosom, Of the late enraged sea,Where e're they go we shall oppose them; Sons of valour must be free.Should they touch at fair Rhode-Island
+ There to combat with the brave,Driven, from east hill, and highland, They shall pursugh the purple wave.Should they thence, to fair Virgin'y
+ Bend a squadron to Dunmore ,Still with fear and ignominy, They shall quit, the hostile shore.To Carolina or to Georg'y , Should they next advance their fame,This land of heroes shall disgorge the, Sons of tyranny and shame.Let them rove to climes far distant, Situate under Artic skies,Call on Hessian troops assistant, And the Savages to rise.Boast of wild brigades from Russia, To fix down the galling chain,Canada and Nova Scotia, Shall discharge these Hords again.In New-York State, rejoin'd by Clinton , Should their standards mock the air,Many a surgeon, shall put lint on, Wounds of death, received there.War fierce war shall break their forces, Nerves of tory men shall fail,Seeing Howe with alter'd courses, Bending to the western gale.Thus, from every bay of ocean, Flying back, with sails unfurl'd,Tost with ever-troubl'd motion, They shall quit, this smiling world.Like Satan banished, from Heaven , Never see, the smiling shore,From this land so happy, driven, Never Stain, its bosom more.
+                        
+                    
+                    THE END.
+   </p>
+  </back>
+ </text>
+</TEI>

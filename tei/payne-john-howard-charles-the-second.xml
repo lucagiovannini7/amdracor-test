@@ -1,0 +1,7102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am923" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Charles the Second
+    </title>
+    <author>
+     Payne, John Howard
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Wikisource
+     </name>
+     <idno>
+      https://en.wikisource.org/wiki/Representative_American_Plays/Charles_the_Second
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Representative American Plays, ed. Arthur Hobson Quinn
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="kingcharlesii" sex="MALE">
+      <persName>King Charles II</persName>
+     </person>
+     <person xml:id="captaincopp" sex="MALE">
+      <persName>Captain Copp</persName>
+     </person>
+     <person xml:id="rochester" sex="MALE">
+      <persName>Rochester</persName>
+     </person>
+     <person xml:id="mary" sex="FEMALE">
+      <persName>Mary</persName>
+     </person>
+     <person xml:id="edward" sex="MALE">
+      <persName>Edward</persName>
+     </person>
+     <person xml:id="voicewithin" sex="UNKNOWN">
+      <persName>Voice within</persName>
+     </person>
+     <person xml:id="ladyclara" sex="FEMALE">
+      <persName>Lady Clara</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Comedy
+     </term>
+     <term subtype="am" type="playtype">
+      prose
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1829">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <div type="preface">
+    <p>
+     AS PERFORMED AT THE CHESTNUT-STREET THEATRE.
+    </p>
+   </div>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      DRAMATIS PERSONÆ.
+     </head>
+     <head>
+      Chestnut-Street.
+     </head>
+     <castItem>
+      King Charles II. Mr. Rowbotham.
+     </castItem>
+     <castItem>
+      Rochester Wemyss.
+     </castItem>
+     <castItem>
+      Edward ( a page ) Hutchings.
+     </castItem>
+     <castItem>
+      Captain Copp Jefferson.
+     </castItem>
+     <castItem>
+      Two Pages. Servants.
+     </castItem>
+     <castItem>
+      Lady Clara Mrs. Anderson.
+     </castItem>
+     <castItem>
+      Mary ( adopted daughter of Copp ) Mrs. Knight.
+     </castItem>
+    </castList>
+   </div>
+   <set>
+    <p>
+     Time of representation — One hour and fifty minutes.
+    </p>
+   </set>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     ACT I.
+    </head>
+    <div type="scene">
+     <head>
+      Scene I
+     </head>
+     <stage>
+      — The Royal Palace.
+     </stage>
+     <stage>
+      Enter Rochester and Lady Clara , R. H.
+     </stage>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Yes, my lord, her majesty will have it,
+       that you are the chief cause of the king's irregularities.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Oh, I'll warrant it; and of his not loving her
+       too — is it not so?
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       I did not say that; but, in truth, my lord,
+       your continual jests on the married state —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Heaven bless it!
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Your continual ridicule of married men —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Heaven help them!
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Your licentious example, and still more
+       licentious poetry —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       What's coming next?
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       All these, I say, make you the most dangerous
+       of men.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Dangerous! My dear Lady Clara, you make
+       me vain.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       It is well known that you are the king's
+       prime companion in all his excesses.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       What, is my loyalty to be made my reproach?
+       Must I not stand by my monarch in all his moods? —
+       Would you have me weep when my sovereign laughs?
+       Would you have me whine when my sovereign calls
+       for a jolly song? No, no, my lady, that might have
+       done in the days of the Roundheads; but times are
+       <pb n="4"/>
+       altered. We have a merry monarch to reign over us —
+       A merry monarch, makes a merry court — so God save
+       the jovial king, and send him boon companions!
+      </p>
+     </sp>
+     <stage>
+      (X L.)
+     </stage>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <stage>
+       ( laughing. )
+      </stage>
+      <p>
+       I see it is in vain to reason
+       with you.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Then give over the attempt. Let us talk
+       of something of a nearer and a dearer interest — of your
+       merits and my most ardent flame.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Ah me! I fear, like many other of your
+       flames, it will but end in smoke. You talk of being
+       desperately in love, what proof have you ever given?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       What proof? Am I not ready to give the
+       greatest proof that man can offer — to lay down this
+       sweet bachelor life, and commit matrimony for your
+       sake?
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Well, this last, I must say, coming from a
+       Rochester, is a most convincing proof. I have heard
+       you
+       out, listen now to
+       me.
+       <stage>
+        ( Rochester bows. )
+       </stage>
+       I will
+       propose a bargain. If, by your ascendancy over the
+       king, you can disgust him with these nocturnal rambles,
+       and bring him back to reason —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       To reason! your ladyship forgets one of my
+       talents.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Which is it?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       That of getting myself banished two or three
+       times a year.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       And if the woman you profess to love
+       should offer to
+       partake
+       your exile? —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       I am a lost man — I surrender. — That last
+       shot reached my heart.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <stage>
+       ( sighing. )
+      </stage>
+      <p>
+       Ah, my lord — if that heart
+       were only worth your head! — Well, is it agreed?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       It is your will — I undertake the sacrifice —
+       but, madam, bear in mind my recompense.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <stage>
+       Exit. R. H.
+      </stage>
+      <p>
+       You may hope for every thing. Adieu,
+       my lord. — I now begin to believe in your passion,
+       since you are willing to make a sacrifice to it, even of
+       your follies.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( alone. )
+      </stage>
+      <p>
+       A pretty task I have undertaken,
+       truly! I — Rochester — become reformer! I who am
+       <pb n="5"/>
+       considered by all the pious saints about Court, as the
+       ringleader of all mischief. And, then, the convert I
+       have to work upon? Charles, who glories in all kinds
+       of rambling frolics! — True, he has had none but pleasant
+       adventures as yet. If I should trick him into
+       some ridiculous dilemma? — My whole life has been
+       a tissue of follies, and I am called a man of wit. I am
+       now to attempt a rational act, and I shall be called a
+       madman! — Well, be it so — matrimony will be sure
+       to bring me to my senses.
+      </p>
+     </sp>
+     <stage>
+      Enter Edward , languidly, R. H.
+     </stage>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Ah! here comes my young protegé — How
+       downcast he seems! How now, Edward, what's the
+       matter with you, boy?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( sighing. )
+      </stage>
+      <p>
+       Nothing, my lord.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Good heaven, what a sigh to heave up nothing
+       with! Tell me the truth this instant. Hast thou
+       dared to fall in love?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       I hope, my lord, there is no harm in indulging
+       an honest attachment.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       An honest attachment! A young half-fledged
+       page about court, who has hardly tried his wings
+       in the sunshine of beauty, to talk of an honest attachment.
+       Why thou silly boy, is this the fruit of all the
+       lessons I have given thee?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Did not your lordship tell me, that one of
+       the first duties of a page was to be zealous in his devotion
+       to the fair?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Yes; but I told thee to skim over the surface
+       of beauty, just dipping your wings, like a swallow,
+       not plumping in like a goose — I told you to hover
+       from flower to flower like a butterfly, not to bury
+       yourself in one like a bee. An honest attachment!
+       What a plebeian phrase! — There's a wife and seven
+       children in the very sound of it.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       My lord, I know your talent for putting
+       things in a whimsical light; but, could you see the object
+       of my passion —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Nay, a truce with all description. But who,
+       <pb n="6"/>
+       pray, is the object of this honest attachment?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( embarrassed )
+      </stage>
+      <p>
+       My lord!
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       One of the maids of honour, I'll be bound,
+       who has privately been petting you with sweetmeats
+       and lending you love-tales.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       No, my lord.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Pray, then, give me some clue. What is the
+       name of your beauty?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Her name, my lord, is Mary.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Mary! a very pretty posy-like name — And
+       what sequestered spot may the gentle Mary embellish
+       with her presence?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       She lives at the Tav — Nay, my lord, promise
+       not to laugh.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Far be it from me to laugh in so serious a
+       matter. Come, the residence of this fair one?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Why then, my lord, she inhabits the tavern
+       of the Grand Admiral, in Wapping.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Usquebaugh and tobacco! the tavern of the
+       Grand Admiral! — Ha, ha, ha! An honest attachment
+       to some pretty bar-maid!
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( earnestly )
+      </stage>
+      <p>
+       No, my lord, no bar-maid, I assure
+       you. Her uncle keeps the tavern.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( with mock gravity )
+      </stage>
+      <p>
+       Oh, I ask pardon, then
+       she is heiress apparent to the tap-room, and you no
+       doubt look forward to rise in the state through the
+       dignities of drawer, tapster, and head-waiter, until
+       you succeed to the fair hand of the niece, and the
+       copper nose of the uncle, and rule with spigot in hand
+       over the fair realms of Wapping. You, who I flattered
+       myself would have made the torment and delight of
+       all the pretty women at court, —
+       you
+       to be so completely
+       gulled at the very outset, — the dupe of a
+       green girl, and some old rogue of a publican!
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Indeed, indeed, my lord, you do the uncle
+       injustice. He is a perfectly honest, upright man —
+       an old captain of a cruiser.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Worse and worse! Some old buccaneer, tired
+       of playing the part of monster at sea, has turned
+       <pb n="7"/>
+       shork on shore. And do you dare to appear in such
+       a house with the dress of a royal page?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Oh, I have taken care to avoid that. I have
+       introduced myself into the house as a music-master.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       And your musical name, gentle sir?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Georgini, at your service.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Ha, ha, ha! very soft and Italianish — I'll warrant
+       this heroine bar-maid will turn out some unknown
+       princess, carried off by the old buccaneer landlord,
+       in one of his cruisings.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Your lordship is joking; but really, at times;
+       I think she is not what she seems.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Ha, ha, ha! I could have sworn it. But, silence
+       — I hear his majesty dismount. Run to where
+       your duty calls — we'll take another opportunity to
+       discuss the merits of this Wapping princess.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Ed.
+      </speaker>
+      <stage>
+       ( goes out, muttering )
+      </stage>
+      <stage>
+       exit. L.
+      </stage>
+      <p>
+       There's many a true thing
+       said in jest. I am certain her birth is above her condition.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       I must see this paragon of bar-maids — She
+       must be devilish pretty! The case admits of no delay
+       — I'll see her this very evening. Hold! why not
+       fulfil my promise to Lady Clara at the same time?
+       It is decided: — I'll give his majesty my first lesson in
+       morals this very night.
+       <stage>
+        [ Two Pages appear. ]
+       </stage>
+       But, he
+       comes.
+      </p>
+     </sp>
+     <stage>
+      Enter Charles , through door in c. The King, after advancing a little, turns and dismisses the two attendants. They exeunt through c. door.
+     </stage>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Good day, my lord! — What, musing! I never
+       see thee with that air of grave cogitation, but I
+       am sure there is some mischief devising.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       On the contrary, I am vehemently tempted
+       to reform.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Reform! — ha, ha, ha! Why, man, no one
+       will credit thy conversion. But what proof do you
+       give of your reformation?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       The most solemn — I am going to be married.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Is that a proof of your returning reason? —
+       Married! And who is the lady you have an idea of
+       rendering miserable?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       The Lady Clara.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       The Lady Clara! The brilliant, the discreet,
+       the virtuous Lady Clara! She marry Rochester!
+       ha, ha, ha!
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Ah, my liege, heaven has given her a super-abundance
+       of virtues. She will be able to make a
+       very virtuous man of me with the superfluity.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Well, when thou art married, I will undertake
+       to write thy epithalamium.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Then your majesty may at once invoke the
+       muses — All is settled.
+       <stage>
+        ( with great gravity )
+       </stage>
+       As soon as
+       the rites are solemnized, I shall quit the court and its
+       mundane pleasures, and retire with my lovely bride
+       to my castle at Rochester, under permission of my
+       creditors, the faithful garrison of that fortress.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       What, is your castle again in pledge?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       No, my liege, not again: It has never to my
+       knowledge been exactly out of keeping. A castle
+       requires a custodian.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Ah, Rochester! Rochester! Thou art an extravagant
+       dog! — I see, I shall be called on to pay
+       those usurers at last.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Your majesty is ever bounteous. I should
+       not have dared to solicit, and certainly shall not presume
+       to decline.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Ha, ha, ha! thou art an arrant juggler, and
+       hast an admirable knack of extracting a gift out of
+       an empty hand. But, to business — Where shall we
+       pass the night?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Does your majesty forget that there is a fête
+       to be given at court this evening?
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Nay, prythee, do not talk to me of those dull
+       court ceremonies — I hate etiquette — I love to descend
+       into private life, to doff the monarch, and mingle
+       in the honest revelry of the common people. —
+       There's something of philosophy in this, too — One
+       often gets a useful lesson in the course of a frolic.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( aside )
+      </stage>
+      <p>
+       It shall go hard, but your majesty shall have
+       one to-night.
+       <stage>
+        ( aloud )
+       </stage>
+       Ah! how few, except myself,
+       give your majesty credit for your philosophy! And
+       yet, by many, I am considered the partaker of your
+       majesty's excesses.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Partaker!
+       what a calumny! you are the
+       promoter
+       of them. Is not thy name a byword? Do
+       not mothers frighten their daughters with it, as formerly
+       with that of Beelzebub? Is not thy appearance
+       in a neighbourhood, a signal for the worthy burghers
+       to bar their windows, and put their womenkind
+       under lock and key? Art thou not, in melancholy
+       truth, the most notorious scapegrace in the
+       whole kingdom?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Heaven forefend that, in anything I should
+       take precedence of your majesty.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Peace, slanderer! who was it [illeg.]
+       ample of the inconstancy I am charged [illeg.]
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Not I, my liege — I set out in [illeg.]
+       pleasure, and have remained constant [illeg.]
+       tions ever since.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       But, pleasure is the object of [illeg.]
+       evening — you shall give another proof [illeg.]
+       stancy to it —
+       <stage>
+        ( wearily )
+       </stage>
+       We will attend [illeg.]
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( assuming a serious air )
+      </stage>
+      <p>
+       I must beg your majesty
+       to excuse me. I have an engagement of a grave
+       and important nature this evening.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Grave and important! — thou liest Rochester,
+       or thine eye speaks false. And whither does
+       this grave engagement take thee?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       To the tavern of the Grand Admiral in
+       Wapping.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       The tavern of the Grand Admiral in Wapping.
+       I thought it was to some such haunt. And the object
+       of this business?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       A young girl, beautiful as an angel and virtuous
+       as a dragon.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( laughing )
+      </stage>
+      <p>
+       Angel! There were [illeg.]tions
+       of angels, — one that fell. To which [illeg.]
+       long?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( with still more gravity )
+      </stage>
+      <p>
+       There is a mystery
+       about her — perchance, some high-born beauty, stolen
+       from her cradle by some bold buccaneer. I am to go
+       this evening and investigate in person.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( with mock gravity )
+      </stage>
+      <p>
+       A mysterious beauty!
+       It is a case for royal scrutiny — I will investigate it
+       myself.
+      </p>
+     </sp>
+     <stage>
+      (X to L.)
+     </stage>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       But, my liege —
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Char.
+      </speaker>
+      <p>
+       No buts. Provide disguises, my dear Rochester
+       — We will go together.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       But, should some disagreeable adventure
+       occur — —
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       I take the consequences on myself. Hush!
+       here comes your intended — I suppose, we must not
+       say a word of the mysterious beauty.
+      </p>
+     </sp>
+     <stage>
+      Enter Lady Clara, R.
+     </stage>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       I am commanded by the Queen to acquaint
+       his majesty, that she hopes for his presence at
+       her fête this evening.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( assumes an air of deep abstraction )
+      </stage>
+      <p>
+       Impossible, my lady. Tidings of high importance
+       are this moment received — Rochester will
+       explain — My own mind is too fully occupied.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       His majesty is particularly engaged this evening,
+       <stage>
+        ( lowering his voice )
+       </stage>
+       to sup at the Grand Admiral
+       in Wapping. —
+       <stage>
+        ( aloud )
+       </stage>
+       It is an affair, — an affair,
+       a — a — —
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( waves his hand to Rochester to explain )
+      </stage>
+      <p>
+       It is an affair of peculiar interest.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Yes, my lady; an affair in which his majesty
+       takes a tender interest — The fate of a
+       <stage>
+        ( lowering his voice )
+       </stage>
+       pretty bar-maid depends upon it.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Every thing must assuredly give way to
+       such laudable objects. But my Lord of Rochester's
+       attendance — —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( bowing and glancing archly at Charles )
+      </stage>
+      <p>
+       Is,
+       as ever, at her majesty's command.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       exit L.
+      </stage>
+      <p>
+       No, no: Lord Rochester must assist me — He
+       has a particular talent for affairs of this nature. —
+       <pb n="11"/>
+       <stage>
+        ( In a low tone to Rochester )
+       </stage>
+       Provide two seamen's d asses,
+       a purse of gold well filled, and arrange every thing
+       for nine precisely.
+       <stage>
+        ( aloud )
+       </stage>
+       Fair lady; I salute you —
+       present my loving apologies to her majesty. Lord
+       Rochester, you will attend me.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       I am with your majesty.
+       <stage>
+        ( Impressively to Lady Clara )
+       </stage>
+       This night, the lesson; — to-morrow, my
+       disgrace; — within eight days, our marriage, or there
+       is no truth in woman.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Fulfil your part of the engagement, my
+       lord, and rely upon my faith.
+      </p>
+     </sp>
+     <stage>
+      Exeunt, Roch. L., Lady C. R.
+     </stage>
+     <stage>
+      END OF ACT THE FIRST.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT II.
+    </head>
+    <div type="scene">
+     <head>
+      Scene I
+     </head>
+     <stage>
+      — Outside of Copp's Tavern, the, Grand. Admiral.
+     </stage>
+     <sp who="#mary">
+      <speaker>
+       Mary
+      </speaker>
+      <stage>
+       Enter from the house.
+      </stage>
+      <p>
+       <stage>
+        ( Voices within )
+       </stage>
+       Wine! wine! house! — waiter! —
+       more wine, ho! Huzza, huzza, huzza!
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       What a noise those sailors make in the bar-room
+       — nothing but singing, and laughing, and shouting
+       — I should like to take a peep at them — but no —
+       my uncle forbids me to show myself in the public
+       rooms — he scarcely lets me be seen by the guests —
+       he brings me up more like a young lady than the
+       niece of a tavern-keeper —
+       <stage>
+        ( walks about restless )
+       </stage>
+       . —
+       Heigho! what a tiresome long day! what shall I do
+       with myself? what can be the matter with me? I
+       wonder what can keep Mr. Georgini away? for three
+       days he has not been here to give me a lesson — no
+       matter,
+       <stage>
+        ( pettishly )
+       </stage>
+       — I don't care — I shall forget all my
+       singing, that's certain — he was just teaching me such
+       a pretty song too — all about love — I'll try it —
+       <stage>
+        ( attempts to sing )
+       </stage>
+       — no, I can't — it's all out of my head —
+       <pb n="12"/>
+       well, so much the better! I suppose he is teaching it
+       to some fine lady scholar — let him, I don't care — I
+       don't believe he'll find her so apt a scholar.
+      </p>
+     </sp>
+     <stage>
+      SONG INTRODUCED.
+     </stage>
+     <stage>
+      Mrs. Knight.
+     </stage>
+     <stage>
+      Enter Copp from the house.
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       What, Mary, my little blossom, what cheer,
+       what cheer? Keep close, my little heart — why do
+       you stir out of port? Here be cruisers abroad.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Who are those people, uncle, that make
+       such a noise?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Two hearty blades — mad roysters — oons
+       how they drink. I was obliged to part company, old
+       cruiser as I am, or they would soon have had me on
+       my beam ends.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Are they sailors, uncle?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       To be sure they are; who else would fling
+       about money as they do, and treat a whole bar-room?
+       The tallest in particular is a very devil. Hollo, Captain
+       Copp, cries he every minute, another bottle to
+       treat my brother tars.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       By their swaggering about so, they must be
+       very rich.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Pho, child, 'tisn't the deepest laden ships
+       that make the most rolling.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       But they spend their money so freely.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       A sure sign that it's running out. The longest
+       cable must come to an end. He that pays out
+       fastest, will soonest be brought up with a round turn.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       To what ship do they belong?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       That's more than I can say. Suppose they're
+       a couple of man-of-war's men just paid off, who think
+       they've a Spanish mine in each pocket —
+       <stage>
+        ( shout of laughter from within )
+       </stage>
+       . Ah, the jolly tars! I was just
+       the same at their age.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       I should like to have a look at them.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Avast there — what, trust thee in the way of
+       two such rovers? No, no, I recollect too well what it
+       <pb n="13"/>
+       was to get on shore after a long voyage. The first
+       glimpse of a petticoat — whew! up boarding-pikes and
+       grappling-irons! —
+       <stage>
+        ( recollecting himself )
+       </stage>
+       Ahem — no,
+       no, child, mustn't venture in these latitudes.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Ah, my good uncle, you are always so careful of me.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       And why not? What else have I in the
+       whole world to care for, or to care for me? Thou
+       art all that's left to me out of the whole family fleet —
+       a poor slight little pinnace. I've seen the rest, one
+       after another, go down; it shall go hard but I'll convoy
+       thee safe into port.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       I fear I give you a great deal of trouble, my
+       dear uncle.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Thou'rt the very best lass in the whole kingdom,
+       and I love thee as I loved thy father, my poor
+       brother Philip; that's because you're his very image.
+       To be sure, you haven't his jolly nose, and your little
+       mouth is but a fool to his. But then, there are his
+       eyes, and his smile, and the good humoured cut of
+       his face —
+       <stage>
+        ( sighing )
+       </stage>
+       poor Philip! What, I'm going
+       again, like the other night —
+       <stage>
+        ( wiping his eyes. )
+       </stage>
+       Psha!
+       let's change the subject, because d'ye see, sensibility
+       and all that gammon, does me no good — none — so
+       let's talk of something else. What makes thee so
+       silent of late, my girl? I've not heard a song from
+       thee these three days!
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       It's three days since I've seen my music-master.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Well, and can't you sing without him?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Without him I can't sing well.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       And what's become of him?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( pettishly. )
+      </stage>
+      <p>
+       I can't tell, its very tiresome.
+       If he did not mean to come again, he might have
+       said so.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Oddsfish, neglect thee — neglect his duty! —
+       I'll break him on the spot. Thou shalt have another
+       master. my girl.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( eagerly. )
+      </stage>
+      <p>
+       Oh no, on no account; I dare
+       say he is not well, some accident has happened. Besides,
+       <pb n="14"/>
+       there is no other teacher in town equal to him,
+       he sings with such feeling.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( Sings a Stave. )
+      </stage>
+      <p>
+       Ah! girl, if I had my old messmate, Jack
+       Ratlin, here, he'd teach thee to sing. He had a voice
+       — faith it would make all the bottles dance, and glasses
+       jingle on the table! Talk of feeling! Why, when
+       Jack would sit of an evening on the capstan when on
+       watch, and sing about sweethearts and wives, and
+       jolly tars, and true lover's knots, and the roaring seas,
+       and all that; smite my timbers, but it was enough to
+       melt the heart of a grampus. Poor Jack, he taught
+       me the only song I ever knew, it's a main good one
+       though — —
+      </p>
+      <l n="104">
+       In the time of the Rump
+      </l>
+      <l n="105">
+       As old Admiral Trump,
+      </l>
+      <l n="106">
+       With his broom swept the chops of the
+                                                  Channel;
+      </l>
+      <l n="107">
+       And his crew of
+                                                  Tenbreeches,
+      </l>
+      <l n="108">
+       Those Dutch sons of — —
+      </l>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( putting her hand on his mouth. )
+      </stage>
+      <p>
+       Oh, uncle,
+       uncle, don't sing that horrible rough song.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Rough? that's the beauty of it. It rouses
+       one up, pipes all hands to quarters like a boatswain's
+       call. Go in, Mary, but go in at the other door; don't
+       go near the bar; go up to your own room, my dear,
+       and your music-master will come to you presently,
+       never fear.
+      </p>
+     </sp>
+     <stage>
+      Exit Mary , U. E. L.
+     </stage>
+     <sp who="#voicewithin">
+      <speaker>
+       Voice within
+      </speaker>
+      <p>
+       Hollo — house! waiter! Captain Copp!
+       another bottle, my hearty fellow.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       Exit Copp into house.
+      </stage>
+      <p>
+       There they go again! I can't stand it any
+       longer. I am an old cruiser, and can't hear an
+       engagement without longing to be in the midst of it.
+       Avast, though
+       <stage>
+        ( stopping short ,)
+       </stage>
+       these lads are spending
+       too much money. Have a care, friend Copp, don't
+       sink the sailor in the publican; don't let a free-hearted
+       tar ruin himself in thy house — no, no, faith. If
+       they want more wine they shall have it; but they
+       shall drink as messmates, not as guests. So have at
+       you, boys; it's my turn to treat now. "In the time
+       of the rump."
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      Scene II.
+     </head>
+     <stage>
+      — A room in Copp's house. Stairs 2 E. R. A large window in flat, L. with shutters closed.
+     </stage>
+     <stage>
+      Enter Mary , L.
+     </stage>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       How provoking this absence of Mr. Georgini!
+       — It would be serving him right to let my uncle
+       discharge him: but then I should like just to learn
+       that song he is teaching me — hark! — How my heart
+       beats! Hark! I'll wager it's Georgini — I have a gift
+       of knowing people before I see them — my heart
+       whispers me —
+      </p>
+     </sp>
+     <stage>
+      Enter Edward as Georgini , L.
+     </stage>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       So, sir, you are come at last, are you! I had
+       supposed you did not intend to come any more, and
+       was about to look out for another teacher.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Pardon me for my absence — you have no
+       idea what I have suffered.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( with anxiety. )
+      </stage>
+      <p>
+       Suffered! Have you been
+       ill then?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Very ill —
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Indeed! and what was your complaint?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( smiling. )
+      </stage>
+      <p>
+       The not seeing you.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( half picqued, half pleased. )
+      </stage>
+      <p>
+       Mighty fine,
+       sir; it's a complaint that you might have cured in a
+       moment. I have been angry, sir — very angry at your
+       neglect — don't smile, sir — I won't be laughed at —
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Ed.
+      </speaker>
+      <p>
+       Laugh at you! Can you suspect me of such
+       a thing? — I do but smile from the pleasure of seeing
+       you again — nothing but circumstances that I could
+       not controul caused my absence.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( softening. )
+      </stage>
+      <p>
+       Well, it's very provoking to be
+       interrupted in one's lessons just in the middle of a
+       new song — I'll warrant you've been teaching it all
+       over town.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Indeed I teach it to no one but yourself —
+       for no one else can do it such justice.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( smiling. )
+      </stage>
+      <p>
+       Nay, now you are flattering —
+       have you brought it with you?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Here it is — if you please, we will sing it at
+       once.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Yes — but — but — don't look so steadily at
+       me while I sing — it puts me out; and then — and then
+       — I don't know what I'm singing.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       What! — have you fear of me then?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Oh! yes; I fear that I may not please you.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       A miable innocence! for the world
+       I would not betray thee.
+      </p>
+     </sp>
+     <stage>
+      SONG INTRODUCED.
+     </stage>
+     <stage>
+      Mrs. Knight.
+     </stage>
+     <stage>
+      Enter Copp , a little gay, singing, L.
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Aha! master crotchet and quaver, so you've
+       come at last, have you? What the deuce did you
+       stay away for, and let my little girl get out of tune?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Oh! I have explained all, sir, and made my
+       peace.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       (X c.)
+      </stage>
+      <p>
+       Ah, she's a forgiving little baggage,
+       and amazing fond of music — why she's always on the
+       look out for you an hour before the time.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Never mind, uncle. Are your strange companions
+       here still?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Here still? ay, and likely to stay here — ha!
+       ha! ha! — no getting rid of them — they're a couple of
+       devils, of right down merry devils, ha! ha! They've
+       flustered me a little, i' faith.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       You seem to have a great deal of company in
+       the house, sir; I'll take my leave.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       You shall take no such thing — you shall take
+       tea with us, my little semibreve, and we'll have a lesson
+       of music too. Oddsfish! you shall give me a lesson
+       — I am confoundedly out of practice, and can't
+       turn my old song for the life of me —
+       <stage>
+        ( begins. )
+       </stage>
+       "In
+       the time of the Rump" —
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Never mind the song now, uncle, we must
+       have tea first, and Mr. Georgini will help me make it.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Ay, faith, and we'll take a bowl of punch and
+       a flask of old Madeira to make a set out —
+       <stage>
+        (X R.)
+       </stage>
+       my
+       two messmates in the other room are to be of the
+       party.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       What! those wild sailors who have been
+       keeping the house in an uproar?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       To be sure — they're good lads, though they
+       have a little of the devil in them. They asked to
+       clink the cup with me, and you know I can't well refuse,
+       by trade, to clink the cup with any one. In
+       troth they had put me in such rare good humor — ha!
+       ha! ha! — that I could not refuse them for the life of
+       me.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       But they are such a couple of harebrains —
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Oh! don't be afraid — they are rough, but
+       good natured — sailor-like: besides, am not I always
+       within hail? One of them, I see, is heaving in sight
+       already. Come with me, my girl, and help to prepare
+       the punch and get the tea —
+       you
+       my king of crotchets,
+       will stay and receive our guests — make yourself
+       at home —
+       <stage>
+        ( sings as he goes. )
+       </stage>
+       "In the time of
+       the Rump" —
+      </p>
+     </sp>
+     <stage>
+      Exeunt Copp and Mary up stairs.
+     </stage>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Here's a transformation! from a court page
+       behold me master of ceremonies at a Wapping tavern.
+       <stage>
+        ( starts. )
+       </stage>
+       Good heaven! whom have we here? The
+       Earl of Rochester in that rude garb!
+      </p>
+     </sp>
+     <stage>
+      Enter Rochester , ( laughing. ) L.
+     </stage>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Ha! ha! ha! The shouts of those jolly fellows
+       began to turn my brain — his majesty is in fine
+       humor to get into a scrape; and if he does, to make
+       his difficulties more perplexing, I have secured his
+       purse, so that he cannot bribe his way out of them —
+       Hey! Edward!
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( confused. )
+      </stage>
+      <p>
+       My lord Rochester —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Silence, you rogue! I am no lord here, no
+       Rochester. I am a seaman — my name Tom Taffrel.
+       The king, my messmate, is Jack Mizen.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       The king with you! —
+       <stage>
+        ( aside )
+       </stage>
+       I see it all —
+       he's after Mary — ah! I am lost.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Don't be alarmed, friend Georgini; none but
+       the most innocent motives have brought us here —
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Innocent motives bring you and the king, at
+       <pb n="18"/>
+       night to a tavern in Wapping, where there is a beautiful
+       girl? Ah! my lord, my lord —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Nay, to convince you that you have nothing
+       to fear, I permit you to remain with us —
+       <stage>
+        ( aside. )
+       </stage>
+       He
+       may assist my scheme —
+       <stage>
+        ( aloud. )
+       </stage>
+       You must play off
+       your character of music-master upon the king.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Impossible! His majesty will recognize my
+       features.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Psha! you have not been page a month;
+       he probably has not seen your face three times. But
+       take care how you act; the least indiscretion on your
+       part —
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Ah! my lord, I am too much interested in
+       keeping the secret.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       That is not all. In whatever situation the
+       king may find himself, whatever chagrin he may suffer,
+       I forbid you to assist him in the slightest manner.
+       You are to see in him only the sailor, Jack Mizen.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Should his majesty chance to incur any danger,
+       my lord, I can never be passive. In such case, I
+       have but one course.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       There
+       can
+       be no danger — I shall myself
+       watch over his safety.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       That decides me — I think I apprehend the
+       object, and will obey your lordship.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       The king approaches — Silence! let each resume
+       his part.
+      </p>
+     </sp>
+     <stage>
+      Enter Charles , L.
+     </stage>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Yo ho! well, messmate, shall we soon see
+       this marvellous beauty?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       So — this is his majesty's innocent
+       motive.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Peace, friend Jack, here's one of her admirers
+       — her music-master —
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Ah! you teach the young lady music, do
+       you?
+       <stage>
+        (X c)
+       </stage>
+       <stage>
+        ( looking earnestly at him. )
+       </stage>
+       Zounds! how
+       like he is to the page you gave me lately.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       Ah! my face strikes him.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Hum — I can't say I see much-resemblance.
+       <pb n="19"/>
+       He is taller than Edward, and older, and the expression
+       of his countenance is not the same.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       No, no, not altogether, but there is a
+       something —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Why, to tell the truth, the page had a wild
+       fellow for a father — and, your majesty knows, likenesses
+       are stamped at random about the world
+       sometimes.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( laughing. )
+      </stage>
+      <stage>
+       (X L.)
+      </stage>
+      <p>
+       I understand — duplicate impressions —
+       like enough.
+      </p>
+     </sp>
+     <stage>
+      Enter Mary and Servant, with Tea, down stairs
+     </stage>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( to Servant. )
+      </stage>
+      <p>
+       Set the table in this room.
+      </p>
+     </sp>
+     <stage>
+      ( the Servant and Mary puts tea things in order. )
+     </stage>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( to Rochester. )
+      </stage>
+      <p>
+       By heaven she's a divinity!
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( low to Roch. )
+      </stage>
+      <p>
+       What does he say?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( to Edw. )
+      </stage>
+      <p>
+       That your divinity is a devilish
+       fine girl.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( to Roch. )
+      </stage>
+      <p>
+       Amuse this confounded singing-master.
+       I wish to have a duo with his mistress. He'll
+       only mar music.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( to Edward, with an air of great business )
+      </stage>
+      <p>
+       My good Mr. Georgini, I have something particular
+       to say to you —
+       <stage>
+        ( drawing him to a corner. )
+       </stage>
+       His majesty
+       <stage>
+        (suppressing a laugh)
+       </stage>
+       fancies that you are uncomfortable,
+       and requests me to amuse you.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Yes, that he may have Mary all to himself
+       <stage>
+        ( drawing near her. )
+       </stage>
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( drawing him back. )
+      </stage>
+      <p>
+       Come, don't be childish.
+       What, you pretend to follow my lessons, and
+       want complaisance?
+      </p>
+     </sp>
+     <stage>
+      ( Charles has been making advances to Mary, who appears at first a little shy. )
+     </stage>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Do let me assist you, my pretty lass.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Don't trouble yourself sir; Mr. Georgini
+       is to help me make tea.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( breaking from Rochester, to Mary. )
+      </stage>
+      <p>
+       I am
+       here, madam — what can I do to help you?
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( puts the kettle as if accidentally against his hand. ) —
+      </stage>
+      <stage>
+       ( drily. )
+      </stage>
+      <p>
+       Take care, young man, you may
+       scald your fingers.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( drawing Edward back, and speaking low. )
+      </stage>
+      <p>
+       Why, what a plague, boy, are you doing?
+      </p>
+     </sp>
+     <stage>
+      ( Charles continues to assist Mary, mingling little gallantries, and blundering in attempts to assist.
+     </stage>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( aside, and struggling with Rochester. )
+      </stage>
+      <p>
+       I
+       shall go mad!
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Oh dear, sir, you're so kind, you quite put
+       me out —
+       <stage>
+        ( laughing )
+       </stage>
+       — hey! — you have taken my hand
+       instead of the teapot. I will not say you're awkward,
+       sir, but really you have the oddest manner of assisting
+       — nay — let go my hand, I beg.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       By heaven, it is a beautiful one!
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Nay, nay — pray, sir —
+       <stage>
+        ( withdrawing her hand with smiling confusion. )
+       </stage>
+       —
+       <stage>
+        ( apart. )
+       </stage>
+       Upon my word, I
+       don't see any thing so very rude in these people.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( endeavouring to get away from Rochester. )
+      </stage>
+      <p>
+       Let me go, I entreat you; I can stand this no longer.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( holding him, and suppressing a laugh. )
+      </stage>
+      <p>
+       Psha!
+       man, if you think to marry, or rise in the world, you
+       must learn to be deaf and blind upon occasion.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( in rather an under tone to Mary. )
+      </stage>
+      <p>
+       And how
+       is it possible so pretty a lass should not be married?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Married! bless me! I never thought of such
+       a thing.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       No? never? and yet surrounded by lovers.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Lovers! I hav'n't one, sir.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Indeed! and what is that young man fidgetting
+       yonder?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       He? — he is my singing-master, sir.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       And he sings to some purpose, I'll warrant.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Delightfully.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       And gives you a love-song now and then?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Oh often, often.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       I thought so — he has it in his countenance.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( to Roch. )
+      </stage>
+      <p>
+       You
+       must
+       let me go — you see I
+       am wanted.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Upon my word they are getting on amazingly
+       well without you.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( to Mary. )
+      </stage>
+      <p>
+       And so you are fond of music,
+       my pretty lass?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Oh, I love it of all things.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( taking her hand. )
+      </stage>
+      <p>
+       A pretty hand to beat time with
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( withdrawing it. )
+      </stage>
+      <p>
+       Sir —
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( offers to kiss her. )
+      </stage>
+      <p>
+       And as pretty a little mouth to warble a love
+       song. I warrant there comes none but sweet notes
+       from these lips
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( resisting. )
+      </stage>
+      <p>
+       Sir, give over — let me go sir. —
+       Mr. Georgini — help, help!
+      </p>
+     </sp>
+     <stage>
+      ( Edward bursts from Rochester, who is laughing. At this moment ,
+     </stage>
+     <stage>
+      Enter Copp , from stairs, with punch.
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Avast there, messmate! what the devil, yard
+       arm and yard arm with my niece!
+      </p>
+     </sp>
+     <stage>
+      ( Charles desists, a little confused — Edward approaches Mary. )
+     </stage>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( flurried. )
+      </stage>
+      <p>
+       I am glad you are come, uncle
+       — this rude stranger — —
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( taking her arm under his, and puts her over to R.)
+      </stage>
+      <p>
+       Thunder and lightning — what! insult Captain
+       Copp's niece in his own house! Fire and furies!
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( pretending to be a little gay. )
+      </stage>
+      <p>
+       I insult your
+       niece, messmate? Since when has an honest tar's
+       kissing a pretty girl been considered an insult? As
+       to the young woman, if she takes offence at a piece
+       of sailor civilty, why I ask pardon, that's all.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( softened. )
+      </stage>
+      <p>
+       Oh, as to a piece of civility, d'ye
+       see, that alters the case; but, guns and blunderbusses!
+       if any one should dare — — -
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( to Copp. )
+      </stage>
+      <p>
+       Come, come, uncle Copp, what
+       a plague! you were a youngster once, and a frolicksome
+       one, I'll warrant. I see it in your eye — what —
+       didst ever think it a crime to kiss a pretty girl in a
+       civil way.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       Sings.
+      </stage>
+      <p>
+       No, no, in a civil way, no certainly; I can
+       make allowance when a lad and a lass, and a bottle
+       come pretty near each other — odds fish — you say
+       right, at your age I was a rattler myself. Come, Mary,
+       <stage>
+        ( Mary goes up to seat ,)
+       </stage>
+       no harm done — Come, lads,
+       take your seats —
+       <pb n="22"/>
+       <stage>
+        ( They seat themselves. Edward attempts to place himself by Mary — Charles interferes and takes the place; Edward then attempts to place himself at Mary's left hand, Rochester pops himself into the chair. )
+       </stage>
+       Come, my girl, pour out the tea — I'll fill out the
+       punch, and we'll have a time of it, i'faith — Come, I'll
+       give you a jolly song to begin with —
+      </p>
+      <l n="251">
+       In the time of the Rump,
+      </l>
+      <l n="252">
+       As old Admiral Trump —
+      </l>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <stage>
+       ( offering one. )
+      </stage>
+      <p>
+       That odious song! — come uncle,
+       never mind the song, take a cup of tea —
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       What, drown my song and myself in warm
+       water? ha! ha! no faith — not while there's a drop in
+       the punch bowl.
+      </p>
+     </sp>
+     <stage>
+      ( Mary helps Edward and Rochester, omitting Charles. )
+     </stage>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( low to Mary. )
+      </stage>
+      <p>
+       Am I then excluded?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( looking down. )
+      </stage>
+      <p>
+       I thought punch would be
+       more to your liking, sir.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Then punch be it — Come, clink with me,
+       neighbour Copp — clink with me, my boy.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Oh! I'm not proud, I'll clink with any body
+       — that's to say, mind ye, when the liquor is good, and
+       there's a good fellow in the case.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( rising. )
+      </stage>
+      <p>
+       Well, here goes — To the health
+       of Mary, the fair maid of Wapping.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       With all my heart, here's to her health; the
+       darling child — Oh; messmate, there you touch a soft
+       corner of my heart — did you but know how I love
+       this little girl. Psha! I'm a foolish old fellow, and
+       when I have got punch, and sensibility, and all that on
+       board — Come, let's talk of something else.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       My dear uncle — —
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( offering to take her hand. )
+      </stage>
+      <p>
+       I don't wonder at your loving her, I can't
+       help feeling a kind of admiration for her myself —
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       Sings.
+      </stage>
+      <p>
+       Softly, shipmate, no grappling — admire at a
+       distance as much as you please, but hands off. Come,
+       my lads, a merry song — I love to sing when I drink.
+      </p>
+      <l n="280">
+       In the time of the Rump,
+      </l>
+      <l n="281">
+       As old Admiral Trump —
+      </l>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Not that song, my dear uncle — I entreat —
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Ah, I recollect — ha! ha! my poor song; ha!
+       ha! — well, well, since you don't like me to sing, sing
+       it for me yourself, Mary.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Ay, a song from the charming Mary,
+       <stage>
+        ( significantly. )
+       </stage>
+       I dare say your master has some pretty love
+       song for you.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Oh yes — I have brought one of the latest in
+       vogue — one by the most fashionable poet of the day,
+       the Earl of Rochester.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Rochester? fire and fury — roast Rochester!
+       a rascally rogue! the devil take Rochester, and his
+       song too.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Bravo! Captain Copp — another broadside,
+       old boy —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Why, what the deuce, neighbour — has your
+       powder magazine taken fire? Why, what has Rochester
+       done to you, to occasion such a terrible explosion?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       What's that to you? What have you to do
+       with my family secrets? Rochester! His very name
+       makes my blood boil —
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       My dear uncle, be calm. You promised
+       never to speak on this subject.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Why, what connection can there be between
+       you and Rochester?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       No matter, he has been put to the proof,
+       that's enough.
+       <stage>
+        ( To Mary. )
+       </stage>
+       Don't be uneasy — I'll
+       say no more about it, my girl. You know me — when
+       I say mum, that's enough — honour bright.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       This affair seems serious —
+       <stage>
+        ( rises. )
+       </stage>
+       I must
+       have an explanation.
+       <stage>
+        ( With an air of authority. )
+       </stage>
+       It is
+       my pleasure —
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Your pleasure, quotha — and who the devil
+       are you? You're a pleasant blade.
+       <stage>
+        ( Sturdily. )
+       </stage>
+       But
+       it's not my pleasure, messmate, look ye.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( recollecting himself. )
+      </stage>
+      <p>
+       I mean to say, that I
+       feel a deep interest in your welfare.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( gruffly )
+      </stage>
+      <p>
+       Thank ye, thank'e, — but I'm not
+       used to such warm friends on such short acquaintance.
+       <stage>
+        ( Apart. )
+       </stage>
+       I wonder is it myself, or my niece,
+       this chap has fallen in love with at first sight?
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( apart to Rochester. )
+      </stage>
+      <p>
+       I am curious to know
+       what charge they have against you.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( apart to Charles. )
+      </stage>
+      <p>
+       And so am I, and I'll
+       make this old buccaneer speak plain, before we leave
+       him.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       You have misunderstood me, friend Copp.
+       I am no defender of Rochester. I know him to be a
+       sad fellow.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       As destitute of feeling as a stock fish.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       He is a great genius, however.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       He is an evil genius, I know.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       He has a very clear head —
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       But a very black heart.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       This Rochester is a sad light-headed fellow,
+       that's notorious; but will you have the goodness, my
+       blunt Captain Copp, to mention one heartless act of
+       his?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( loudly. )
+      </stage>
+      <p>
+       Ay, that I will. Is it not a burning
+       shame —
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       My dear uncle, you forget your promise.
+      </p>
+     </sp>
+     <stage>
+      ( on R.)
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Let me alone, girl, let me alone — you've
+       nothing to fear; I have you under convoy.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Out with it, what is his crime?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Crime! Is it not a burning shame, I say, to
+       disclaim his own niece — to keep from her every stiver
+       of her little fortune, and leave her to pass her
+       days in a tavern, when she has a right to inhabit a
+       palace?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( eagerly. )
+      </stage>
+      <stage>
+       (L.)
+      </stage>
+      <p>
+       What do I hear?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       What, and is this young woman the niece?
+       How can that be?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Simply enough. Her father. Philip Copland,
+       married a sister of Lord Rochester.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       Philip Copland is indeed the name.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       This is most singular. And this Philip Copland
+       was your brother?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( with great feeling. )
+      </stage>
+      <p>
+       Ay, but worth a dozen of me — a steady
+       man, an able officer, an ornament of the regular navy.
+       I was always a wild dog, and never took to learning —
+       ran away from school — shipped myself on board a
+       privateer. In time I became captain, and returned
+       from my last cruise just in time to receive poor Philip's
+       last breath — his sand was almost run out. 'Brother,'
+       said he, 'I feel that my cruising is over; but
+       there's my little girl. Take care of her for my sake,
+       and never bother the Rochesters again.' — 'Brother,'
+       said I, 'it's a bargain; tip us your fist on it, and die
+       in peace, like a good christian.' He grasped my
+       hand, and gave it a gentle squeeze. I would have
+       shook his, but it grew cold, and poor Philip was no
+       more!
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( laying her hand on his shoulder. )
+      </stage>
+      <p>
+       My dear uncle —
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( rousing himself. )
+      </stage>
+      <p>
+       But the girl was left, the
+       girl was left
+       <stage>
+        ( embracing her )
+       </stage>
+       ; and —
+       <stage>
+        ( taking her arm under his )
+       </stage>
+       and I'll keep my word to my poor brother,
+       and take care of
+       her
+       , as long as I have breath in my
+       body.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Well, brother Tom, what do
+       you
+       think of
+       all this?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       It touches me to the soul.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       And so you took home the child?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Oh! yes: and my uncle's bounty and kindness
+       have taken care of his poor girl ever since.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Oh! you should have seen what a little thing
+       it was, — a little chubby-faced thing of four years old,
+       no higher than a handspike. Now she's a grown
+       girl.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       And you have given her a good education,
+       it appears?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       And why not? What, tho'
+       I'm
+       a dunce,
+       <pb n="26"/>
+       that's no reason that Mary Copland should be a fool.
+       Her father was a man of parts.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       And you have given up your voyages for
+       her?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       To be sure. Could I have a child running
+       after me about deck? I sold my ship, and bought
+       this tavern, where I receive none but good fellows,
+       who drink, and smoke, and talk to me of voyages
+       and battles all day long.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       But ambition might have induced you —
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Ambition! You don't know me: my only
+       ambition is to marry my niece to some honest citizen,
+       and give her a dower of one thousand pounds, with
+       as much more when old Captain Copp takes his long
+       map.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       Generous fellow!
+       <stage>
+        ( Aloud. )
+       </stage>
+       Let me
+       advise you to apply to the Earl of Rochester.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Oh! yes,
+       he
+       will provide
+       an honourable match
+       for your niece.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( piqued. )
+      </stage>
+      <p>
+       Much obliged, Mr Georgini, but
+       nobody asked your advice.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Apply to him! — no — no — I'll have nothing
+       to do with the Rochesters.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       But why not apply to the king himself?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Oddsfish! They say he is not much better,
+       he's a wild devil — a great friend of Rochester — and
+       birds of a feather, you know —
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       Now comes my turn.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       True enough, Captain Copp, they say he is
+       a rover — rambles about at night — frolics in taverns.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Well, let him cruise, so he does not cruise
+       into my waters. He's a desperate rogue among the
+       petticoats, they say — well, I like a merry heart,
+       wherever it beats. — Charley has some good points —
+       Oh! dam'me, I like Charley — and if I could but give
+       him a piece of my mind —
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       What would it be, friend Copp?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       To keep more in port, anchor himself at
+       home, and turn that fellow, Rochester, adrift — there
+       might then be some hopes of him. — But, come, 'tis
+       <pb n="27"/>
+       getting late — now, friends, it's time to turn out, and
+       turn in — these are late hours for the Grand Admiral,
+       come, a parting cup. —
+       <stage>
+        ( To Mary. )
+       </stage>
+       See that the fires
+       are out, my girl, and all hands ready for bed.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       I will, but no more drinking, uncle.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Well, well — no more — only one parting cup.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       Exit Mary. L.
+      </stage>
+      <p>
+       Only one — recollect, you have promised —
+       no more.
+      </p>
+     </sp>
+     <stage>
+      ( Charles sits at the table, with his back to L.)
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Only this last drop. — Come, my lads, this
+       farewell cup, and then you must push your boats.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       (whispers while Charles is drinking.)
+      </stage>
+      <p>
+       Now to execute my plan,
+       <stage>
+        ( making signs that the king will pay. )
+       </stage>
+       Hist, Captain Copp!
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( Goes up to Chas. at table )
+      </stage>
+      <p>
+       Ay, ay, all right.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( low to Edward. )
+      </stage>
+      <p>
+       Follow me quietly — I've
+       some thing to say to you.
+       <stage>
+        ( Apart, and chuckling as he goes out. )
+       </stage>
+       Now brother Jack, I think you'll soon
+       find yourself among the breakers!
+      </p>
+     </sp>
+     <stage>
+      Exit L. followed by Edward.
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Now, messmate, let's square accounts, —
+       <stage>
+        ( handling a paper )
+       </stage>
+       here's a note of your expenses —
+       you see I charge nothing for the last two bottles —
+       nor for the tea-table — that's my treat.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( looking over the paper. )
+      </stage>
+      <p>
+       Um! wine — punch
+       — wine — punch — total five pounds ten — a mere trifle.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Do you call that a trifle? — Gad, messmate,
+       you must have made good prizes in your last cruise,
+       or you've high wages, mayhap.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( laughing. )
+      </stage>
+      <p>
+       Ay, ay, I'm pretty well paid —
+       Here Tom Taffrel, pay Copp's bill, and let's be off. —
+       <stage>
+        ( looking round )
+       </stage>
+       Hey — where is he?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Oh! he went off in a great hurry — he said
+       he had to be aboard ship, but that you would pay the
+       bill.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       With all my heart. —
+       <stage>
+        ( Apart )
+       </stage>
+       It's odd that
+       he should leave me alone — my raillery has galled
+       him. — Poor Rochester,
+       <stage>
+        ( laughing )
+       </stage>
+       how ill some people
+       take a joke! —
+       <stage>
+        ( feeling his pockets )
+       </stage>
+       Five pounds
+       ten, you say.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       retires up to table
+      </stage>
+      <p>
+       Just so — five pounds ten.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( searching all his pockets. )
+      </stage>
+      <p>
+       Well! this is the
+       oddest thing — I am certain I had my purse.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <stage>
+       ( up at table. )
+      </stage>
+      <p>
+       My neighbour seems rather in a
+       quandary.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( feeling more eagerly. )
+      </stage>
+      <p>
+       Some one has picked
+       my pocket.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Avast there, friend — none but honest people
+       frequent the Grand Admiral. —
+       <stage>
+        ( Apart )
+       </stage>
+       I begin to
+       suspect this spark, who spends so freely, is without
+       a stiver in his pocket.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       All I know, is, that one of those honest people
+       must have taken my purse.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Come, come, messmate — I am too old a
+       cruiser to be taken in by so shallow a manæuvre — I
+       understand all this — your companion makes sail —
+       you pretend to have been robbed — it's all a cursed
+       privateerig trick — clear as day.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Friend Copp — if you will wait till to-morrow,
+       I'll pay you double the sum.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Double the sum!! — thunder and lightning!
+       what do you take me for? — Look ye, neighbour, to
+       an honest tar in distress, my house and purse are
+       open — to a jolly tar who wants a caper, and has no
+       coin at hand, drink to-day and pay to-morrow is the
+       word — but to a sharking land lubber, that hoists the
+       colours of a gallant cruiser, to play off the tricks of
+       a pirate, old Copp will show him his match any day.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       A land lubber?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Ay, a land lubber. — D'ye think I can't see
+       through you, and your shallow sailor phrases. — Who
+       the devil are you? — none of the captains know you,
+       what ship do you belong to?
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( retreating in confusion. )
+      </stage>
+      <p>
+       What ship? why to — to —
+       <stage>
+        ( apart )
+       </stage>
+       what the
+       deuce shall I say?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       A pretty sailor truly — not know the name of
+       his ship — a downright swindler — a barefaced impudent
+       swindler — comes into my house, kicks up a bobbery,
+       puts every thing in an uproar — treats all the
+       guests — touzles my niece — and then wants to make
+       off without paying.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       How shall I get out of this cursed
+       scrape? — Oh, happy thought! my watch —
+       <stage>
+        ( aloud )
+       </stage>
+       hearkee, Captain Copp — if I haven't money, may be
+       this will do as well — what say you to my watch as
+       pledge?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( taking the watch. )
+      </stage>
+      <stage>
+       ( shaking his head. )
+      </stage>
+      <p>
+       Let me see it, um, large
+       diamonds —
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( gaily. )
+      </stage>
+      <p>
+       Well — that's worth your five pounds
+       ten — hey?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Um — I don't know that: — if the diamonds
+       are
+       false
+       , it is not worth so much — if
+       real
+       , none but
+       a great lord could own it —
+       <stage>
+        ( turning quick to him )
+       </stage>
+       how did you come by this watch?
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       It's my own.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Your own! A common sailor own a watch
+       set with large diamonds! I'll tell you what, my hearty,
+       it's my opinion as how you stole this watch.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Stole it? Give back my watch, fellow, or
+       I'll —
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Softly, my lad, keep cool, or I'll have you
+       laid by the heels in a twinkling.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( apart )
+      </stage>
+      <p>
+       What a bull-dog! Well, sir, what
+       do you intend to do?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Lock you up here for the present, and have
+       you lodged in limbo immediately.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Will you listen to reason?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( going )
+      </stage>
+      <stage>
+       Exit, and locks door.
+      </stage>
+      <p>
+       Yes, through the key-hole!
+       <stage>
+        ( from the door )
+       </stage>
+       You shall have news of me presently, my
+       fine fellow.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Was ever monarch in such a predicament!
+       — a prisoner in a tavern — to be presently dragged
+       through the streets as a culprit — and to-morrow sung
+       in lampoons, and stuck up in caricatures all through
+       the city — what is to be done? This Copp seems a
+       man of probity, suppose I avow myself to him? Um!
+       will he credit me, and will he keep the matter secret?
+       This sturdy veteran may be an old cruiser under the
+       Commonwealth: if so, what have I not to apprehend?
+       Alone, unarmed, at midnight
+       <stage>
+        ( shaking his head )
+       </stage>
+       —
+       Charles, Charles! wilt thou never learn wisdom? —
+       <pb n="30"/>
+       <stage>
+        ( a noise of unlocking the door )
+       </stage>
+       Hark! some one comes.
+      </p>
+     </sp>
+     <stage>
+      Enter Edward and Mary , at door.
+     </stage>
+     <stage>
+      Several Servants quaintly dressed, and armed, appear at the door.
+     </stage>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Place yourselves outside, and guard the
+       passages.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       They are placing sentinels.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( apart )
+      </stage>
+      <p>
+       The earl has given me my lesson:
+       no flinching.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       I am afraid to go near him. I wish my uncle
+       had not set us this task. —
+      </p>
+     </sp>
+     <stage>
+      ( Mary is armed with an old cutlas, Edward with a long rusty pistol or carbine. )
+     </stage>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Be not afraid, I am here to defend you.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( advancing )
+      </stage>
+      <p>
+       What! my pretty Mary in arms?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Ah, don't come near me! What a ferocious
+       ruffian it is.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( gallantly )
+      </stage>
+      <p>
+       Was that delicate hand made to
+       grasp so rude a weapon?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( low to Mary )
+      </stage>
+      <p>
+       Don't let him touch your hand
+       or you are lost.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( drawing back )
+      </stage>
+      <p>
+       He does not look so very
+       ferocious neither. Fie, sir, fie! what, steal the jewels
+       of the crown?
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Is it then known already?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Yes, indeed, all is known. My uncle took
+       the watch to our neighbour, the jeweller, who knew
+       it instantly. It belongs to his royal majesty himself.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Confusion!
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( low to Mary )
+      </stage>
+      <p>
+       You hear, he confesses. —
+       <stage>
+        ( Aloud )
+       </stage>
+       Well, Captain Copp will be here presently
+       with the magistrate. Here will be a fine piece of
+       work. All Wapping is already in an uproar.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( eagerly )
+      </stage>
+      <p>
+       My friends, it is of the highest importance
+       that I should escape before they come.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       I have not a doubt of it. Oh, you culprit!
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( with insinuation )
+      </stage>
+      <p>
+       And would Mary, the pretty
+       Mary, see me dragged to prison? I won't believe
+       it. That sweet face bespeaks a gentle heart.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Poor creature! I can't but pity him.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( with gallantry )
+      </stage>
+      <p>
+       I never saw a pretty woman
+       yet, that would not help a poor fellow in distress —
+       <stage>
+        ( apart )
+       </stage>
+       she
+       yields. But I need other bribes for my
+       gentleman — I have it — my ring.
+       <stage>
+        ( Aloud )
+       </stage>
+       Assist me
+       to escape, and take this ring as a pledge of what I
+       will do. It is of great value.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       What a beautiful diamond ring! how it
+       sparkles! Don't touch it, Georgini, it's a stolen ring.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       And for that very reason I take it. We can
+       return both together to the right owner.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( apart to Edward )
+      </stage>
+      <p>
+       He certainly has something
+       genteel in his air. This unfortunate man may
+       perhaps belong to decent people.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( examines the room )
+      </stage>
+      <p>
+       I do indeed; my family is considered very
+       respectable. Ah, bless that sweet face! I knew a
+       hard heart could not belong to it.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( apart )
+      </stage>
+      <p>
+       Egad, I must get him off, or he'll
+       win his pretty jailer, culprit as she thinks him.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( taking Edward apart )
+      </stage>
+      <p>
+       How penitent he
+       seems, and his countenance is rather amiable, too!
+       What will they do with him?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( carelessly )
+      </stage>
+      <p>
+       Lock him up in a dungeon — put
+       him in irons — keep him on bread and water.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Shocking! my heart feels for him — so sweet
+       spoken a man! How long will they confine him?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( with a shrug )
+      </stage>
+      <p>
+       Can't say — may be, two or
+       three days — may be, two or three weeks. Then,
+       they'll hang him.
+      </p>
+     </sp>
+     <stage>
+      ( Charles comes from stair-case, goes to the window, and opens shutters )
+     </stage>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Heavens! will they touch his life?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Oh yes, they'll certainly hang him. I shall
+       attend the execution — I never saw a man hanged.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Oh horrible! and so good looking a man!
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Yes, he'll make a very pretty figure.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( earnestly )
+      </stage>
+      <p>
+       I would not have his death upon my mind
+       for the whole world.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( who has been traversing the apartment uneasily, and eying them occasionally. )
+      </stage>
+      <p>
+       Will this consultation
+       <pb n="32"/>
+       never end! I dread the arrival of the officers.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( aloud. )
+      </stage>
+      <p>
+       Let us assist him to escape!
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Thanks, my generous girl: there's nothing
+       like a petticoat in time of trouble.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       How shall we get him off? the door is guarded.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Ay, but the window.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( eagerly. )
+      </stage>
+      <p>
+       No, not the window, you may
+       hurt yourself.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( surprised. )
+      </stage>
+      <p>
+       You are very considerate, my
+       friend.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Oh! it is not very high, and opens into a
+       lane that leads to the river.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( opening the window. )
+      </stage>
+      <p>
+       Psha! it's nothing;
+       with your assistance, I shall be on the ground in an
+       instant.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       It is, perhaps, very wrong in me to let you
+       escape; but I beg you to listen to a word of advice.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Oh, yes, I hear you.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       It is on condition that you change your
+       course of life.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Yes, yes, I'll change it, I warrant you.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       And not drink, nor rove about this way at
+       night.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Not for the world.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       And steal no more, for it will bring you to
+       a shameful end.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( getting out of the window assisted by Mary. )
+      </stage>
+      <p>
+       An excellent sermon! But I must
+       steal
+       — one kiss to
+       impress it on my memory!
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Did he steal a kiss, Mary?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Oh, yes, he did indeed.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Stop thief! stop thief!
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( descending outside. )
+      </stage>
+      <p>
+       Tell uncle Copp to put
+       it in the bill!
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       I hear them coming
+       <stage>
+        ( looks out of the window. )
+       </stage>
+       He's safe down — he's off
+       <stage>
+        ( apart )
+       </stage>
+       — now I'm easy.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       But what shall we say to my uncle?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       I'll manage that; only say as I say, and fear
+       <pb n="33"/>
+       nothing. Stop thief! stop thief!
+       <stage>
+        ( To Mary )
+       </stage>
+       Cry
+       out as I do!
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( feebly )
+      </stage>
+      <p>
+       Stop the thief! stop the thief! —
+       I can't.
+      </p>
+     </sp>
+     <stage>
+      Enter Copp , L. with a double-barrelled gun, followed by two servants.
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Hollo! what the devil's to pay here?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       The culprit has jumped out of the window.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Oh, yes, out of the window.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Thunder and lightning! why didn't you stop
+       him?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       I
+       was too far off. The young lady attempted,
+       but he kissed her, and leaped out like a greyhound.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Fire and furies! kissed her?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Yes, uncle, but he didn't hurt me.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       And he said you might put it in the bill.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( Bustle — Copp fires off his gun twice out of the window after Charles )
+      </stage>
+      <p>
+       Guns and blunderbusses! this is running up
+       an account with a vengeance
+       <stage>
+        ( looking out of the window. )
+       </stage>
+       I see something in the offing; we may overhaul
+       him yet. Come along, all hands to the chase!
+       Get to your room, Mary, there's no knowing what
+       might happen if this pirate should fall foul of you
+       again. Come along — away with you all — divide at
+       the street door — scour the three passages — I'll show
+       him what it is to come in the way of an old cruiser!
+      </p>
+     </sp>
+     <stage>
+      Exeunt — Mary R., the rest c.
+     </stage>
+     <stage>
+      END OF THE SECOND ACT.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT III.
+    </head>
+    <div type="scene">
+     <head>
+      Scene
+     </head>
+     <stage>
+      — The Royal Palace. Arm-chair, and table, with pen, ink, and paper upon it.
+     </stage>
+     <stage>
+      Enter Edward , in his habit, as a Page, E.
+     </stage>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       I've had a hard scramble of it, to get here,
+       and dress in time. The king must arrive presently,
+       thought my light heels have given me a good start of
+       him. Ha! ha! ha! I cannot help laughing
+       <stage>
+        (sits)
+       </stage>
+       tho'
+       I do it with fear and trembling, to think of the confounded
+       prank that mad wag, Rochester, has played
+       off upon majesty.
+       <stage>
+        ( noise R. U. E.)
+       </stage>
+       Hark! a noise in
+       the king's private staircase — Softly, then, softly
+       <stage>
+        ( seats himself in an arm-chair at the door of the king's chamber, and pretends to sleep. )
+       </stage>
+       L.
+      </p>
+     </sp>
+     <stage>
+      Enter Charles , his dress in disorder from Sd E. R.
+     </stage>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Confound the city! what a journey it is!
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( aside. )
+      </stage>
+      <p>
+       Especially to foot passengers.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       I began to think I should never find the palace.
+       <stage>
+        ( Sitting down )
+       </stage>
+       Phew! I shall not forget this
+       night in a hurry. Forced to escape like a thief, — to
+       risk my neck from a window, — hunted about the
+       streets by that old buccaneer and his crew! Egad! I
+       fancy I can hear old Copp's voice, even now, like a
+       huntsman giving the view-halloo, as I doubled about
+       the mazes of Wapping.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( aside and suppressing a laugh. )
+      </stage>
+      <p>
+       A royal
+       hunt, truly!
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       And, then, such perplexities in finding my
+       way! jeered by the watchman, dogged by a couple
+       of fellows, who seemed looking out for a convenient
+       place to demand my purse. Faith, they would have
+       looked as foolish as myself at the emptiness of my
+       pockets. Well, thank fortune, I am safe at home at
+       last, and seen by nobody but my confidential valet.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( aside. )
+      </stage>
+      <p>
+       And the most discreet of pages.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( seeing Edw. )
+      </stage>
+      <stage>
+       ( retires up a little. )
+      </stage>
+      <p>
+       So, the page already in waiting.
+       <pb n="35"/>
+       Deuce take him! he is exactly in the door-way
+       of my chamber. So, so! Lady Clara coming! Oh,
+       then, all's over.
+      </p>
+     </sp>
+     <stage>
+      Enter Lady Clara , R. — goes to Edward.
+     </stage>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       What! asleep at this hour, Edward?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( removes chair. )
+      </stage>
+      <p>
+       I beg your pardon, my lady — I am waiting
+       his majesty's rising.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       You will come, and let the queen know
+       when the king is visible.
+       <stage>
+        ( perceives Chas. )
+       </stage>
+       Heavens!
+       your majesty in this dress?
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Good morning, Lady Clara.
+       <stage>
+        ( aside. )
+       </stage>
+       I wish
+       I may die, if I know how to turn the matter off.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <stage>
+       ( laughing. )
+      </stage>
+      <p>
+       I ask your majesty's pardon;
+       but really, I cannot help laughing — So odd a dress.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       (affecting an unembarrassed air.)
+      </stage>
+      <p>
+       What!
+       it amuses you, ha! ha! My regular morning dress, I
+       assure you. I have taken a whim for gardening lately,
+       and, every morning, by day-light, I am on the terrace,
+       planting, transplanting, training. Oh! you
+       should see how busy I am, particularly among the
+       roses.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lony C.
+      </speaker>
+      <p>
+       I have no doubt your majesty has an eye
+       for every fresh one that blows — But, how quiet you
+       have been in these pursuits!
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       One does not want all the world to know of
+       one's caprices.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Caprices! how can your majesty call such
+       an innocent occupation by such a name. How happy
+       the nation, whose sovereign has a taste so pure, so
+       simple!
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Well, well, a truce with your moral reflections
+       — What has procured me the pleasure of seeing
+       your ladyship so early?
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       The Queen, sir, knowing how deeply you
+       were immersed in affairs of state last night —
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Why, yes, in truth I had a busy night of it.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       She sent me to inquire how your majesty
+       had slept.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Very restless — very restless — I tumbled and
+       tossed about sadly.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Ah! why does not your majesty take
+       more care of yourself? You devote yourself too
+       much to yourpeople. This night-work will be too
+       much for you.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Why, yes, if it were often as severe as last
+       night.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Indeed, your majesty must give up these
+       midnight labours to your ministers.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       To my miniisters, ha! ha! Egad!
+       I should like to see old Clarendon and Ormond hob
+       or nobbing with uncle Copp, struggling for kisses
+       with Mary, and scouring the lanes of Wapping at
+       full speed. —
+       <stage>
+        ( aloud. )
+       </stage>
+       Well, my Lady Clara, have you
+       any thing further to communicate?
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Might I presume, I have a favour to request
+       of your majesty. An author, in whose cause I
+       take a warm interest, has offended a person high in
+       power, and is threatened with a prosecution.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       The blockhead! let him write against me
+       only, and they'll never trouble him.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       His pardon depends upon your majesty,
+       would you but deign to sign it!
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( taking the paper. )
+      </stage>
+      <stage>
+       Exit L. D.
+      </stage>
+      <p>
+       Lady Clara, you look
+       amazingly well this morning — I can refuse you nothing —
+       <stage>
+        ( signs the paper. )
+       </stage>
+       And now, to make my toilette. —
+       <stage>
+        ( aside. )
+       </stage>
+       Safe at last! — she suspects nothing.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <stage>
+       ( smiling. )
+      </stage>
+      <stage>
+       Exit B.
+      </stage>
+      <p>
+       He thinks he has deceived me.
+       Oh, these men! these men! how they will impose
+       upon us, easy, simple,
+       knowing
+       women!
+       <stage>
+        ( to Edw. )
+       </stage>
+       A person from the city, with a young girl, desires to
+       speak to his majesty, you will permit them to await
+       him here. I will myself conduct them.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( alone. )
+      </stage>
+      <p>
+       This should be Captain Copp. In
+       his blunt honesty, he determined to bring the watch
+       himself to the king — But why his neice? No doubt,
+       to let her have a sight of the Palace. Here they come,
+       sure enough — now for another puzzle about my physiognomy.
+       <stage>
+        ( retires up a little. )
+       </stage>
+      </p>
+     </sp>
+     <stage>
+      Enter Copp and Mary from the back door, flat.
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Oddsfish! I never knew such a piece of
+       work to get into a house before. If that good-looking
+       gentlewoman had not seen us from the window,
+       and taken our part, hand me, if I don't think they
+       would have turn'd us adrift.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( retires, 3d E. L.)
+      </stage>
+      <p>
+       So — I suspect Lady Clara is in the plot.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       What beautiful rooms!
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Gingerbread finery! I would not change the
+       bar-room of the Grand Admiral for the best of them.
+       But, what a bother to give a watch back to the right
+       owner! Why, there's no finding the king in his own
+       house. — Now, for my part, I always stand on the
+       threshold, and if any one comes, there's my hand. —
+       Tip us your bone, says I, and make yourselves welcome.
+       — That's what I call acting like a king of good
+       fellows.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Oh, uncle, I have always heard say, that the
+       king is very kind and affable; and, I dare say, when
+       you hand him back his watch, he will behave with
+       generosity.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Generosity! Why, dost thou think, girl, I'd
+       take a reward? No, no! — They say Charley's not
+       overstocked with the shiners — I want none of them.
+       To be sure, he may do the civil thing — he may ask
+       us to stay, and take pot-luck, perhaps.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Pot-luck, uncle!
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       Exit, hallooing after Edward.
+      </stage>
+      <p>
+       Ay, in a friendly way, d'ye see? And I don't
+       care if I did, if it were only to see how royalty messed.
+       But, where the deuce is the king to be found?
+       Oh! yonder is a fine gimcrack young gentleman, who,
+       perhaps, can tell us — I'll hail him. Yo-ho! messmate!
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       What a beautiful place this is! But, without
+       content, grandeur is not to be envied. The humble,
+       and the good, may be as happy in a cottage as a
+       palace.
+      </p>
+     </sp>
+     <stage>
+      Enter Copp , pulling in Edward , who tries to hide his face.
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Come along, young man — don't be so bashful
+       — you needn't mind us.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( aside. )
+      </stage>
+      <p>
+       Let me put on a steady face,
+       <stage>
+        ( aloud )
+       </stage>
+       — You come to speak to his majesty?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Yes, Sir, we come —
+       <stage>
+        ( (apart. )
+       </stage>
+       Dear uncle,
+       those features — how my heart beats!
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( supporting her. )
+      </stage>
+      <p>
+       Why what ails thee, my
+       girl?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Is any thing the matter with the young lady?
+       let me assist her.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Thank'ee, thank'ee,
+       <stage>
+        ( putting up his elbow )
+       </stage>
+       young gentleman — But, by your leave, if you please.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Did you ever see such a resemblance, uncle?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( looking at Edward. )
+      </stage>
+      <p>
+       Oddsfish! he is like
+       indeed! — But it can't be him.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       I like Mr. Georgini's face better — it is more
+       animated.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Don't talk to me of that Georgini. Didst
+       not tell me, he took a ring of that land-pirate? — and,
+       then to disappear so suddenly —
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       How can you suspect him, uncle? The most
+       honourable — the most upright — I dare say he only
+       took it, to keep for the right owner.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       Dear, confiding Mary!
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       That ring should not have remain'd in his
+       hands a single moment. — It may bring a suspicion on
+       my house, on my character — Fire and fury, if I catch
+       him!
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       No swearing in the King's palace.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       That's true; I should not swear. But, that
+       old Captain Copp, whom every body knows to be
+       honest, should have such tricks play'd in his house,
+       thunder and lightning!
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       My dear uncle!
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Well, well, true — no swearing. But what
+       keeps the king so long?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       I think I hear him. Step into that apartment
+       — a lady will introduce you.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Ah! the same that I saw at the window; —
+       very well. But, I say, Mister, don't keep me waiting.
+       Just hint to the king, that I've no time to lose.
+       Tell him, there's a launch at Wapping to-day — busy
+       times at the Grand Admiral.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Let us retire, uncle. I dare say we shall
+       be sent for in good time.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Very well, very well. But, do think of the
+       Grand Admiral — all aback for want of me. If the
+       king loses his watch again, the devil take me — —
+       Oh! I forgot — I mustn't swear in the king's palace.
+      </p>
+     </sp>
+     <stage>
+      Exeunt Copp and Mary, R.
+     </stage>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       This will be a whimsical court presentation
+       truly! His majesty's perplexities are not yet over.
+      </p>
+     </sp>
+     <stage>
+      Enter Charles in his riding dress. L.
+     </stage>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Has Rochester appeared?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Not yet, Sire.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       What could be his motive for the
+       cruel trick he played me?
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Your majesty asked for Lord Rochester; here
+       he comes with Lady Clara.
+      </p>
+     </sp>
+     <stage>
+      Enter Rochester and Lady Clara , R.
+     </stage>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       May I venture to ask, if your majesty has
+       passed a comfortable night?
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Indifferent, my lord —
+       <stage>
+        ( low, to him )
+       </stage>
+       — Traitor!
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <stage>
+       ( smiling. )
+      </stage>
+      <p>
+       I understood his lordship had
+       assisted your majesty in your labours.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Not throughout, my lady. An accident obliged
+       me to leave his majesty in rather a moment of
+       perplexity.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( angrily. )
+      </stage>
+      <p>
+       Yes, his lordship left the whole
+       weight of — business — upon my shoulders.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       I doubt not your majesty got through with
+       your usual address.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       Perfidious varlet!
+       <stage>
+        ( aloud. )
+       </stage>
+       My lord,
+       you will please to present yourself in my study at
+       <pb n="40"/>
+       two o'clock. I have something particular to say to
+       you.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Deign to dispense with my attendance, sire.
+       I quit London in a few moments for my estate, as I
+       mentioned yesterday. I am a great offender — It is
+       time to exile myself from court, and turn hermit.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( harshly. )
+      </stage>
+      <p>
+       I approve the project; but will
+       take the liberty of choosing your hermitage myself.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( low to Lady Clara. )
+      </stage>
+      <p>
+       The king is furious
+       against me.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Courage, my lord — all will end well.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( shouting outside. )
+      </stage>
+      <p>
+       What the devil is the
+       meaning of all this? Am I to be kept here all day?
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       What uproar is that?
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Oh! two persons, whom I met this morning,
+       seeking to speak with his majesty, on some personal
+       concern. As I know him to be so accessible to
+       the people, I undertook to present them.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Just now it is impossible.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       I am very sorry, especially on the young
+       girl's account.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       A young girl, did you say?
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Beautiful as an angel!
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       O! since you take such interest in her, lady
+       Clara —
+       <stage>
+        ( to Edward. )
+       </stage>
+       — Show them in.
+      </p>
+     </sp>
+     <stage>
+      ( retires up. )
+     </stage>
+     <stage>
+      Enter Copp and Mary , R.
+     </stage>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( preceding them. )
+      </stage>
+      <p>
+       Come in — his majesty consents
+       to hear you.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       I'm taken all aback — my courage begins to fail me.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( Mary keeps her eyes modestly cast down. )
+      </stage>
+      <p>
+       What have you to fear, my dear uncle? —
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Fear! it isn't fear, look ye. But, somehow,
+       I never fell in with a king before in all my cruisings.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       Copp and his neice!
+       <stage>
+        ( advances. )
+       </stage>
+       here's a pretty rencontre
+       <stage>
+        ( summoning up dignity. )
+       </stage>
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Well, I suppose I must begin — Oddsfish! I
+       had it all settled in my head, and now, the deuce a
+       word can I muster up.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Come, uncle, courage! I never saw you
+       so cast down before.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       I hope he will not recognize me.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( low to lady Clara. )
+      </stage>
+      <p>
+       Is not my niece a pretty
+       lass?
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       She is, indeed, my lord; you may be proud
+       of her.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Well, then, what I have to say is this.
+       <stage>
+        ( low. )
+       </stage>
+       Hey, Mary, what is it I had to say?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Relate simply what passed.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Right, my girl, right. But, oddsfish, I feel
+       so queer, I'll be hanged if I can look him in the face.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( keeps her eyes modestly cast down. )
+      </stage>
+      <p>
+       It would not be respectful to stare at his majesty.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       What is your name, my good friend?
+      </p>
+     </sp>
+     <stage>
+      ( to Copp. )
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( while talking he looks down and fumbles with his cap. )
+      </stage>
+      <p>
+       Copp, at your service; that is to say, Coppland,
+       or Captain Copp, as they call me. And here's
+       Mary, my niece, who, though I say it, is one of the
+       best girls —
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       But, that's not to the point, uncle.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Eh! true, very true, always keep to the
+       point, like a good helmsman. First and foremost,
+       then, you must know, my lord — when I say my lord,
+       I mean your majesty.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       Egad, he's as much puzzled as I
+       was, to give an account of myself.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( still looking down. )
+      </stage>
+      <p>
+       In finis — you must know
+       primo, that I command, that is to say, I keep the Grand
+       Admiral, as honest a tavern as your majesty would
+       wish to set your foot in — none but good company ever
+       frequent it, excepting when a rogue or so drops in,
+       in disguise — last night, for instance, a couple of gallows
+       knaves, saving your majesty's presence — Ah! if
+       I could only lay eyes on them again — I should know
+       'em, wherever I saw 'em — one in particular had a
+       confounded hanging look — a man about the height of
+       —
+       <stage>
+        ( eyeing Rochester, stops short. )
+       </stage>
+       Mary! Mary! if
+       there isn't one of the very rogues!
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       My dear uncle, hush, for heaven's sake! —
+       <stage>
+        ( apart. )
+       </stage>
+       That wine is still in his head.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( apart. )
+      </stage>
+      <p>
+       Rochester's face seems to puzzle
+       him.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       I'll say no more; for the more I look —
+       <stage>
+        ( low to Mary )
+       </stage>
+       hang me, if it isn't himself.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Hush, I intreat you — I will speak for you —
+       <stage>
+        ( takes his place, her eyes still modestly cast down. )
+       </stage>
+       My
+       uncle has thought it his duty to inform your majesty,
+       that two strangers came to his house last night, and
+       after calling for a great deal of wine, were unable to
+       pay, and went off, leaving a valuable watch in pledge,
+       which has proved to belong to your majesty.
+      </p>
+     </sp>
+     <stage>
+      ( Rochester and Lady Clara in bye play express great delight at the manner of Mary. )
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( apart, rubbing his hands. )
+      </stage>
+      <p>
+       Oh! bless her!
+       she talks like a book.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( to Lady Clara. )
+      </stage>
+      <p>
+       Does not my niece tell her
+       story with clearness and simplicity?
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Charmingly — she has quite won my heart.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       My uncle being an honest man, has brought
+       the watch to your majesty.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Yes, by St. George, and here it is. The
+       sharpers, to be sure, have run off with five pounds ten
+       of my money, but that's neither here nor there — I
+       don't say that, because I expect you to pay it, you
+       know. In short, without more palaver,
+       <stage>
+        ( crossing, and giving it to Charles ,)
+       </stage>
+       here's the watch —
+       <stage>
+        ( glancing at the king, stops short, and gives a long whistle ,)
+       </stage>
+       whew!
+       <stage>
+        ( treads softly back )
+       </stage>
+       —
+       <stage>
+        ( low to Mary. )
+       </stage>
+       My shoes! if it
+       ben't the other rogue!
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       What ails you, uncle? surely, you are losing
+       your senses to speak thus of his majesty?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( low to Mary. )
+      </stage>
+      <p>
+       Majesty, or no majesty, I'll
+       put my hand in the fire on't he's the other.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       The watch is certainly mine.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <stage>
+       ( smiling significantly at Rochester. )
+      </stage>
+      <p>
+       Your majesty's?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <stage>
+       ( affecting astonishment. )
+      </stage>
+      <p>
+       Your majesty's
+       watch!
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( looking sternly at Rochester. )
+      </stage>
+      <p>
+       Even so; and I might have lost it, but for this
+       man's honesty. I shall be more on my guard in future.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <stage>
+       ( looking at Charles and Rochester. )
+      </stage>
+      <p>
+       The
+       voices and the faces are astonishingly like. But it is
+       impossible.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( rapping his forehead. )
+      </stage>
+      <p>
+       I have it — I see how
+       it is. —
+       <stage>
+        ( low to Mary. )
+       </stage>
+       We've made a pretty kettle of
+       fish of it. The king, you know, is said to cruise under
+       false colours.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Mercy on me! what will become of us?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( to Mary. )
+      </stage>
+      <p>
+       Let me alone — I see it's all a masquerade
+       frolic —
+       <stage>
+        ( aloud. )
+       </stage>
+       Your majesty will not be
+       angry with my little fool of a niece. The two strangers
+       might be very worthy people — many a man has
+       a gallows look, and is an honest fellow for all that.
+       The truth is, they were a brace of merry wags. Besides,
+       if I had known for certain, I wouldn't for the
+       world — ha! ha! — because, d'ye see — honour bright;
+       mum!
+       <stage>
+        ( turning to Mary. )
+       </stage>
+       Come, I think I've got you
+       pretty well out of the scrape, hey?
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       I am of your opinion, Captain Copp, they
+       were two sad madcaps.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( gives a sign to Edward, who brings forward a chair. )
+      </stage>
+      <p>
+       They merit harsher titles, Lady Clara. One
+       of them has been already punished, the other shall
+       be presently. Captain Copp, I am aware of all that
+       passed at your house.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Ah! your majesty knows, that he who cracks
+       a joke must not complain if he should chance to pinch
+       his fingers.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       True, Captain. But was there not question
+       of one Rochester?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( aside. )
+      </stage>
+      <p>
+       Zounds! that's his friend; this is
+       bringing one to close quarters. Why, craving your
+       majesty's pardon, I did let slip some hard truths about
+       him.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       And do you know him of whom you spoke
+       so bluntly?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Not I, thank heaven! But I only said, what
+       <pb n="44"/>
+       everybody says — and what everybody says, you know,
+       must be true.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Spoken like an oracle — and did not you say,
+       that this pretty lass was his niece?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Ay, as to that matter, I'll stick to that, proof
+       in hand. Make a reverence, Mary, and no thanks to
+       Rochester for the relationship.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       I will take care that he shall make a suitable
+       provision for his niece, or provide her an honourable
+       husband.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       <stage>
+        (X to Charles. )
+       </stage>
+       I can assure your majesty,
+       you only anticipated his intentions.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Avast there! — I don't give up my girl.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       But you will choose a match suited to her
+       noble family.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       I'll choose for her an honest man; but no
+       ranticumscout companion to suit that Earl of Rochester
+       you talk of.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Poor Rochester; how many chance shots
+       he gets. I feel more warmly in his favour, knowing
+       how much of this censure is unmerited.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( chuckling and winking. )
+      </stage>
+      <p>
+       To tell the truth
+       between friends, and all in confidence, I had a match
+       in my eye, a young music-master. Nay, don't blush,
+       girl — I know there was a sneaking kindness in the
+       case.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       I oppose that match. That young man received
+       a ring last night, but has not had the honesty,
+       like Captain Copp, to seek the owner.
+      </p>
+     </sp>
+     <stage>
+      ( Mary involuntarily springs forward to defend Edward against the charge, which Lady Clara and Rochester observe and smile at.)
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Oddsfish! that's true enough. — He has absconded
+       with the ring.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       I am a witness, that the ring was freely given
+       to him, and I'll pledge my life that he will bring it back.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       ( advancing. )
+      </stage>
+      <stage>
+       ( kneels and presents it. )
+      </stage>
+      <p>
+       He only waited a suitable moment
+       to return it to your majesty.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       How! Edward! — The resemblance is no
+       longer a wonder.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       What, little crotchet and quaver! Aha! ha!
+       ha! there's witchcraft in all this.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Oh heavens! Georgini a gentleman! But
+       my heart knew it.
+      </p>
+     </sp>
+     <stage>
+      ( Copp, Mary, and Edward go up the stage. )
+     </stage>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <stage>
+       ( rises )
+      </stage>
+      <p>
+       It is in vain, Lady Clara, to attempt concealment.
+       Behold the heroes of the adventure.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Pardon me, sire, I knew it all along — I
+       was in the plot.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       How?
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <p>
+       Her majesty, the queen, was at the head
+       of it. If the earl be guilty, it is we who induced him,
+       and should undergo the punishment.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       I understand the whole. But the treachery
+       of this earl I cannot forgive. To have made me pass
+       two of the cruellest hours —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       I humbly acknowledge all my faults.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       To have exposed me, at night in the streets,
+       where I was dogged by ruffians —
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Ry two men in mantles who would have died
+       ere a hair of your majesty was touched.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Ah! who were those muffled men?
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       Your confidential valet was one. The other,
+       <stage>
+        ( bowing )
+       </stage>
+       your devoted servant.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       No matter! I have been exposed, rendered
+       ridiculous. You shall not obtain my pardon.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady C.
+      </speaker>
+      <stage>
+       ( producing a paper. )
+      </stage>
+      <stage>
+       ( to Charles. )
+      </stage>
+      <p>
+       It is already obtained.
+       Your majesty, ever merciful, has signed it.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       What! he, too, is the author for whom you
+       have interested yourself. Ha! ha! ha! fairly taken
+       in at all points. Rochester, thou hast conquered. —
+      </p>
+     </sp>
+     <stage>
+      (Rochester kneels. Charles and Lady Clara retire together, Copp and Mary come down.)
+     </stage>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       (passionately.)
+      </stage>
+      <stage>
+       (taking her under his arm.)
+      </stage>
+      <p>
+       Thunder and lightning! —
+       this man Rochester! — come along, girl, come along!
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       One moment, Captain Copp. —
+       <stage>
+        [ Copp stops, and looks fiercely at him.
+       </stage>
+       It is true, I am Rochester — a sad fellow, no doubt,
+       <pb n="46"/>
+       since all the world says so — but there is one grievous
+       sin which I will not take to my conscience, for it is
+       against beauty. I am not the Rochester who disclaimed
+       this lovely girl — he was my predecessor, and is
+       dead.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( sternly. )
+      </stage>
+      <p>
+       Dead! — gone to his long reckoning
+       —
+       <stage>
+        ( pauses. )
+       </stage>
+       May heaven deal kindlier with him,
+       than he did with this orphan child!
+      </p>
+     </sp>
+     <stage>
+      (Charles and Lady Clara advance.)
+     </stage>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       I have pardoned you, Rochester; but my eyes
+       are opened to the follies which I have too frequently
+       partaken. From this day I abjure them.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       I shall not attempt my liege, to gloss over,
+       or to palliate my faults. But I place myself under
+       the direction of this lovely guide.
+       <stage>
+        (bowing to Lady C.)
+       </stage>
+       I will mortify myself with matrimony, and hope
+       to reform into a very rational and submissive husband.
+      </p>
+     </sp>
+     <sp who="#ladyclara">
+      <speaker>
+       Lady. C.
+      </speaker>
+      <p>
+       I have undertaken an arduous charge, my
+       lord, and my happiness is the stake. Rochester must
+       be reformed, or Clara lost.
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       There yet remains a party to be disposed of.
+       What say you, Captain Copp? — What say you, my
+       lord of Rochester? Must we not find a husband for
+       our pretty niece?
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Fair and softly, your majesty — craving your
+       majesty's pardon, I can't give up my right over my
+       little girl. This lord is an uncle — I can't gainsay it;
+       but he's a new-found uncle — for my part I have bred
+       her, and fed her, and been her uncle all her life,
+       haven't I, Mary?
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       Oh, sir, you have been a father to me.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       My good little girl — my darling girl. Take
+       thee away from thy own uncle? Pshaw! — Ha! ha!
+       I shall grow silly and soft again! Ha! ha!
+      </p>
+     </sp>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       You are right, captain — you alone ought to
+       dispose of her. But I hope to propose a match that
+       shall please all parties. What think you of my page;
+       the music-master, who brought back the ring? I shall
+       present him with a commission in my own regiment.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <p>
+       Oh! so much goodness!
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       Your majesty has fathomed my own wishes.
+      </p>
+     </sp>
+     <sp who="#rochester">
+      <speaker>
+       Roch.
+      </speaker>
+      <p>
+       And mine.
+      </p>
+     </sp>
+     <sp who="#edward">
+      <speaker>
+       Edw.
+      </speaker>
+      <stage>
+       (approaching Mary.)
+      </stage>
+      <p>
+       And mine.
+      </p>
+     </sp>
+     <sp who="#mary">
+      <speaker>
+       Mary.
+      </speaker>
+      <p>
+       And —
+       <stage>
+        (extending her hand)
+       </stage>
+       — and mine.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <p>
+       So, here we are, all safe in port, after last
+       night's squall. Oddsfish! I feel so merry! — my girl's
+       provided for — I have nothing more to care for — I'll
+       keep open house at the Grand Admiral — I'll set
+       all my liquor a-tap — I'll drown all Wapping in wine
+       and strong beer — I'll have an illumination — I'll make
+       a bonfire of the Grand Admiral — I'll sing "In the
+       time of the Rump" —
+      </p>
+     </sp>
+     <stage>
+      ( Mary runs down and stops him. )
+     </stage>
+     <sp who="#kingcharlesii">
+      <speaker>
+       Chas.
+      </speaker>
+      <p>
+       Captain Copp, I recollect that I am your
+       debtor — five pounds ten? — accept this watch as a
+       mark of my esteem. The ring I reserve for the lovely
+       Mary.
+       <stage>
+        (putting it on her finger.)
+       </stage>
+       And now,
+       <stage>
+        (beckoning all the characters to the front with an air of mystery,)
+       </stage>
+       let me particularly enjoin on all present,
+       the most profound secrecy in regard to our whimsical
+       adventures at Wapping.
+      </p>
+     </sp>
+     <sp who="#captaincopp">
+      <speaker>
+       Copp.
+      </speaker>
+      <stage>
+       ( clapping his finger to his lip )
+      </stage>
+      <p>
+       Honour bright!
+       Mum! —
+      </p>
+     </sp>
+     <stage>
+      (Curtain falls.)
+     </stage>
+    </div>
+   </div>
+  </body>
+  <back>
+   <p>
+    THE END.
+   </p>
+  </back>
+ </text>
+</TEI>
