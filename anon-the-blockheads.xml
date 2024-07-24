@@ -770,6 +770,7 @@
       <l n="30">
        The wig you see
       </l>
+     </sp>
      <sp who="#wig">
       <speaker>
        Wig.
@@ -797,14 +798,11 @@
      </sp>
      <sp who="#oldwig #youngwig">
       <speaker>
-       O. and Y.
+       O. and Y. Wig.
       </speaker>
       <l n="36">
        Come yield to me,
       </l>
-      <speaker>
-       Wig.
-      </speaker>
       <l n="37">
        That shall not be,
       </l>
