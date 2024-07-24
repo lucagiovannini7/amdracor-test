@@ -1,0 +1,1969 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am860" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Advertising Girls
+    </title>
+    <author>
+     Sanford, Amelia
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Internet Archive
+     </name>
+     <idno>
+      https://archive.org/details/advertisinggirls00sanf
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Sanford, Amelia. The advertising girls
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+<particDesc>
+    <listPerson>
+     <person xml:id="girlwhodidnt" sex="FEMALE">
+      <persName>Girl Who Didn't</persName>
+     </person>
+     <person xml:id="flaressoapgirl" sex="FEMALE">
+      <persName>Flare's Soap Girl</persName>
+     </person>
+     <person xml:id="patentdressinggirl" sex="FEMALE">
+      <persName>PATENT DRESSING GIRL</persName>
+     </person>
+     <person xml:id="frantic" sex="UNKNOWN">
+      <persName>FRANTIC</persName>
+     </person>
+     <person xml:id="washingpowdergirl" sex="FEMALE">
+      <persName>Washing-Powder Girl</persName>
+     </person>
+     <personGrp xml:id="rabbits" sex="UNKNOWN">
+      <persName>RABBITS</persName>
+     </personGrp>
+     <person xml:id="bicyclegirl" sex="FEMALE">
+      <persName>Bicycle Girl</persName>
+     </person>
+     <person xml:id="girlwhodid" sex="FEMALE">
+      <persName>Girl Who Did</persName>
+     </person>
+     <person xml:id="mrsmotherly" sex="FEMALE">
+      <persName>Mrs. Motherly</persName>
+     </person>
+     <person xml:id="violetextractgirl" sex="FEMALE">
+      <persName>VIOLET EXTRACT GIRL</persName>
+     </person>
+     <person xml:id="chiefrabbit" sex="UNKNOWN">
+      <persName>Chief Rabbit</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Masque
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1900">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      CHARACTERS
+     </head>
+     <castItem>
+      THE BICYCLE GIRL,
+     </castItem>
+     <castItem>
+      THE FLARE'S SOAP GIRL,
+     </castItem>
+     <castItem>
+      THE GIRL WHO DID,
+     </castItem>
+     <castItem>
+      THE FRANTIC-AMERICAN SOUP [GIRL.
+     </castItem>
+     <castItem>
+      THE GIRL WHO DIDN'T,
+     </castItem>
+     <castItem>
+      THE WASHING-POWDER GIRL,
+     </castItem>
+     <castItem>
+      THE VIOLET EXTRACT GIRL,
+     </castItem>
+     <castItem>
+      THE CHIEF RABBIT ( Girl or [ boy ),
+     </castItem>
+     <castItem>
+      THE PATENT-DRESSING GIRL,
+     </castItem>
+     <castItem>
+      MRS. MOTHERLY.
+     </castItem>
+     <castItem>
+      PROCESSION OF TWENTY-FIVE RABBITS. ( Boys or girls .)
+     </castItem>
+    </castList>
+   </div>
+   <set>
+    <p>
+     Time in representation — forty-five minutes.
+    </p>
+   </set>
+   <div type="preface">
+    <head>
+     ABBREVIATIONS
+    </head>
+    <p>
+     R. R., Right Rear; L. R., Left Rear; R. F., Right Front; L. F., Left Front; C., Centre; F. C., Front Centre; R. C., Rear Centre.
+    </p>
+   </div>
+   <div type="preface">
+    <head>
+     COSTUMES AND PROPERTIES
+    </head>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     SCENE I.
+    </head>
+    <stage>
+     SCENE. — Garden scene, if it can be arranged, or use plain background. At R., back, an exit, and over it a large sign: "Summer Home for Working Girls." At L., back, another exit, concealed by a large clothes-horse, or a screen, opened out to represent an open book. This is to be covered with yellow cambric, dull side out, on one side of which is painted in large, black letters: "Hopper's New Magazine," and on the other side: "Established B. C. 9843." Stand this in such a way as to open away from the audience. It will thus conceal the entrance, and actors coming in from there will look as though they stepped out of a large book. At centre of stage, at back, is a good-sized table, with chair at each side. At R. and L. of stage, are rustic chairs, potted plants, etc. Enter BICYCLE GIRL, L., from book, with wheel. Takes it R.; throws herself down wearily in chair , R. F. Addresses audience .
+    </stage>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      Free at last! What a mercy it is to us poor girls in the advertising pages that the magazines are left in out-of-the-way places, where we may occasionally rest!
+      That's
+      a back-number, which the Summer Girls left here when they went back to town.
+      <stage>
+       ( Rising, walks about .)
+      </stage>
+      I am a wretched creature, evolved from the brain of some needy artist to furnish an advertisement for bicycles. There are other girls in the back of that book
+      <stage>
+       ( stops and looks at it )
+      </stage>
+      forever washing their hands with Somebody's Soap, brushing their hair and scrubbing floors. I wonder why
+      they
+      don't come out. I'm sure they're tired enough.
+      <stage>
+       ( Goes back to book, pretends to turn pages .)
+      </stage>
+      Say, girls, the coast is clear; come out!
+     </p>
+    </sp>
+    <stage>
+     Enter the GIRL WHO DID and the GIRL WHO DIDN'T.
+    </stage>
+    <sp who="#girlwhodid">
+     <speaker>
+      DID
+     </speaker>
+     <stage>
+      ( rushing forward ).
+     </stage>
+     <p>
+      Oh, you dear thing, it's so perfectly fine to be able to speak and move at last!
+     </p>
+    </sp>
+    <stage>
+     (G. W. DIDN'T catches her foot in skirt-braid; dances a sort of jig; screams and falls flat .)
+    </stage>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      What ails your sister? Is she subject to these attacks?
+     </p>
+    </sp>
+    <sp who="#girlwhodid">
+     <speaker>
+      DID
+     </speaker>
+     <stage>
+      ( helping G. W. DIDN'T to a chair ).
+     </stage>
+     <p>
+      Oh, you poor thing! never mind.
+      <stage>
+       ( Sits on arm of chair, consoling G. W. DIDN'T who cries .)
+      </stage>
+      You see
+      <stage>
+       ( to BI.)
+      </stage>
+      sister and I have to appear in advertisements as the Girl Who Did and the Girl Who Didn't use Flim-flam's Patent Indestructible Dust-proof and Fire-proof skirt-braid, warranted one thousand miles to the yard. I am the Girl Who Did and she is the Girl Who Didn't. They always show off poor sis with a wretched skirt-braid forever tripping her up, while I stand in such a priggish attitude, like this.
+      <stage>
+       ( Stands in burlesque attitude of admonition .)
+      </stage>
+      And I have this great long pipe coming out of my mouth; and it says on it: "Why Didn't you use Flim-flam's Patent Indestruc — "
+     </p>
+    </sp>
+    <sp who="#bicyclegirl #girlwhodidnt">
+     <speaker>
+      BI.
+      and
+      DIDN'T
+     </speaker>
+     <stage>
+      ( fingers in their ears ).
+     </stage>
+     <p>
+      Oh,
+      don't
+      say it any more!
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <stage>
+      ( walking C. F. with DID).
+     </stage>
+     <p>
+      Let's think of something to help your poor sister.
+     </p>
+    </sp>
+    <sp who="#girlwhodidnt">
+     <speaker>
+      DIDN'T.
+     </speaker>
+     <p>
+      It isn't my bones that hurt, but my feelings.
+     </p>
+    </sp>
+    <sp who="#girlwhodid">
+     <speaker>
+      DID.
+     </speaker>
+     <p>
+      I think that's the matter with all three of us. What we need is to have a real good time together, something to eat, and a little music. What do you think?
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <stage>
+      ( holding out her hand ).
+     </stage>
+     <p>
+      I think you're a real nice girl when you're on a vacation, however you may appear at other times.
+     </p>
+    </sp>
+    <sp who="#girlwhodid">
+     <speaker>
+      DID.
+     </speaker>
+     <p>
+      Thank you
+      so
+      much! I'll call some of the others. Come, dears, we want you!
+     </p>
+    </sp>
+    <stage>
+     Enter L. from book , PATENT-DRESSING GIRL; goes R. F. FLARE'S SOAP GIRL; goes L. F. VIOLET EXTRACT GIRL; goes C. F. All put down their things. Attitudes of weariness .
+    </stage>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <stage>
+      ( coming forward ).
+     </stage>
+     <p>
+      Ladies, I think we all know ourselves and each other; but merely for the sake of explicitness, I'll run over your names.
+      <stage>
+       ( To PATENT-DRESSING GIRL.)
+      </stage>
+      You, dear, are the Shoe-Blacking Girl —
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PATENT DRESSING
+     </speaker>
+     <stage>
+      ( haughtily ).
+     </stage>
+     <p>
+      I'm the young lady who represents Snoodles' Patent Dressing!
+     </p>
+    </sp>
+    <stage>
+     ( Girls look at each other, and whisper .)
+    </stage>
+    <sp who="#girlwhodid">
+     <speaker>
+      DID
+     </speaker>
+     <stage>
+      ( putting arm around BI.).
+     </stage>
+     <p>
+      I'll finish the list, dear, if you feel too much wilted.
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      I
+      have
+      a sort of pneumatic tired feeling.
+      <stage>
+       ( Goes to chair near table , L. R.)
+      </stage>
+     </p>
+    </sp>
+    <sp who="#girlwhodid">
+     <speaker>
+      DID.
+     </speaker>
+     <p>
+      And this is the well-known lady who lives to praise Flare's Soap; and our dear little friend with the Violet Extract.
+      <stage>
+       ( They all bow, courtesy, or shake hands .)
+      </stage>
+      Now, let's all be sociable.
+     </p>
+    </sp>
+    <stage>
+     ( They settle about stage in easy attitudes, whispering and visiting together . GIRL WHO DIDN'T, coming C. F., may do a burlesque fancy dance, holding the torn skirt-braid off in one hand, and using the big horn like a Spanish fan. Music of skirt dance behind scenes, changing to "Honeymoon March," or other march, played softly as first .)
+    </stage>
+    <sp who="#girlwhodidnt">
+     <speaker>
+      DIDN'T.
+     </speaker>
+     <p>
+      Girls, I just
+      long
+      for a good time. I wish something really odd and funny would happen.
+      <stage>
+       ( March music, louder .)
+      </stage>
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <stage>
+      ( looking toward book, jumps up and claps hands ).
+     </stage>
+     <p>
+      Something
+      will
+      , this minute! Look, girls!
+     </p>
+    </sp>
+    <stage>
+     (GIRLS run to C. RABBITS enter L. from book, march R., to R. F., across front, showing letters on brooms, where they march to time, sixteen counts; up L. ; halt; lay down brooms at their left side; right face; join paws and bow to GIRLS.)
+    </stage>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      Oh, you dear little things! Have you come to play with us?
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CHIEF RABBIT.
+     </speaker>
+     <p>
+      We don't object to occasional levity, but first we would like to ask you a few questions. May we all sit down?
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      GIRLS.
+     </speaker>
+     <p>
+      Certainly!
+     </p>
+    </sp>
+    <stage>
+     ( All sit down on floor, forming half-circle facing audience; RABBITS L.; GIRLS R.)
+    </stage>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      Our questions are rather personal. You will not object?
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      GIRLS.
+     </speaker>
+     <p>
+      Not at all.
+      <stage>
+       ( To audience .)
+      </stage>
+      Aren't they too dear?
+     </p>
+    </sp>
+    <sp who="#rabbits">
+     <speaker>
+      RABBITS.
+     </speaker>
+     <p>
+      Not at all. We're twenty-six Rabbits!
+     </p>
+    </sp>
+    <stage>
+     (GIRLS laugh; RABBITS scratch their right ears .)
+    </stage>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <stage>
+      ( to BI.).
+     </stage>
+     <p>
+      Who are you, please?
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      My name is Bike.
+      <stage>
+       ( Draws herself up .)
+      </stage>
+      Descended from the Bikings, you know!
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      No, you're not.
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <stage>
+      ( frigidly ).
+     </stage>
+     <p>
+      May I ask why not?
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      May
+      I
+      ask how fast your wheel turns around?
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      I shall have to figure it out.
+     </p>
+    </sp>
+    <stage>
+     ( Burlesque attitude of deep thought, which is imitated by other GIRLS. RABBITS fold their arms stiffly and look at audience. Perfect silence for two or three seconds .)
+    </stage>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      It makes, in one minute, six thousand nine hundred and twenty-four and seventy-one three hundred sixty-fourths — ah — revolutions.
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      Then you're a Daughter of the Revolution, aren't you?
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <stage>
+      ( rising with great emotion ).
+     </stage>
+     <p>
+      This honor is as overwhelming as it is unexpected; but I will try not to be unduly exalted.
+     </p>
+    </sp>
+    <stage>
+     ( Walks back and forth, burlesque air of dignity. Other girls rise and stand bowed as in the "Mikado." )
+    </stage>
+    <stage>
+     SONG — Air: "Mikado" — "The
+                                            Lord High Executioner."
+    </stage>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      GIRLS.
+     </speaker>
+     <l>
+      Defer! Defer!
+     </l>
+     <l>
+      For we ain't half so good as her.
+     </l>
+     <l>
+      Defer! Defer!
+     </l>
+     <l>
+      For we ain't half so good as her —
+     </l>
+     <l>
+      Not half so good as her!
+     </l>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      Don't keep that up any longer, ladies.
+      <stage>
+       (GIRLS stand erect, looking down at him .)
+      </stage>
+      Miss Bike has a rival.
+     </p>
+    </sp>
+    <sp who="#violetextractgirl">
+     <speaker>
+      VIOLET
+     </speaker>
+     <stage>
+      ( coming forward; arms around BI.).
+     </stage>
+     <p>
+      Not in me, at any rate.
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      You are the very one.
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      We both have claims on your veneration?
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      Precisely. Let me explain. Miss Violet, in what department do you advertise?
+     </p>
+    </sp>
+    <sp who="#violetextractgirl">
+     <speaker>
+      VIOLET.
+     </speaker>
+     <p>
+      Colognes.
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      Then I am right in assuming that you are a Cologne-ial Dame?
+     </p>
+    </sp>
+    <stage>
+     ( Counter-marching , BI. and VIOLET. GIRLS, as before, sing .)
+    </stage>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      GIRLS.
+     </speaker>
+     <l>
+      Defer! Defer!
+     </l>
+     <l>
+      'Tis strange that such things do occur!
+     </l>
+     <l>
+      Defer! Defer!
+     </l>
+     <l>
+      'Tis strange that such things do occur,
+     </l>
+     <l>
+      But still they
+      do
+      occur!
+     </l>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      Friends, let's have a Virginia Reel, and then we must consider what is to become of us, before any human people come in to disturb us.
+      <stage>
+       ( All but PATENT-DRESSING GIRL pair off, each with a RABBIT, down the centre; the rest of the RABBITS carry their brooms to R. R., where they stand looking on . PAT. sits down at table in attitude of deep thought .)
+      </stage>
+      Come on, Pat.!
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <p>
+      No; I wish to devote a few moments to meditation and other exercises.
+     </p>
+    </sp>
+    <stage>
+     ( Virginia Reel. When it is about half over , PAT. goes out R. R., comes back presently and stands near R. R., with arms full of kindlings, sticks of wood, etc. Toward the end of the dance, the RABBITS at R., run to C., and holding up their brooms, make a double line, with brooms raised, under which all march, and scatter about stage afterward .)
+    </stage>
+    <sp who="#rabbits">
+     <speaker>
+      ALL.
+     </speaker>
+     <p>
+      Why, Pat., what are you doing?
+     </p>
+    </sp>
+    <sp who="#girlwhodidnt">
+     <speaker>
+      DIDN'T.
+     </speaker>
+     <p>
+      She's had the meditation, I suppose these are the exercises.
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <stage>
+      ( loads one or two RABBITS with wood, and sends them R. R. coming down C.).
+     </stage>
+     <p>
+      I have a plan for our emancipation, at least for a time, from this eternal round of advertising, and I believe we can get a lovely long rest. We could have this place to ourselves all the year around, if we could only scare people away, and I believe I know how to do it.
+     </p>
+    </sp>
+    <sp who="#rabbits">
+     <speaker>
+      ALL.
+     </speaker>
+     <p>
+      How?
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <p>
+      By tearing down that sign and putting up another: "Society for the Propagation of Microbes." You know, if there's anything people fear especially, it's a microbe, and they will all keep away when they read the sign. And why not make a bonfire of all the things which have wearied us so long? Also, we can add the old magazine, to make a good blaze? Then our emancipation will be complete.
+     </p>
+    </sp>
+    <sp who="#rabbits">
+     <speaker>
+      ALL.
+     </speaker>
+     <p>
+      Oh, how glorious! We'll carry them out in the yard —
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      What about my wheel?
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <p>
+      Oh, save that. Have one of those baby-jumpers put on in front, you know; then you can take us with you for nice long rides.
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      But wouldn't that be rather warm for me?
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <p>
+      Oh, but think of the benefit to your health!
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      It sounds like a fine large opportunity.
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      True. I will keep the wheel.
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <p>
+      Before we blow up the magazine, you may pile on all the other things.
+      <stage>
+       ( Sitting down lazily .)
+      </stage>
+      You do the work, and I'll make the remarks.
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      Better help, dear. Think of the benefit to your health.
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <p>
+      But I am more concerned about other people's health. I always was that way.
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      I wish to make one exception to the program. You know, a thing, in order to burn, must be dry. And I've heard people say, that there wasn't a dry article in our magazine, from beginning to end.
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <p>
+      If a thing ought to be dry, and turns out to be otherwise, what will it do when you put it on the fire?
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      It smokes.
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT
+     </speaker>
+     <stage>
+      ( loftily ).
+     </stage>
+     <p>
+      That settles it. I do not approve of smoking in the presence of ladies.
+     </p>
+    </sp>
+    <stage>
+     ( Other Girls and Rabbits, picking up things, gather C.)
+    </stage>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <stage>
+      ( coming F.).
+     </stage>
+     <p>
+      Let us sing in honor of our new-found liberty.
+     </p>
+    </sp>
+    <stage>
+     ( Four in line. Stand, singing first verse and refrain. During second verse, march around stage. During refrain, exit R. R., single file . N. B. — Place the best singers last .)
+    </stage>
+    <stage>
+     SONG. — Air: "Shouting the Battle Cry of
+                                            Freedom."
+    </stage>
+    <sp who="#rabbits">
+     <speaker>
+      ALL.
+     </speaker>
+     <stage>
+      ( Refrain .)
+     </stage>
+     <l>
+      Raise the song of liberty, our toils are at an end!
+     </l>
+     <l>
+      Here's the advertising girl whom no one will
+                                            befriend;
+     </l>
+     <l>
+      Every worm will turn at last, and hardest luck will mend:
+                                            —
+     </l>
+     <l>
+      Now we are on a vacation.
+     </l>
+     <l>
+      Hurrah, hurrah! she is the girl for me;
+     </l>
+     <l>
+      Hurrah, hurrah! at last she now is free;
+     </l>
+     <l>
+      So we'll find out for ourselves just how it feels to
+                                            be
+     </l>
+     <l>
+      On a protracted vacation!
+     </l>
+    </sp>
+    <sp who="#rabbits">
+     <speaker>
+      ALL.
+     </speaker>
+     <stage>
+      ( Refrain .)
+     </stage>
+     <l>
+      How the Tenth Readers all will wonder what's been
+                                            done!
+     </l>
+     <l>
+      How the monthly magazines will suffer for our fun!
+     </l>
+     <l>
+      All the most important reading matter will be gone
+     </l>
+     <l>
+      On a protracted vacation.
+     </l>
+     <l>
+      Hurrah, hurrah! etc.
+     </l>
+    </sp>
+    <stage>
+     Exit R. R.
+    </stage>
+    <stage>
+     ( Short pause .)
+    </stage>
+    <stage>
+     MRS. MOTHERLY enters R. R.; comes F., takes chair .
+    </stage>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      I'd like to know who's been here, sitting in my chairs
+      <stage>
+       ( walks around, looks at chairs )
+      </stage>
+      and tramping around.
+      <stage>
+       ( Stoops down and examines floor. Jumps to her feet, runs to look out R. R. and returns C.)
+      </stage>
+      I smell smoke! Oh, I wish the girls were here! I was so glad when they all went back to the city; I thought I would rest and take things easy, but, — land!
+      <stage>
+       ( Runs off R. R.; comes back with a large lunch-bell; excitedly .)
+      </stage>
+      I saw them! They're burning up my front yard!
+      <stage>
+       ( Rings and screams .)
+      </stage>
+      Help! Murder! Fire! Thieves!
+     </p>
+    </sp>
+    <stage>
+     (GIRLS come running in .)
+    </stage>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      Don't be alarmed, madam; and please don't make such a noise.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Who are you?
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      We came out of that magazine. Don't you recognize us?
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Why yes; you do look rather natural — but I can't recall your names.
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      Why, we are the girls from the advertising pages. I am the one who rides a bicycle. The others represent soap, shoe-dressing, skirt-braids, and cologne. We did not mean to alarm you; we thought the house must be unoccupied, and we came out to hold a meeting, rest and consult about our prospects.
+      <stage>
+       ( All seated .)
+      </stage>
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Well, on the whole, I'm glad to see you. It's been lonely here since the girls went back to work. Now, what were you proposing to do?
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <p>
+      Oh, perhaps you could give us some advice. Our first thought was to escape from that dreadful magazine, and to burn our implements.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      That's why you built the fire?
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <p>
+      Yes, madam, it is nearly out now, and some — ah —
+      friends
+      of ours are going to stay out there till it's done. But we want to be useful, and make a home for ourselves, if possible.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Well, how would you like to work with me for awhile? I have to clean house, anyway, and if I had such a
+      <pb n="12"/>
+      number of nice smart young ladies with me, I could keep a hotel right through the winter.
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      GIRLS.
+     </speaker>
+     <p>
+      Oh, lovely! Let us begin at once!
+     </p>
+    </sp>
+    <sp who="#rabbits">
+     <speaker>
+      RABBITS
+     </speaker>
+     <stage>
+      ( running in ).
+     </stage>
+     <p>
+      Lovely what? Begin what?
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <stage>
+      ( hurrying L. F.).
+     </stage>
+     <p>
+      Oh, where did all those cats come from?
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      Cats! Madam, we are rabbits, if you please!
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Oh — are you those Welsh Rabbits I've heard the girls talk about? They were always saying: "Oh, Mrs. Motherly, do have a Welsh Rabbit!"
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      Not that kind at all. I don't like to cast aspersions on my kindred, but I'm sorry to admit that the very best of Welsh Rabbits take a great deal of beer.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Dear me! how's that?
+     </p>
+    </sp>
+    <sp who="#chiefrabbit">
+     <speaker>
+      CH. R.
+     </speaker>
+     <p>
+      It simply means, that if you want a Welsh Rabbit, you must certainly get in your beer.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <stage>
+      ( indignantly ).
+     </stage>
+     <p>
+      I must, must I? You are a very saucy young person, and you and yours may go at once! Consigning me to an untimely bier, merely because I express a wish. I shan't get in my bier till some one else puts me there, and that won't be till I'm dead. So go along!
+     </p>
+    </sp>
+    <stage>
+     (RABBITS scratch their right ears, form in line , R., and march back into book .)
+    </stage>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Now, girls, I can't stay here any longer, for I've lots to do. Would you like to begin at once?
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      GIRLS.
+     </speaker>
+     <p>
+      Oh, yes!
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Very well; this way, if you please.
+      <stage>
+       [ Exeunt .
+      </stage>
+     </p>
+    </sp>
+    <stage>
+     CURTAIN.
+    </stage>
+   </div>
+   <div type="act">
+    <head>
+     SCENE II.
+    </head>
+    <stage>
+     SCENE. — A kitchen. Clothesline in rear. Tables, chairs, etc. GIRL WHO DIDN'T, rubbing chairs . GIRL WHO DID, sitting , R. F., with vegetables in wooden chopping bowl and knife, wiping her eyes . VIOLET draping dinner-napkins on line , R., makes absurd "æsthetic" arrangements, drapes them, ties them in bow-knots, etc.
+    </stage>
+    <sp who="#girlwhodidnt">
+     <speaker>
+      DIDN'T.
+     </speaker>
+     <p>
+      Sister, what does make you so sad?
+     </p>
+    </sp>
+    <sp who="#girlwhodid">
+     <speaker>
+      DID.
+     </speaker>
+     <p>
+      I can't tell you, dear, but I've wept ever since I began to work. Is this what human beings call "grief"? I don't like it.
+      <stage>
+       ( Wiping her eyes .)
+      </stage>
+      It is so moist.
+     </p>
+    </sp>
+    <sp who="#violetextractgirl">
+     <speaker>
+      VIOLET
+     </speaker>
+     <stage>
+      ( finishing napkins, comes down C. to F.).
+     </stage>
+     <p>
+      But what are you doing?
+     </p>
+    </sp>
+    <sp who="#girlwhodid">
+     <speaker>
+      DID.
+     </speaker>
+     <p>
+      These articles are called Onions, and Mrs. Motherly asked me to peel them; she wants them for dinner.
+     </p>
+    </sp>
+    <sp who="#violetextractgirl">
+     <speaker>
+      VIOLET
+     </speaker>
+     <stage>
+      ( going to chair , L. F.).
+     </stage>
+     <p>
+      Well, my work is done.
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <stage>
+      ( rushing in ).
+     </stage>
+     <p>
+      Girls, she told me to set the table!
+     </p>
+    </sp>
+    <sp who="#girlwhodidnt">
+     <speaker>
+      DIDN'T.
+     </speaker>
+     <p>
+      I'll help you.
+     </p>
+    </sp>
+    <stage>
+     ( They lift the table to C., and set it down . BI. runs out, calling .)
+    </stage>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      I set it! In the middle of the floor!
+      <stage>
+       ( Coming back .)
+      </stage>
+      She says, to put the dishes on it!
+     </p>
+    </sp>
+    <stage>
+     ( All girls run out, come back with all kinds of baking-dishes sauce-pans, coffee-pots — anything unreasonable — and arrange them in a pyramid .)
+    </stage>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      GIRLS.
+     </speaker>
+     <p>
+      Isn't that nice!
+      <stage>
+       ( Enter PAT., L. R., with lawn mower .)
+      </stage>
+      Mercy, Pat., what
+      is
+      that noisy thing?
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <p>
+      Mrs. Motherly showed me a thing she called a carpet-sweeper, when I first went in the dining-room; and just now she told me to get it and sweep this floor. I lost my way and got out in the yard; but here it was, the first thing I saw!
+      <stage>
+       ( Runs mower back and forth .)
+      </stage>
+     </p>
+    </sp>
+    <stage>
+     Enter FLARE'S SOAP GIRL, L. R., with a pitcher and a horsewhip .
+    </stage>
+    <sp who="#flaressoapgirl">
+     <speaker>
+      FLARE.
+     </speaker>
+     <p>
+      Girls, I don't want to hurt any one, so please keep out of my way.
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      GIRLS.
+     </speaker>
+     <p>
+      What are you going to do?
+     </p>
+    </sp>
+    <sp who="#flaressoapgirl">
+     <speaker>
+      FLARE.
+     </speaker>
+     <p>
+      Mrs. Motherly told me to whip a pitcher of cream, which I was to find in the pantry. I found the cream, but I had to go away out in the barn to find a whip.
+      <stage>
+       ( Flourishes whip; hits pitcher; which falls over; keeps on whipping at it .)
+      </stage>
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      GIRLS
+     </speaker>
+     <stage>
+      ( scream ).
+     </stage>
+     <p>
+      Oh, don't! You're spilling it!
+     </p>
+    </sp>
+    <sp who="#flaressoapgirl">
+     <speaker>
+      FLARE
+     </speaker>
+     <stage>
+      ( with dignity ).
+     </stage>
+     <p>
+      Ladies, I do not see the use of this, but I am doing exactly as I was told, and I cannot be held responsible for the consequences.
+     </p>
+    </sp>
+    <sp who="#girlwhodidnt">
+     <speaker>
+      DIDN'T.
+     </speaker>
+     <p>
+      Well, I do not like housekeeping. I think it is both noisy and violent.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. MOTHERLY
+     </speaker>
+     <stage>
+      ( with a cloth in her hand running in ).
+     </stage>
+     <p>
+      Stop, stop! Mercy sakes, are you crazy?
+     </p>
+    </sp>
+    <sp who="#flaressoapgirl">
+     <speaker>
+      FLARE.
+     </speaker>
+     <p>
+      You asked me to whip this pitcher of cream.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <stage>
+      ( looks at her and then picks up pitcher, and wipes the floor ).
+     </stage>
+     <p>
+      Well, I guess you've whipped it enough.
+      <stage>
+       ( To PAT.)
+      </stage>
+      And what are you doing?
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <p>
+      I'm sweeping.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      You needn't, any more, not that way.
+      <stage>
+       (PAT. takes out lawn mower and comes back .)
+      </stage>
+      When I want to clean floors, I don't generally take the lawn mower, it isn't customary.
+      <stage>
+       ( To BI.)
+      </stage>
+      Did you set the table?
+     </p>
+    </sp>
+    <sp who="#bicyclegirl #girlwhodidnt #girlwhodid">
+     <speaker>
+      BI., VIOLET, DIDN'T
+      and
+      DID.
+     </speaker>
+     <p>
+      Oh, yes, and we all helped! Isn't it lovely?
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Why, yes, it's lovely — it's beautiful — but I guess I'll have to show you how I do it.
+      <stage>
+       ( Business of straightening table; GIRLS run in and out . MRS. M. finishes table and looks at clothes line .)
+      </stage>
+      Who did this?
+     </p>
+    </sp>
+    <sp who="#violetextractgirl">
+     <speaker>
+      VIOLET.
+     </speaker>
+     <p>
+      I arranged that. The dinner napkins, you know, that you asked me to put on the line. Did you ever see a clothes line arranged thus?
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      No, I never did.
+      <stage>
+       ( Aside .)
+      </stage>
+      And I never want to again!
+      <stage>
+       ( To GIRLS.)
+      </stage>
+      Now, ladies, I'm going out to make some soup, and if you're ready
+      <stage>
+       ( to G. W. DID)
+      </stage>
+      we'll put in those onions —
+     </p>
+    </sp>
+    <sp who="#girlwhodid">
+     <speaker>
+      DID.
+     </speaker>
+     <p>
+      But there are no onions.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Why not?
+     </p>
+    </sp>
+    <sp who="#girlwhodid">
+     <speaker>
+      DID.
+     </speaker>
+     <p>
+      Why, I peeled them, and the skin kept coming off, and coming off; and when I got the skins all off, not one of them had anything inside!
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Well, I guess I can use the skin. Some folks do.
+      <stage>
+       ( Exit R. R., coming immediately back .)
+      </stage>
+      Have any of you seen my soup stock? It was in a bowl on the kitchen table.
+     </p>
+    </sp>
+    <sp who="#girlwhodidnt">
+     <speaker>
+      DIDN'T.
+     </speaker>
+     <p>
+      I thought that was varnish, and I rubbed the chairs with it.
+      <stage>
+       (GIRLS sitting on chairs, jump up, and examine their skirts and sleeves .)
+      </stage>
+      I wondered what was the use of doing that.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <stage>
+      ( wearily ).
+     </stage>
+     <p>
+      Well, ladies, I believe if you'll stop helping me for awhile, I'd like to work. I'm getting rather tired! I really don't know what we are to eat. You've spread the soup on my chairs, and beaten the cream with a horsewhip; and I'm too exhausted to even weep over the remains of the onions. Can any one make a suggestion?
+     </p>
+    </sp>
+    <sp who="#flaressoapgirl">
+     <speaker>
+      FLARE.
+     </speaker>
+     <p>
+      Now, if that Frantic child were here, we could have some soup.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      What frantic child?
+     </p>
+    </sp>
+    <sp who="#flaressoapgirl">
+     <speaker>
+      FLARE.
+     </speaker>
+     <p>
+      I mean, the child in the advertisement of Frantic-American Soup Co. I'll go out and see if she's in the pages of the book we just left.
+     </p>
+    </sp>
+    <stage>
+     ( Goes out . GIRLS and MRS. M., clean chairs, and sit around stage . FLARE and FRANTIC return , FRANTIC carrying tureen .)
+    </stage>
+    <sp who="#frantic">
+     <speaker>
+      FRANTIC.
+     </speaker>
+     <p>
+      Ladies and my good madam
+      <stage>
+       ( bowing to each ),
+      </stage>
+      I have the pleasure of presenting this soup to you; and the pleasure is great, for I'm very tired of it. Naturally I do not care for any, so shall I sing to you as you eat it?
+     </p>
+    </sp>
+    <sp who="#mrsmotherly #patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      ALL.
+     </speaker>
+     <p>
+      Oh, how kind! Thank you!
+     </p>
+    </sp>
+    <stage>
+     (GIRLS get soup from tureen which has been placed on table, and group around stage, eating and watching FRANTIC, who comes down C. to F.
+    </stage>
+    <stage>
+     SONG. — Air: "I've Got 'em on
+                                            the List." — Mikado .
+    </stage>
+    <sp who="#frantic">
+     <speaker>
+      FRANTIC
+     </speaker>
+     <stage>
+      ( sings ).
+     </stage>
+     <l>
+      I am an advertising girl of transatlantic note,
+     </l>
+     <l>
+      And known to all this group,
+     </l>
+     <l>
+      And known to all this group.
+     </l>
+     <l>
+      An enterprising company has set the scheme afloat
+     </l>
+     <l>
+      Of making famous soup,
+     </l>
+     <l>
+      Of making famous soup.
+     </l>
+     <l>
+      They have put me in the magazines with cap and apron
+                                            white,
+     </l>
+     <l>
+      Where I advertise this tiresome soup from morning until
+                                            night.
+     </l>
+     <l>
+      I have to smile and look as though I thought it was the
+                                            chief
+     </l>
+     <l>
+      Of all the good things known to man, and nice beyond
+                                            belief;
+     </l>
+     <l>
+      And upon the page above my head are dainties in a group:
+                                            —
+     </l>
+     <l>
+      You'll find them in the soup —
+     </l>
+     <l>
+      Oh, you'll find them in the soup!
+     </l>
+    </sp>
+    <stage>
+     ( Chorus .)
+    </stage>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl #mrsw">
+     <speaker>
+      GIRLS AND MRS. W.
+     </speaker>
+     <stage>
+      ( sing ).
+     </stage>
+     <l>
+      We've found them in the soup,
+     </l>
+     <l>
+      Oh, we've found them in the soup;
+     </l>
+     <l>
+      In the highly-flavored mixture known as soupey — soupey —
+                                            soup!
+     </l>
+    </sp>
+    <sp who="#frantic">
+     <speaker>
+      FRANTIC
+     </speaker>
+     <stage>
+      ( sings ).
+     </stage>
+     <stage>
+      ( Chorus .)
+     </stage>
+     <l>
+      There are imitation turtle, and all vegetables, too: —
+     </l>
+     <l>
+      With all the fowls that troop,
+     </l>
+     <l>
+      With all the fowls that troop.
+     </l>
+     <l>
+      There are consommé and noodles, any kind that pleases
+                                            you,
+     </l>
+     <l>
+      You'll find them in the soup,
+     </l>
+     <l>
+      You'll find them in the soup.
+     </l>
+     <l>
+      We can give you vermicelli, and we'd like to have you
+                                            know
+     </l>
+     <l>
+      That we can a dozen gallons every hundred years or
+                                            so;
+     </l>
+     <l>
+      You can take it to the picnic; you can drink it hot at
+                                            noon;
+     </l>
+     <l>
+      You can drink it from a dainty cup, or sip it from a
+                                            spoon.
+     </l>
+     <l>
+      Oh, I wish that you would eat and drink it all at one
+                                            full swoop; —
+     </l>
+     <l>
+      For I'm very tired of soup,
+     </l>
+     <l>
+      Oh, I'm very tired of soup!
+     </l>
+     <l>
+      You're very tired of soup,
+     </l>
+     <l>
+      But we're very fond of soup,
+     </l>
+     <l>
+      Of the highly-flavored mixture known as soupey — soupey —
+                                            soup!
+     </l>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      I've been thinking, young ladies, and I've come to the conclusion that perhaps I've expected too much of you for young housekeepers. For you certainly cannot, some of you, have much experience.
+      <stage>
+       ( To FLARE.)
+      </stage>
+      What did you do for a living before you came here?
+     </p>
+    </sp>
+    <sp who="#flaressoapgirl">
+     <speaker>
+      FLARE.
+     </speaker>
+     <p>
+      Oh, I held up a cake of soap, and smiled at it.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Well, smiling at it and washing dishes with it, are very different occupations. Do you know of any nice sensible young woman, who would come here and give you girls a lesson in dish-washing, while I go out to buy something for supper?
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      There was a girl on the opposite page to me, who had some kind of powder in a box, and she washed glass and china most beautifully. I'll go get her.
+      <stage>
+       ( Runs out .)
+      </stage>
+     </p>
+    </sp>
+    <stage>
+     ( Returns L. R., with WASHING-POWDER GIRL.)
+    </stage>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <stage>
+      ( joyfully ).
+     </stage>
+     <p>
+      Well, now, you look promising! Can I leave you with these dishes, and will you please see that my young friends learn how to do them?
+     </p>
+    </sp>
+    <sp who="#washingpowdergirl">
+     <speaker>
+      W. P.
+     </speaker>
+     <p>
+      Yes'm.
+     </p>
+    </sp>
+    <stage>
+     ( Goes to table, arranges her pan, and piles up towels . GIRLS gather around MRS. M.)
+    </stage>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      Dear Mrs. Motherly, we do appreciate your kindness, and will do the best we can.
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      That's right — I'm sure, when you've forgotten some of your novel methods, you'll do nicely.
+     </p>
+    </sp>
+    <sp who="#flaressoapgirl">
+     <speaker>
+      FLARE
+     </speaker>
+     <stage>
+      ( picking up dish-towel ).
+     </stage>
+     <p>
+      What's this?
+     </p>
+    </sp>
+    <sp who="#washingpowdergirl">
+     <speaker>
+      W. P.
+     </speaker>
+     <p>
+      That's a dish-towel.
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      GIRLS.
+     </speaker>
+     <p>
+      What do you do with it?
+     </p>
+    </sp>
+    <sp who="#washingpowdergirl">
+     <speaker>
+      W. P.
+     </speaker>
+     <stage>
+      ( acting it out ).
+     </stage>
+     <p>
+      You take a cup — so — and put it in the pan, and then you take a dish-towel and polish it.
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      GIRLS.
+     </speaker>
+     <p>
+      Oh what fun — let's all do it!
+     </p>
+    </sp>
+    <sp who="#mrsmotherly">
+     <speaker>
+      MRS. M.
+     </speaker>
+     <p>
+      Good-bye, then.
+      <stage>
+       ( Starts to R. R.)
+      </stage>
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      GIRLS.
+     </speaker>
+     <p>
+      Good-bye!
+      <stage>
+       [ Exit MRS. M., R. R.
+      </stage>
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      Now, we will do this with a hearty good will. I have a definite object, which I will explain when our work is done.
+     </p>
+    </sp>
+    <stage>
+     ( Each girl in turn goes to table, takes a cup; they stand in row in front of table facing audience, and wipe cups, as they sing first verse Singing chorus, they two-step to front, waving towels above their heads, Singing second verse, stand in a row, front, and polish cups as before. Singing chorus, second time, two-step back to table, and pile up cups upon it .)
+    </stage>
+    <stage>
+     SONG. — Air: "Hurrah for the
+                                            Bonny Blue Flag."
+    </stage>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      ALL
+     </speaker>
+     <stage>
+      ( sing ).
+     </stage>
+     <stage>
+      ( Chorus and two-step .)
+     </stage>
+     <stage>
+      ( Chorus and two step .)
+     </stage>
+     <l>
+      Oh you must take your dishes up and put them in the
+                                            pan;
+     </l>
+     <l>
+      And then you take some patent stuff to wash them spick
+                                            and span.
+     </l>
+     <l>
+      Though you may like that part the best, the greatest fun
+                                            to me
+     </l>
+     <l>
+      Is, just to take a jolly brown rag, and rub them
+                                            thoroughly.
+     </l>
+     <l>
+      Hurrah! Hurrah! Hurrah for the jolly brown rag!
+     </l>
+     <l>
+      Hurrah, for the jolly brown rag leaves not a single
+                                            spot!
+     </l>
+     <l>
+      There's joy in doing most things, if they're done the
+                                            proper way;
+     </l>
+     <l>
+      Some pleasant occupation waits for every hour of day;
+     </l>
+     <l>
+      But after dinner comes the time that I like best, myself:
+                                            —
+     </l>
+     <l>
+      To clean things with a jolly brown rag, and put them on
+                                            the shelf.
+     </l>
+     <l>
+      Hurrah! Hurrah! etc.
+     </l>
+    </sp>
+    <stage>
+     (GIRLS come F. C., BI. in middle .)
+    </stage>
+    <sp who="#patentdressinggirl">
+     <speaker>
+      PAT.
+     </speaker>
+     <p>
+      And now, what is your object in doing this work?
+     </p>
+    </sp>
+    <sp who="#bicyclegirl">
+     <speaker>
+      BI.
+     </speaker>
+     <p>
+      Dears, I'm going to learn everything about housekeeping, and you must help me. And then — I'm going to marry the Billy's Shaving Soap man, and you shall come to live with us forever.
+     </p>
+    </sp>
+    <sp who="#patentdressinggirl #girlwhodid #girlwhodidnt #violetextractgirl #bicicylegirl">
+     <speaker>
+      ALL.
+     </speaker>
+     <p>
+      And that will complete the Emancipation of the Advertising Girl.
+     </p>
+    </sp>
+   </div>
+  </body>
+  <back>
+   <p>
+    CURTAIN.
+   </p>
+  </back>
+ </text>
+</TEI>

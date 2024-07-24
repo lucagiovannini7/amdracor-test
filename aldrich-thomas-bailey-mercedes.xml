@@ -1,0 +1,2333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am654" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Mercedes
+    </title>
+    <author>
+     Aldrich, Thomas Bailey
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Internet Archive
+     </name>
+     <idno>
+      https://archive.org/details/mercedeslyrics00aldrrich
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Aldrich, Thomas Bailey. Mercedes, and later lyrics
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+<particDesc>
+    <listPerson>
+     <person xml:id="padrejoséf" sex="MALE">
+      <persName>Padre Joséf .</persName>
+     </person>
+     <person xml:id="sergeant" sex="MALE">
+      <persName>Sergeant .</persName>
+     </person>
+     <person xml:id="soldier-2" sex="MALE">
+      <persName>2d Soldier .</persName>
+     </person>
+     <person xml:id="soldier-1" sex="MALE">
+      <persName>1st Soldier .</persName>
+     </person>
+     <person xml:id="soldier-3" sex="MALE">
+      <persName>3d Soldier .</persName>
+     </person>
+     <person xml:id="ursula" sex="FEMALE">
+      <persName>Ursula .</persName>
+     </person>
+     <person xml:id="louvois" sex="MALE">
+      <persName>Louvois .</persName>
+     </person>
+     <person xml:id="mercedes" sex="FEMALE">
+      <persName>Mercedes .</persName>
+     </person>
+     <person xml:id="laboissière" sex="MALE">
+      <persName>Laboissière .</persName>
+     </person>
+     <person xml:id="soldier-4" sex="MALE">
+      <persName>4th Soldier .</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Sketch
+     </term>
+     <term subtype="am" type="genreTitle">
+      Romance
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1884">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <p>
+    An incident related in the Mémoirs of the Duchess d'Abrantès suggested this sketch. The love story which forms the basis of the plot, the characterization of the persons represented in the episode, and its dramatic action are the writer's.
+   </p>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      CHARACTERS.
+     </head>
+     <castItem>
+      ACHILLE LOUVOIS.
+     </castItem>
+     <castItem>
+      LABOISSIÈRE.
+     </castItem>
+     <castItem>
+      PADRE JOSÉF.
+     </castItem>
+     <castItem>
+      MERCEDES.
+     </castItem>
+     <castItem>
+      URSULA.
+     </castItem>
+     <castItem>
+      SERGEANT &amp;.mp; SOLDIERS.
+     </castItem>
+    </castList>
+   </div>
+   <set>
+    <p>
+     Scene : Spain . Period : 1810.
+    </p>
+   </set>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     ACT I.
+    </head>
+    <p>
+     A detachment of French troops bivouacked on the edge of the forest of
+                                Covelleda. — A sentinel is seen on the cliffs overhanging the camp.
+                                — The guard is relieved in dumb-show as the dialogue progresses. —
+                                Louvois and Laboissière, wrapped in great-coats, are seated by a
+                                smouldering fire of brushwood in the foreground. — Starlight.
+    </p>
+    <div type="scene">
+     <head>
+     </head>
+     <stage>
+      LOUVOIS, LABOISSIÈRE.
+     </stage>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Louvois!
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       ,
+      </speaker>
+      <p>
+       Eh? What is it? I must have slept.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       With eyes staring at nothing, like an Egyptian idol! This is not amusing. You are as
+       <pb n="12"/>
+       gloomy to-night as an undertaker out of employment.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Say, rather, an executioner who loathes his trade. No, I was not asleep. I cannot sleep with this business on my conscience.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       In affairs like this, conscience goes to the rear — with the sick and wounded.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       One may be forgiven, or can forgive himself, many a cruel thing done in the heat of battle; but to steal upon a defenseless village, and in cold blood sabre old men, women, and children — that revolts me.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       What must be, must be.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Yes — the poor wretches.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       The orders are —
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Every soul!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       They have brought it upon themselves, if that comforts them. Every defile in these infernal mountains bristles with carabines; every village gives shelter or warning to the guerrillas. The army is being decimated by assassination. It is the same ghastly story throughout Castile and Estremadura. After we have taken a town we lose more men than it cost us to storm it. I would rather look into the throat of a battery at forty paces than attempt to pass through certain streets in Madrid or Burgos after night-fall. You go in at one end, but,
+       diantre!
+       you don't come out at the other.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       What would you have? It is life or death with these people.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       I would have them fight like Christians. Poisoning water-courses is not fighting, and assassination is not war. Some such blow as we are about to strike is the sort of rude surgery the case demands.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Certainly the French army on the Peninsula is in a desperate strait. The men are worn out contending against shadows, and disheartened by victories that prove more disastrous than defeats in other lands.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       It is the devil's own country. The very birds here have no song.
+       Even the cigars are damnable. Will you have one?
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Thanks, no.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       ,
+      </speaker>
+      <p>
+       This village of Arguano which we are to discipline,
+       <pb n="15"/>
+       as the brave Junot would say, is it much of a village?
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       No; an insignificant hamlet — one wide
+       calle
+       with a zigzag line of stucco houses on each side; a posada, and a forlorn chapel standing like an overgrown tombstone in the middle of the cemetery. In the market-place, three withered olive trees. On a hilltop overlooking all, a windmill of the time of Don Quixote. In brief, the regulation Spanish village.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       You have been there, then?Èwith your three withered olive trees!
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       ,
+      </speaker>
+      <p>
+       Yes. I have been there. ...
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       ,
+      </speaker>
+      <p>
+       He has that same odd look in his eyes which has puzzled me these two days.
+       <stage>
+        (Aloud.)
+       </stage>
+       If I have touched a wrong chord, pardon! You have unpleasant associations with the place.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       I? O, no: on the contrary I have none but agreeable memories of Arguano. I was quartered there, or, rather, in the neighborhood, for several weeks a year or two ago. I was recovering from a wound at the time, and the air of that valley did me better service than a platoon of surgeons. Then the villagers were simple, honest folk — for Spaniards. Indeed, they were kindly folk. I remember the old padre, he was not half a bad fellow, though I have no love for the long-gowns. With his scant black soutane, and his thin white hair brushed behind his ears under a skull-cap, he somehow reminded me of my old mother in Languedoc, and we were good comrades. We used now and then to empty a bottle of Valdepeñas together in the shady posada garden. The native wine here, when you get it pure, betters expectation.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Why, that was consorting with the enemy! The Church is our deadliest foe now. Since
+       <pb n="17"/>
+       the bull of Pius VII., excommunicating the Emperor, we all are heretical dogs in Spanish eyes. His Holiness has made murder a shortcut to heaven.
+       By poniarding or poisoning a Frenchman, these fanatics fancy that they insure their infinitesimal souls.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Yes, they believe that; yet when all is said, I have no great thirst for this poor padre's blood. If the maréchal had only turned over to me some other village! No — I do not mean what I say. Since the work was to be done, it was better I should do it. There's a fatality in sending me to Arguano. Remember that. From the moment the order came from headquarters I have had such a heaviness here.
+       <stage>
+        (Pauses.)
+       </stage>
+       Awhile ago, in a half doze, I dreamed of cutting down this harmless old priest who had come to me to beg mercy for the women and children. I cut him across the face, Laboissière! I saw him still smiling, with his lip slashed in two. The irony of it! When I think of that smile I am tempted to break my sword over my knee, and throw myself into the ravine yonder.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       ,
+      </speaker>
+      <p>
+       This is the man who got the cross for sabring three gunners in the trench at Saragossa! It is droll he should be so moved by the idea of killing a beggarly old Jesuit more or less.
+       <stage>
+        (Aloud.)
+       </stage>
+       Bah! it was only a dream,
+       voilà tout
+       — one of those villainous nightmares which run wild over these hills. I have been kicked by them myself many a time. What, the devil! dreams always go by contraries; in which case you will have the satisfaction of being knocked on the head by the venerable padre — and so quits. It may come to that. Who knows? We are surrounded by spies; I would wager a week's rations that Arguano is prepared for us.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       If I thought that! An assault with resistance would cover all. Yes, yes — the spies. They must be aware of our destination and purpose. A movement such as this could not have been made unobserved.
+       <stage>
+        (Abruptly.)
+       </stage>
+       Laboissière!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Well?
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       There was a certain girl at Arguano, a niece or god-daughter to the old padre — a brave girl.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Ah — so? Come now, confess, my captain, it was the
+       sobrina
+       , and not the old priest, you struck down in your dream.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Yes, that
+       was
+       it. How did you know?
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       labossière
+       .
+      </speaker>
+      <p>
+       By instinct and observation. There is always a woman at the bottom of everything. You have only to go deep enough.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       This girl troubles me. I was ordered from Arguano without an instant's warning — at midnight — between two breaths, as it were. Then communication with the place was cut off. ... I have never heard word of her since.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       So? Did you love her?
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       I have not said that.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Speak your thought, and say it. I ever loved a love-story, when it ran as clear as a trout-brook and had the right heart-leaps in it. With this wind sighing in the tree-tops, and these heavy stars drooping over us, it is the very place and hour for a bit of romance. Come, now.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       It was all of a romance.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       I knew it! I will begin for you: You loved her.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Yes, I loved her! It was the good God that sent her to my bedside. She nursed me day and night. She brought me back to life ... I know not how it happened; the events have no sequence in my memory. I had been wounded; I dropped from the saddle as we entered the village, and was carried for dead into one of the huts. Then the fever took me. ... Day after day I plunged from one black abyss into another, my wits quite gone. At odd intervals I was conscious of some one bending over me. Now it seemed to be a demon, and now a white-hooded sister of the Sacred Heart at Paris. Oftener it was that madonna above the altar in the old mosque at Cordova. Such strange fancies take men with gunshot wounds! One night I awoke in my senses, and there she sat, with her fathomless eyes fixed upon my face, like a statue of pity. You know those narrow, melting eyes these women have, with a dash of Arab fire in them. ...
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Know them? Sacrebleu!
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       The first time I walked out she led me by the hand, I was so very weak, like a little child learning to walk. It was spring, the skies were blue, the almonds were in blossom, the air was like wine. Great heaven! how beautiful and fresh the world was, as if God had just made it! From time to time I leaned upon her shoulder, not thinking of her. ... Later I came to know her — a saint in disguise, a peasant-girl with the instincts of a duchess!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       They are always like that, saints and duchesses — by brevet! I fell in with her own sister at Barcelona. Look you — braids of purple-black hair and the complexion of a newly-minted napoleon! I forget her name.
+       <stage>
+        (Knitting his brows.)
+       </stage>
+       Paquita ... Mariquita? It was something-quita, but no matter.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       How it all comes back to me! The wild footpaths in the haunted forest of Covelleda; the broken Moorish water-tank, in the plaza, against which we leaned to watch the gypsy dances; the worn stone-step of the cottage, where we sat of evenings with guitar and cigarette! What simple things make a man forget that his grave lies in front of him!
+       <stage>
+        (Pauses.)
+       </stage>
+       There was a lover, a contrabandista, or something — a fellow who might have played the spadassin in one of Lope de Vega's cloak-and-dagger comedies. The gloom of the lad, fingering his stiletto-hilt! Presently she sent him to the right-about, him and his scowls — the poor devil.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Oh, a very bad case!
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       I would not have any hurt befall that girl, Laboissière!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Surely.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       And there's no human way to warn her of her danger!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       To warn her would be to warn the village — and defeat our end. However, no French messenger could reach the place alive.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       And no other is possible. Now you understand my misery. I am ready to go mad!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       You take the thing too seriously. Nothing ever is so bad as it looks, except a Spanish
+       ragoût
+       . After all, it is not likely that a single soul is left in Arguano. The very leaves of this dismal forest are lips that whisper of our movements. The villagers have doubtless made off with that fine store of grain and aguardiente we so sorely stand in need of, and a score or two of the brigands are probably lying in wait for us in some narrow cañon.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+      </speaker>
+      <p>
+       God will it so!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Louvois, if the girl is at Arguano, not a hair of her head shall be harmed, though I am shot for it when we get back to Burgos!
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       You are a brave soul, Laboissière! Your words have lifted a weight from my bosom.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Are we not comrades, we who have fought side by side these six months and lain together night after night with this blue arch for our tent-roof? Dismiss your anxiety. What is that Gascogne proverb? — "We suffer most from the ills that never happen." Let us get some rest; we have had a rude day. ... See, the stars have doubled their pickets out there to the westward.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       You are right; we should sleep. We march at daybreak. Good-night.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Good-night, and vive la France!
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Vive l'Empéreur!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+      </speaker>
+      <p>
+       "Reposez-vous, bons chevaliers!"
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       ,
+      </speaker>
+      <p>
+       There goes a light heart. But mine ... mine is as heavy as lead.
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      II.
+     </head>
+     <head>
+      SOLDIERS' SONG.
+     </head>
+     <stage>
+      While this is being sung behind the scenes the guard is relieved on the cliffs. Louvois wraps his cloak around him and falls into a troubled sleep.
+     </stage>
+    </div>
+   </div>
+   <div type="act">
+    <head>
+     ACT II.
+    </head>
+    <p>
+     Morning. — The interior of a stone hut in Arguano. — Through the door
+                                opening upon the calle are seen piles of Indian corn, sheaves of
+                                wheat, and loaves of bread partly consumed. — Empty wine-skins are
+                                scattered here and there among the cinders. — In one corner of the
+                                chamber, which is low-studded but spacious, an old woman, propped up
+                                with pillows, is sitting on a pallet and crooning to herself. — At
+                                the left, a settle stands against the wall. — In the centre of the
+                                room a child lies asleep in a cradle. — Mercedes. — Padre Joséf
+                                entering abruptly.
+    </p>
+    <div type="scene">
+     <head>
+      I.
+     </head>
+     <stage>
+      Mercedes , Padre Joséf , then Ursula .
+     </stage>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       Mercedes! daughter! are you mad to linger so?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Nay, father, it is you who are mad to come back.
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       We were nearly a mile from the village when I missed you and the child. I had stopped at your cottage, and found no one. I thought you were with those who had started at sunrise.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Nay, I brought Chiquita here last night when I heard the French were coming.
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       Quick, Mercedes! there is not an instant to waste.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Then hasten, Padre Joséf, while there is yet time.
+       <stage>
+        (Pushes him towards the door.)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       And you, child?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       I shall stay.
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       Listen to her, Sainted Virgin! she will stay, and the French bloodhounds at our very heels!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       ,
+      </speaker>
+      <p>
+       Could I leave old Ursula, and she not able to lift foot? Think you — my own flesh and blood!
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       Ah,
+       cielo!
+       true. They have forgotten her, the cowards! and now it is too late. God willed it —
+       santificado sea tu nombre!
+       <stage>
+        (Hesitates.)
+       </stage>
+       Mercedes, Ursula is old — very old; the better part of her is already dead. See how she laughs and mumbles to herself, and knows naught of what is passing.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       The poor grandmother! she thinks it is a saint's day.
+       <stage>
+        (Seats herself on the settle.)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       What is life or death to her whose soul is otherwhere? What is a second more or less to the leaf that clings to a shrunken bough? But you, Mercedes, the long summer smiles for such as you. Think of yourself, think of Chiquita. Come with me, child, come!
+      </p>
+     </sp>
+     <sp who="#ursula">
+      <speaker>
+       Ursula
+       .
+      </speaker>
+      <p>
+       Ay, ay, go with the good padre, dear. There is dancing on the plaza. The gitanos are there,
+       <pb n="31"/>
+       mayhap. I hear the music. I had ever an ear for tamborines and castanets. When I was a slip of a girl I used to foot it with the best in the cachuca and the bolera. I was a merry jade, Mercedes — a merry jade. Wear your broidered garters, dear.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       She hears music.
+       <stage>
+        (Listens.)
+       </stage>
+       No. Her mind wanders strangely to-day, now here, now there. The gray spirits are with her.
+       <stage>
+        (To Ursula gently.)
+       </stage>
+       No, grandmother, I came to stay with you, I and Chiquita.
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       You are mad, Mercedes. They will murder you all.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       They will not have the heart to harm Chiquita, nor me, perchance, for her sake.
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       They have no hearts, these Frenchmen. Ah, Mercedes, do you not know better than most that a Frenchman has no heart?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       ,
+      </speaker>
+      <p>
+       I know nothing. I shall stay. Is life so sweet to me? Go, Padre Joséf. What could save you if they found you here? Not your priest's gown.
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       You will follow, my daughter?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       No.
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       I beseech you!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       No.
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       Then you are lost!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Nay, padrino, God is everywhere. Have you not yourself said it? Lay your hands for a moment on my head, as you used to do when I was a little child, and go — go!
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       Thou wert ever a willful girl, Mercedes.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       O, say not so; but quick — your blessing, quick!
+      </p>
+     </sp>
+     <sp who="#padrejoséf">
+      <speaker>
+       Padre
+       Joséf
+       .
+      </speaker>
+      <p>
+       Á Dios. ...
+      </p>
+     </sp>
+     <stage>
+      He makes the sign of the cross on Mercedes' forehead, and slowly turns away. Mercedes rises, follows him to the door, and looks after him with tears in her eyes. Then she returns to the middle of the room, and sits on a low stool beside the cradle.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      II.
+     </head>
+     <stage>
+      Mercedes, Ursula .
+     </stage>
+     <sp who="#ursula">
+      <speaker>
+       Ursula
+       ,
+      </speaker>
+      <p>
+       Has he gone, the good padre?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Yes, dear soul.
+      </p>
+     </sp>
+     <sp who="#ursula">
+      <speaker>
+       Ursula
+       ,
+      </speaker>
+      <p>
+       He was your uncle once.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Once? Yes, and always. How you speak!
+      </p>
+     </sp>
+     <sp who="#ursula">
+      <speaker>
+       Ursula
+       .
+      </speaker>
+      <p>
+       He is not gay any more, the good padre. He is getting old ... getting old.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       To hear her! and she eighty years last San Miguel's day!
+      </p>
+     </sp>
+     <sp who="#ursula">
+      <speaker>
+       Ursula
+       .
+      </speaker>
+      <p>
+       What day is it?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       ,
+      </speaker>
+      <p>
+       Hist! Chiquita is waking.
+      </p>
+     </sp>
+     <sp who="#ursula">
+      <speaker>
+       Ursula
+       ,
+      </speaker>
+      <p>
+       Hist? Nay, I will say my say in spite of all. Hist? God save us! who taught thee to say hist to thy elders? Ay, ay, who taught thee? ... What day is it?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       ,
+      </speaker>
+      <p>
+       How sharp she is awhiles!
+       <stage>
+        (Aloud.)
+       </stage>
+       Pardon, pardon! Here is little Chiquita, with both eyes wide open, to help me beg thy forgiveness.
+       <stage>
+        (Takes up the child.)
+       </stage>
+       See, she has a smile for grandmother
+       <pb n="35"/>
+       ... Ah, no, little one, I have no milk for thee; the trouble has taken it all. Nay, cry not, dainty, or that will break my heart.
+      </p>
+     </sp>
+     <sp who="#ursula">
+      <speaker>
+       Ursula
+       .
+      </speaker>
+      <p>
+       Sing to her,
+       nieta
+       . What is it you sing that always hushes her? 'Tis gone from me.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       I know not.
+      </p>
+     </sp>
+     <sp who="#ursula">
+      <speaker>
+       Ursula
+       .
+      </speaker>
+      <p>
+       Bethink thee.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       I cannot. Ah — the rhyme of The Three Little White Teeth?
+      </p>
+     </sp>
+     <sp who="#ursula">
+      <speaker>
+       Ursula
+       ,
+      </speaker>
+      <p>
+       Ay, ay, that is it!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+      </speaker>
+      <l>
+       Who is it opens her blue bright eye,
+      </l>
+      <l>
+       Bright as the sea and blue as the sky? —
+      </l>
+      <l>
+       Chiquita!
+      </l>
+      <l>
+       Who has the smile that comes and goes
+      </l>
+      <l>
+       Like sunshine over her mouth's red rose? —
+      </l>
+      <l>
+       Muchachita!
+      </l>
+      <l>
+       What is the softest laughter heard,
+      </l>
+      <l>
+       Gurgle of brook or trill of bird,
+      </l>
+      <l>
+       Chiquita?
+      </l>
+      <l>
+       Nay, 'tis thy laughter makes the rill
+      </l>
+      <l>
+       Hush its voice and the bird be still,
+      </l>
+      <l>
+       Muchachita!
+      </l>
+      <l>
+       Ah, little flower-hand on my breast,
+      </l>
+      <l>
+       How it soothes me and gives me rest!
+      </l>
+      <l>
+       Chiquita!
+      </l>
+      <l>
+       What is the sweetest sight I know?
+      </l>
+      <l>
+       Three little white teeth in a row,
+      </l>
+      <l>
+       Three little white teeth in a row,
+      </l>
+      <l>
+       Muchachita!
+      </l>
+     </sp>
+     <stage>
+      As Mercedes finishes the song a roll of drums is heard in the calle. At the first tap she starts and listens intently, then assumes a stolid air. The sound approaches the door and suddenly ceases.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      III.
+     </head>
+     <stage>
+      Laboissière, Mercedes , then soldiers .
+     </stage>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       ,
+      </speaker>
+      <p>
+       A sergeant and two men to follow me!
+       <stage>
+        (Mutters.)
+       </stage>
+       Curse me if there is so much as a mouse left in the whole village. Not a drop of wine, and the bread burnt to a crisp — the
+       scélérats!
+       <stage>
+        (Appears at the threshold.)
+       </stage>
+       Hulloa! what is this? An old woman and a young one — an Andalusian by the arch of her instep and the length of her eyelashes!
+       <stage>
+        (In Spanish.)
+       </stage>
+       Girl, what are you doing here?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       ,
+      </speaker>
+      <p>
+       Where should I be, monsieur?
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       You speak French?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Caramba! since you speak Spanish.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       It was out of politeness. But talk your own jargon — it is a language that turns to honey on the tongue of a pretty woman.
+       <stage>
+        (Aside.)
+       </stage>
+       It was my luck to unearth the only woman in the place! The captain's white blackbird has flown, bag and baggage, thank Heaven! Poor Louvois, what a grim face he made over the empty nest!
+       <stage>
+        (Aloud.)
+       </stage>
+       Your neighbors have gone. Why are you not with them?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       ,
+      </speaker>
+      <p>
+       It is my grandmother, señor; she is paralyzed.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       So? You could not carry her off, and you remained?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Precisely.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       That was like a brave girl.
+       <stage>
+        (Touching his cap.)
+       </stage>
+       I salute valor whenever I meet it. Why have all the villagers fled?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Did they wish to be massacred?
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       ,
+      </speaker>
+      <p>
+       And you?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       It would be too much glory for a hundred and eighty French soldiers to kill one poor peasant girl. And then to come so far!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       ,
+      </speaker>
+      <p>
+       She knows our very numbers, the fox! How she shows her teeth!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Besides, señor, one can die but once.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       That is often enough. — Why did your people waste the bread and wine?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       That yours might neither eat the one nor drink the other. We do not store food for our enemies.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       They could not take away the provisions, so they destroyed them?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       ,
+      </speaker>
+      <p>
+       Nothing escapes you!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Is that your child?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Yes, the
+       hija
+       is mine.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Where is your husband — with the brigands yonder?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       My husband?
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Your lover, then.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       I have no lover. My husband is dead.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       I think you are lying now. He's a guerrilla.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       If he were I should not deny it. What Spanish woman would rest her cheek upon the bosom that has not a carabine pressed against it this day? It were better to be a soldier's widow than a coward's wife.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       ,
+      </speaker>
+      <p>
+       The little demon! But she is ravishing! She would have upset St. Anthony, this one — if he had belonged to the Second Chasseurs! What is to be done? Theoretically, I am to pass my sword through her body; practically, I shall make love to her in ten minutes more, though her readiness to become a widow is not altogether pleasing!
+       <stage>
+        (Aloud.)
+       </stage>
+       Here, sergeant, go report this matter to the captain. He is in the posada at the farther end of the square.
+      </p>
+     </sp>
+     <stage>
+      Exit sergeant. Shouts of exultation and laughter are heard in the calle, and presently three or four soldiers enter earing several hams and a skin of wine.
+     </stage>
+     <sp who="#soldier-1">
+      <speaker>
+       1st
+       Soldier
+       .
+      </speaker>
+      <p>
+       Voilá, lieutenant!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Where did you get that?
+      </p>
+     </sp>
+     <sp who="#soldier-2">
+      <speaker>
+       2d
+       Soldier
+       .
+      </speaker>
+      <p>
+       In a cellar hard by, hidden under some rushes.
+      </p>
+     </sp>
+     <sp who="#soldier-3">
+      <speaker>
+       3d
+       Soldier
+       .
+      </speaker>
+      <p>
+       There are five more skins of wire like this jolly fellow in his leather jacket. Pray order a division of the booty, my lieutenant, for we are as dry as herrings in a box.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       A moment, my braves.
+       <stage>
+        (Looks at Mercedes significantly.)
+       </stage>
+       Woman, is that wine good?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       The vintage was poor this year, señor.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       I mean — is that wine good for a Frenchman to drink?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Why not, señor?
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       ,
+      </speaker>
+      <p>
+       Yes or no?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Yes.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Why was it not served like the rest, then?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       They hid a few skins, thinking to come back for it when you were gone. An ill thing does not last forever.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Open it, someone, and fetch me a glass.
+       <stage>
+        (To Mercedes.)
+       </stage>
+       You will drink this.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+      </speaker>
+      <stage>
+       coldly.
+      </stage>
+      <p>
+       When I am thirsty I drink.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Pardieu! this time you shall drink because
+       I
+       am thirsty.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       As you will.
+       <stage>
+        (Empties the glass.)
+       </stage>
+       To the King!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       That was an impudent toast. I would have preferred the Emperor or even Godoy; but no matter — each after his kind. To whom will the small-bones drink?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       The child, señor?
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Yes, the child; she is pale and sickly-looking; a draught will do her no harm. All the same she will grow up and make some man wretched.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       But señor ...
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Do you hear?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       But Chiquita, señor — she is so little, only thirteen months old, and the wine is strong!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       She shall drink.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       No, no!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       I have said it, sacré nom —
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Give it me, then.
+       <stage>
+        (Takes the glass and holds it to the child's lips.)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       ,
+      </speaker>
+      <p>
+       Woman! your hand trembles.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Nay, it is Chiquita swallows so fast. See! she has taken it all. Ah, señor, it is a sad thing to have no milk for the little one. Are you content?
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Yes; I now see that the men may quench their thirst without fear. One cannot be too cautious in this hospitable country! Fall to, my children; but first a glass for your lieutenant.
+       <stage>
+        (Drinks.)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#ursula">
+      <speaker>
+       Ursula
+       .
+      </speaker>
+      <p>
+       Ay, ay, the young forget the old ... forget the old.
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       ,
+      </speaker>
+      <p>
+       Why, the depraved old sorceress! But she has reason. She should have her share.
+       Place aux dames!
+       A cup, somebody, for Madame la Diablesse!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       ,
+      </speaker>
+      <p>
+       José-Maria!
+      </p>
+     </sp>
+     <stage>
+      One of the men carries wine to Ursula. Mercedes lays the child in the cradle, and sits on the stool beside it, resting her forehead on her palms. Laboissière stretches himself on the settle. Several soldiers come in, and fill their canteens from the wine-skin. They stand in groups, talking in undertones among themselves.
+     </stage>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+      </speaker>
+      <p>
+       The child! look at the child! What is the matter with it? It turns livid — it is dying! Comrades, we are poisoned!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+      </speaker>
+      <p>
+       Yes, you are poisoned! Al fuego — al fuego — todos al fuego!
+       You to perdition, we to heaven!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Quick, some of you, go warn the others
+       <stage>
+        (Unsheathes his sword.)
+       </stage>
+       I end where I ought to have begun.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+      </speaker>
+      <p>
+       Strike here, señor. ...
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+      </speaker>
+      <p>
+       Mercedes!
+      </p>
+     </sp>
+     <sp who="#laboissière">
+      <speaker>
+       Laboissière
+       .
+      </speaker>
+      <p>
+       Louvois, we are dead men! Beware of her, she is a fiend! Kill her without a word! The drink already throttles me — I — I cannot breathe here.
+       <stage>
+        (Staggers out, followed wildly by the soldiers.)
+       </stage>
+      </p>
+     </sp>
+    </div>
+    <div type="scene">
+     <head>
+      IV.
+     </head>
+     <stage>
+      LOUVOIS, MERCEDES.
+     </stage>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       What does he say?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       You heard him.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       His words have no sense.
+       <stage>
+        (Advancing towards her.)
+       </stage>
+       O, why are you in this place, Mercedes?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       ,
+      </speaker>
+      <p>
+       I am here, señor —
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       You call me señor — you shrink from me —
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Because we Spaniards do not desert those who depend upon us.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Is that a reproach? Ah, cruel! Have you forgotten —
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       I have forgotten nothing. I have had cause to remember all. I remember, among the rest, that a certain wounded French officer was cared for in this village as if he had been one of our own people — and now he returns to massacre us.
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Mercedes!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       I remember the morning, nearly two years ago, when Padre Joséf brought me your letter. You had stolen away in the night — like a deserter! Ah, that letter — how it pierced my heart, and yet bade me live! Because it was full of those smooth oaths which women love, I carried it in my bosom for a twelvemonth; then for another twelvemonth I carried it because I hoped to give it back to you.
+       <stage>
+        (Takes a paper from her bosom.)
+       </stage>
+       See, señor, what slight things words are!
+       <stage>
+        (Tears the paper into small pieces which she scatters at his feet.)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Ah!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Sometimes it comforted me to think that you were dead. You were only false!
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       It is you who have broken faith. I should be the last of men if I had deserted you. Why,
+       <pb n="50"/>
+       even a dog has gratitude. How could I now look you in the face?
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       'T was an ill day you first did so!
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Listen to me!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Too many times I have listened. Nay, speak not; I might believe you!
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       If I do not speak the truth, despise me! Since I left Arguano I have been at Lisbon, Irun, Aranjuez, among the mountains — I know not where, but ever in some spot whence it was impossible to get you tidings. A wall of fire and steel shut me from you. Thrice I have had my letters brought back to me — with the bearers' blood upon them; thrice I have trusted to messengers whose treachery I now discover. For a chance bit of worthless gold they broke
+       <pb n="51"/>
+       the seals, and wrecked our lives! Ah, Mercedes, when my silence troubled you, why did you not read the old letter again? If the words you had of mine lost their value, it was because they were like those jewels in the padre's story, which changed their color when the wearer proved unfaithful.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Aquilles!
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <stage>
+       Mercedes moves swiftly across the room, and kneeling on the flag-stones near Louvois's feet begins to pick up the fragments of the letter. He suddenly stoops and takes her by the wrists.
+      </stage>
+      <p>
+       Though I could not come to you nor send to you, I never dreamed I was forgotten. I used to say to myself: "A week, a month, a year — what does it matter? That brown girl is as true as steel!" I think I bore a charmed life in those days; I grew to believe that neither sword nor bullet could touch me until I held you in my arms again.
+       <stage>
+        (The girl stands with her hands crossed upon her bosom and looks at him with a growing light in her eyes.)
+       </stage>
+       It was the day before yesterday that our brigade returned to Burgos — at last! at last! O, love, my eyes were hungry for you! Then that dreadful order came. Arguano had been
+       <pb n="52"/>
+       to me what Mecca is to the Mohammedan — a shrine to be reached through toil and thirst and death. O, what a grim freak it was of fate, that I should lead a column against Arguano — my shrine, my Holy Land!
+      </p>
+      <p>
+       Mercedes!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Ah, but I was so unhappy! Was I unhappy? I forget.
+       <stage>
+        (Looks up in his face and laughs.)
+       </stage>
+       It is so very long ago! An instant of heaven would make one forget a century of hell! When I hear your voice, two years are as yesterday. It was not I, but some poor girl I used to know who was like to die for you. It was not I — I have never been anything but happy. Nay, I needs must weep a little for her, the days were so heavy to that poor girl. And when you go away again, as go you must —
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       I shall take you with me, Mercedes. Do you understand? You are to go with me to Burgos.
+       <pb n="53"/>
+       <stage>
+        (Aside.)
+       </stage>
+       What a blank look she wears! She does not seem to understand.
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       ,
+      </speaker>
+      <p>
+       With you to Burgos? I was there once, in the great cathedral, and saw the bishops in their golden robes and all the jewelled windows ablaze in the sunset. But with you? Am I dreaming this? The very room has grown unfamiliar to me. The crucifix yonder, at which I have knelt a hundred times, was it always there? My head is full of unwonted visions. I think I hear music and the sounds of castanets, like poor old Ursula. Those cries in the calle — is it a merry-meeting? Ah! what a pain struck my heart then! O God! I had forgotten!
+       <stage>
+        (Clutches his arm and pushes him from her.)
+       </stage>
+       Have you drunk wine this day?
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Why, Mercedes, how strange you are!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       No, no! have you drunk wine?
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       Well, yes, a cup without. What then? How white you are!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       Quick! let me look you in the face. I wish to tell you something. You loved me once ... it was in May ... your wound is quite well now? No, no, not that! All things slip from me. Chiquita — Nay, hold me closer, I do not see you. Into the sunlight — into the sunlight!
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       .
+      </speaker>
+      <p>
+       She is fainting!
+      </p>
+     </sp>
+     <sp who="#mercedes">
+      <speaker>
+       Mercedes
+       .
+      </speaker>
+      <p>
+       I am dying — I am poisoned. The wine was drugged for the French. I was desperate. Chiquita — there in the cradle — she is dead — and I —
+       <stage>
+        (Sinks down at his feet.)
+       </stage>
+      </p>
+     </sp>
+     <sp who="#louvois">
+      <speaker>
+       Louvois
+       ,
+      </speaker>
+      <p>
+       Mercedes! Mercedes!
+      </p>
+     </sp>
+     <stage>
+      After an interval a measured tramp is heard outside. A sergeant with a file of soldiers in disorder enters the hut.
+     </stage>
+    </div>
+    <div type="scene">
+     <head>
+      Scene V.
+     </head>
+     <stage>
+      SERGEANT and SOLDIERS.
+     </stage>
+     <sp who="#soldier-1">
+      <speaker>
+       1st
+       Soldier
+       .
+      </speaker>
+      <p>
+       Behold! he has killed the murderess.
+      </p>
+     </sp>
+     <sp who="#soldier-2">
+      <speaker>
+       2d
+       Soldier
+       .
+      </speaker>
+      <p>
+       If she had but twenty lives now!
+      </p>
+     </sp>
+     <sp who="#soldier-3">
+      <speaker>
+       3d
+       Soldier
+       .
+      </speaker>
+      <p>
+       That would not bring back the brave Laboissière and the rest.
+      </p>
+     </sp>
+     <sp who="#soldier-2">
+      <speaker>
+       2d
+       Soldier
+       .
+      </speaker>
+      <p>
+       Sapristi, no! but it would give us life for life.
+      </p>
+     </sp>
+     <sp who="#soldier-4">
+      <speaker>
+       4th
+       Soldier
+       .
+      </speaker>
+      <p>
+       Miséricorde! are twenty —
+      </p>
+     </sp>
+     <sp who="#sergeant">
+      <speaker>
+       Sergeant
+       .
+      </speaker>
+      <p>
+       Hold your peace, all of you!
+       <stage>
+        (Advances and salutes Louvois, who is half kneeling beside the body of the woman.)
+       </stage>
+       My
+       <pb n="56"/>
+       captain!
+       <stage>
+        (Aside.)
+       </stage>
+       He does not answer me.
+       <stage>
+        (Lays his hand hurriedly on Louvois's shoulder, and starts.)
+       </stage>
+       Silence, there! and stand uncovered. He is dead!
+      </p>
+     </sp>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

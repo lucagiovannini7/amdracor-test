@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am743" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     In Far Bohemia
+    </title>
+    <author>
+     Sutherland, Evelyn Greenleaf Baker
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Internet Archive
+     </name>
+     <idno>
+      https://archive.org/details/powhitetrashothe00suth
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Sutherland, Evelyn Greenleaf Baker. Po' white trash and other one-act dramas
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="alecmclaren" sex="MALE">
+      <persName>Alec McLaren</persName>
+     </person>
+     <person xml:id="karendemar" sex="FEMALE">
+      <persName>Karen Demar</persName>
+     </person>
+     <person xml:id="mrspennypacker" sex="FEMALE">
+      <persName>Mrs. Pennypacker</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      One-act
+     </term>
+     <term subtype="am" type="genreTitle">
+      Domestic
+     </term>
+     <term subtype="am" type="genreTitle">
+      Drama
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1900">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      CHARACTERS REPRESENTED.
+     </head>
+     <castItem>
+      Alec McLaren .
+     </castItem>
+     <castItem>
+      Karen Demar .
+     </castItem>
+     <castItem>
+      Mrs. Pennypacker .
+     </castItem>
+    </castList>
+   </div>
+   <div type="preface">
+    <p>
+     Was first produced at a benefit performance, at the Bijou Theatre, Boston, on the evening of January 18, 1898. On this occasion, "Karen" was played by Miss Minnie Dupree; "Alec" by Mr. Horace Lewis; and "Mrs. Pennypacker" by Miss Kate Ryan.
+    </p>
+    <p>
+     The scene is Alec McLaren's lodging room, in Mrs. Pennypacker's house. The time is midnight of a stormy November night.
+    </p>
+   </div>
+  </front>
+  <body>
+   <stage>
+    The scene is a large, bare room in a city lodging-house. A fire is burning on hearth, R. C. A couch is drawn up before it with a pillow or two covered in bright chintz, and a dilapidated buffalo robe thrown over it. A table, C., is littered with books, newspapers, pipes, etc. A battered arm-chair stands beside it. Other chairs in various stages of disrepair stand about the room. There is a wall-cupboard, with doors left, back. At the left, back, a large, low window with curtain half drawn on its string. The walls are ornamented with rough sketches, pictures from illustrated papers, etc., unframed; a pair of gloves and of foils; pipe rack, etc. On a row of hooks, back, left, hang various fancy costumes, odd hats, etc. A door, L. 4. As the curtain rises the wind is heard shrieking without; the door is pushed open and Mrs. Pennypacker, a thin, gaudily-dressed Cockney, enters. She carries a candle. She is speaking to some one on the stairs without .
+   </stage>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     I '
+     ope
+     , — I sy, I '
+     ope
+     as bein' mysulf a lydy, I shouldn't never ask no lydy to do nothink that didn't fit a lydy; an' when I says to you, Miss Demar, Come into Mr. McLaren's room for a rest an' a warm, you can be thoro-wahly sure as Mr. McLaren ain't —
+    </p>
+   </sp>
+   <stage>
+    ( Karen Demar staggers in on the verge of fainting. Mrs. Pennypacker catches her in her arms and half carries her to the couch, where she drops her, lying helpless, none too gently; she says as she goes .)
+   </stage>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     Lord love ye, what's come to ye, Miss Karen! Ye give me a turn! Me 'art's a-breakin' out my stys! What's come to ye, I sy?
+     <stage>
+      ( Stands looking down at her .)
+     </stage>
+     I know bloomin' well what 'asn't come to ye, — fire, nor food nor drink 'asn't come to ye, till yer 'ands is baby-bird claws an' yer eyes is at the bottom o' wells! 'Ere! Lucky as I
+     <pb n="39"/>
+     knows what'll bring you to life!
+     <stage>
+      ( She opens the door of the cupboard and takes down a whisky bottle and glass .)
+     </stage>
+     I can't trust me 'and to carry a drop to the poor dear till me 'art gets quieter-like. It's a mercy Pennypacker, before ever we left Lunnon for America, an' 'e got 'is decree habsolute, taught me a thing or two about medicine!
+    </p>
+   </sp>
+   <stage>
+    ( She pours out a finger of whisky and drinks with relish. As she wipes her mouth on her apron, she sees that Karen has faintly struggled to an upright position against the cushions, and is looking at her bewilderedly .)
+   </stage>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     Mrs. Pennypacker! You! — Where am I?
+     <stage>
+      ( Stretches out her hands to fire .)
+     </stage>
+     O, how good it is to he warm!
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     A drop o' this, my dear, 'll warm ye from the hinside hout, — from the houtside hin ain't nowise permanent nor satisfactory!
+     <stage>
+      ( Karen mechanically takes glass, but sets it down without tasting its contents .)
+     </stage>
+     Providence, my dear, ever guides us to our needs, if we keeps our heyes open. Pennypacker 'e says to me many and many a time before he got his decree habsolute, — which was soon after we came to Hamerica, my dear! — "'Arriet," 'e says, "in some things you 'ave a hinstinct! That's hall we can call it — a hinstinct!" An' it was my hinstinct,
+     <pb n="40"/>
+     under Providence, my dear, that led me to McLaren's cupboard.
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     Mr. McLaren's — O, I had forgotten — this is Mr. McLaren's room. I have no right — I must not —
+     <stage>
+      ( Tries weakly to rise .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     No right, indeed! Mybe ye'll be flyin' next in the face o' Providence, an' sayin' a body has no right to the sty an' support Providence sends to their needs — maybe you'll say I've no right to the stimulatin' drop I was about to take for the sinkin' in me, when you come to, an' I brought the stuff to you instead!
+     <stage>
+      ( Drinks again .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     I must go — go away from the fire!
+     <stage>
+      ( She leans shiveringly over it .)
+     </stage>
+     It is time, — it must be time for Mr. McLaren to come back from the theatre.
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     It won't be for hours yet, my dear, McLaren'll be at 'ome. There'll be the manager to hinterview, an' the boys to stand drinks for, an' — well, as if you knew the news! McLaren's made a 'it!
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     A — 'it? —
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     Ah, my dear, not bein' in our branch of hart, p'raps you don't know what 'tis to make a 'it?
+     <stage>
+      ( Produces a stumpy black pipe, cleans it, fills it from a tobacco-box on mantel, and smokes, as she talks .)
+     </stage>
+     M'ybe you won't mind my 'avin' a whiff, my dear; it combines wonderful with the other medicine
+     <pb n="41"/>
+     to quiet the 'art; an' bein' McLaren's own 'baccy, 'e caiyn't grumble at the smell! ... Yes, McLaren's made a 'it. 'Twas me 'usband's nephew, — leastways me 'usband's cousin's nephew, as stys with me an' is the comfort of me age — 'im as is right wing man down at the Globe Theayter where McLaren made 'is 'it to-night, as come back and told me. You see McLaren 'e's been twenty years a utility hactor. Wot's that? Wy, wen you're a utility hactor, you plays comic servants in the city for fifteen a week, an' Uncle Tom on the road for twenty-five a week, and 'Amlet, for fun, whenever you gets a chance — an' comes 'ome hon yer huppers! That's wot McLaren's been a-doin', an' 'e hall the time a character hactor fit to kill! Character! Anybody could see it with 'arf a heye, — hanybody but a manager! Managers! Faugh! If managers 'adn't been a set o'bloomin' fools, wouldn't I 'a 'ad my whack at Juliet, any day these forty years? Just because McLaren's got
+     character
+     written all over 'im, featured in the bill — display type — character's the one thing they wouldn't let 'im at!
+     Managers!
+     ... Well, to-night they put on "Fetters of Flesh" — big play — first night — great part, written a-puypus for Algerson, leading comedy of the Meonian Co. — great part! — Gent 'oo's struck with paralysis in the prolouge, while 'e an' another vilyun, 'is pal, is foolin' with some pypers that mix things up for heverybody — mix up love-interest,
+     <pb n="42"/>
+     money-interest, heverythink — see? 'E knows it all, an' wants to straighten it all, an' carnt — bloomin' paralysis — fettered by flesh, — see? Tries to make 'em understand — with one 'and — all 'e's got, — see? Best of 'im stiff — an' one side of 'is face! See? Just in the end, wen the vilyun is 'avin everythink 'is own way, paralyzed party busts fetters o' flesh — see? Takes a big brace — speaks — moves — gives the 'ole damn thing away — gives away his pal — straightens things out — dies! — See! O, the part's a corker! 'Ole play belongs to that part! And to-night — second call — no Algerson. Not in theayter — no — where! Manager wild — tearing! Three overtures. In comes Algerson — full as a tick — dead, howlin', tearin', fool drunk! Braced up for the first night — overdid it — See? Manager wild — raving! "'Oo's his d — d understudy?" says 'e? "Understudy?" 'owls the author. "Understudy go on in the biggest character part written for twenty years — smash my play? Smash
+     me?
+     Not if I" —
+     <stage>
+      ( Imitates violent rage of swearing .)
+     </stage>
+     Manager says, "Send audience 'ome and advertise the Globe shut up on a big first night? Smash
+     me?
+     Not if I" —
+     <stage>
+      ( Imitates worse rage of swearing .)
+     </stage>
+     McLaren, pretty white around the gills — his chance just jumping down his throat: "I've understudied Algerson, sir, an' I think I can play the part." Humble apology to 'ouse — sudden and painful illness of Mr. Algerson — hindulgence
+     <pb n="43"/>
+     hasked for Mr. McLaren — ting-a-ling-a-ling! Curtain hup! Hit went through the bloomin' lot! Fish in water — man where he belonged — McLaren in character work! Three calls hafter the prologue! Five calls hafter the second hact! All 'ell hafter the third hact! Author — McLaren — speech — 'owls — 'andkerchiefs — a 'it! — McLaren's made!
+     That's
+     hall!
+    </p>
+   </sp>
+   <stage>
+    ( Karen has raised herself on her cushions as Mrs. P. proceeds; and as she finishes, falls back against them in hysterical laughter and crying .)
+   </stage>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     O, I'm so glad for him! I'm so glad! I'm so glad! It's so good that there's luck anywhere in the world — for anybody!
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     There ain't much luck traveled your way lately — eh, my dear? The little pictures don't sell — eh?
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     It must have been father's name on the pictures that sold them. You know I painted them all — all they bought, for months before he —
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     Before 'e was "released," as they say.
+     <stage>
+      ( Aside .)
+     </stage>
+     D. T.! An' they won't buy 'em now 'e can't sign 'em? Dear, dear! Times
+     is
+     'ard with you, isn't they, dearie? I've known they was 'ard, an' that was 'ow I 'adn't as much as mentioned that trifle of rent.
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <stage>
+     ( Rises staggeringly .)
+    </stage>
+    <p>
+     O, I know,
+     <pb n="44"/>
+     Mrs. Pennypacker, I know! To-morrow, — perhaps — to-morrow! —
+     <stage>
+      ( She crosses totteringly to chair and falls into it .)
+     </stage>
+     O, how stupid I am! — I can't —
+     <stage>
+      ( Mrs. Pennypacker offers her the whisky glass; she faintly puts it aside .)
+     </stage>
+     Not that! But if there were anything else, — just a crumb — just a swallow —
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <stage>
+     ( Hastens to window sill and takes tin can, bringing it to Karen .)
+    </stage>
+    <p>
+     'Ere you are, my dear — the very thing! Milk! Though why an unmarried — moral — man should 'ave
+     milk
+     —
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <stage>
+     ( Pours out a little tremulously in glass .)
+    </stage>
+    <p>
+     I think — he buys it — for the cat.
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <stage>
+     ( Pulling up her skirts .)
+    </stage>
+    <p>
+     Cat? There ain't no cat!
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     She lives on the roof. I don't think she ever comes in. I hear him coaxing her to, sometimes. He puts out the milk for her.
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     That's McLaren! Character!
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <stage>
+     ( Drinks the milk at first daintily, then with a sudden passionate greediness .)
+    </stage>
+    <p>
+     O, how good milk is! How —
+    </p>
+   </sp>
+   <stage>
+    ( She reaches out half-unconsciously for the can Mrs. P. extends to her. Before she touches it a voice is heard singing stentorianly, but evidently very far below stairs, "Glory, Glory, Hallelujah!" Karen lays down the glass and moves more steadily, though still feebly, toward the door .)
+   </stage>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     O, Mrs. Pennypacker! You'll explain to Mr. McLaren? You'll tell him that I, — that to-morrow, —
+    </p>
+   </sp>
+   <stage>
+    ( She goes out, catching at the door-post as she passes. McLaren's voice sounds more and more loudly in "Glory, Glory, Hallelujah!" as he approaches the landing .)
+   </stage>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     Hexplain! Hexplain! That's heasy said, — but with so much gone from the milk, — an' a trifle from the whisky, — an' McLaren maybe that 'otty from 'avin made 'is 'it —
+    </p>
+   </sp>
+   <stage>
+    ( She agitatedly puts whisky-bottle to her lips as McLaren enters. He wears an ancient theatrical cloak and slouch hat. His arms are full of cans, bottles, bundles and the like. He is still jovially singing. He pauses at sight of Mrs. P. )
+   </stage>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     Your very good health, Mother P.!
+     <stage>
+      ( She endeavors confusedly to put the bottle back in the cupboard, but can't find the door .)
+     </stage>
+     O, don't hurry! Don't hurry! Glenlivat of that quality is its own excuse for consumption!
+    </p>
+   </sp>
+   <stage>
+    ( He puts down bundles, takes off cloak and hat, warms himself at fire, etc., as the scene proceeds .)
+   </stage>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     O, Mr. McLaren! I 'ope as 'ow you won't think it strynge —
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     I give you my word, Madam, I never thought anything strynge in my life — my vowels are not constructed on that principle! Moreover an exposition of sociability hath come upon me, — and I suppose I might as well take it out with you as with the — other — cat! Especially as you haven't her unkind way of rejecting my hospitality; you even accept it — unsolicited — you know!
+     <stage>
+      ( He goes to mantel, takes pipe and opens tobacco-box to fill it .)
+     </stage>
+     Have a pipe-full, Mrs. P.? — Eh? —
+     <stage>
+      ( Looks into jar .)
+     </stage>
+     I should say, have —
+     another
+     — pipe-full?
+     <stage>
+      ( Smokes .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     O, Mr. McLaren, I'm
+     that
+     upset! What with your hamazin' 'it —
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     Oh! The news of my 'it 'as reached'ome already, 'as it? This is fyme!
+     <stage>
+      ( Sits smoking .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <stage>
+     ( Slightly maudlin .)
+    </stage>
+    <p>
+     What with your 'it, and the queer goin's-on of Miss Demar, across the 'all, there —
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <stage>
+     ( Drops his pipe on table .)
+    </stage>
+    <p>
+     Miss Demar?
+     What
+     goings-on?
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     Such a hamazin', hunexpected 'it!
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     Hit be damned! What's been happening to Karen Demar?
+     <stage>
+      ( Rises .)
+     </stage>
+     Woman! Woman! Gather up the fragments of yourself and talk sense! English you can't talk — I don't ask it of you, knowing you came from England! — but sense you
+     <pb n="47"/>
+     can talk, now and then, with an effort! Brace up! Make your effort! What's happened to that little girl across the hall?
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     Starvation's 'appened to 'er — that's wot! An' faintin' away dead as a corpse on that there sofy!
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     God bless that sofa!
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     When I 'eard 'er a-goin' out at ten o'clock of such a tempestrious night as this —
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     Out at ten o'clock? That child? What for? Alone?
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     I says to myself, when a pretty girl who's got no friends nor clothes — nor food — nor fire — nor money — starts out alone at ten o'clock of a tempestrious night, it means, one of two things. Now, she bein' wot she is, one thing it don't mean with Karen Demar — though there's many a gentleman, single
+     and
+     married —
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     I don't want to figure in the papers to-morrow morning other than in my professional capacity — but there are moments when assault and battery —
+     <stage>
+      ( He eyes Mrs. P. vengefully and slowly turns up his cuffs .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     And the other thing was — the river!
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     The river! Good God!
+     <stage>
+      ( Snatches up his hat .)
+     </stage>
+     But you said she came back again — didn't you?
+     <stage>
+      ( He catches Mrs. P. by the shoulders and slightly shakes her .)
+     </stage>
+     You practical exemplification of all the vices! You said so! — didn't you?
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <p>
+     Certain sure I said so!
+     <stage>
+      ( Releases herself gasping .)
+     </stage>
+     Didn't I tell you I brought her to, with your whisky, in this very room? An' a relief it was, I do sy, an' me a-settin' up wytin' for the police to come and tyke me away to identify her drowned body.
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     You — a-wytin' — not following the child, — not, — just — a-wytin' —
+     <stage>
+      ( He deliberately opens door .)
+     </stage>
+     Mrs. Pennypacker, I think your husband's cousin's nephew must be wytin' for you at your domestic hearth!
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <stage>
+     ( Goes bewilderedly toward door .)
+    </stage>
+    <p>
+     Well — upon — my —
+     <stage>
+      ( Looks toward bottle on table .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     Take it, Mrs. Pennypacker.
+     <stage>
+      ( Carries bottle to her .)
+     </stage>
+     Take it with my love and the compliments of the season — take it and depart — O,
+     depart!
+    </p>
+   </sp>
+   <sp who="#mrspennypacker">
+    <speaker>
+     Mrs. P.
+    </speaker>
+    <stage>
+     ( At threshold .)
+    </stage>
+    <p>
+     Well, I cayn't see what
+     you've
+     done for that starvin' girl any more'n me. 'Aven't
+     you
+     just set a-wytin'? Just a-wytin'! —
+     <stage>
+      ( Goes slowly, muttering and shaking her head .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <stage>
+     ( Goes back to table, absently takes up pipe; crosses to fire; leans on mantel .)
+    </stage>
+    <p>
+     Right you are, Pennypacker! We're pennies of a pattern! Wytin'! Yes, that's what I've been doing, — waiting — and that little girl wearing away like a snow-wreath before my eyes, day after day — her dear, blue eyes getting bigger and bigger, and her poor little wrists
+     <pb n="49"/>
+     getting smaller and smaller —
+     starving
+     — and I wallowing in luxury — and having luxury left over for Pennypacker to wallow in! Damn it all! What can I do? What could I ever do? Proud as — as a decent little girl should be; no more take a cent from me than that confounded cat — by the way, that reminds me.
+     <stage>
+      ( Opens garret window and looks for cat .)
+     </stage>
+     Puss! Puss! Kitty! Kitty! Kitty! O, there you are, are you? Won't you come in?
+     Do
+     come in! Perhaps you don't know I've made a hit? Oysters every day after this! Oysters
+     now!
+     <stage>
+      ( Comes back and opens can; holds up oyster .)
+     </stage>
+     Come in and have one? No! Confound you, perhaps you won't come in till I'm a
+     star?
+     Take it then — take several!
+     <stage>
+      ( He throws oysters out one after another; comes back and wipes his hands .)
+     </stage>
+     It's no use! Not even a cat to jubilate with!
+     <stage>
+      ( Takes up pipe again .)
+     </stage>
+     And my hit's made! Who was the man who said he didn't get his Eden Rose till he'd lost his sense of smell? That's
+     me!
+     <stage>
+      ( Smokes gloomily .)
+     </stage>
+     And that Little 'Un freezing to death and starving to death — and I —
+     <stage>
+      ( There is a faint cry and a light fall without .)
+     </stage>
+     Good Lord! What's that? — I thought — if it should be — I suppose I've no business to — Damn propriety!
+    </p>
+   </sp>
+   <stage>
+    ( He rushes out. After a pause he brings Karen in, in his arms, very tenderly. Her hair is loose. She is deathly white. He lays her on the sofa, covers her with the buffalo robe, chafes her hands, etc .)
+   </stage>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     I say, Little 'Un — Just open your eyes a minute, can't you? Just a minute? There's a pulse at her wrist! She isn't dead! She can't be dead! She
+     shan't
+     be dead! Little 'Un! —
+     <stage>
+      ( He rushes to cupboard, and then remembers the whisky is gone; takes flask from pocket .)
+     </stage>
+     So much saved from the Pennypacker!
+     <stage>
+      ( He puts it to her lips .)
+     </stage>
+     Just a drop or two, Little 'Un! There! That's better, isn't it?
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <stage>
+     ( Opening her eyes; faintly .)
+    </stage>
+    <p>
+     Mrs. Pennypacker! —
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     Odor of whisky! Force of association!
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     Mrs. Pennypacker, I — why, I'm in Mr. McLaren's room, still! I thought I went back! — I thought — Mr. McLaren!
+     <stage>
+      ( She struggles to rise .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     Stay where you are!
+     <stage>
+      ( She sinks back .)
+     </stage>
+     Come, now, Little 'Un, don't you see you've got to stay where you are? You can't get up alone, and I'm blamed if I help you. I've helped you to do enough in the suicide line, lately — helped you by looking on and wytin' — I mean waiting.
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <stage>
+     ( Bewildered .)
+    </stage>
+    <p>
+     Mr. McLaren!
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     O, well, I'm rattled, that's a fact; but there's nothing worse the matter with me. I only want you to stay where you are. It's warm; that
+     <pb n="51"/>
+     room I took you from is a refrigerator! Child, you were lying —
+     <stage>
+      ( He stops, choking with emotion .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <stage>
+     ( Faintly .)
+    </stage>
+    <p>
+     Yes — I know.
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     And there's something to eat here. There's a great deal to eat. I had some idea of celebrating — with the cat.
+     <stage>
+      ( Fumbles among packages .)
+     </stage>
+     But the cat didn't see it. There's some wine jelly in that bowl.
+     <stage>
+      ( Hands it to her .)
+     </stage>
+     Eat every last drop of that wine jelly, Little 'Un! Do you hear? Eat that jelly!
+    </p>
+   </sp>
+   <stage>
+    ( She mechanically obeys: and presently eats with mad eagerness. He watches her with growing emotion: and at last turns his back, unable to bear her hunger .)
+   </stage>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <stage>
+     ( She sets down the bowl with a long sigh, and speaks wistfully, after a little pause .)
+    </stage>
+    <p>
+     O, I wish you hadn't done it, Mr. McLaren! Now it's only to do over again — all over again!
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <stage>
+     ( Coming forward .)
+    </stage>
+    <p>
+     What's to do over again?
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     The starving. The freezing. The dying. It was almost done. If you'd left me where I fell, it would have been done, before morning. I knew that, — that's why I didn't go to the river to-night. I started to go to the river; and then I said: "It will come before morning anyway; and it had better come at home,"
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <stage>
+     ( With a sob .)
+    </stage>
+    <p>
+     At
+     home!
+     O, Little 'Un!
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     There's no place in this world for a girl who wants to keep good, and hasn't any one to take care of her — and isn't clever enough to do any work the world wants. I was almost through; why didn't you let me go the rest of the way?
+     <stage>
+      ( Crying softly .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     Because there was somebody to take care of you. Because it isn't going to begin again — Lie still, Little 'Un. I'm going to talk straight talk. If I say anything I oughtn't or do anything I oughtn't you can go away, you know — after you've killed me. Did you know you were engaged to be married? Well, you are; and after you've had a good nap —
+     <stage>
+      ( Tucks the buffalo robe around her .)
+     </stage>
+     and some breakfast, I'm coming back.
+     <stage>
+      ( Begins to put on cloak and take up hat .)
+     </stage>
+     And I'm going to bring a parson and a license, and you're going to sign your checks Karen McLaren before to-day noon.
+     <stage>
+      ( As she tries to rise and speak .)
+     </stage>
+     Hold on! Lie still! I'm not through yet. I'd like to adopt you — I'd
+     rather
+     adopt you — but I can't. The world is full of people — mostly Pennypackers — and it wouldn't go down. But if I marry you, it'll be nobody's business, will it? I've made a hit — you didn't know that, maybe? Wait till the morning papers come out! I've made a hit; and I go with the company to New York to-morrow, to play the biggest character-part the American stage has seen in twenty years, at
+     <pb n="53"/>
+     a salary of several figures. That's settled. Well, then! What's the matter with your going to school? There isn't a Kindergarten department in the country wouldn't be proud of you! What's the matter with your studying Art, — Paris — you know — anywhere? I'll insure my life to-day, — you may be a widow before you've grown up! You needn't be afraid of my bothering you, you know. I made my hit in a character-part — I won't tackle Romeo just yet! You shall be as free as if I'd adopted you; and if you ever, after you're grown up, run across Romeo — why — I'll see you get a decree absolute with alimony! Come now, Little 'Un? It's a bargain? Ah? Do it for charity! Think what a mercy it'll be to a man who hasn't anything in this world but a damned unsocial cat!
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <stage>
+     ( Tremblingly begins to put up her loosened hair .)
+    </stage>
+    <p>
+     Mr. McLaren, I thought, — O I thought you thought I was — a good — woman!
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     Little 'Un! For God's sake!
+     <stage>
+      ( Be wildered .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <stage>
+     ( Rises, steadying herself tremulously against the sofa .)
+    </stage>
+    <p>
+     Could a good woman — could any woman with an honest heart — take home, and shelter, and comfort, and all a woman wants in this world — from a man who only pities her — who does not want her ever to be near him —
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     Pities her? Doesn't want her near him?
+     <pb n="54"/>
+     Little 'Un, I love the ground under your poor blessed worn-out little shoes! Don't want her near me? Little 'Un, I've stood half the night with my face against your door! But — I've no business to tell you such things! I never meant to tell you such things! You're a child! You were born a lady! You'll grow up — a lady! And I — I — Child! I've been a strolling player for twenty years!
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <stage>
+     ( Begins to beat up the pillows .)
+    </stage>
+    <p>
+     Do you think the clergyman will mind so many stairs?
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <p>
+     Little 'Un!
+    </p>
+   </sp>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     You can tell me the rest, you know, now I know the principal thing — You can tell me the rest, bye and bye, — in a year or two, when I've graduated from the Kindergarten.
+    </p>
+   </sp>
+   <stage>
+    ( McL. sits, dropping his face on his arms. Karen goes to the window, and raises the shade .)
+   </stage>
+   <sp who="#karendemar">
+    <speaker>
+     Karen
+     .
+    </speaker>
+    <p>
+     Why, it's dawn — and I do believe there's the cat!
+     <stage>
+      ( Comes down to him .)
+     </stage>
+     Do you know, so many times when I've heard you calling that cat, I've wanted to crawl over the roof and say: "O, please call me home, instead!"
+    </p>
+   </sp>
+   <sp who="#alecmclaren">
+    <speaker>
+     McL.
+    </speaker>
+    <stage>
+     ( Starts up; opening arms .)
+    </stage>
+    <p>
+     Little 'Un, if you say that sort of thing — I — Not now!
+     <stage>
+      ( He takes her hands and kisses them very tenderly; then he leads her to the couch and tucks her in .)
+     </stage>
+     You'll
+     <pb n="55"/>
+     sleep till I come with the parson?
+     <stage>
+      ( Spent and exhausted, she sleeps. Looks toward window .)
+     </stage>
+     Dawn! — and our wedding-day! O, Little 'Un! Little 'Un! God bless you!
+     <stage>
+      ( Goes to door .)
+     </stage>
+    </p>
+   </sp>
+   <stage>
+    ( He buries his face in his bent arm, leaning against the door and sobbing .)
+   </stage>
+  </body>
+  <back>
+   <p>
+    ( Curtain .)
+   </p>
+  </back>
+ </text>
+</TEI>

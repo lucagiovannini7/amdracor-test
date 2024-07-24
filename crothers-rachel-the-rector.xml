@@ -1,0 +1,3151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am380" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Rector
+    </title>
+    <author>
+     Crothers, Rachel
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Internet Archive
+     </name>
+     <idno>
+      https://archive.org/details/rectorplayinonea00crot
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Crothers, Rachel. The rector, a play in one act
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+  <particDesc>
+    <listPerson>
+     <person xml:id="mrherr" sex="MALE">
+      <persName>MR. HERR</persName>
+     </person>
+     <person xml:id="mrslem" sex="FEMALE">
+      <persName>MRS. LEM</persName>
+     </person>
+     <person xml:id="margaret" sex="FEMALE">
+      <persName>MARGARET</persName>
+     </person>
+     <person xml:id="mrsmunsey" sex="FEMALE">
+      <persName>MRS. MUNSEY</persName>
+     </person>
+     <person xml:id="mrslemmingworth" sex="FEMALE">
+      <persName>MRS. LEMMINGWORTH</persName>
+     </person>
+     <person xml:id="janie" sex="FEMALE">
+      <persName>JANIE</persName>
+     </person>
+     <person xml:id="misstrimball" sex="FEMALE">
+      <persName>MISS TRIMBALL</persName>
+     </person>
+     <person xml:id="victoria" sex="FEMALE">
+      <persName>VICTORIA</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      One-act
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1925">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <head>
+    RACHEL CROTHERS
+   </head>
+   <p>
+    Rachel Crothers was born at Bloomington, Illinois, in 1878. We are told that when still in her teens she tried her hand at playwriting. She shortly joined an amateur dramatic club in her home city, and later taught elocution. She then joined a theatrical company and toured for some years. Her earliest plays, among which is "The Rector," were produced when she was an advanved student at a school of acting. Her first play was produced in New York City in 1903. "The Three of Us," one of her first significant plays, was produced in 1906. This was followed by "A Man's World," "He and She," "The Herfords" and "Young Wisdom." Among her best recent plays are "Old Lady 31," "Nice People," "Mary the Third" and "Expressing Willie."
+   </p>
+   <p>
+    Miss Crothers excels in the art of characterization. Like most women damatists she is at her best among the types she knows and understands. Her satirical works are skilful exhibitions of American life and character. "The Rector" is the best of Miss Crothers' short plays and has for several years been a favorite among amateurs.
+   </p>
+   <p>
+    Following is a list of Miss Crothers' published plays:
+   </p>
+   <p>
+    "He and She"; "A Man's World"; "The Three of Us"; "Mary the Third"; "Old Lady 31"; "A Little Journey"; "39 East"; "Nice People"; "The Rector"; "Expressing Willie."
+   </p>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      CHARACTERS
+     </head>
+     <castItem>
+      JOHN HERRESFORD
+     </castItem>
+     <castItem>
+      MARGARET NORTON
+     </castItem>
+     <castItem>
+      VICTORIA KNOX
+     </castItem>
+     <castItem>
+      MRS. LEMMINGWORTH
+     </castItem>
+     <castItem>
+      MRS. MUNSEY
+     </castItem>
+     <castItem>
+      MISS TRIMBALL
+     </castItem>
+     <castItem>
+      JANIE
+     </castItem>
+    </castList>
+   </div>
+   <set>
+    <p>
+     SCENE: Study in a Country parsonage . TIME: The present .
+    </p>
+   </set>
+  </front>
+  <body>
+   <stage>
+    A winter morning . The study in a country parsonage. There is a bay window in flat R., showing the yard with fence and trees covered with snow . The door at L., in flat, opens into a narrow hall — off of which the street door opens . A door up left opens into the dining room, and one at R., into the Rector's sleeping room . A large shabby desk is placed sidewise in the window with a rickety revolving chair before it . The sofa and chairs, awkward and uncomfortable, are covered with horse-hair. There is an oval shaped marble topped table at L. C., with three chairs about it . The table and several chairs are heaped with newspapers and books. The desk is strewn with writing materials, letters, books, etc. There is a half dead fire in the small fireplace down L. — and the general effect is shabby, neglected and desolate . It is snowing without and as the characters enter the snow is seen on their clothing . JANIE is the Rector's housemaid. Her little sunny face smiles upon him and the friends of whom she approves, but frowns with open displeasure upon those she suspects of designs upon the Rector and his household . She wears a neat red calico dress, an apron much patched, and her hair, brushed as tightly back as possible, is braided and twisted into a large knot from the middle of which dangles a shoestring. On her forehead one small curl paper shows a small desire for beauty and improvement . As the curtain rises she comes in from the hall, sniffing and shivering with the cold, with a bunch of letters in her hands which she examines curiously — then turning suddenly she rushes back into the hall, calling loudly from the street door .
+   </stage>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <p>
+     Here; here! this isn't for us. What? No — Hilborn — Mrs. Hilborn. Oh! I know — she's visitin' the Smiths. Just come yesterday. She's not so much either if she is from New York. I saw 'er. What? Yes — make good sleighin'. Bur — r —
+     <stage>
+      ( Slamming the door and coming back into the room. She goes to the Rector's desk and examines the letters in a way which is curious but not sly. Her walk, her manner, her speech, are uncouth but lovable — utterly without training, and yet with an air of self-confidence that makes her always mistress of the situation .)
+     </stage>
+     Stupid thing! Everything that begins with a "H" he brings here.
+     <stage>
+      ( Looking at letters again )
+     </stage>
+     Um — um — I know that handwriting all right, all right. Miss Trimball again. 'Twon't do you any good, missy, writin' letters. If you think our dominie 'ud ever
+     look
+     at you. Hum!
+     I
+     know a thing 'er two.
+     <stage>
+      ( Dusting the desk )
+     </stage>
+     There! he didn't mail these letters. Oh, such a man!
+     <stage>
+      ( Bell rings without .)
+     </stage>
+     Now, who's that? What's going on to-day?
+     <stage>
+      ( She picks up a tablet of engagements, reads .)
+     </stage>
+     Wednesday, ten
+     <pb n="84"/>
+     a.m., committee for new carpet, Miss Norton, Miss Knox, Miss Trimball, Hump! much
+     she
+     knows about carpet.
+     <stage>
+      ( Reads .)
+     </stage>
+     "Mrs. Munsey,"
+     and
+     "Mrs. Lemmingworth." Lord save us!
+     <stage>
+      ( Bell rings again .)
+     </stage>
+     Now, you can just wait, whoever you are — it won't hurt you.
+     <stage>
+      ( She gives a final rub to a chair, hides the dust cloth behind her back, and goes into the hall. Sound of outer door .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrslemmingworth">
+    <speaker>
+     MRS. LEMMINGWORTH.
+    </speaker>
+    <stage>
+     ( Without .)
+    </stage>
+    <p>
+     Good morning, good morning, Janie. I'll just leave my rubbers and umbrella right here in the hall. Mind they don't get mixed with anybody else's.
+     <stage>
+      ( Coming in .)
+     </stage>
+     Mr. Herresford not in?
+     <stage>
+      (MRS. LEMMINGWORTH speaks in a loud voice; her manner is dictatorial; her dress severe and old fashioned .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <p>
+     No'p.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     I came a little early: I wish to speak to him on a little matter of business before the others arrive. Will he — has he — been out long?
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <stage>
+     ( Going on with her dusting .)
+    </stage>
+    <p>
+     Oh! he'll be back in
+     time
+     .
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <stage>
+     ( Aside .)
+    </stage>
+    <p>
+     Impudent thing! I wouldn't have her in my house a minute.
+     <stage>
+      ( To JANIE.)
+     </stage>
+     You're a little late with your dusting, aren't you?
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <p>
+     Oh, I don't know!
+     <stage>
+      ( Shaking the dust cloth .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Good gracious, child! what do you mean? Don't you know better than to shake a rag in the house? That comes of not having a woman in the house. Poor man!
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <p>
+     "Poor man!" You needn't worry about
+     him. He's
+     all right! He won't have a woman here till he gets good an' ready, an' then it 'll be the
+     right
+     one. I can tell you
+     those
+     .
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <stage>
+     ( Aside .)
+    </stage>
+    <p>
+     Now what does she mean by that?
+     <stage>
+      ( To JANIE.)
+     </stage>
+     By the way — has he — has the — has he —
+     <stage>
+      ( Seeing the Rector as he passes the window .)
+     </stage>
+     Here he
+     <pb n="85"/>
+     is now.
+     <stage>
+      ( Rising .)
+     </stage>
+     I just wanted to ask, has the mail come yet this morning?
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <stage>
+     ( At hall door .)
+    </stage>
+    <p>
+     Of course.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Well, has he had time to read it?
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <p>
+     No, he hasn't!
+     <stage>
+      ( Bell rings .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Wait a minute, just let me step into the parlor while he reads it, and then you can call me when he has finished.
+     <stage>
+      ( She hurries into the hall .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <p>
+     Now what does she mean by that?
+     <stage>
+      ( She goes into hall to open outer door .) (MR. HERRESFORD whistles as he passes the bay window, and continues to do so softly as he enters. Taking off his gloves, coat and hat, he gives them to JANIE, who stands waiting for them . MR. HERRESFORD wears the clerical dress. He is thirty-two years old. Boyish and keenly alive to the happy side of the world — with a serious purpose, a hidden strength and a patient kindliness and tolerance .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Thank you, Janie. Is anyone here? I have an uncomfortable feeling that I have forgotten something.
+     <stage>
+      ( Going to desk and taking up tablet .)
+     </stage>
+     Why, of course, the carpet committee at ten.
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <stage>
+     ( Aside .)
+    </stage>
+    <p>
+     No wonder he felt uncomfortable.
+     <stage>
+      ( To MR. HERRESFORD.)
+     </stage>
+     Mrs. Lemmingworth is here, sir.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Is she?
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <p>
+     In the parlor. She's waitin' for you to read your mail.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     What?
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <p>
+     That's all I know. She said she didn't want to disturb you, and I was to call her when you are through.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Laughing .)
+    </stage>
+    <p>
+     Well, that's very kind of Mrs. Lemmingworth, I'm sure.
+     <stage>
+      ( He sits at desk and takes mail. Exit JANIE L.)
+     </stage>
+     So little Hilda Martin
+     <stage>
+      ( Smiling as he reads .)
+     </stage>
+     is going to have a wedding.
+     <stage>
+      ( Reading another letter .)
+     </stage>
+     Oh! and a funeral for someone else. So runs the world away.
+     <stage>
+      ( Frowning as he reads another letter .)
+     </stage>
+     Why does she write when she's coming anyway? Isn't she?
+     <stage>
+      ( Taking up tablet .)
+     </stage>
+     Yes, here she is.
+     <stage>
+      ( Reads .)
+     </stage>
+     "Just a line to tell you that you may depend upon my help and sympathy in the trying decision about the carpet. I shall be there at ten. Your every ready and willing friend, Aurelia Trimball."
+     <stage>
+      ( With a sigh and a smile he tears the letter and drops it into the basket .)
+     </stage>
+     What atrocious writing.
+     <stage>
+      ( Taking up another letter .)
+     </stage>
+     What? Oh, it can't be! It must be a joke. No it's too insulting for that. Oh, I —
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <stage>
+     ( Re-entering .)
+    </stage>
+    <p>
+     Shall I bring her in now?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     No! What? Oh, I suppose so.
+     <stage>
+      ( He crushes letter, then smooths it out and puts it in drawer, which he locks .)
+     </stage>
+     Wait a minute. Bring her in and say that I'll come in a minute.
+    </p>
+   </sp>
+   <stage>
+    ( Exit MR. HERRESFORD at R.)
+   </stage>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <p>
+     Now, what was that? Never saw him look so thunderin' mad in my life. Wonder why he locked it up.
+     <stage>
+      ( Going to hall door and calling .)
+     </stage>
+     You can come in now.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <stage>
+     ( Entering .)
+    </stage>
+    <p>
+     Good morn —
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <p>
+     He'll be here in a minute.
+     <stage>
+      ( Aside as she goes out .)
+     </stage>
+     She's too nosey.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <stage>
+     ( Sitting R. of table L. C.)
+    </stage>
+    <p>
+     I wonder — I hope I — Oh! I shall be so glad when everything is settled and running smoothly. The man doesn't know what's best for him, of course, and it's my duty to — Oh, good morning, Mr. Herresford.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Entering .)
+    </stage>
+    <p>
+     Good morning, Mrs. Lemmingworth. How are you this morning?
+     <stage>
+      ( Shaking hands with her .)
+     </stage>
+     Ready for work?
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Oh dear, yes! Dear, dear, yes! I've made some notes on the question, and I've brought some samples. I went in town yesterday, and I just made it a point to look at carpets too, and get an idea of color and design and durability; so that I could report and help things along. Here they are.
+     <stage>
+      ( Taking squares of carpet out of the black silk bag which she carries .)
+     </stage>
+     Now, you know — but of course you
+     don't
+     know, how could you, being a man, and alone at that — but it
+     is
+     a fact that
+     red
+     , in the long run, is more lasting and satisfactory on the whole than any other thing in the carpet line. Now, a good housekeeper knows the important thing — there it is again, a good housekeeper! What do
+     you
+     know about good housekeepers? And by the way, my dear boy, that reminds me. You know I look upon you very much as a mother would; for I know how lonely and helpless you are, and I'm going to speak from my heart. I know it isn't always possible for you to know just what is best for you, and how you stand in the community. Now I — I speak for your own good, you know, — I have heard of late many complaints, because you are so young
+     and
+     unmarried.
+     <stage>
+      (MR. HERRESFORD walks away quickly, trying to conceal his irritation .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     My dear Madam —
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Now, you know, my boy, there is nothing so helpful to a church and its pastor as a good helpful wife. Ahem! Now, there is
+     one
+     young woman in your congregation who will make you a
+     good
+     wife.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     I can't listen to this.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <stage>
+     ( Drawing her chair forward and hurrying on breathlessly .)
+    </stage>
+    <p>
+     A noble wife, pious, discreet, and economical.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Mrs. Lemmingworth, I beg —
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     We
+     all think
+     so. It's the only thing necessary to make your success here complete. You must know who I mean of course.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Mrs. Lemmingworth, you don't realize what you are saying.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Miss Trimball, of course.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Mrs. Lemmingworth, think of the lady!
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     I
+     am
+     thinking of her — she's —
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <stage>
+     ( Throwing open the hall door .)
+    </stage>
+    <p>
+     Miss Trimball!
+    </p>
+   </sp>
+   <stage>
+    (MISS TRIMBALL enters. She is tall and thin and has a cold. Her dress suggests a little attempt at being in the fashion. She speaks in a high voice and titters constantly. One toe is turned in slightly. She carries a small basket covered with a napkin .)
+   </stage>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL
+    </speaker>
+    <stage>
+     ( Coughing and wiping her nose .)
+    </stage>
+    <p>
+     Oh, good morning, Mrs. Lemmingworth, am I late? Good morning, Mr. Herresford.
+     <stage>
+      ( Offering her hand awkwardly .)
+     </stage>
+     I've brought you some fresh doughnuts. I thought they'd be nice to munch on while you're writing your sermons.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <stage>
+     ( With emphasis .)
+    </stage>
+    <p>
+     A good idea!
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( Giving the basket to JANIE.)
+    </stage>
+    <p>
+     Keep them in a crock.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     And put a damp cloth over them.
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <stage>
+     ( As she marches out .)
+    </stage>
+    <p>
+     Oh! we've had doughnuts before.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( Seeing the samples of carpet .)
+    </stage>
+    <p>
+     Oh, how beautiful! You have some samples. Now isn't that just like Mrs. Lemmingworth, Mr. Herresford? So thoughtful.
+     <stage>
+      ( She crosses complacently to the sofa and sits with, one foot persistently turned in .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     I was just telling Mr. Herresford that all good housekeepers consider
+     red
+     the best investment in a carpet.
+     <stage>
+      ( The door bell rings .)
+     </stage>
+     Now, you know what good housekeeping is,
+     don't
+     you, Miss Trimball?
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( Tittering and looking at the ends of her shabby gloves .)
+    </stage>
+    <p>
+     Oh, Mrs. Lemmingworth, how can you! Poor little me. Do you really think I do?
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <stage>
+     ( Who has opened the street door, now appears with a broad smile of approval as she announces .)
+    </stage>
+    <p>
+     It's Miss Margaret.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Going forward eagerly to greet MARGARET.)
+    </stage>
+    <p>
+     Good morning, Miss Margaret. It's awfully good of you to come out in this storm, and really it isn't necessary. It's snowing quite heavily, isn't it?
+     <stage>
+      (MARGARET has the glow of health in her cheeks and a smile of kindness and strength in her eyes. Her gown is simple and becoming, and she brings with her fresh air and confidence .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Brushing the snow off her coat .)
+    </stage>
+    <p>
+     Oh, the snow is glorious! and don't tell me I'm not necessary, that isn't nice. Good morning, Mrs. Lemmingworth. Good morning, Miss Trimball. No, thank you, Mr. Herresford, I won't take off my coat, I will just throw it back. Um, perhaps I had better. It does seem a little warm here after my walk.
+     <stage>
+      (MRS. LEMMINGWORTH sniffs significantly and exchanges glances with MISS TRIMBALL, as MR. HERRESFORD takes off MARGARET'S coat and places it carefully over the back of her chair .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( As she takes off her gloves .)
+    </stage>
+    <p>
+     I pulled little Willie Green most of the way on his sled. You never
+     saw
+     such a happy child. He scarcely ever gets out you know. He can hardly walk at all now. I saw him in the yard trying to make snowballs and I asked him if he didn't want a ride; then I got the grocery boy to take him back again. He actually had a little color in his face.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Humph! I should think so — probably half frozen. That trifling careless mother of his never keeps him half dressed.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Oh! don't say that, Mrs. Lemmingworth. Poor woman, she's so busy sewing for other people she never has time to do anything for him. A shoemaker's children, you know —
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( A little vaguely .)
+    </stage>
+    <p>
+     Charity begins at
+     home
+     .
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Couldn't something be done for the little fellow? Couldn't his lameness be cured, or helped at least?
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Quickly .)
+    </stage>
+    <p>
+     Why, I think so. I was just going to ask at the aid society to-morrow if we couldn't possibly raise money enough to —
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Pshaw! that's out of the question. The aid society has more than it can stand up under,
+     now
+     .
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( Trying to be positive .)
+    </stage>
+    <p>
+     Yes, I think so, too.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Besides I don't think she's a member of our church.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Oh, yes, she is.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <p>
+     But she never comes.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     I suppose she's too worn out to go when Sunday comes.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     That's no excuse.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Well, what if she isn't a member of our church? Aren't we supposed to help everybody we can?
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     We've got to draw the line some place — and our church must help its
+     own
+     members.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Quietly .)
+    </stage>
+    <p>
+     "Our church," Mrs. Lemmingworth? What
+     is
+     "our" church?
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Why,
+     the
+     church —
+     our
+     church. What do
+     you
+     think the church is?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( With a far-away look in his face .)
+    </stage>
+    <p>
+     I think it's the hand of God reaching to earth. We
+     ought
+     to be the fingers, touching and blessing all we can. What are we without love, Mrs. Lemmingworth, universal love?
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( With a mist of tears in her eyes .)
+    </stage>
+    <p>
+     It all seems so simple if we look at it that way.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Going on — half to himself .)
+    </stage>
+    <p>
+     Kindness, to help — help. Kindness — Love.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( Speaking quickly in a high voice .)
+    </stage>
+    <p>
+     Yes,
+     I
+     think love is the greatest thing in the world. Have you ever read the essay, Mr. Herresford, "Love is the greatest thing in the world"? I'll lend it to you, if you haven't. But
+     I
+     think charity begins at home.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Laughing .)
+    </stage>
+    <p>
+     If you keep on saying that, Miss Trimball, you may find a place that it fits. Oh, what beautiful samples!
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Who has taken out his note-book .)
+    </stage>
+    <p>
+     Did
+     <pb n="91"/>
+     you say — Oh! I beg your pardon —
+     <stage>
+      ( realizing he has interrupted .)
+     </stage>
+     Did you say — is it the third house from the corner, Miss Margaret?
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     What? Oh, no, the second — the little brown one with the picket fence around it, you know.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Writing .)
+    </stage>
+    <p>
+     Yes, I know.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Now, what beautiful samples of carpet. Now, isn't this nice. How's the cold, Miss Trimball? We missed your solo, Sunday, awfully.
+     <stage>
+      (MARGARET smiles brightly at MISS TRIMBALL who titters in spite of MRS. LEMMINGWORTH'S frown .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <p>
+     Oh, thank you. I really ought not to have come out to-day but I never fail in my duty.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     You set us all a beautiful example, I'm sure.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Mrs. Munsey is late, of
+     course
+     . I think we need not wait any longer for her.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Oh, better give her a few minutes' grace, hadn't we? The snow, you know, makes it hard walking.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Very small things are hard for some people. Here's Miss Trimball oughtn't to be out of bed, yet
+     she
+     didn't find it hard to come.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( Coughing violently .)
+    </stage>
+    <p>
+     Oh, Mrs. Lemmingworth, how can you! I'm sure it's only a pleasure to do my duty.
+     <stage>
+      (JANIE crosses from the dining-room into the hall with a broom, and is seen sweeping the snow tracks in the hall .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Laughing .)
+    </stage>
+    <p>
+     There's someone else too, isn't there, Mr. Herresford? Victoria, isn't she on the committee?
+     <stage>
+      (MARGARET watches the instant disapproval which comes into MRS. LEMMINGWORTH'S face .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Oh yes, to be sure. I believe she is.
+     <stage>
+      ( Referring to his tablet on his desk .)
+     </stage>
+     Yes, yes, here she is.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     We must wait for Victoria. We can't get on without her, can we?
+     <stage>
+      ( Still laughing .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <stage>
+     ( Bristling .)
+    </stage>
+    <p>
+     Oh, nonsense! That
+     is
+     a farce
+     <pb n="92"/>
+     — waiting for Victoria Knox. I have everything all settled, and it will only take a few minutes.
+     <stage>
+      ( The bell rings , MARGARET and MR. HERRESFORD both start toward the door .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#margaret #mrherr">
+    <speaker>
+     MARGARET
+     and
+     HERR.
+    </speaker>
+    <p>
+     There, there she is now.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <stage>
+     ( Without — stamping her feet, )
+    </stage>
+    <p>
+     Oh dear, such a time! I do hope I haven't got my feet wet.
+     <stage>
+      ( She appears at the hall door . JANIE brushes the snow from her feet as MRS. MUNSEY shakes her skirts .)
+     </stage>
+     Oh dear! do you think my feet are wet, Janie?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Come right in, Mrs. Munsey. Come over to the fire and warm those feet. We were waiting for you and talking about you.
+     <stage>
+      (MRS. MUNSEY is a pretty widow in black with coquettish touches of white. She rolls her big baby blue eyes and smiles constantly, as she speaks in a gushing manner — with over-emphasized words .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <stage>
+     ( Establishing herself in the armchair by the fire, as MR. HERRESFORD kneels to take off her rubbers .)
+    </stage>
+    <p>
+     Oh, you
+     dear
+     Mr. Herresford! Did you hear that, ladies? Good morning, everybody. Don't let
+     me
+     interrupt you. I'm so sorry I'm late. Just let me sit over here, and don't mind
+     me
+     — go right on. Oh,
+     thank
+     you,
+     dear
+     Mr. Herresford, you're so kind. Do you know —
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <stage>
+     ( Knocking on the table .)
+    </stage>
+    <p>
+     Then, ladies, if you will kindly come to order.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <stage>
+     ( Still smiling at MR. HERRESFORD.)
+    </stage>
+    <p>
+     Do you know the snow isn't shoveled at all on our street?
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <stage>
+     ( Knocking again .)
+    </stage>
+    <p>
+     If you will
+     kindly
+     come to order.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     I beg your pardon, Mrs. Lemmingworth.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     Oh, go right
+     on
+     , of course. Don't mind
+     me
+     . I'm late because I had to stop at the dressmaker's, and she took so long to fit the waist. Mrs. Green is always
+     so
+     particular about
+     my
+     dresses. She says I —
+     <pb n="93"/>
+     Oh, what do you think, she's making Hilda Martin's wedding dress, and it's —
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( Starting up and crossing to MRS. MUNSEY.)
+    </stage>
+    <p>
+     Oh! is Mrs. Green making Hilda Martin's wedding dress? What is it? Why
+     I
+     never knew Hilda had a dressmaker make anything.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Humph! she never
+     did
+     . Heaven knows where she'll get the money to pay for this.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Oh, but this is her wedding dress. Of course she'd have to have that made.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <p>
+     What is it? What is it made out of, Mrs. Munsey?
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     Why, it's blue cashmere. Now, of course,
+     some
+     people might like it, but it wouldn't be
+     my
+     taste. Now, when I was married —
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <p>
+     Is it light blue or dark blue? How is it made?
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     I'm sure Hilda would look very pretty in light blue — she's so fair.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     I don't approve of her having any such nonsense about a wedding when she —
+     <stage>
+      ( The ladies discuss the possibilities of HILDA'S wedding dress in a most animated way — all speaking at once, and no one listening to anyone else — much to MR. HERRESFORD'S amusement, who picks up a book from his desk and waits for peace .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <stage>
+     ( Waving her hands in the air .)
+    </stage>
+    <p>
+     Ladies, ladies — if you will kindly come to order.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Laughing .)
+    </stage>
+    <p>
+     Yes, we must get to work.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     Yes, of course. Don't mind
+     me
+     .
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( As she goes back to the sofa .)
+    </stage>
+    <p>
+     I think blue is funny though.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <stage>
+     ( Seating herself at the head of the tab l e .)
+    </stage>
+    <p>
+     As the chairman of the committee, I have deemed it wise to obtain these samples of the material which may be procured for the price within our limit. Now, the short aisle, leading across the front of the church at the left, is never seen, and almost never used; and in
+     <pb n="94"/>
+     considering the matter I have decided that it would be a useless and wasteful expenditure to put carpet on that.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Oh! but let's do it well — now that we really can have a new carpet at last.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Ahem! we take it for granted, of course, that this sum intrusted to us will be expended to the best advantage, and not uselessly or recklessly.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Yes, but just that little strip won't be much more, and it will spoil it all if we don't have it.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <p>
+     I agree with Mrs. Lemmingworth — we mustn't waste the money.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     What do you think of this, Mrs. Munsey?
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <stage>
+     ( Who has risen to look at herself in the mirror over the mantel .)
+    </stage>
+    <p>
+     What? Oh! I — why, don't ask
+     me
+     . I don't know anything about business, you know. Whatever you say, of course, Mr. Herresford, will be all right.
+     <stage>
+      (MARGARET and MR. HERRESFORD laugh — the others frown .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     This is not a matter to be lightly considered — on the contrary it is a matter of
+     very
+     grave importance.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     Oh, I
+     know
+     it is.
+     Do
+     forgive me, my
+     dear
+     Mrs. Lemmingworth. But, you know, I really — you
+     will
+     excuse me,
+     won't
+     you, dear?
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Am I to consider Mrs. Munsey's out of the matter, then?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Oh, no, no! You must help us out, you know, Mrs. Munsey.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Oh, she will, of course.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     If we're going to vote about it, we'll have to wait for Miss —
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     For Victoria, yes, to be sure.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     That is unnecessary, we have a majority here. We will now put the question to vote. Those in favor will signify by saying "aye."
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     Aye, for what? Which is which?
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <p>
+     Oh dear!
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Ahem! I will state the question once more, those in favor of carpeting the side aisle —
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <stage>
+     ( Entering from the dining-room .)
+    </stage>
+    <p>
+     Excuse me, Mr. Herresford, Maria wants to know if you forgot to get the butter.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Why, Janie, I —
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Smiling .)
+    </stage>
+    <p>
+     Oh, you know you did, Mr. Herresford.
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <p>
+     I'll get it and be back in a jiffy.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <stage>
+     ( Rising .)
+    </stage>
+    <p>
+     Why, you poor dear
+     man!
+     Haven't you any
+     butter?
+     We have lovely butter, and I'll send you some as soon as I go home.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     You don't mean to tell me you don't have butter from one place regular. Why, old John Watts has been bringing me butter and fresh eggs for the last ten years every Saturday morning. But what can you expect?
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( Rising excitedly and going to MR. HERRESFORD.)
+    </stage>
+    <p>
+     I've churned myself this morning and I'll go right home and fetch you some.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Ladies, I beg. Sit
+     down
+     , Miss Trimball, I couldn't think of letting you. Janie, get some — get
+     any
+     thing.
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <p>
+     Will I go to Hipsley's or Crocker's?
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Still laughing .)
+    </stage>
+    <p>
+     Mr. Hipsley has some nice fresh butter just in. I stopped there as I came along.
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <stage>
+     ( From the dining-room .)
+    </stage>
+    <p>
+     Maria, I'm going to get the butter. If the front door bell rings while I'm gone you'll have to go.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     I will state the question once
+     more
+     — those in favor of carpeting the side aisle at a needless expense, will signify it by saying "Aye."
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Just a moment, please. I believe I'd better not vote. It really isn't a matter which concerns me at all, you know.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     Oh
+     , Mr. Herresford!
+     No
+     fair! How will we know how to vote?
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Yes, of course, you mustn't desert us.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     I must ask for seriousness and respect.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     I beg your pardon, Mrs. Lemmingworth, I'm sure. I'm in favor of carpeting then.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     So am I! So am I!
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Here too!
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     This is non-parliamentary, and I consider the decisions are given without due consideration.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <p>
+     I vote
+     against
+     it.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     That is useless now, You are quite over-weighed, of course. However, now, if I may be allowed a
+     word of suggestion
+     on the matter, I present this as being the best thing in the market for the price.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Leaning forward to take the sample .)
+    </stage>
+    <p>
+     Oh, that's lovely, Mrs. Lemmingworth! Isn't it, Mrs. Munsey?
+     <stage>
+      ( Aside to MRS. MUNSEY.)
+     </stage>
+     Do say yes, and let it go without a fuss. This will do as well as anything.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     Oh, beautiful! Mrs. Lemmingworth has such good taste, hasn't she?
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Why not leave the entire thing in Mrs. Lemmingworth's hands, now? We know it will be
+     well
+     done, and ask Miss Trimball to be a committee of one for advice and consultation.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     By all means. Don't refuse us, Mrs. Lemmingworth.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     Well, I —
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     No, we won't take "no" for an answer. Make her say "yes," Miss Trimball.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( Simpering .)
+    </stage>
+    <p>
+     Your duty, you know, Mrs. Lemmingworth.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     Yes, Mrs. Lemmingworth, remember your duty.
+     <stage>
+      ( Turning away her head to hide her smiles .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     My duty! Yes, it is my duty alone which makes me consent — not that I like the position of —
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Oh, no, we understand. It's very unselfish and kind of you to do it for us, I'm sure. Now, that's all, isn't it, this morning?
+     <stage>
+      ( Rising .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     Oh, is that all?
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( As the others rise .)
+    </stage>
+    <p>
+     May I speak to you a moment, Mr. Herresford?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Certainly.
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <stage>
+     ( Drawing the others aside .)
+    </stage>
+    <p>
+     Look at this closely and you'll see what a really superior thing it is.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <p>
+     I want to ask you about my solo next Sunday. I want to sing something fitting and sympathetic with your sermon. I can sing so much better when I know I'm in harmony with your thoughts.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     I see. Well, anything simple and sweet will do. Your songs are always pleasing, Miss Trimball. We all appreciate them very much.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <p>
+     Oh, do you? You are so good! I try
+     so
+     hard to please you.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Well, I must hurry. Good-bye, good-bye, everybody.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Quickly .)
+    </stage>
+    <p>
+     Oh! are you going?
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Yes, good morning.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Good morning.
+     <stage>
+      ( He indicates by pantomime that MARGARET is to wait in the parlor until the others are gone .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( Calling MR. HERRESFORD back as MARGARET goes into the hall .)
+    </stage>
+    <p>
+     Then you can't suggest any special thing?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     No, I believe not.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <p>
+     You couldn't let me
+     read
+     the sermon, so I could be sure of selecting the right thing?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Embarrassed and annoyed, but trying to be kind .)
+    </stage>
+    <p>
+     Oh — I — I'm afraid not — I really haven't it in shape, you know.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <stage>
+     ( Who has been adjusting her bonnet at the mirror .)
+    </stage>
+    <p>
+     Why, has Margaret gone? I must go too, then. Good-bye. Good-bye, my
+     dear
+     Mr. Herresford, you've been
+     so
+     kind.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Taking her hand .)
+    </stage>
+    <p>
+     You're sure you're quite warm now, Mrs. Munsey?
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     Oh, quite. Dear me! Now, isn't that just like me? I've forgotten my rubbers.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Let me get them for you. Allow me, if you'll sit down.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     Oh! thank you,
+     thank
+     you. You're
+     so
+     good. It does seem nice to have a man do things for you. Mother says I'm spoiled. Dickie spoiled me. Poor dear Dick!
+     <stage>
+      ( Putting her handkerchief to her eyes .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Rising .)
+    </stage>
+    <p>
+     There.
+    </p>
+   </sp>
+   <sp who="#mrsmunsey">
+    <speaker>
+     MRS. MUNSEY.
+    </speaker>
+    <p>
+     Oh,
+     thank
+     you! This heel doesn't seem quite on.
+     <stage>
+      (MR. HERRESFORD kneels again .)
+     </stage>
+     The snow makes them stick so. Oh!
+     <stage>
+      ( Losing her balance and putting her hand on MR. HERRESFORD'S shoulder .)
+     </stage>
+     Mother says I ought to wear arctics but I can't
+     bear
+     them. They make your feet look so big, don't they, Miss Trimball?
+     <stage>
+      ( To MR. HERR.)
+     </stage>
+     Don't forget you're coming to have a cup of tea with mother and me Tuesday at five, you know. We shall be so heartbroken if you do. Mother is
+     so
+     fond of you, you know. And dear me, dear me, how dreadful! I've forgotten, why, I never could have gone home without it — I've forgotten to give you mother's
+     love
+     , and she sent it
+     so
+     carefully. Do forgive me. I'm
+     so
+     sorry. I
+     meant
+     to of course. But I haven't much of a
+     mind
+     , you know, Mr. Herresford. Good morning,
+     good
+     morning.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Following MRS. MUNSEY to the door .)
+    </stage>
+    <p>
+     Good morning.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <stage>
+     ( Calling him back again .)
+    </stage>
+    <p>
+     You will know whatever I sing, my heart is in it, won't you, Mr. Herresford?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     I'm sure your heart is always in your work, Miss Trimball.
+     <stage>
+      (MISS TRIMBALL sighs conspicuously and goes up to MRS. LEMMINGWORTH, who can be seen struggling with her rubbers in the hall .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <p>
+     Come, Mrs. Lemmingworth, are you ready?
+    </p>
+   </sp>
+   <sp who="#mrslem">
+    <speaker>
+     MRS. LEM.
+    </speaker>
+    <p>
+     I'm just putting on my rubbers. There now! Come on. Good-bye. I'll do the best I can in the matter.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     I'm sure you will.
+    </p>
+   </sp>
+   <sp who="#misstrimball">
+    <speaker>
+     MISS TRIMBALL.
+    </speaker>
+    <p>
+     There isn't anything I can do for you? Anyone sick I can visit?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Oh, nothing, nothing, thank you. Go home and take care of yourself. Good morning, ladies. Thank you very much for coming.
+     <stage>
+      ( As the outer door closes with a bang , MR. HERRESFORD comes back into room and listens . MARGARET comes cautiously across the hall .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( At door .)
+    </stage>
+    <p>
+     Are they all gone?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     All gone. I always feel like a conspirator when I'm with you.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Laughing .)
+    </stage>
+    <p>
+     That's rather a doubtful speech.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Because you're the only one in the whole place who understands
+     at all
+     .
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Still laughing and turning away nervously .)
+    </stage>
+    <p>
+     Poor Mrs. Lemmingworth. That was rather a master stroke of yours.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Of
+     yours
+     , you mean. I'm always a coward where Mrs. Lemmingworth is concerned. I've given up long ago.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     But we got the side aisle, didn't we?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Yes, we got the side aisle — rather you did.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     I notice you never give up anything but — something you don't want, anyway.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Walking away, with a quick sigh .)
+    </stage>
+    <p>
+     I don't know about that.
+     <stage>
+      ( Turning back to her .)
+     </stage>
+     Margaret,
+     <pb n="100"/>
+     Miss Margaret, you're very wise — if you're not gray-headed. Sit down. I so often wonder where it all came from — your strength and judgment. Every one turns to you intuitively for guidance, and I also wonder what you are going to do with it all; if you don't sometimes rebel at this little narrow life and want something freer, broader, where you can
+     use
+     that beautiful mind of yours.
+     <stage>
+      (MARGARET looks at him quickly then away .)
+     </stage>
+     And I want to ask you something which I want you to answer very honestly. Do you think I had better go away?
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( After a pause .)
+    </stage>
+    <p>
+     What do you mean?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Haven't I made a mistake by coming at all? Haven't I failed dismally? There's something wrong — somewhere.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Recovering her composure .)
+    </stage>
+    <p>
+     Yes, there
+     is
+     something wrong.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Eagerly .)
+    </stage>
+    <p>
+     You feel it?
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     But not with you. If you think the life seems little to me — what must it be for you? I've seen it all from the first — the prejudice because you did come from another world — the petty annoyances that have come to you in a thousand ways. I know there have been times when you have wanted to scream out from the house tops, "Let me alone! let me alone!" But you have gone on, bravely and patiently until — no, don't say you have failed — it isn't that: they
+     do
+     love you and believe in you.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     It puts new life into me to hear you say so. Are you sure — are you sure?
+     <stage>
+      ( Going to her .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Raising her eyes to him .)
+    </stage>
+    <p>
+     I am
+     sure
+     .
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Thank you. And now — I — I'm going to show you something.
+     <stage>
+      ( He takes the letter from the desk and gives it to MARGARET who reads it slowly aloud .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Reading .)
+    </stage>
+    <p>
+     "A silent friend warns you — you
+     must
+     marry Aurelia Trimball."
+     <stage>
+      ( After a pause .)
+     </stage>
+     <pb n="101"/>
+     I can't believe it! I can't
+     believe
+     it! Oh! I'm so sorry for you, and so ashamed — for
+     us
+     .
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Taking the letter and tearing it up .)
+    </stage>
+    <p>
+     Never mind. Don't let it trouble you. Funny, isn't it?
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Funny? It's disgraceful! What are you going to do?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     That's just it. That's what I want to ask you. Shall I go away, or shall I stay — and ask — someone
+     else
+     to be my wife?
+     <stage>
+      (MARGARET moves away .)
+     </stage>
+     Don't think me a coward. It isn't myself — I'm thinking of
+     her;
+     and whether they'd make her miserable; and whether she'd be brave enough to face it — even if she
+     cared
+     for me.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Slowly .)
+    </stage>
+    <p>
+     Why, of course, she would — if she cared.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Even if she were — Victoria?
+     <stage>
+      (MARGARET puts out her hand for a chair and sits quickly .)
+     </stage>
+     Ah! you see, even you hesitate at Victoria.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( With her face turned away .)
+    </stage>
+    <p>
+     It
+     is
+     Victoria then?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Yes, Victoria. Is it very strange? I suppose it does seem so — and yet to me it seems the most natural thing in the world. She — she —
+     needs
+     to be loved, you know. She is not like you — so strong and well poised.
+     <stage>
+      (MR. HERR. goes to MARGARET and stands bending over her a little, as she sits with her back to him, her head resting on her hand, her elbow on the back of the chair .)
+     </stage>
+     Do you know, Margaret, you don't mind my calling you Margaret, do you? I've wondered so many times what sort of a man you will marry. I've thought of all the men I've known — and know, and among them all I can't find one worthy of you. I can't imagine a man
+     daring
+     to woo you — or thinking for a moment he could satisfy you or make you happy. But I want you to be happy. I hope I may see the completion of your glorious womanhood.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( With an effort .)
+    </stage>
+    <p>
+     Thank you, Mr. Herresford.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Do you mind telling me what you
+     really
+     think about Victoria — and me? Don't hesitate. If you think I'm a fool — say so. I want to know. It will help me.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Slowly, without moving .)
+    </stage>
+    <p>
+     I think Victoria — the most lovable — the most irresistible girl I have ever known. With a mind far beyond what she is supposed to have, and a heart which, if touched in the right way — and by the right one, could lift her into great spiritual strength and sweetness.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Do you?
+     Do
+     you? How good it is to hear you say it.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Without moving — going on in the same monotonous tone .)
+    </stage>
+    <p>
+     I think a strong good man can make a woman what he wants her to be, if she loves him; and why shouldn't Victoria — love you? I don't know — it all seemed a little strange just now. I hadn't thought, of course. But don't be afraid, if you are
+     sure
+     that that is what your life and heart need. Don't fear that she can't realize your ideal of what your wife ought to be — to help — and
+     you
+     know. Love always touches the highest key in a woman's nature, and
+     through
+     it, and
+     because
+     of it, and
+     for
+     it
+     <stage>
+      ( Emphasizing her words with her tightly closed hands )
+     </stage>
+     even the most commonplace of us may sometimes do things which at least we will not be ashamed to look back at, through the years that are to come.
+     <stage>
+      ( She fights back the tears .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Then you
+     don't
+     hesitate, even at Victoria?
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( After a moment's pause — rising, smiling bravely and giving him her hand )
+    </stage>
+    <p>
+     Not even at
+     Victoria
+     .
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Taking her hand in both his )
+    </stage>
+    <p>
+     God bless you, Margaret! I hope love —
+     a great
+     love, will come to you.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Don't you think there are sometimes things
+     greater
+     than love?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Only one thing.
+     <stage>
+      ( The bell rings .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     And that is?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Renunciation.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <stage>
+     ( Slowly — drawing her hand away )
+    </stage>
+    <p>
+     Yes — renunciation.
+    </p>
+   </sp>
+   <sp who="#janie">
+    <speaker>
+     JANIE.
+    </speaker>
+    <stage>
+     ( Throwing open the hall door )
+    </stage>
+    <p>
+     Here's Miss Victoria.
+    </p>
+   </sp>
+   <stage>
+    ( Enter VICTORIA — bright, gay, frivolous .)
+   </stage>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     Oh, here you are! Your mother said I'd probably find you here. Good morning, Mr. Herresford. Are you and Margaret
+     all
+     the committee? I was quite sure you wouldn't need me.
+    </p>
+   </sp>
+   <sp who="#margaret">
+    <speaker>
+     MARGARET.
+    </speaker>
+    <p>
+     Oh! but we
+     did
+     need you. Indeed it all depends upon you, Victoria. Doesn't it, Mr. Herresford? The question remains for you to settle. I'm off — no, you can't come with me; I have a thousand things to do. Make her tell you, Mr. Herresford. Good-bye — good-bye, dear.
+     <stage>
+      ( Pushing VICTORIA back from the door, she rushes out laughing and waving her hand as she passes the window. There is a long pause after MARGA ret goes out — then VICTORIA, smiling over her muff says )
+     </stage>
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     I wonder if I could have a glass of water. I'm so thirsty.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Why, of course.
+     <stage>
+      ( Going quickly to the door )
+     </stage>
+     Janie, Janie! a glass of water, please.
+     <stage>
+      ( Another pause , VICTORIA goes to the window, looking out interestedly )
+     </stage>
+     .
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     Isn't the snow pretty?
+     <stage>
+      ( Another pause )
+     </stage>
+     Don't you like pretty things, Mr. Herresford?
+     <stage>
+      ( Stretching her head to see up the street .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Significantly )
+    </stage>
+    <p>
+     Yes.
+     <stage>
+      (JANIE enters with the glass of water )
+     </stage>
+     Thank you. Janie.
+     Thank
+     you, Janie.
+     <stage>
+      (JANIE peers around him at VICTORIA, then exit . MR. HERRESFORD crosses to VICTORIA with the water, but stands staring at her and forgetting to give it to her )
+     </stage>
+     Oh!
+     <stage>
+      ( Starting, as VICTORIA smiles at the glass which he holds .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <stage>
+     ( Just touching her lips to the glass )
+    </stage>
+    <p>
+     Thank
+     <pb n="104"/>
+     you. That was so good. I was so thirsty. Well, I must go now.
+     <stage>
+      ( She drops her glove and they both stoop to pick it up .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Holding on to the glove )
+    </stage>
+    <p>
+     Oh, don't!
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <stage>
+     ( Drawing it slowly away )
+    </stage>
+    <p>
+     Oh, but I must!
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Why did you desert us?
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     Why did you put me
+     on
+     the stupid thing? Don't you know by this time that I utterly abhor all that sort of stuff, and will not be bothered with it? A
+     carpet
+     committee!
+     <stage>
+      ( Laughing )
+     </stage>
+     Why didn't you give Margaret Norton the money and send her to town to buy the carpet and be done with it? You know perfectly well she knows more about carpets than all the rest of the congregation put together. She's much more capable of running a church than
+     you
+     are. Now, isn't she?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Yes, I believe she is. I don't know what I should do without her.
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     Oh!
+     <stage>
+      ( Looking at him quickly and then crossing to fire .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Are you cold?
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     Oh, dear no, not at all.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Let me put some more wood on the fire.
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     No — no — no! not for me. I'm going this minute.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Oh, don't — don't! not just yet.
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     But I must. This is highly improper. What would Mrs. Lemmingworth say if she knew I was calling on the Rector?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Oh, bother Mrs. Lem —
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     What? That's rank heresy — positive sacrilege! What has come to you?
+     <stage>
+      ( Laughing she goes to the door . MR. HERRESFORD following, takes her hand and draws her back .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Please, just a moment. I — I want to ask you something.
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     Ask
+     me?
+     Why didn't you ask Margaret? I don't care whether you have a carpet at all or not.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Turning away )
+    </stage>
+    <p>
+     No, I know you don't. That's just it. I know my life — I mean the church life — but I — I — I —
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     Do you? What is it you want me to say — whether it shall be red — green — or blue?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Oh! it isn't the carpet at all. It's you.
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     Me?
+     <stage>
+      ( Laughing )
+     </stage>
+     I don't understand.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     And I can't tell you. It seems harder — more impossible than I thought.
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <p>
+     I
+     am more impossible than you thought? Thank you. Oh! you want me to come to prayer meeting?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Oh, don't! I — I love you. It's absurd I know — and you're laughing at me. I'm poor — a country minister, and you — you're a butterfly — utterly free, apart from duties and troubles of any kind. That's all. I'll go — and you'll forget. But I'm glad I said it. I love you. That's all.
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <stage>
+     ( After a pause )
+    </stage>
+    <p>
+     That's all?
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Holding the door open for her )
+    </stage>
+    <p>
+     That's all. Good-bye.
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <stage>
+     ( With her head bowed — going slowly to the door )
+    </stage>
+    <p>
+     I'm sorry I won't do. I should have tried so hard. I — I think I could make even Mrs. Lemmingworth love me — if I
+     tried
+     — for
+     you
+     .
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Victoria!
+     <stage>
+      ( Springing toward her .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <stage>
+     ( Stepping back from him )
+    </stage>
+    <p>
+     No — no! you didn't ask me.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <stage>
+     ( Catching her in his arms )
+    </stage>
+    <p>
+     Will you?
+    </p>
+   </sp>
+   <sp who="#victoria">
+    <speaker>
+     VICTORIA.
+    </speaker>
+    <stage>
+     ( Lifting her head after a moment )
+    </stage>
+    <p>
+     Shall I have to go to prayer meeting?
+     <stage>
+      ( He smiles at her )
+     </stage>
+     No, I'm not laughing now. I shall always have a prayer in my heart that I may be worthy of you. But it frightens me a little.
+    </p>
+   </sp>
+   <sp who="#mrherr">
+    <speaker>
+     MR. HERR.
+    </speaker>
+    <p>
+     Margaret says love teaches us — and I believe it does.
+    </p>
+   </sp>
+  </body>
+  <back>
+   <p>
+    CURTAIN
+   </p>
+  </back>
+ </text>
+</TEI>

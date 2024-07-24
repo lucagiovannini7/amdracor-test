@@ -1,0 +1,3615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am231" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Clinging Vine
+    </title>
+    <author>
+     Gale, Rachel E. (Baker)
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Internet Archive
+     </name>
+     <idno>
+      https://archive.org/details/clingingvine00gale/
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Gale, Rachel Baker. The clinging vine.
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+<particDesc>
+    <listPerson>
+     <person xml:id="mrsredding" sex="FEMALE">
+      <persName>Mrs. Redding</persName>
+     </person>
+     <person xml:id="mrsjenkins" sex="FEMALE">
+      <persName>Mrs. Jenkins</persName>
+     </person>
+     <person xml:id="mrsbrown" sex="FEMALE">
+      <persName>Mrs. Brown</persName>
+     </person>
+     <person xml:id="anita" sex="FEMALE">
+      <persName>Anita</persName>
+     </person>
+     <person xml:id="mrsanthony" sex="FEMALE">
+      <persName>Mrs. Anthony</persName>
+     </person>
+     <person xml:id="bridget" sex="FEMALE">
+      <persName>Bridget</persName>
+     </person>
+     <person xml:id="melissa" sex="FEMALE">
+      <persName>Melissa</persName>
+     </person>
+     <person xml:id="mrsbeadle" sex="FEMALE">
+      <persName>Mrs. Beadle</persName>
+     </person>
+     <person xml:id="priscilla" sex="FEMALE">
+      <persName>Priscilla</persName>
+     </person>
+     <person xml:id="mrssmith" sex="FEMALE">
+      <persName>Mrs. Smith</persName>
+     </person>
+     <person xml:id="misslucretiabriggs" sex="FEMALE">
+      <persName>Miss Lucretia Briggs</persName>
+     </person>
+     <person xml:id="mrsfielding" sex="FEMALE">
+      <persName>Mrs. Fielding</persName>
+     </person>
+     <person xml:id="misssimpkins" sex="FEMALE">
+      <persName>Miss Simpkins</persName>
+     </person>
+     <person xml:id="mrsluce" sex="FEMALE">
+      <persName>Mrs. Luce</persName>
+     </person>
+     <personGrp xml:id="members" sex="UNKNOWN">
+      <persName>Members</persName>
+     </personGrp>
+     <person xml:id="mrsspencer" sex="FEMALE">
+      <persName>Mrs. Spencer</persName>
+     </person>
+     <person xml:id="susan" sex="FEMALE">
+      <persName>Susan</persName>
+     </person>
+     <person xml:id="women" sex="FEMALE">
+      <persName>Women</persName>
+     </person>
+     <person xml:id="lucretia" sex="FEMALE">
+      <persName>Lucretia</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Comedy
+     </term>
+     <term subtype="am" type="genreTitle">
+      One-act
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1913">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      CHARACTERS
+     </head>
+     <head>
+      ( In the order of their appearance )
+     </head>
+     <castItem>
+      BRIDGET, the janitor .
+     </castItem>
+     <castItem>
+      MRS. SPENCER, president .
+     </castItem>
+     <castItem>
+      MRS. ANTHONY, secretary .
+     </castItem>
+     <castItem>
+      MRS. SMITH, member .
+     </castItem>
+     <castItem>
+      MRS. BROWN, member .
+     </castItem>
+     <castItem>
+      MRS. BEADLE, member .
+     </castItem>
+     <castItem>
+      MRS. LUCE, member .
+     </castItem>
+     <castItem>
+      MRS. JENKINS, member .
+     </castItem>
+     <castItem>
+      MISS LUCRETIA BRIGGS, member .
+     </castItem>
+     <castItem>
+      MISS AMANDA SIMPKINS, member .
+     </castItem>
+     <castItem>
+      MRS. FIELDING, member .
+     </castItem>
+     <castItem>
+      ( And as many more members as are wanted, according to size of stage .)
+     </castItem>
+     <castItem>
+      SUSAN PEABODY, lawyer for the club .
+     </castItem>
+     <castItem>
+      PRISCILLA DANE, lawyer for the defense .
+     </castItem>
+     <castItem>
+      MRS. REDDING.
+     </castItem>
+     <castItem>
+      MELISSA JOHNSON.
+     </castItem>
+     <castItem>
+      ANITA SMITH.
+     </castItem>
+    </castList>
+   </div>
+   <set>
+    <p>
+     SCENE — The club room of the Bartonville Woman's Club. PLAYS FORTY MINUTES.
+    </p>
+   </set>
+  </front>
+  <body>
+   <stage>
+    SCENE. — The club room of the Bartonville Woman's Club . ( Discovered , BRIDGET standing behind president's desk which is at back centre of room, slightly raised; she is reading addresses of letters .)
+   </stage>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <stage>
+     ( reading ).
+    </stage>
+    <p>
+     Mrs. Spincer, president, — Mrs. Scott-Anthony, secretary, — Miss Lucretia Briggs, — Mrs. Jones.
+     <stage>
+      ( Throws them down on desk .)
+     </stage>
+     Divil a man in the bunch! This is a woman's club house all right. Ivery blissed minute av the day there's a maytin' in wan room or another. It's women to right av us, women to the left av us, and women in front av us, fightin' for fraydom!
+     <stage>
+      ( Sighs and walks about stage L., arranging several chairs for the members .)
+     </stage>
+     Shure! I fought for fraydom myself five years ago, and it's a hard toime I've had av it iver since. It's mighty clever I thought I was to give up the care of the childer to Mike, and me goin' out into the wuhrold and bein' indepindent. It's niver satisfied we are. It's back to the old toimes I'd like to be, and if it's the truth we be afther learnin', ivery blissed wan of these foine ladies here would be sayin' the same.
+     <stage>
+      ( Crosses to behind table which is in front of desk. There should be two chairs behind it for the lawyers; upon the table is a loaf of bread, a man's shirt, and an infant's bonnet; BRID. picks up loaf of bread .)
+     </stage>
+     It's afthernoon tay they must be plannin' to have. Wan loaf av bread! Will! for twinty sthrong-minded women I call it mighty poor pickin'.
+    </p>
+   </sp>
+   <stage>
+    ( Crosses to R., and arranges chairs on that side .)
+   </stage>
+   <stage>
+    Enter MRS. SPENCER up C., at right of desk, and goes to her desk .
+   </stage>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Good-afternoon, Bridget.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Good-afthernoon, Mrs. Spincer. It's a foine day yees has for your maytin'.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Yes, and it is a very important one.
+    </p>
+   </sp>
+   <stage>
+    ( Looks over her mail .)
+   </stage>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Faith! They all seem to be that.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Mrs. Redding will be in the anteroom. You need not announce her. I will ring.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Very will, mum. If yees don't moind my sayin' it, I hope yees haven't anything unplisant up your slave for Mrs. Redding.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Only justice, Bridget.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <stage>
+     ( going up stage to exit ).
+    </stage>
+    <p>
+     Will, it's a foine lady she is, anyhow.
+    </p>
+   </sp>
+   <stage>
+    Enter MRS. ANTHONY.
+   </stage>
+   <sp who="#mrsanthony">
+    <speaker>
+     MRS. A.
+    </speaker>
+    <p>
+     Good-afternoon, Bridget.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     The same to you, mum.
+     <stage>
+      [ Exit .
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrsanthony">
+    <speaker>
+     MRS. A.
+    </speaker>
+    <p>
+     Any mail for me, Mrs. Spencer?
+    </p>
+   </sp>
+   <stage>
+    ( Stops before desk .)
+   </stage>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <stage>
+     ( giving her several letters ).
+    </stage>
+    <p>
+     As usual, the lion's share.
+    </p>
+   </sp>
+   <sp who="#mrsanthony">
+    <speaker>
+     MRS. A.
+    </speaker>
+    <stage>
+     ( who has crossed to desk or table at the left of president, sitting ).
+    </stage>
+    <p>
+     We will probably have a very full meeting.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Yes. I shall be glad when this unpleasant business is over.
+    </p>
+   </sp>
+   <sp who="#mrsanthony">
+    <speaker>
+     MRS. A.
+    </speaker>
+    <p>
+     Rather serious business to expel a member.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     We must be very careful.
+    </p>
+   </sp>
+   <stage>
+    Enter MRS. SMITH and MRS. BROWN. MRS. SMITH is a very strong-minded person , MRS. BROWN very gentle and modest .
+   </stage>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH
+    </speaker>
+    <stage>
+     ( as she enters ).
+    </stage>
+    <p>
+     I call it scandalous.
+    </p>
+   </sp>
+   <sp who="#mrsbrown">
+    <speaker>
+     MRS. BROWN
+    </speaker>
+    <stage>
+     ( eagerly ).
+    </stage>
+    <p>
+     Do you think she will be expelled?
+    </p>
+   </sp>
+   <stage>
+    ( They have come down near front of stage .)
+   </stage>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     I hope so. The club has done nothing but dilly-dally over this case for a whole year, and I am tired of it. They are all afraid to speak their minds. Thank heaven! I am not.
+    </p>
+   </sp>
+   <sp who="#mrsbrown">
+    <speaker>
+     MRS. BROWN
+    </speaker>
+    <stage>
+     ( speaking admiringly ).
+    </stage>
+    <p>
+     You
+     do not seem to be afraid of anything, Mrs. Smith.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH
+    </speaker>
+    <stage>
+     ( tossing her head ).
+    </stage>
+    <p>
+     Hm! I should say not.
+    </p>
+   </sp>
+   <stage>
+    ( They go up stage and talk with MRS. A.; other members begin to arrive, two together and some alone. — They should not all come at once — take plenty of time for it. — Some speak to the president, others join those who are in front — they are all talking together, and their voices should be gradually raised — they do not pay any attention to MRS. SPEN., who uses gavel and tries to bring them to order — after the third attempt she succeeds — they separate, and stand either side, looking at president .)
+   </stage>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     The club will please come to order. Before taking your accustomed places, I would like to say that those in favor of the expulsion of Mrs. Redding from this club will please sit on my left. Those opposed, on the right.
+     <stage>
+      ( The members, with the exception of MRS. SMITH, who makes MRS. BROWN go with her to the left, show indecision. Finally the majority go to the left . MRS. JENKINS stands in centre undecided .)
+     </stage>
+     Mrs. Jenkins, you seem to be undecided.
+    </p>
+   </sp>
+   <sp who="#mrsjenkins">
+    <speaker>
+     MRS. J.
+    </speaker>
+    <p>
+     I want to be sure that I am right, Madam President.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     Better join us. The strong-minded ones are over here. You do not seem to have any mind of your own, and you may need some of ours.
+    </p>
+   </sp>
+   <sp who="#mrsjenkins">
+    <speaker>
+     MRS. J.
+    </speaker>
+    <p>
+     Are you sure that you are on the right side, Mrs. Smith?
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     There isn't any doubt about it.
+    </p>
+   </sp>
+   <stage>
+    (MRS. J. still hesitates, and starts for one side and then the other .)
+   </stage>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     You must decide one way or the other, Mrs. Jenkins.
+    </p>
+   </sp>
+   <sp who="#mrsjenkins">
+    <speaker>
+     MRS. J.
+    </speaker>
+    <p>
+     Oh, if Mr. Jenkins were only here to tell me what to do.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     Hm! "Mr. Jenkins!" You are a weak party. Come over here.
+    </p>
+   </sp>
+   <stage>
+    ( The ladies on the other side try to have her join them . MRS. SMITH stands and points to chair beside her, and finally MRS. J. takes it . MRS. SMITH shows her satisfaction .)
+   </stage>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <stage>
+     ( bringing club to order ).
+    </stage>
+    <p>
+     The secretary will read the minutes of the last meeting.
+    </p>
+   </sp>
+   <sp who="#mrsanthony">
+    <speaker>
+     MRS. A.
+    </speaker>
+    <stage>
+     ( rising and reading report ).
+    </stage>
+    <p>
+     There was a very small attendance at the last meeting owing to a previous engagement of most of the members.
+     <stage>
+      ( With meaning .)
+     </stage>
+     Mrs. Jones-Beadle gave an auction bridge on that day.
+    </p>
+   </sp>
+   <sp who="#mrsbeadle">
+    <speaker>
+     MRS. BEADLE
+    </speaker>
+    <stage>
+     ( who sits on one of the front seats on the right, rising ).
+    </stage>
+    <p>
+     Madam President, I think it very bad taste in our secretary to make a minute of my card party.
+     <stage>
+      ( Spitefully .)
+     </stage>
+     If
+     she
+     had received an invitation there would have been one
+     less
+     at the meeting.
+    </p>
+   </sp>
+   <stage>
+    ( The two women glare at one another, and MRS. BEADLE shows her indignation as she sits .)
+   </stage>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <stage>
+     ( with dignity ).
+    </stage>
+    <p>
+     The secretary will continue reading the report.
+    </p>
+   </sp>
+   <sp who="#mrsanthony">
+    <speaker>
+     MRS. A.
+    </speaker>
+    <p>
+     The Municipal League was formed to improve the general conditions of the streets and byways of Bartonville. Also to investigate the farms in the outlying districts. Mrs. Beadle, Mrs. Jenkins and Miss Lucretia Briggs as committee. Mrs. Beadle, chairman.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Has the chairman of the committee on the future improvements of the streets and byways of Bartonville anything to report?
+    </p>
+   </sp>
+   <sp who="#mrsbeadle">
+    <speaker>
+     MRS. BEADLE
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Madam President, we have made a beginning by attacking the farms on the outskirts of the town. We were present at the evening milking of Mr. Wright's cows, and we found a practical demonstration of the cleansing of the pails and cans quite necessary. In fact, we, ourselves, washed them, but I must confess that our efforts were not appreciated. The language used by Mr. Wright would be unfit for me to repeat to this club, which is the acme of culture and refinement.
+     <stage>
+      ( Applause from the members, which MRS. BEADLE acknowledges .)
+     </stage>
+     He gave us a very cool reception, and even made a threat that if we ever stepped foot into his barn again, he would have us tarred and feathered.
+    </p>
+   </sp>
+   <sp who="#misslucretiabriggs">
+    <speaker>
+     MISS LUCRETIA BRIGGS
+    </speaker>
+    <stage>
+     ( sitting on the same side, rising ).
+    </stage>
+    <p>
+     I should call the promise of a coat of tar and feathers a very warm reception.
+     <stage>
+      ( Members laugh .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrsbeadle">
+    <speaker>
+     MRS. BEADLE
+    </speaker>
+    <stage>
+     ( annoyed, glaring at LUCRETIA).
+    </stage>
+    <p>
+     I have nothing further to report at present.
+     <stage>
+      ( Sits .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrsanthony">
+    <speaker>
+     MRS. A.
+    </speaker>
+    <stage>
+     ( resuming report ).
+    </stage>
+    <p>
+     A committee of three with Mrs. Luce as chairman was appointed to investigate the Saturday night entertainments for the men at their club.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Is Mrs. Luce ready with her report?
+    </p>
+   </sp>
+   <sp who="#mrsluce">
+    <speaker>
+     MRS. LUCE
+    </speaker>
+    <stage>
+     ( on the left, rising ).
+    </stage>
+    <p>
+     Madam President
+     <stage>
+      ( speaking very convincingly ),
+     </stage>
+     I wish to make the following report: Nine-tenths of the men of this town spend their Saturday nights at the club instead of devoting themselves to their families; wasting their weekly allowances on cigarettes and cigars; filling their ears with gossip, and their lungs with the fumes of stale tobacco; feasting on steamed clams; ruining their digestion, and
+     <stage>
+      ( severely )
+     </stage>
+     in consequence, their Sunday morning dispositions.
+    </p>
+   </sp>
+   <sp who="#mrsbeadle">
+    <speaker>
+     MRS. BEADLE.
+    </speaker>
+    <p>
+     Yes, that is true.
+    </p>
+   </sp>
+   <sp who="#mrsluce">
+    <speaker>
+     MRS. L.
+    </speaker>
+    <p>
+     Ladies of the Bartonville Woman's Club, why! why! should men neglect their wives on Saturday nights? This is not equal suffrage!
+    </p>
+   </sp>
+   <sp who="#members">
+    <speaker>
+     MEMBERS.
+    </speaker>
+    <p>
+     No! No!
+    </p>
+   </sp>
+   <sp who="#mrsluce">
+    <speaker>
+     MRS. L.
+    </speaker>
+    <p>
+     Why must a woman, just because she is a woman, a fond wife and mother suffer the pangs of loneliness — I repeat, — suffer the pangs of loneliness on Saturday nights between the hours of eight and twelve?
+    </p>
+   </sp>
+   <sp who="#mrsjenkins">
+    <speaker>
+     MRS. J.
+    </speaker>
+    <p>
+     That is what I want to know.
+    </p>
+   </sp>
+   <stage>
+    ( Bursts into tears .)
+   </stage>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <stage>
+     ( severely ).
+    </stage>
+    <p>
+     Mrs. Jenkins, you forget yourself.
+    </p>
+   </sp>
+   <sp who="#mrsjenkins">
+    <speaker>
+     MRS. J.
+    </speaker>
+    <stage>
+     ( rising, still crying ).
+    </stage>
+    <p>
+     Madam President, it is because I do not forget that I — I s-speak.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     This is not the time or place for weakness. Control yourself.
+    </p>
+   </sp>
+   <sp who="#mrsjenkins">
+    <speaker>
+     MRS. J.
+    </speaker>
+    <p>
+     I — I'll try to.
+    </p>
+   </sp>
+   <stage>
+    ( Sits still sobbing; gradually regains composure .)
+   </stage>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     Do as I do. Keep your husband so busy at home evenings that he can't get out. Try it.
+    </p>
+   </sp>
+   <sp who="#misssimpkins">
+    <speaker>
+     MISS AMANDA SIMPKINS
+    </speaker>
+    <stage>
+     ( a very prim old maid who sits on the left next to MRS. SMITH, rising ).
+    </stage>
+    <p>
+     Madam President, I should like to make a motion. That some restraint be put upon the men. Let them have only two Saturday nights of each month for the club. The remaining two to be devoted to the women.
+    </p>
+   </sp>
+   <sp who="#lucretia">
+    <speaker>
+     LUCRETIA
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     I second the motion.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     The motion has been made and seconded that the men of Bartonville shall be deprived of their freedom two Saturday evenings of each month. Those in favor please rise.
+     <stage>
+      ( All the members rise with great decision .)
+     </stage>
+     Contrary minded?
+     <pb n="8"/>
+     <stage>
+      ( Members have resumed their seats .)
+     </stage>
+     It is a vote. I appoint Mrs. Fielding, Miss Judith Evans and Miss Lucretia Briggs as a committee to put this motion into effect at once.
+    </p>
+   </sp>
+   <sp who="#misssimpkins">
+    <speaker>
+     MISS S.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Madam President, I object to Lucretia Briggs being on that committee. I know her ways; I have had experience. She will make her peace with the men by inviting them all to her house on the nights that belong to us.
+    </p>
+   </sp>
+   <sp who="#lucretia">
+    <speaker>
+     LUCRETIA.
+    </speaker>
+    <p>
+     Indeed, Miss Simpkins, perhaps you would like to be on that committee yourself.
+     <stage>
+      ( With sarcasm .)
+     </stage>
+     You are so attractive.
+    </p>
+   </sp>
+   <sp who="#misssimpkins">
+    <speaker>
+     MISS S.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     What do you mean, Miss Briggs?
+    </p>
+   </sp>
+   <sp who="#lucretia">
+    <speaker>
+     LUCRETIA
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     I mean that you are jealous of me.
+    </p>
+   </sp>
+   <sp who="#misssimpkins">
+    <speaker>
+     MISS S.
+    </speaker>
+    <p>
+     Hm! "Jealous"! It would take more than
+     you
+     to make me jealous.
+    </p>
+   </sp>
+   <sp who="#lucretia">
+    <speaker>
+     LUCRETIA
+    </speaker>
+    <stage>
+     ( they have come together in centre of stage facing one another ).
+    </stage>
+    <p>
+     Indeed, Miss Simpkins!
+    </p>
+   </sp>
+   <sp who="#misssimpkins">
+    <speaker>
+     MISS S.
+    </speaker>
+    <p>
+     Indeed!
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <stage>
+     ( using gavel ).
+    </stage>
+    <p>
+     Ladies! You forget yourselves.
+     <stage>
+      (MISS S. and LUCRETIA resume their seats, both showing great indignation .)
+     </stage>
+     If there is no further business to come before the club, I have an important matter to bring before this meeting.
+     <stage>
+      ( Women all talk together . MRS. SPEN. uses gavel two or three times before she can bring them to order .)
+     </stage>
+     I regret to say that there is, as you all know, rebellion, deep-rooted rebellion in this club.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     I should say so.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     One of our members, a former president, once a leader, has grown weak and vacillating. She no longer lives up to the laws and by-laws of this club.
+     <stage>
+      ( Women talk together . MRS. SPEN. brings them to order .)
+     </stage>
+     We will now consider the case of Mrs. Redding.
+    </p>
+   </sp>
+   <sp who="#mrsfielding">
+    <speaker>
+     MRS. FIELDING
+    </speaker>
+    <stage>
+     ( entering hurriedly and tripping over rug ).
+    </stage>
+    <p>
+     I beg your pardon, Madam President, for being so late, but was delayed at our Progressive Club luncheon. Rushed home for a moment, and just as I was leaving the house if Mr. Fielding did not ask me to hunt for his golf balls! Men are so inconsiderate.
+    </p>
+   </sp>
+   <sp who="#mrsbeadle">
+    <speaker>
+     MRS. BEADLE
+    </speaker>
+    <stage>
+     ( who speaks with a high voice ).
+    </stage>
+    <p>
+     That's so!
+    </p>
+   </sp>
+   <sp who="#mrsfielding">
+    <speaker>
+     MRS. F.
+    </speaker>
+    <p>
+     I haven't any time to hunt for
+     golf balls
+     .
+    </p>
+   </sp>
+   <stage>
+    ( Speaks with contempt .)
+   </stage>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     I should say not.
+    </p>
+   </sp>
+   <sp who="#mrsfielding">
+    <speaker>
+     MRS. F.
+    </speaker>
+    <stage>
+     ( looking about ).
+    </stage>
+    <p>
+     Why! The members seem to
+     <pb n="9"/>
+     be divided. Has there been any trouble? I hope that I have not
+     missed
+     anything.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Mrs. Redding's expulsion from the club is under consideration, Mrs. Fielding. Those in favor are on my left. Those opposed, on my right.
+    </p>
+   </sp>
+   <sp who="#mrsfielding">
+    <speaker>
+     MRS. F.
+    </speaker>
+    <p>
+     Dear me! We haven't time for such serious business. Well, it is one of my principles to be on the right side if possible.
+     <stage>
+      ( Looks about and suddenly makes up her mind .)
+     </stage>
+     I shall sit here.
+    </p>
+   </sp>
+   <stage>
+    ( Takes seat at right. There should be two rows of chairs . MRS. BEADLE up stage; MRS. F., chair left for MELISSA JOHNSON, and LUCRETIA on the end .)
+   </stage>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     As we wish to treat this case with justice, I have engaged the services of two of the ablest lawyers of this town.
+     <stage>
+      ( Presses supposed electric button on desk. Enter BRID.)
+     </stage>
+     We are ready for Miss Peabody and Miss Dane.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Yis, mum. If it's not mishtaken I am, it's wan av thim what has a moind av her own, but
+     <stage>
+      ( smiling )
+     </stage>
+     it's the ither wan what can have me.
+     <stage>
+      [ Exit .
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Remember, ladies, justice must overcome prejudice.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Madam President, this club has not shown any backbone in this matter. I hope that they will have the courage of their convictions this time.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <stage>
+     ( with sarcasm ).
+    </stage>
+    <p>
+     We certainly have a good example in
+     you
+     , Mrs. Smith.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     Well! When I know a thing, I know it.
+    </p>
+   </sp>
+   <stage>
+    (BRID. throws open door and SUSAN PEABODY enters. She is a strong-minded young woman, dressed in mannish fashion and wears spectacles; carries lawyer's green cloth bag filled with papers .)
+   </stage>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Ladies, allow me to present Miss Peabody for the club.
+     <stage>
+      (SUSAN acknowledges and takes her seat behind table at left of it. Members are very much interested . PRISCILLA DANE enters, a very attractive young woman, dressed in stylish tailored suit; carries her papers in leather brief-case . BRID. looks at her admiringly .)
+     </stage>
+     Ladies, Miss Dane, for the defense.
+     <stage>
+      ( Members on the right show great interest — PRIS. seated at right of table; beside her should be a chair for MRS. REDDING.)
+     </stage>
+     Miss Peabody and Miss Dane, we have called you here to help us to decide a very important question. One of our members,
+     <pb n="10"/>
+     a former president, has broken her vows to support the principles, which make for this club its high standard of progress and equal suffrage.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Madam President and members of the Bartonville Woman's Club, I feel greatly honored to be called upon by you to coöperate with our able friend Miss Dane.
+     <stage>
+      (PRIS. bows acknowledgment .)
+     </stage>
+     It is a very serious problem which confronts you. In these days when we are daily — I might say every hour gaining new recruits for the support of equal suffrage to have a member fail to support so noble a cause. I repeat — a very serious problem. I should like to hear the laws and by-laws of this organization.
+     <stage>
+      ( Sits .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     The secretary will read the rules and regulations.
+    </p>
+   </sp>
+   <sp who="#mrsanthony">
+    <speaker>
+     MRS. A.
+    </speaker>
+    <stage>
+     ( rising and reading from book ).
+    </stage>
+    <p>
+     Whoever becomes a member of the Bartonville Woman's Club must repress all feminine ideals which do not lead toward the emancipation of women.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( nodding her head — very important ).
+    </stage>
+    <p>
+     Good! Very good!
+    </p>
+   </sp>
+   <sp who="#mrsanthony">
+    <speaker>
+     MRS. A.
+    </speaker>
+    <stage>
+     ( continuing ).
+    </stage>
+    <p>
+     She must rise above the homely duties of domestic life and travel upon the broad highway to accomplish great and noble deeds. To be no longer the slave of the needle, but the pen. No longer the slave of man. To hold public office; to vote, and when she
+     does
+     vote to
+     know
+     whether she is a
+     Republican
+     or a
+     Democrat
+     .
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Excellent! Excellent! Thank you.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Madam President, as I am here for the defense, I should like to see my client.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Certainly, Miss Dane.
+     <stage>
+      ( Rings bell .)
+     </stage>
+     Mrs. Redding is waiting in the anteroom.
+     <stage>
+      (BRID. enters .)
+     </stage>
+     Tell Mrs. Redding that we would like to see her.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Yis, mum — I mane, Madam Prisident.
+     <stage>
+      ( Exit BRID. SUSAN and PRIS. talk together; also members . MRS. SPEN. calls them to order and MRS. REDDING enters, followed by BRID.; the former is young and attractive and stylishly dressed . BRID., aside to MRS. R.)
+     </stage>
+     Kape up your courage, darlint. They can't hold a candle to yees.
+     <stage>
+      ( Stands by door listening .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Please be seated, Mrs. Redding.
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <stage>
+     ( holding her head very high ).
+    </stage>
+    <p>
+     Thank you, I prefer to stand.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Mrs. Redding, when you became a member of this club, you pledged yourself to observe its rules and regulations.
+     <pb n="11"/>
+     You were a leader among us. An honored president.
+     <stage>
+      ( Turns and sees BRID.)
+     </stage>
+     That will do, Bridget.
+     <stage>
+      (BRID. does not move .)
+     </stage>
+     That will do, Bridget.
+     <stage>
+      ( Exit BRID., reluctantly .)
+     </stage>
+     You have deliberately turned your back upon what this club stands for.
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     Of what am I accused?
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     You have failed to attend our meetings and by your presence spur on our members to great and noble deeds. You have returned to the drudgery of domestic life. You have been known to sew, to brew, to bake. You have made a loaf of bread, your child a bonnet,
+     <stage>
+      ( contemptuously )
+     </stage>
+     and your husband a shirt.
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     What proof of this degrading work?
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH
+    </speaker>
+    <stage>
+     ( rising and pointing ).
+    </stage>
+    <p>
+     Right there on that table.
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <stage>
+     ( with spirit ).
+    </stage>
+    <p>
+     Indeed! And is it the lofty principles of this club for one member to spy upon another?
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     One moment, please. I should like to ask the defendant a few questions. Mrs. Redding, how long have you been a member of this club?
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     Five years.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Once president?
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     Yes.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     How long since you have attended these meetings?
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     One year.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     What is your reason for this lack of interest?
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( rising quickly ).
+    </stage>
+    <p>
+     Madam President, I object.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     A simple question clothed in simple words, Miss Dane.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     It is the
+     naked truth
+     we are after. Find out from your deductions why Mrs. Redding has lost interest in this club.
+     <stage>
+      ( Sits .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Oh, very well, Miss Dane.
+     <stage>
+      ( To MRS. R.)
+     </stage>
+     You have a family?
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     I have.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     How many husbands?
+     <stage>
+      ( Members laugh . SUSAN annoyed .)
+     </stage>
+     I — I mean children?
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     Three children
+     <stage>
+      ( with emphasis )
+     </stage>
+     and
+     one husband
+     .
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     When you became a member of this club you agreed to stand by the rules and regulations?
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     I did.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     That you would no longer be a slave to the duties of domestic life?
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     Yes.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     To be no longer the slave of the needle or of man?
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     I did.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Thank you. That is all at present.
+     <stage>
+      (MRS. R. sits by PRIS.)
+     </stage>
+     Madam President —
+    </p>
+   </sp>
+   <stage>
+    (BRID. and MELISSA heard outside .)
+   </stage>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Yees can't go in.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     What foh I cyan't gwine in?
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     It's a private maytin'. It's a woman's club.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <stage>
+     ( throwing open door and entering, followed by BRID., who tries to hold her back . MEL. wears print dress, kerchief, bandanna on head; uses cane; slightly lame ).
+    </stage>
+    <p>
+     I'se a woman, if I is a colored lady.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Come out av here.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     I'se come to be wid ma Miss Jane.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Bridget, show this person out at once.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <stage>
+     ( indignantly ).
+    </stage>
+    <p>
+     I ain't no "pusson"! I'se jest a 'spectable colored lady.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Bridget, do as I tell you.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <stage>
+     ( coaxingly ).
+    </stage>
+    <p>
+     Come along with me. The loikes av yees ain't wanted here.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <stage>
+     ( pushing her away ).
+    </stage>
+    <p>
+     Doan't youse be obstructin' me.
+     <stage>
+      ( To MRS. R.)
+     </stage>
+     Miss Jane, dese yere people knows I belongs to you.
+    </p>
+   </sp>
+   <stage>
+    (PRIS. and MRS. R. talk together .)
+   </stage>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Madam President, we would like to have this woman remain.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Madam President, I object. The prosecution has no witnesses.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     I beg to differ with Miss Peabody. She has more than half of the Bartonville Woman's Club on her side.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     I cannot see any objection to the woman remaining. She may stay, Bridget.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <stage>
+     ( exultantly, to BRID.).
+    </stage>
+    <p>
+     Youse jest go lose youself. I'se gwine to stay. I'se a bery 'portant witness.
+    </p>
+   </sp>
+   <stage>
+    ( Takes her seat in front row, on R.)
+   </stage>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Will, it's none av my affairs.
+     <stage>
+      [ Exit .
+     </stage>
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Madam President and members of the Bartonville Woman's Club, upon this table are three articles
+     <pb n="13"/>
+     which we believe will prove that Mrs. Redding has violated the laws of this club.
+     <stage>
+      ( Holds up the different articles in turn .)
+     </stage>
+     Exhibit A — an infant's cap. You will note that it is of excellent shape and beautifully made. The stitches are uniform, and show an experienced hand.
+     <stage>
+      ( Sternly .)
+     </stage>
+     The woman who made this cap has made others. This is not her
+     first offense
+     .
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     H'm! I should say not.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( taking up shirt ).
+    </stage>
+    <p>
+     Exhibit B — a man's shirt. Almost a lost art in the family circle. To make a shirt like this would consume many hours, — aye, days. Now, ladies, the woman who made this shirt must have neglected the duties of this club. Instead of marching on the broad highway with her banner unfurled, she has sat within the narrow confines of her own home and plied the needle, not the pen.
+     <stage>
+      ( Takes up loaf of bread .)
+     </stage>
+     Exhibit C — this loaf of bread. A perfect loaf of bread. It is light bread.
+     <stage>
+      ( Breaks open the loaf .)
+     </stage>
+     Very light bread. How much better that the woman who used her muscle for the kneading of that bread should have — metaphorically speaking — used it to break down the barriers that stand between woman and her well deserved rights.
+     <stage>
+      ( Applause from members on the left .)
+     </stage>
+     Ladies, I thank you. Madam President, since we have with us a witness for the defense, I should like to ask her a few questions.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     The witness for the defense please rise.
+    </p>
+   </sp>
+   <stage>
+    (MRS. R. motions for MEL. to rise .)
+   </stage>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     Does dat 'spression supply to me?
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     Yes, Melissa.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     H'm! I ain't no witness on de fence. I'se square on de ground, I is.
+     <stage>
+      (MRS. R. motions for her to stand .)
+     </stage>
+     Is I to rise up?
+    </p>
+   </sp>
+   <stage>
+    (MRS. R. nods assent; MEL. stands .)
+   </stage>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     What is your name, my good woman?
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     Melissa Johnson;
+     <stage>
+      ( with meaning )
+     </stage>
+     but to ma friends, I'se jest Melissa.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     How old are you, Melissa?
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <stage>
+     ( with dignity ).
+    </stage>
+    <p>
+     Melissa Johnson, if you please.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Very well, Melissa Johnson. How old are you?
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     I doan't know 'zactly, miss, but I reckon I'se de age when one woman ain't keen 'bout tellin' it to another.
+    </p>
+   </sp>
+   <stage>
+    ( Members laugh .)
+   </stage>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Oh, I see! Uncertain age.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     "Uncertain age"!
+     <stage>
+      ( Puzzled .)
+     </stage>
+     I doan't know what dat age really is maself, but dat's what it am if you say so.
+     Youse
+     seems to know.
+    </p>
+   </sp>
+   <stage>
+    ( Members laugh .)
+   </stage>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     How long have you known Mrs. Redding?
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     For de land's sake! How long have I known ma Miss Jane? Eber since she war born.
+     <stage>
+      ( Indignant .)
+     </stage>
+     Long 'nuff to know dat whatever ma Miss Jane do am all right. What youse tryin' for to do? Ma Miss Jane ain't done nuffin' to be 'shamed of. She am a lamb, a white lamb. She ain't no black sheep.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( holding up cap ).
+    </stage>
+    <p>
+     Have you ever seen this before?
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     No. Dat ain't no propriety ob our house.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( holding up shirt ).
+    </stage>
+    <p>
+     And this?
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     Huh! Dat shirt! Dat ain't Massa Redding's size. If he done see dat shirt he'd say — "For de land's sake! Who done shrunken ma shirt like dat?"
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     This shirt is too small?
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     It sure am. Why, he am dat big dat when de laundress made subjections to de washin' ob such large shirts he am said, "I ain't gwine to wear any smaller shirts dan what fit me for nobody." Dose am his bery words. — Dat is,
+     most
+     ob his words.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( holding up bread ).
+    </stage>
+    <p>
+     And this?
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     Huh! Dat am bread. De walkin' stick ob life.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     That will do.
+    </p>
+   </sp>
+   <stage>
+    (MEL. sits .)
+   </stage>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Madam President, according to Melissa —
+     <stage>
+      ( To MEL.)
+     </stage>
+     I beg your pardon. I mean Melissa Johnson.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     No appleoligies needed, miss, kase
+     you
+     seems to be a friend ob the family.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     Thank you, Melissa. There seems to be a doubt about these exhibits being the property of Mrs. Redding.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     Of course they belong to her.
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     What right has Mrs. Smith to make such a statement?
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     Yas, dat's what we all want to know.
+    </p>
+   </sp>
+   <stage>
+    ( Members try to pull her down .)
+   </stage>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Silence.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     But Missus President, we doan't hab no baby in our house. Dat ain't de kind ob shirt we am a-wearin',
+     <stage>
+      ( with contempt )
+     </stage>
+     an' dat ain't our kind ob bread.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Melissa Johnson, if you do not stop talking you shall leave the room.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     But Missus President —
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <stage>
+     ( sternly ).
+    </stage>
+    <p>
+     That will do, Melissa.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     Well, I jest knows —
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Stop talking.
+     <stage>
+      (MEL. mumbles to herself .)
+     </stage>
+     Do you hear me? Stop talking.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     I ain't talking. I'se jest soliloquizing on de subject to maself. Dat's all.
+    </p>
+   </sp>
+   <stage>
+    Enter BRID.
+   </stage>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Madam Prisident, the maytin' in the nixt room objects to the maytin' in this wan, on account av the noise yees be afther makin'.
+     <stage>
+      [ Exit .
+     </stage>
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Mrs. Redding, did you make this cap?
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( rising quickly ).
+    </stage>
+    <p>
+     Madam President, I object. At the opening of this session Miss Peabody made the statement that "There are three articles upon this table which we believe
+     will prove
+     that Mrs. Redding violated the laws of this club."
+     <stage>
+      ( Folds her arms .)
+     </stage>
+     Now, let her prove it.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Yas, dat's what we am a-lookin' for. De proof.
+    </p>
+   </sp>
+   <stage>
+    ( Members pull her down .)
+   </stage>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     I should like to ask Mrs. Smith a few questions.
+     <stage>
+      (MRS. SMITH rises .)
+     </stage>
+     Mrs. Smith, you made the statement that these articles belonged to Mrs. Redding.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     I did.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( rising quickly ).
+    </stage>
+    <p>
+     Did you
+     see
+     Mrs. Smith make this loaf of bread? This shirt? This cap?
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     I have seen her sewing on just such articles, and I have seen her making bread.
+    </p>
+   </sp>
+   <sp who="#mrsluce">
+    <speaker>
+     MRS. L.
+    </speaker>
+    <p>
+     So have I.
+     <stage>
+      ( Members on the same side .)
+     </stage>
+     And I.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <stage>
+     ( using gavel ).
+    </stage>
+    <p>
+     Silence!
+    </p>
+   </sp>
+   <stage>
+    Enter BRID.
+   </stage>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     The prisident in the nixt room says if yees don't sthop makin' so much noise, she'll have yees all arristed for disturbin' the pace. Shure! yees was all right before the lady wid color was let in.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     What you done call me? A "lady wid color"? I jest wants youse to know dat I'se got Virginia blood in ma veins, I has.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Will! Ould Ireland blood is good enough for me.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <stage>
+     ( contemptuously ).
+    </stage>
+    <p>
+     Huh!
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Bridget, leave this room at once and do not enter it again.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Faith, an' it's obligin' I'd loike to be, but if the other presidents sind me here it's my business to come. I'd be losin' my extra tips if I didn't treat yees all alike. If yees would be afther a-lettin' me sthay, I'd not throuble yees by comin' in.
+    </p>
+   </sp>
+   <sp who="#mrsanthony">
+    <speaker>
+     MRS. A.
+    </speaker>
+    <p>
+     Not a bad idea, Madam President.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Very well, Bridget, you may stay; but not a word, remember.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     If I sphake I'll not open me lips.
+     <stage>
+      ( Stands by door .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Mrs. Smith, did you see Mrs. Redding make this cap?
+     <stage>
+      (MRS. SMITH rises but does not answer .)
+     </stage>
+     Did you
+     see
+     Mrs. Redding make this cap?
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH
+    </speaker>
+    <stage>
+     ( reluctantly ).
+    </stage>
+    <p>
+     N-no.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     Did you
+     see
+     Mrs. Redding make this shirt?
+     <stage>
+      ( Same business .)
+     </stage>
+     Did you
+     see
+     Mrs. Redding make this shirt?
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     N-no.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     This loaf of bread?
+     <stage>
+      ( Pounds on table .)
+     </stage>
+     This loaf of bread?
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     N-no.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     That will do.
+     <stage>
+      (MRS. SMITH sits .)
+     </stage>
+     Madam President and members of the Bartonville Woman's Club, Mrs. Smith asserts that these articles are the property of Mrs. Redding, and yet she confesses that she did not
+     see
+     her make them.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( rising quickly ).
+    </stage>
+    <p>
+     It is not necessary that Mrs. Smith should have seen Mrs. Redding making them.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     I beg your pardon. I think it is.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Mrs. Smith is a lady of integrity.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     I have my doubts.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     Do you mean to tell me before my face and eyes that I am not speaking the truth?
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     If you assert that Mrs. Redding made these articles without your seeing them, I do.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Miss Dane, you forget yourself.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     I do not forget that one of the members of this club is either justly or unjustly accused, and for the truth
+     <stage>
+      ( pounding on table )
+     </stage>
+     I shall fight — fight to the bitter end.
+    </p>
+   </sp>
+   <stage>
+    ( Women on right applaud. Knock on wall .)
+   </stage>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Whist! The other prisident.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     Mrs. Redding, did you make these articles?
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     I did not.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     Ain't dat what I done tole you?
+     <stage>
+      ( Points to MRS. SMITH.)
+     </stage>
+     I 'spec's dat de lady wid de green feather on her hat done make dem herself.
+    </p>
+   </sp>
+   <stage>
+    ( Members pull her down .)
+   </stage>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     Thank you, Melissa, for the idea. Mrs. Smith, did you make this bread?
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH
+    </speaker>
+    <stage>
+     ( with a sweeping gesture ).
+    </stage>
+    <p>
+     My work is on the broad highway.
+    </p>
+   </sp>
+   <stage>
+    ( Knocks off hat of MISS S., who sits beside her .)
+   </stage>
+   <sp who="#misssimpkins">
+    <speaker>
+     MISS S.
+    </speaker>
+    <stage>
+     ( furious, after she has picked up the hat, jamming it down on her head ).
+    </stage>
+    <p>
+     I wish you would stay there.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     Do you not sew?
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     I have no time for such menial labors.
+    </p>
+   </sp>
+   <stage>
+    ( Knock at door — BRID. opens it and ANITA SMITH, a small girl of twelve, enters. She looks neglected .)
+   </stage>
+   <sp who="#anita">
+    <speaker>
+     ANITA
+    </speaker>
+    <stage>
+     ( to BRID.).
+    </stage>
+    <p>
+     Is my ma here?
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Faith! There's a whole bunch of mas. — Which wan is it?
+    </p>
+   </sp>
+   <sp who="#anita">
+    <speaker>
+     ANITA.
+    </speaker>
+    <p>
+     My ma is Mrs. Smith.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Oh! She's here, all right.
+    </p>
+   </sp>
+   <sp who="#anita">
+    <speaker>
+     ANITA
+    </speaker>
+    <stage>
+     ( running down and looking at the members — finally discovering MRS. SMITH and running over to her ).
+    </stage>
+    <p>
+     Oh, ma! Pa wants to know where the new shirt is that you made for him!
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH
+    </speaker>
+    <stage>
+     ( shaking her ).
+    </stage>
+    <p>
+     Keep still.
+    </p>
+   </sp>
+   <sp who="#anita">
+    <speaker>
+     ANITA.
+    </speaker>
+    <p>
+     Why, ma?
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     Because I tell you to.
+    </p>
+   </sp>
+   <sp who="#anita">
+    <speaker>
+     ANITA.
+    </speaker>
+    <p>
+     But ma, pa says that he can't go to the Elks tonight without it.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH
+    </speaker>
+    <stage>
+     ( still shaking her ).
+    </stage>
+    <p>
+     Will you be quiet?
+    </p>
+   </sp>
+   <sp who="#anita">
+    <speaker>
+     ANITA.
+    </speaker>
+    <p>
+     Why, ma?
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH
+    </speaker>
+    <stage>
+     ( rising and pushing ANITA up stage ).
+    </stage>
+    <p>
+     You go straight home and tell your father that he can't go anywhere until I get there.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( detaining her ).
+    </stage>
+    <p>
+     One moment, please, Madam President; we seem to have a new witness for the defense. I should like to question her.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH
+    </speaker>
+    <stage>
+     ( who is up stage near door with ANITA).
+    </stage>
+    <p>
+     I object. This is no place for a child.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( taking hold of ANITA).
+    </stage>
+    <p>
+     One moment, Mrs. Smith.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     This is my child.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     And my witness.
+     <stage>
+      ( Brings ANITA to front of table . ANITA stands in front of it, furtively watching her mother, who stands at back of stage .)
+     </stage>
+     How old are you, little girl?
+    </p>
+   </sp>
+   <sp who="#anita">
+    <speaker>
+     ANITA.
+    </speaker>
+    <p>
+     Twelve.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( holding up cap ).
+    </stage>
+    <p>
+     Have you ever seen this before?
+    </p>
+   </sp>
+   <sp who="#anita">
+    <speaker>
+     ANITA.
+    </speaker>
+    <p>
+     Oh, yes!
+     <stage>
+      ( Looks at her mother .)
+     </stage>
+     It
+     looks
+     like the one our baby wears.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     This loaf of bread?
+    </p>
+   </sp>
+   <sp who="#anita">
+    <speaker>
+     ANITA.
+    </speaker>
+    <p>
+     Oh —
+     <stage>
+      ( Looks at her mother .)
+     </stage>
+     It
+     looks
+     like our bread.
+     <stage>
+      ( Breaks off a piece and crowds it into her mouth .)
+     </stage>
+     It tastes like it, too.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( holding up shirt ).
+    </stage>
+    <p>
+     And this shirt?
+    </p>
+   </sp>
+   <sp who="#anita">
+    <speaker>
+     ANITA
+    </speaker>
+    <stage>
+     ( grasping shirt eagerly ).
+    </stage>
+    <p>
+     Oh, yes.
+     <stage>
+      ( Looks at her mother; begins to cry .)
+     </stage>
+     It
+     looks
+     like the one pa is waiting for.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     So, Mrs. Smith! Guilty of what you accuse others.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Madam President, a child of such tender years should not be allowed on the witness stand. Her testimony should not be accepted.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     Children and fools speak the truth, and that is what we want. It is very evident that there is some one in this room who is not telling it.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Madam President, I object to the language of the counsel for the defense.
+    </p>
+   </sp>
+   <sp who="#lucretia">
+    <speaker>
+     LUCRETIA.
+    </speaker>
+    <p>
+     Madam President, I should like to ask Mrs. Smith a question.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Certainly, Miss Briggs.
+    </p>
+   </sp>
+   <sp who="#lucretia">
+    <speaker>
+     LUCRETIA.
+    </speaker>
+    <p>
+     Mrs. Smith, did you bring these articles here?
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH
+    </speaker>
+    <stage>
+     ( defiantly ).
+    </stage>
+    <p>
+     I did.
+    </p>
+   </sp>
+   <sp who="#lucretia">
+    <speaker>
+     LUCRETIA.
+    </speaker>
+    <p>
+     Why?
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH
+    </speaker>
+    <stage>
+     ( coming down front ).
+    </stage>
+    <p>
+     For one whole year the influence of Mrs. Redding's lack of interest has been felt and is doing a great deal of harm to this club. This matter had to be stirred up, and I was the only one who had the backbone to do it. If I
+     have
+     made a cap, a shirt and a loaf of bread, I have not neglected the club. Suppose that every member did not attend for a whole year. What would become of your
+     <pb n="19"/>
+     Municipal League? I can take care of my family, and the club, too.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     Yes, this child
+     looks
+     it.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     I will not stay here another moment to be insulted.
+     <stage>
+      ( Pulls ANITA and swings her around .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#anita">
+    <speaker>
+     ANITA
+    </speaker>
+    <stage>
+     ( crying ).
+    </stage>
+    <p>
+     Ma, pa wants that shirt.
+    </p>
+   </sp>
+   <sp who="#mrssmith">
+    <speaker>
+     MRS. SMITH.
+    </speaker>
+    <p>
+     You'll get something that you don't want when I get you home.
+     <stage>
+      ( Pushes her up stage .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#anita">
+    <speaker>
+     ANITA
+    </speaker>
+    <stage>
+     ( as they exeunt ).
+    </stage>
+    <p>
+     But, ma.
+    </p>
+   </sp>
+   <sp who="#mrsbeadle">
+    <speaker>
+     MRS. BEADLE
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     I move that Mrs. Smith be expelled from this club.
+    </p>
+   </sp>
+   <sp who="#lucretia">
+    <speaker>
+     LUCRETIA.
+    </speaker>
+    <p>
+     I second that motion.
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     One moment, Madam President. I believe that Mrs. Smith did not realize what she was doing. She has the interest of the club so at heart that we must forgive her for using such severe measures. It is very evident that this meeting has been called to vote upon my expulsion from the club. No votes will be necessary. I resign.
+    </p>
+   </sp>
+   <sp who="#members">
+    <speaker>
+     MEMBERS.
+    </speaker>
+    <p>
+     No. No.
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     But before doing so, I would like to say a few words. I
+     do
+     sew, I do bake bread, and I have made my husband a shirt.
+    </p>
+   </sp>
+   <sp who="#mrsjenkins">
+    <speaker>
+     MRS. J.
+    </speaker>
+    <stage>
+     ( bursting into tears ).
+    </stage>
+    <p>
+     So have I.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( contemptuously ).
+    </stage>
+    <p>
+     The clinging vine.
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <stage>
+     ( with spirit ).
+    </stage>
+    <p>
+     Yes, the clinging vine, and I glory in it. For five years I neglected my family for the principles of this club, and what was the result? An unattractive home and an unhappy husband. I have learned that the broad highway is not the place for woman or her noble deeds.
+    </p>
+   </sp>
+   <stage>
+    ( Members on the right applaud .)
+   </stage>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Madam President, Mrs. Redding has admitted her guilt. She has failed in her duties as a member of this club. Instead of enrolling her name on the scroll of fame, instead of standing strong and upright like the sturdy oak, she has become the weak and clinging vine, and you will be perfectly justified in accepting her resignation.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     One moment, Madam President. My illustrious opponent, Miss Peabody, speaks scathingly of the clinging vine.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     I do.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     May I ask what is your definition of the term?
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Just what the name implies. Too weak to stand alone.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     And do you call it weak for a woman to care for her husband and children?
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     I do, when she is called to larger fields of action.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     Who calls her?
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     If these are your theories, why are you a lawyer, Miss Dane?
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     Because I have my daily bread to earn
+     <stage>
+      ( taking up loaf of bread ),
+     </stage>
+     and I only wish that I could always be sure of as good bread as this. Members of the Bartonville Woman's Club, Miss Peabody has already called your attention to this cap — that it is beautifully made and shows a skilled hand in needle-craft. Does this cap mean only that? Does it not stand for something more than that? Is it not a beautiful illustration of a mother's tender care? The thoughtfulness of a mother's love? This loaf of bread? Does it not show the solicitude of a good housewife for the welfare of her husband and children? This bread is not carelessly put together to ruin their health and digestion. No, not at all, my friends. Time and care have been put into its making. Can a woman battle with the wrongs of a nation on the broad highway and make good bread at the same time? No, my friends, no! This shirt — what more beautiful or ennobling sight than to see a fond husband, aye, and a proud one, too, wearing a shirt that his wife has made for him. No matter if the neck-band is too small, or the buttonholes too large, he suffers in silence, proud in the possession of what my friend on my left has been pleased to call "the clinging vine."
+    </p>
+   </sp>
+   <stage>
+    ( Applause .)
+   </stage>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Why do you not live up to these principles and become a clinging vine yourself?
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     Because
+     <stage>
+      ( sweetly ),
+     </stage>
+     like yourself, I am still waiting — waiting.
+    </p>
+   </sp>
+   <stage>
+    ( Members laugh .)
+   </stage>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     Oh, indeed!
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Faith! It's blind in both eyes some man must be.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Bridget!
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     I beg pardon, Mrs. Prisident. It sphake for itself.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Let us hear from some of the members.
+    </p>
+   </sp>
+   <sp who="#mrsbeadle">
+    <speaker>
+     MRS. BEADLE
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     I move that Mrs. Smith be expelled from this club.
+    </p>
+   </sp>
+   <sp who="#women">
+    <speaker>
+     WOMEN
+    </speaker>
+    <stage>
+     ( on right, standing ).
+    </stage>
+    <p>
+     Second the motion.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN.
+    </speaker>
+    <p>
+     One moment. Mrs. Smith's child did not say that these articles
+     were
+     the property of her mother but
+     looked
+     like it. Mrs. Smith's zeal for the welfare of this club made her resort to drastic measures, I admit, but where would this club be if every member remained at home to sew and bake? What would become of your Municipal League? Your protection of the rights of women? The future prosperity of your country?
+    </p>
+   </sp>
+   <stage>
+    ( Applause from MEMBERS, on the left .)
+   </stage>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Mrs. Smith has admitted that she has made these articles. That they are
+     well
+     made proves that it is the natural instinct of a wife and mother to give loving care to her husband and children. To travel on the "broad highway" is but a fleeting fancy, which in time will lose its allurement. Madam President and members of the Bartonville Woman's Club, while you are attending these meetings, while you are investigating the conditions of the outlying districts, when you vote at the polls,
+     who
+     takes care of your children? Are they sent to school with faces and hands properly washed? their hair brushed and with
+     buttons on their shoes?
+     I fear not; and what is the result? That some woman, whose name I may not divulge, some
+     "clinging vine"
+     as my esteemed colleague has been pleased to call it, has felt this condition so keenly, that at her own expense, she is about to erect an edifice for the neglected children of this town where they can be cared for while their mothers are busy with the welfare of the nation. Let women vote, I say! but let it be home and children
+     first
+     .
+    </p>
+   </sp>
+   <stage>
+    ( Applause .)
+   </stage>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Missus President, I would jest like to speak.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Very well, Melissa.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     I kin tell youse de name —
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     Melissa.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     But, Miss Jane, I must speak —
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     Not one word.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     But I cyant jest hold it in, I must.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <p>
+     If Melissa Johnson has any information, pray let her speak.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     Yas, I has de 'formation an' it am 'portant, too. If de ladies ob dis yere club think dat ma Miss Jane ain't doin'
+     <pb n="22"/>
+     nuffin dese yere days — ain't doin' her duty to de world, I jest wants to tell 'em dat
+     she
+     am de pusson what am gwine to build de place for de little indignant chillun.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Is this true?
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     It am de gospel truth.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Mrs. Redding, you make us blush with shame.
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <p>
+     Yas, youse jest better gat way down to de ground.
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Since Melissa has given my secret away, I must admit the truth of her statement. There are so many neglected children in this town, I am determined to make their welfare my life-work.
+    </p>
+   </sp>
+   <stage>
+    ( Applause .)
+   </stage>
+   <sp who="#mrsbeadle">
+    <speaker>
+     MRS. BEADLE
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     I move that all accusations be removed.
+    </p>
+   </sp>
+   <sp who="#misssimpkins">
+    <speaker>
+     MISS S.
+    </speaker>
+    <stage>
+     ( rising ).
+    </stage>
+    <p>
+     Second the motion.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     It is moved and seconded that Mrs. Redding stands free from all accusations. Those in favor, please rise.
+     <stage>
+      ( All stand .)
+     </stage>
+     It is a rising vote.
+     <stage>
+      ( All sit .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     Ladies, I thank you, but since I have retired from active service in this club, I find the new life so much more worth while, so much more satisfactory, I prefer to continue in it, and insist that my resignation be accepted.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     But Mrs. Redding, we regret this unfortunate affair.
+    </p>
+   </sp>
+   <sp who="#mrsredding">
+    <speaker>
+     MRS. R.
+    </speaker>
+    <p>
+     I believe that you do, but that is my decision. Miss Dane, I thank you for your very able efforts in my behalf. Ladies, good-afternoon.
+     <stage>
+      [ Exit, with dignity .
+     </stage>
+    </p>
+   </sp>
+   <sp who="#melissa">
+    <speaker>
+     MEL.
+    </speaker>
+    <stage>
+     ( rising and going up stage, turning before exit ).
+    </stage>
+    <p>
+     Dat's ma 'pinion too. We am dat busy we ain't got no time for de frivolities ob dis yere club.
+     <stage>
+      [ Exit .
+     </stage>
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <p>
+     Shure, she is so full av pride, I wonder if she'll hould together.
+     <stage>
+      [ Exit .
+     </stage>
+    </p>
+   </sp>
+   <sp who="#lucretia">
+    <speaker>
+     LUCRETIA.
+    </speaker>
+    <p>
+     Madam President, I believe that Mrs. Redding is right. We have neglected our homes. Unconsciously perhaps, with no real intention of neglect. As our interests in the outside world have increased, we have had no time for the home life.
+    </p>
+   </sp>
+   <sp who="#mrsbeadle">
+    <speaker>
+     MRS. BEADLE.
+    </speaker>
+    <p>
+     I agree with Miss Briggs. I should like to spend more time at home.
+    </p>
+   </sp>
+   <sp who="#mrsjenkins">
+    <speaker>
+     MRS. J.
+    </speaker>
+    <stage>
+     ( wistfully ).
+    </stage>
+    <p>
+     So should I.
+    </p>
+   </sp>
+   <sp who="#lucretia">
+    <speaker>
+     LUCRETIA.
+    </speaker>
+    <p>
+     Why cannot we still be interested in the welfare of our town but with moderation?
+    </p>
+   </sp>
+   <sp who="#misssimpkins">
+    <speaker>
+     MISS S.
+    </speaker>
+    <p>
+     I move that "moderation" be our new watchword.
+    </p>
+   </sp>
+   <sp who="#mrsluce">
+    <speaker>
+     MRS. L.
+    </speaker>
+    <p>
+     I second the motion.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     It is moved and seconded that we devote more time to the domestic life and to the town affairs with moderation. Let it be a rising vote.
+    </p>
+   </sp>
+   <stage>
+    ( All rise .)
+   </stage>
+   <sp who="#lucretia">
+    <speaker>
+     LUCRETIA.
+    </speaker>
+    <p>
+     What about Mrs. Smith?
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Well, if it had not been for her determination to get to the truth of this affair, we might still be harboring unpleasant thoughts of Mrs. Redding. Let bygones be bygones. We met together to pass judgment upon one who by her independence of thought and action has turned the tide in the affairs of this club. May it prove a blessing in disguise.
+    </p>
+   </sp>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <stage>
+     ( entering, very excited ).
+    </stage>
+    <p>
+     Beg your pardon, Madam Prisident, for interruptin' the maytin', but Mr. Smith is outside a-takin' on terribly. He has come for his shirt an' says if he don't be afther a-havin' it, he'll come in an' break up the maytin': — only it's a much sthronger way he has av sayin' it.
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Give it to him at once, Bridget.
+    </p>
+   </sp>
+   <stage>
+    (PRIS. gives shirt to BRID.)
+   </stage>
+   <sp who="#bridget">
+    <speaker>
+     BRID.
+    </speaker>
+    <stage>
+     ( holding up shirt ).
+    </stage>
+    <p>
+     An' to think that wan small shirt co'ld be afther a-makin' so much throuble.
+     <stage>
+      [ Exit .
+     </stage>
+    </p>
+   </sp>
+   <sp who="#mrsspencer">
+    <speaker>
+     MRS. SPEN.
+    </speaker>
+    <p>
+     Miss Peabody and Miss Dane, your arguments have been convincing. In behalf of the Bartonville Woman's Club, I thank you.
+    </p>
+   </sp>
+   <sp who="#susan">
+    <speaker>
+     SUSAN
+    </speaker>
+    <stage>
+     ( rising, acknowledging it; has her papers in her hands ).
+    </stage>
+    <p>
+     Madam President
+     <stage>
+      ( with sarcasm ),
+     </stage>
+     I hope that this "clinging vine" theory will succeed.
+    </p>
+   </sp>
+   <sp who="#priscilla">
+    <speaker>
+     PRIS.
+    </speaker>
+    <stage>
+     ( who is also gathering up her papers ).
+    </stage>
+    <p>
+     It
+     must
+     , Miss Peabody, for it is woman's true calling. It is a great thing to count in the moulding of a nation, but a greater —
+     to perfect the home
+     .
+    </p>
+   </sp>
+  </body>
+  <back>
+   <p>
+    QUICK CURTAIN
+   </p>
+  </back>
+ </text>
+</TEI>

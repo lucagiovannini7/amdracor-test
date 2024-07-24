@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am658" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Bianca
+    </title>
+    <author>
+     Alcott, Louisa May
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Project Gutenberg
+     </name>
+     <idno>
+      https://www.gutenberg.org/ebooks/33986
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Comic Tragedies, by Louisa M. Alcott
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="hilda" sex="FEMALE">
+      <persName>
+       Hilda
+      </persName>
+     </person>
+     <person xml:id="huon" sex="MALE">
+      <persName>
+       Huon
+      </persName>
+     </person>
+     <person xml:id="adelbert" sex="MALE">
+      <persName>
+       Adelbert
+      </persName>
+     </person>
+     <person xml:id="bianca" sex="FEMALE">
+      <persName>
+       Bianca
+      </persName>
+     </person>
+     <person xml:id="juan" sex="MALE">
+      <persName>
+       Juan
+      </persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Opera
+     </term>
+     <term subtype="am" type="genreTitle">
+      Comedy
+     </term>
+     <term subtype="am" type="genreTitle">
+      Tragedy
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1893">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <head>
+    NOTE TO BIANCA.
+   </head>
+   <p>
+    The peculiarity of this opera was that while the words were committed to memory, the music was composed and sung as the scene proceeded.
+   </p>
+   <p>
+    In spite of its absurdity, this play was a great favorite; for Jo was truly superb as the hapless Bianca, while her trills and tragic agonies were considered worthy of the famous Grisi herself.
+   </p>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      CHARACTERS.
+     </head>
+     <castItem>
+      Adelbert Betrothed to Bianca .
+     </castItem>
+     <castItem>
+      Huon His Rival .
+     </castItem>
+     <castItem>
+      Juan A Page .
+     </castItem>
+     <castItem>
+      Bianca A Spanish Lady .
+     </castItem>
+     <castItem>
+      Hilda A Witch .
+     </castItem>
+    </castList>
+   </div>
+  </front>
+  <body>
+   <div type="act">
+    <head>
+     SCENE FIRST.
+    </head>
+    <stage>
+     A wood. Enter Huon
+    </stage>
+    <sp who="#huon">
+     <speaker>
+      Huon
+      .
+     </speaker>
+     <p>
+      Hist! All is still. They are not yet here. On this spot will the happy lovers meet. O wretched Huon! she whom thou so passionately doth love will here speak tender words to thy thrice hated rival. Yet I, unseen, will watch them, and ere long my fierce revenge shall change their joy to deepest woe. Hark! they come! Now, jealous heart, be still!
+      <stage>
+       [ Hides among the trees .]
+      </stage>
+     </p>
+    </sp>
+    <stage>
+     Enter Bianca and Adelbert .
+    </stage>
+    <sp who="#adelbert">
+     <speaker>
+      Adel.
+     </speaker>
+     <p>
+      Nay, dearest love, fear not; no mortal eye beholds us now, and yon bright moon looks kindly down upon our love.
+     </p>
+    </sp>
+    <stage>
+     They seat themselves beneath the trees .
+    </stage>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Ah, dearest Adelbert, with thee I feel no fear, but thy fierce rival Huon did vow vengeance on thee, for I did reject his suit for thine. Beware! for his wild heart can feel no pity, tenderness, or love.
+     </p>
+    </sp>
+    <sp who="#adelbert">
+     <speaker>
+      Adel.
+     </speaker>
+     <p>
+      I fear him not. Ere long thou wilt be mine, and then in our fair home we will forget all but our love. Think not, dearest, of that dark, revengeful man; he does not truly love thee.
+     </p>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Near thee I cannot fear; but when thou art far from me, my fond heart will ever dread some danger for thee. Ah, see the moon is waning; dear love, thou must away.
+     </p>
+    </sp>
+    <sp who="#adelbert">
+     <speaker>
+      Adel.
+     </speaker>
+     <p>
+      Ah, sweet moments, why so quickly fled? 'Tis hard to leave thee, thou bright star in my life's sky, and yet I must, or all may be betrayed. Fare thee well, dear love. One sweet kiss ere we part!
+      <stage>
+       [ They embrace .]
+      </stage>
+     </p>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Farewell! Ah, when shall I again behold thee? Oh, be not long
+      <pb n="263"/>
+      away, for like a, caged bird I pine for thee.
+     </p>
+    </sp>
+    <sp who="#adelbert">
+     <speaker>
+      Adel.
+     </speaker>
+     <p>
+      When next yon moon doth rise beneath thy lattice, thou shalt hear my light guitar.
+     </p>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Fail not to come. I shall watch for thee the live-long night, and if thou comest not, this fond heart will grieve.
+     </p>
+    </sp>
+    <sp who="#bianca #adelbert">
+     <speaker>
+      Both
+      .
+     </speaker>
+     <l>
+      Farewell, till yon bright moon doth rise,
+     </l>
+     <l>
+      Farewell, dear love, farewell!
+     </l>
+     <l>
+      Farewell, farewell, farewell!
+     </l>
+     <l>
+      Farewell, dear love, farewell!
+     </l>
+    </sp>
+    <stage>
+     Exit Adelbert .
+    </stage>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Ah, love, thou magic power, thus ever make my breast thy home. Adieu, dear spot! I fly to happiness and —
+     </p>
+    </sp>
+    <sp who="#huon">
+     <speaker>
+      Huon
+      .
+     </speaker>
+     <p>
+      Me
+      —
+      <stage>
+       [ Bianca shrieks, and seeks to fly . Huon detains her .]
+      </stage>
+     </p>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Unmanly villain, touch me not. What dost thou here concealed?
+     </p>
+    </sp>
+    <sp who="#huon">
+     <speaker>
+      Huon
+      .
+     </speaker>
+     <p>
+      I listen to thy lover's fond and
+      <pb n="264"/>
+      heartless vows. What is his love to mine? Ah, lady, he loves thee for thy wealth alone. Again I ask, nay, I implore thee to be mine! Oh, grant me now my prayer!
+     </p>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Never! never! I will not listen to thee more. My heart is all another's; my hatred and contempt are thine.
+     </p>
+    </sp>
+    <stage>
+     Exit Bianca .
+    </stage>
+    <sp who="#huon">
+     <speaker>
+      Huon
+      .
+     </speaker>
+     <p>
+      Now, by yon moon 'neath which thy tender vows were plighted, do I swear to win thee, proud and haughty lady, to these arms. Thou shalt curse the day when thou didst cast away my love, and wake my deep revenge.
+     </p>
+    </sp>
+    <stage>
+     Exit Huon .
+    </stage>
+    <stage>
+     curtain
+    </stage>
+    <stage>
+     .
+    </stage>
+   </div>
+   <div type="act">
+    <head>
+     SCENE SECOND.
+    </head>
+    <stage>
+     A cave in the forest . Hilda leaning over a boiling caldron. Enter Huon
+    </stage>
+    <sp who="#hilda">
+     <speaker>
+      Hilda
+      .
+     </speaker>
+     <p>
+      Ha! who art thou, and what wouldst thou with old Hilda? Speak, and be obeyed.
+     </p>
+    </sp>
+    <sp who="#huon">
+     <speaker>
+      Huon
+      .
+     </speaker>
+     <p>
+      O mighty wizard, I have sought thee for a charm to win a proud and scornful woman's love, — some mystic potion that shall make her cold heart burn for me. Ah, give me this, and gold uncounted shall be thine.
+     </p>
+    </sp>
+    <sp who="#hilda">
+     <speaker>
+      Hilda
+      .
+     </speaker>
+     <p>
+      I will give to thee a draught that shall chase her coldness and her pride away, and make the heart now beating for another all thine own. Hold! 'tis here, — three crimson drops when mingled in her wine, will bring the boon thou askest
+      <stage>
+       [ gives Huon a tiny phial ].
+      </stage>
+     </p>
+    </sp>
+    <sp who="#huon">
+     <speaker>
+      Huon
+      .
+     </speaker>
+     <p>
+      Oh, blessed draught that wins for me the love I seek. Proud Bianca,
+      <pb n="266"/>
+      now art thou in my power, and shalt ere long return the love of the once hated and despised Huon. Great sorceress, say how can I repay thee? Fear not to claim thy just reward.
+     </p>
+    </sp>
+    <sp who="#hilda">
+     <speaker>
+      Hilda
+      .
+     </speaker>
+     <p>
+      I ask no gold. But when thy prize is won, remember thou old Hilda's warning. Woman's heart is a fragile thing, and they who trifle with it should beware. Now go; I would, be alone.
+     </p>
+    </sp>
+    <sp who="#huon">
+     <speaker>
+      Huon
+      .
+     </speaker>
+     <p>
+      Farewell! When my love and my revenge are won, I'll bless this hour and Hilda's charm.
+     </p>
+    </sp>
+    <stage>
+     Exit Huon .
+    </stage>
+    <sp who="#hilda">
+     <speaker>
+      Hilda
+      .
+     </speaker>
+     <p>
+      Poor fool! thou little thinkest thy love-charm is a deadly draught, and they who quaff it die. When thou shalt seek thy lady, hoping for her love, a dead bride thou wilt win. Ha! ha! old Hilda's spells work silently and well.
+     </p>
+    </sp>
+    <stage>
+     curtain
+    </stage>
+    <stage>
+     .
+    </stage>
+   </div>
+   <div type="act">
+    <head>
+     SCENE THIRD.
+    </head>
+    <stage>
+     Room in the castle of Bianca . Evening. Enter Huon
+    </stage>
+    <sp who="#huon">
+     <speaker>
+      Huon
+      .
+     </speaker>
+     <p>
+      How can I best give the draught that none may see the deed? Ha! yonder comes her page, bearing wine. Now in her cup will I mingle these enchanted drops, and she shall smile on me when next I plead my suit. Ho, Juan, my boy! come hither; I would speak with thee.
+      <stage>
+       [ Enter Juan with wine .]
+      </stage>
+      Where is thy lady now?
+     </p>
+    </sp>
+    <sp who="#juan">
+     <speaker>
+      Juan
+      .
+     </speaker>
+     <p>
+      At her lattice, watching for Lord Adelbert, and gazing on the flowers he hath sent.
+     </p>
+    </sp>
+    <sp who="#huon">
+     <speaker>
+      Huon
+     </speaker>
+     <stage>
+      aside ].
+     </stage>
+     <p>
+      She shall never watch and wait for him again.
+      <stage>
+       [ Aloud .]
+      </stage>
+      Whence bearest thou the wine, Juan? Is it to thy lady?
+     </p>
+    </sp>
+    <sp who="#juan">
+     <speaker>
+      Juan
+      .
+     </speaker>
+     <p>
+      Yes, my lord. She bid me haste. I must away.
+     </p>
+    </sp>
+    <sp who="#huon">
+     <speaker>
+      Huon
+      .
+     </speaker>
+     <stage>
+      Exit Juan .
+     </stage>
+     <p>
+      Stay! clasp my sandal, boy; I will repay thee if thy mistress chide.
+      <stage>
+       [ Juan stoops; Huon drops the potion into the wine cup .]
+      </stage>
+      Thanks; here is gold for thee. Away, and tell thy lady I will be here anon.
+     </p>
+     <l>
+      Ha, ha! 'tis done! 'tis done!
+     </l>
+     <l>
+      My vengeance now is won,
+     </l>
+     <l>
+      And ere to-morrow's sun shall set,
+     </l>
+     <l>
+      Thou, haughty lady, shalt forget
+     </l>
+     <l>
+      The lover who now hastes to thee,
+     </l>
+     <l>
+      And smile alone, alone on me.
+     </l>
+    </sp>
+    <stage>
+     Exit Huon .
+    </stage>
+    <stage>
+     curtain
+    </stage>
+    <stage>
+     .
+    </stage>
+   </div>
+   <div type="act">
+    <head>
+     SCENE FOURTH.
+    </head>
+    <stage>
+     Bianca's castle. A moonlit balcony. Enter Bianca
+    </stage>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <stage>
+      Adelbert sings in the garden below .
+     </stage>
+     <p>
+      He comes not. Yon bright moon will ere long set, and still I hear not the dear voice 'neath my lattice singing. Adelbert! Ah, come! Hist! I hear his light boat on the lake. 'Tis he! 'tis he!
+      <stage>
+       [ Leans over the balcony .]
+      </stage>
+     </p>
+     <l>
+      The moon is up, wake, lady, wake!
+     </l>
+     <l>
+      My bark is moored on yonder lake.
+     </l>
+     <l>
+      The stars' soft eyes alone can see
+     </l>
+     <l>
+      My meeting, dear one, here with thee.
+     </l>
+     <l>
+      Wake, dearest, wake! lean from thy bower,
+     </l>
+     <l>
+      The moonlight gleams on tree and flower.
+     </l>
+     <l>
+      The summer sky smiles soft above;
+     </l>
+     <l>
+      Look down on me, thou star of love!
+     </l>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Adelbert, dear love, now haste thee quickly up to me.
+     </p>
+    </sp>
+    <stage>
+     Enter Adelbert upon the balcony .
+    </stage>
+    <sp who="#adelbert">
+     <speaker>
+      Adel.
+     </speaker>
+     <p>
+      Sweet love, why fearest thou? None dare stay me when I fly to thee. Ah, sit thee here, and I will rest beside thee.
+      <stage>
+       [ Bianca seats herself; Adelbert lies at her feet .]
+      </stage>
+     </p>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Thou art weary, love. I'll bring thee wine, and thou shalt rest while I do sing to thee.
+      <stage>
+       [ She gives him wine; he drinks .]
+      </stage>
+     </p>
+    </sp>
+    <sp who="#adelbert">
+     <speaker>
+      Adel.
+     </speaker>
+     <p>
+      Thanks to thee, dearest love, I am weary now no longer. When here beside thee, pain, sorrow, time are all forgot. Ah! what is this? — a deadly pang hath seized me. All grows dark before mine eyes. I cannot see thee. Yon cup, — 'twas poisoned! I am dying, dying!
+     </p>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Ah, nay, thou art faint! Speak not of dying, love.
+      <stage>
+       [ Adelbert falls .]
+      </stage>
+      Adelbert, Adelbert, speak! — speak! It is thine own Bianca calls thee!
+      <stage>
+       [ Throws herself beside him .]
+      </stage>
+     </p>
+    </sp>
+    <sp who="#adelbert">
+     <speaker>
+      Adel.
+     </speaker>
+     <p>
+      Farewell, dear love, farewell! Huon hath won his vengeance now. God bless thee, dearest. Oh, farewell!
+      <stage>
+       [ Dies .]
+      </stage>
+     </p>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Awake! awake! Ah, cold and still! Thou true, brave heart, thou art hushed forever. Huon! yes! 'twas he; and he hath sought to win me thus. But 'tis in vain! Where is the poisoned cup that I may join thee, Adelbert?
+      <stage>
+       [ Takes the cup .]
+      </stage>
+      Ah, 'tis gone: there is no more. Yet I will be with thee, my murdered love. For me life hath no joy, and I will find thee even in death
+      <stage>
+       [ falls fainting to the ground ].
+      </stage>
+     </p>
+    </sp>
+    <stage>
+     curtain
+    </stage>
+    <stage>
+     .
+    </stage>
+   </div>
+   <div type="act">
+    <head>
+     SCENE FIFTH.
+    </head>
+    <stage>
+     Bianca's castle. The garden . Bianca singing
+    </stage>
+    <stage>
+     Weeps .
+    </stage>
+    <stage>
+     Enter Huon and kneels at her feet .
+    </stage>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+     </speaker>
+     <stage>
+      starting up ].
+     </stage>
+     <p>
+      Fiend! demon! touch me not with hands that murdered him! Hence! out of my sight, — away!
+     </p>
+    </sp>
+    <sp who="#huon">
+     <speaker>
+      Huon
+      .
+     </speaker>
+     <p>
+      Nay, lady, nay! I swear by Heaven it was not I. The spell I mingled in thy cup was but to win thy love. The old witch hath deceived me, and given that deadly poison. Forgive me, I implore thee, and here let me offer thee my love once more.
+     </p>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+     </speaker>
+     <stage>
+      repulsing him ].
+     </stage>
+     <p>
+      Love!
+      darest thou to speak of love to me, whose bright dream of life thou hast destroyed?
+      Love!
+      I who loathe, scorn, hate thee with a deep and burning hate that death alone can still! Oh, Heaven, have mercy on my tortured heart, and let it break.
+     </p>
+    </sp>
+    <sp who="#huon">
+     <speaker>
+      Huon
+     </speaker>
+     <stage>
+      aside ].
+     </stage>
+     <p>
+      His death hath well-nigh driven her mad. Dear lady, grieve not thus. Let me console thee. Forget thy love, and seek in mine the joy thou hast lost.
+     </p>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Forget! Ah, never, never, till in death I join him! Forgive thee? Not till I have told thy crime. Yes, think not I will rest till thou, my murdered Adelbert, art well avenged. And thou!
+      <pb n="274"/>
+      — ah, sinful man, tremble, for thou art in my power, and my wronged heart can feel no pity now.
+     </p>
+    </sp>
+    <sp who="#huon">
+     <speaker>
+      Huon
+     </speaker>
+     <stage>
+      fiercely ].
+     </stage>
+     <p>
+      Wouldst thou betray me? Never! Yield thou to my love, or I will sheathe my dagger in thy heart, and silence thee forever!
+     </p>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      I will not yield. The world shall know thy guilt, and then sweet death shall be a blessing.
+     </p>
+    </sp>
+    <sp who="#huon">
+     <speaker>
+      Huon
+      .
+     </speaker>
+     <p>
+      Then die, and free me from the love and fear that hang like clouds above me
+      <stage>
+       [ stabs her ].
+      </stage>
+     </p>
+    </sp>
+    <sp who="#bianca">
+     <speaker>
+      Bianca
+      .
+     </speaker>
+     <p>
+      Thy sin will yet be known, and may God pardon thee! O earth, farewell! My Adelbert, I come, I come!
+      <stage>
+       [ Dies .]
+      </stage>
+     </p>
+    </sp>
+    <sp who="#huon">
+     <speaker>
+      Huon
+      .
+     </speaker>
+     <p>
+      Dead! dead! Oh, wretched Huon! Where now seek rest from bitter memories and remorse. Ha, a step! I must fly. Angel, fare thee well!
+     </p>
+    </sp>
+    <stage>
+     Exit Huon .
+    </stage>
+    <stage>
+     curtain
+    </stage>
+    <stage>
+     .
+    </stage>
+   </div>
+   <div type="act">
+    <head>
+     SCENE SIXTH.
+    </head>
+    <stage>
+     Huon's room . Huon asleep upon a couch. Enter Bianca's spirit. She lays her hand upon him
+    </stage>
+    <sp who="#huon">
+     <speaker>
+      Huon
+     </speaker>
+     <stage>
+      starting in affright ].
+     </stage>
+     <p>
+      Ha! spirit of the dead, what wouldst thou now? For long, long nights why hast thou haunted me? Cannot my agony, remorse, and tears win thee to forget? Ah, touch me not! Away! away! See how the vision follows. It holds me fast. Bianca, save me! save me!
+      <stage>
+       [ Falls and dies .]
+      </stage>
+     </p>
+    </sp>
+    <stage>
+     Tableau .
+    </stage>
+   </div>
+  </body>
+  <back>
+   <p>
+    curtain.
+   </p>
+  </back>
+ </text>
+</TEI>

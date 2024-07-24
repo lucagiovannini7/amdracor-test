@@ -1,0 +1,1800 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am236" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     The Story-Spinner
+    </title>
+    <author>
+     Fuller, Henry Blake
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Internet Archive
+     </name>
+     <idno>
+      https://archive.org/details/puppetboothtwel01fullgoog
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Fuller, Henry Blake. The puppet-booth; twelve plays
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <particDesc>
+    <listPerson>
+     <person xml:id="bridegroom" sex="MALE">
+      <persName>Bridegroom</persName>
+     </person>
+     <person xml:id="groomsfather" sex="MALE">
+      <persName>Groom's Father</persName>
+     </person>
+     <person xml:id="groomsuncle" sex="MALE">
+      <persName>Groom's Uncle</persName>
+     </person>
+     <person xml:id="groomsmother" sex="FEMALE">
+      <persName>Groom's Mother</persName>
+     </person>
+     <person xml:id="wayfarer" sex="UNKNOWN">
+      <persName>Wayfarer</persName>
+     </person>
+     <person xml:id="bridesfather" sex="MALE">
+      <persName>Bride's Father</persName>
+     </person>
+     <person xml:id="bridesgrandmother" sex="FEMALE">
+      <persName>Bride's Grandmother</persName>
+     </person>
+     <person xml:id="bride" sex="FEMALE">
+      <persName>Bride</persName>
+     </person>
+     <person xml:id="bridesmother" sex="FEMALE">
+      <persName>Bride's Mother</persName>
+     </person>
+     <person xml:id="nurse" sex="FEMALE">
+      <persName>Nurse</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1896">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      PERSONS.
+     </head>
+     <castItem>
+      The Wayfarer .
+     </castItem>
+     <castItem>
+      The Bridegroom .
+     </castItem>
+     <castItem>
+      The Bride .
+     </castItem>
+     <castItem>
+      His Parents .
+     </castItem>
+     <castItem>
+      Her Parents .
+     </castItem>
+     <castItem>
+      His Uncle .
+     </castItem>
+     <castItem>
+      Her Grandmother .
+     </castItem>
+     <castItem>
+      Many guests, servitors, musicians, etc.
+     </castItem>
+     <castItem>
+      An Old Nurse .
+     </castItem>
+    </castList>
+   </div>
+   <set>
+    <p>
+     The pleasance in front of the manor-house of Belcaro. It is laid out upon a hillside and affords a view, over some miles of undulating olive groves, of the towers of a medieval Tuscan town and of the mountains beyond and round about it. Immediately adjoining this boxed and laureled pleasure-ground is the doorway of a Romanesque chapel. A bell is ringing. — Present: the Nurse and the Wayfarer .
+    </p>
+   </set>
+  </front>
+  <body>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     I cannot conceive why I should be speaking so freely of these things to you — to you, an utter stranger.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     I enjoy such confidences, believe me. They are more grateful to me than the plentiful cheer of the servants' quarters or even the lordly dishes of the great banquet-hall itself.
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     I have never spoken of these matters to a
+     <pb n="162"/>
+     human soul before. I feel that I should have spoken earlier, or not at all.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Continue freely. What you say adds nothing to my burden, yet lightens yours. What is one more little tale to a man who has lived so long, traveled so far and heard so much?
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     What prompts me to tell you all so freely? It is not your gray hair — for mine is as gray as yours. It is not your commanding mien — for tall and self-willed men have never been strangers in this house. Is it perchance your eye? It glitters with the knowledge of many things far, far beyond my ken, and its questionings call forth answers that may not be withheld.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Go on.
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     I have no choice. — The loss of the first child could bring me no single jot of blame; the loss of the second, so soon after the disappearance of the other, might well have been my ruin. The boy — Belcaro's heir though he be — was no charge of mine; the girl was, and in the strictest sense. That the boy should have been carried off by bandits and that he should have disappeared so suddenly and so completely from among them upon the very day that the ransom was ready to be paid — all this grieved me, for he was a beautiful child and the sole heir of our house. But
+     my
+     skirts were clear —
+     my
+     hands were clean. Yet, when —
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     When, a year later, their infant daughter was lost as well ...
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     I
+     was
+     to blame. Yet if ever there were excuse ...! This house was attacked at night. We fled — the chances of war. The babe and I were separated from its parents. I plunged frantically into the wood, with that week-old child; all was dark, save for our
+     <pb n="163"/>
+     burning roofs. I hid the child and sought long for food and shelter. These I found at length — but the child, never. I groped my way back toward her — I searched vainly for the spot. I saw her no more; I did not see her parents for a year. Then the wars were over; our household was once more gathered together. I returned, too. And I brought a child with me.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     What child?
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     One that I begged from a band of gypsies — one that they had stolen, doubtless.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+    </speaker>
+    <stage>
+     ( thoughtfully ).
+    </stage>
+    <p>
+     This is most promising — most promising. — And the other child? Nothing was ever heard of it?
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     By me alone. Years after. A baby's skeleton, found where I could not find the baby itself.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     So that the girl who is to be married to-day is not the daughter of her reputed parents?
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     No more than the youth who is to marry her is the son of his reputed parents.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Not their son? Not the heir of Montegrifone?
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     Only by adoption, I am told. The master of Montegrifone
+     <stage>
+      (you see his walls across the valley)
+     </stage>
+     had lately lost all his children through the plague. He resorted to the monastery of which one of his brothers was the head
+     <stage>
+      (you see its roofs upon the mountain-slope above)
+     </stage>
+     , where he found a young boy lodged for the time being. The boy was handsome and clever and the lonely father adopted him for his own. That was years ago, and for his own he passes. You follow all this?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Readily. I see the most striking possibilities here. Proceed — proceed!
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     Proceed? Have I not said enough? That
+     <pb n="164"/>
+     night in the forest — the loss of my charge — that year of remorseful wanderings — that bartering with the gipsy band — the odious and lasting lies that followed my return — the finding, years after, of those little bones — the death of all those other innocents from the pestilence — Is not that enough? Are you insatiable?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     I am fond of a good story — that is all.
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     A good story! — have you no more than that to say? You are unfeeling. You are inhuman. I hold no further speech with you!
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Go on; you interest me deeply. It is upon such things as these that I live.
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     I have no more to tell you. The rest you must see for yourself.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Is it true that these two families have been enemies for many generations?
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     Judge from their actions as they come to chapel.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Is it true that the bride's grandmother is still opposed to this marriage?
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     She has not forgotten the murder of her husband.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Is it not a fact that the uncles of the bridegroom — ?
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     They were balked in their attempt to hold this place as their own.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     And is it not certain that — ?
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     Cease, cease, I pray you. There is more knowledge in your questions than in my answers even. I have told you too much; I have spoken far too freely. Who are you?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     One who is fond of a good story — nothing more.
+    </p>
+   </sp>
+   <stage>
+    [The Bridal Party appears, accompanied by guests, musicians and the retainers of the castle, and moves along slowly toward the door of the Chapel.]
+   </stage>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+    </speaker>
+    <stage>
+     ( to the Groom's Father ).
+    </stage>
+    <p>
+     It is on such a day as this that I most envy you; it is on such a day that you should most sympathize with me. Save for the foray of those accursed freebooters I too should have a son to-day to follow me in good time and to serve as the future mainstay of my house.
+    </p>
+   </sp>
+   <sp who="#groomsfather">
+    <speaker>
+     The
+     Groom's Father
+     .
+    </speaker>
+    <p>
+     Believe me when I say that no less do I envy you your daughter. We take her to-day because we are entitled to her; she will replace the baby girl that the gipsies spirited away from us so many years ago: a moment's inadvertence — rued so long and never recompensed till now.
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     Yes, I remember. We were fellows in misfortune.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+    </speaker>
+    <stage>
+     ( to the Nurse ).
+    </stage>
+    <p>
+     Did you know this? Why did you withhold it? Did you not know that the daughter of Montegrifone had been stolen by a gipsy band?
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     I profess neither knowledge nor ignorance. I have said too much.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     You have kept back essential facts, vital facts. You have not said enough.
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     I am under no obligation to disclose them.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     I shall know how to punish you.
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     Ha! will you break your word? — But what, man, is all this to you? Why do your eyes glow? Why does your breath quicken? Why do you tug so at your interlocking fingers?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     I am one who is fond of a good story.
+     <pb n="166"/>
+     And I am always on the side of youth and love and beauty.
+    </p>
+   </sp>
+   <stage>
+    [The Bridal Procession has reached the entrance of the Chapel. As it is about to pass through, the Bride's Grandmother appears from within.]
+   </stage>
+   <sp who="#bridesgrandmother">
+    <speaker>
+     The
+     Bride's Grandmother
+     .
+    </speaker>
+    <p>
+     Hold! I cannot find it in me to let this thing go farther.
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     I beg, mother, that you will no longer oppose. The past is past; old feuds are to be forgotten; this day will wipe out all differences between Montegrifone and Belcaro.
+    </p>
+   </sp>
+   <sp who="#groomsfather">
+    <speaker>
+     The
+     Groom's Father
+     .
+    </speaker>
+    <p>
+     Madam, I say the same. This will be the dawn of a new day for all of us. Do nothing more to prevent this union. Concede that such a youth as this my son is well worthy of even such a maiden as your granddaughter.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+    </speaker>
+    <stage>
+     ( aside to the Nurse ).
+    </stage>
+    <p>
+     He speaks truly. His son seems indeed a noble and gallant youth, and your young charge, in point of grace and beauty, appears fully worthy of him. My heartiest sympathies go with them both.
+    </p>
+   </sp>
+   <sp who="#bridesgrandmother">
+    <speaker>
+     The
+     Bride's Grandmother
+     .
+    </speaker>
+    <p>
+     You ask too much. Am I to forgive your brothers' attack upon our walls? Am I to forget our blazing roofs, my murdered husband?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+    </speaker>
+    <stage>
+     ( stepping forward with an air of great dignity and authority ).
+    </stage>
+    <p>
+     A word, madam. Do you not know that it was to this man's intercession with his brothers that you owed the preservation of your home and the final restitution of your property?
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     Is this indeed true?
+    </p>
+   </sp>
+   <sp who="#groomsfather">
+    <speaker>
+     The
+     Groom's Father
+    </speaker>
+    <stage>
+     ( gulping down an instinctive word of negation ).
+    </stage>
+    <p>
+     Would such have been more than a mere act of justice and humanity?
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     Then, madam my mother, let us and our children pass. Such an act cements a lasting friendship.
+    </p>
+   </sp>
+   <stage>
+    [The Bride's Grandmother , still unreconciled, withdraws into the shadow of the doorway.]
+   </stage>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+    </speaker>
+    <stage>
+     ( aside to the Wayfarer ).
+    </stage>
+    <p>
+     Is this thing true?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     It may be. It should be.
+    </p>
+   </sp>
+   <stage>
+    [A hasty step, accompanied by the clicking of armor and the jangling of swords, is heard. Enter the Groom's Uncle , followed by several attendants.]
+   </stage>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+     .
+    </speaker>
+    <p>
+     Let this folly cease — it has gone too far already. We are enemies — we always have been — we always shall be. As such I came here once before; as such I come here now.
+    </p>
+   </sp>
+   <sp who="#bridegroom">
+    <speaker>
+     The
+     Bridegroom
+     .
+    </speaker>
+    <p>
+     Peace, uncle. You can have no voice in this. All has been decided. The past is past ...
+    </p>
+   </sp>
+   <sp who="#groomsfather">
+    <speaker>
+     The
+     Groom's Father
+     .
+    </speaker>
+    <p>
+     Peace, Bertuccio. Let those old memories die.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Peace, indeed. Do you not understand
+     <stage>
+      ( to the Uncle )
+     </stage>
+     why you find yourself free to come to this place to-day? Do you not sometimes wonder that such a career as yours should be proceeding in broad sunlight instead of in the darkness of the dungeon? Recall the day when you were apprehended for your many acts of dishonor and violence. Do you know who appeared before the Great Council to plead your cause?
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+     .
+    </speaker>
+    <p>
+     No one, I trust. I need no advocate.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     You had one. It was the voice of this woman here
+     <stage>
+      ( indicating the Bride's Mother )
+     </stage>
+     that saved your liberty and perhaps your life.
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     Is this true, Olivia?
+    </p>
+   </sp>
+   <sp who="#bridesmother">
+    <speaker>
+     The
+     Bride's Mother
+    </speaker>
+    <stage>
+     ( gasping weakly, under the fixed gaze of the Wayfarer ).
+    </stage>
+    <p>
+     He was my — Bertuccio was my — my cousin ...
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     Ay! But how many times removed!
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+    </speaker>
+    <stage>
+     ( aside to the Wayfarer ).
+    </stage>
+    <p>
+     Is this thing true?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Was it impossible?
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+    </speaker>
+    <stage>
+     ( to the Wayfarer ).
+    </stage>
+    <p>
+     Who are you, man, thus to force so unwelcome a fact upon me? Why are you here? What motive prompts you?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     I am but a poor plodder, my lord, along life's highway. It is my pleasure to view the world and the men and manners that make it up. To-day has brought its jugglers, its tumblers, its musicians, and it has brought — me.
+    </p>
+   </sp>
+   <sp who="#bridegroom">
+    <speaker>
+     The
+     Bridegroom
+     .
+    </speaker>
+    <p>
+     You are discordant, uncle. Tune yourself anew, or leave us.
+    </p>
+   </sp>
+   <stage>
+    [The Bride's Grandmother suddenly reappears in the doorway, and sees the Groom's Uncle
+   </stage>
+   <sp who="#bridesgrandmother">
+    <speaker>
+     The
+     Bride's Grandmother
+     .
+    </speaker>
+    <p>
+     There he stands! I see him once again. His sword is in one hand; why is not his torch in the other? It was he who urged them on; it was he who made me a widow; it was he who would have sacked and wrecked my house! And yet you ask me to ...
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+    </speaker>
+    <stage>
+     ( to himself ).
+    </stage>
+    <p>
+     My hand is now in the
+     <pb n="169"/>
+     flames, indeed!
+     <stage>
+      ( To the Uncle , with increased dignity .)
+     </stage>
+     Listen to me.
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+     .
+    </speaker>
+    <p>
+     Silence! I will not.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     You must; you shall. — Recall the great battle on the banks of the Ersa when all the forces of the state united to repel the invader. You saved a life that day.
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+     .
+    </speaker>
+    <p>
+     I took a hundred. I saved not one. I never saved a life.
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     I
+     saved a life that day.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+    </speaker>
+    <stage>
+     ( with a quick adaptation ).
+    </stage>
+    <p>
+     Ay, to be sure. You found a warrior weighted down by his own armor, struggling desperately for his life amidst the mud and rushes of the shore —
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     — and drew him up in safety upon firm ground.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     And his name? His face?
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     I did not see it — his helm was down. But he was one of our men.
+    </p>
+   </sp>
+   <sp who="#groomsfather">
+    <speaker>
+     The
+     Groom's Father
+    </speaker>
+    <stage>
+     ( to the Uncle ).
+    </stage>
+    <p>
+     You were thus saved that day, Bertuccio. Later I saw you fighting, be-slimed from head to foot.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+    </speaker>
+    <stage>
+     ( instantly seizing the advantage ).
+    </stage>
+    <p>
+     You were that man.
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+     .
+    </speaker>
+    <p>
+     I deny it! They beg for my liberty, they give me my life, they force their friendship upon me — ! I will not endure it!
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+    </speaker>
+    <stage>
+     ( to the Wayfarer ).
+    </stage>
+    <p>
+     Is this thing true?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     It is possible. Men have been drowned in their armor; men have been saved in a hurly-burly without either recognition or thanks.
+    </p>
+   </sp>
+   <sp who="#bridesgrandmother">
+    <speaker>
+     The
+     Bride's Grandmother
+    </speaker>
+    <stage>
+     ( to her son ).
+    </stage>
+    <p>
+     A worthy deed! The next time raise the visor!
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+    </speaker>
+    <stage>
+     ( to the Groom's Uncle ).
+    </stage>
+    <p>
+     Let me try once more. — Recall the great flood of the following year. At twilight the town bridge was broken down and swept away. It was crowded with human beings — many women among them. Did you leave those poor creatures to save themselves?
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+    </speaker>
+    <stage>
+     ( reluctantly ).
+    </stage>
+    <p>
+     I rescued two or three.
+    </p>
+   </sp>
+   <sp who="#bride">
+    <speaker>
+     The
+     Bride
+     .
+    </speaker>
+    <p>
+     Among them was — I. With a hundred others I fell into the rushing torrent. A strong swimmer seized me and bore me to the shore. It was too dark to see his face. He gave me no time to thank him, but straightway plunged into the flood to save another unfortunate.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+    </speaker>
+    <stage>
+     ( pointing to the Groom's Uncle ).
+    </stage>
+    <p>
+     There stands your savior.
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+     .
+    </speaker>
+    <p>
+     Man, man, you will drive me mad!
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+    </speaker>
+    <stage>
+     ( to the Wayfarer ).
+    </stage>
+    <p>
+     Is this thing true?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Why do you doubt? Many risked their lives that night; many poor souls were saved.
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+     .
+    </speaker>
+    <p>
+     I will not acknowledge that I saved his daughter's life. Nor will I acknowledge that he himself saved mine!
+    </p>
+   </sp>
+   <sp who="#bridesgrandmother">
+    <speaker>
+     The
+     Bride's Grandmother
+     .
+    </speaker>
+    <p>
+     Nor will I acknowledge that your brothers' intercession saved my life and lands, or that the pleadings of my daughter-in-law saved you from many lingering years of chains and dungeons. I know why you were caught floundering in the river: you were crossing over to the enemy, and you richly deserved to drown — or worse.
+    </p>
+   </sp>
+   <sp who="#groomsfather">
+    <speaker>
+     The
+     Groom's Father
+     .
+    </speaker>
+    <p>
+     Madam, you go too far. You may accuse my brother of much — and truly; but you shall not breathe of treachery on the field of battle.
+    </p>
+   </sp>
+   <sp who="#bridegroom">
+    <speaker>
+     The
+     Bridegroom
+     .
+    </speaker>
+    <p>
+     You have gone too far indeed. Montegrifone shelters no traitor. That word strikes not only at my uncle; it strikes at my father, and at me. Until it is withdrawn I cannot pass that door.
+    </p>
+   </sp>
+   <sp who="#bride">
+    <speaker>
+     The
+     Bride
+     .
+    </speaker>
+    <p>
+     You, Gerardo, who have been so calm and reasonable throughout! You, whose kin my father saved from death and my mother from prison ...
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+     .
+    </speaker>
+    <p>
+     I deny it! I deny it. Tell me, woman
+     <stage>
+      ( to the Bride's Mother )
+     </stage>
+     , did you ever make plea for me before the Great Council? Answer me truly.
+    </p>
+   </sp>
+   <sp who="#bridesmother">
+    <speaker>
+     The
+     Bride's Mother
+    </speaker>
+    <stage>
+     ( feebly ).
+    </stage>
+    <p>
+     N — no.
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+     .
+    </speaker>
+    <p>
+     Ha! There you have it!
+    </p>
+   </sp>
+   <sp who="#groomsmother">
+    <speaker>
+     The
+     Groom's Mother
+     .
+    </speaker>
+    <p>
+     No more, then, did your husband save Bertuccio's life.
+    </p>
+   </sp>
+   <sp who="#bridesgrandmother">
+    <speaker>
+     The
+     Bride's Grandmother
+     .
+    </speaker>
+    <p>
+     See, Ruggiero! What do they give you? — thanks — or the lie?
+    </p>
+   </sp>
+   <sp who="#groomsfather">
+    <speaker>
+     The
+     Groom's Father
+     .
+    </speaker>
+    <p>
+     You accuse us of treachery, of falsehood?
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     Of both; of worse. Of violence, of injustice, of —
+    </p>
+   </sp>
+   <sp who="#groomsfather">
+    <speaker>
+     The
+     Groom's Father
+    </speaker>
+    <stage>
+     ( to the Bridegroom ).
+    </stage>
+    <p>
+     Leave that girl's side.
+    </p>
+   </sp>
+   <sp who="#bridegroom">
+    <speaker>
+     The
+     Bridegroom
+     .
+    </speaker>
+    <p>
+     Do I need the word?
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+    </speaker>
+    <stage>
+     ( to the Bride ).
+    </stage>
+    <p>
+     Drop that man's hand.
+    </p>
+   </sp>
+   <sp who="#bride">
+    <speaker>
+     The
+     Bride
+     .
+    </speaker>
+    <p>
+     Have I not the pride of our house?
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+    </speaker>
+    <stage>
+     ( to the Wayfarer ).
+    </stage>
+    <p>
+     The fault is yours. You have gone too far; you have said too much.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     I shall go much farther. I shall say much more.
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+    </speaker>
+    <stage>
+     ( to the Bride's Father ).
+    </stage>
+    <p>
+     Draw and defend yourself.
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     You find me ready.
+    </p>
+   </sp>
+   <stage>
+    [The Chapel bell goes on ringing. Two acolytes, sent to learn the reason for delay, stand upon the threshold in an attitude of amazed protest. More of the men draw their swords, and a general combat seems imminent, when the Wayfarer , his eye rolling in a fine frenzy, and his carriage full of dignity and authority, advances into the midst of the group.]
+   </stage>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Hold! You are all groping in the darkness. Let me illumine it — that is my office. I cannot brook to see the happiness of this young couple wrecked by the blind folly of their elders. I ever side with youth and hope and beauty and courtesy and love; such are the things I live upon.
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+     .
+    </speaker>
+    <p>
+     You are a foolish meddler. Stand aside.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     I must needs meddle where others muddle.
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     You are a stranger. Let your discretion match with your ignorance.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     A stranger — yes; ignorant — no. I tread the highways of the world; at times I wander through the byways as well. Give me your hand and I will lead you through them too. You lost a son?
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     Years ago.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     A band of robbers carried him off.
+     <stage>
+      ( To Groom's Father .)
+     </stage>
+     You adopted a son?
+    </p>
+   </sp>
+   <sp who="#groomsfather">
+    <speaker>
+     The
+     Groom's Father
+     .
+    </speaker>
+    <p>
+     Years ago, — a bright boy who had found temporary lodgment in a monastery where I had a family interest.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     Well and good. The boy was brought there by one of the monks. The monk had received him at the hands of a robber chief. The robber, dying, confessed to the monk that the boy, the son of noble parents,
+     <pb n="173"/>
+     had been stolen away by his own band. I was lodging in the monastery when the monk and his young charge arrived. I know that youth's whole history. He stands this moment between you, and he is the heir not of Montegrifone but of Belcaro — not your son, but
+     yours
+     .
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+    </speaker>
+    <stage>
+     ( pointedly, to the Wayfarer ).
+    </stage>
+    <p>
+     You were lodging in that monastery?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+    </speaker>
+    <stage>
+     ( sternly ).
+    </stage>
+    <p>
+     I was. Do not doubt it.
+    </p>
+   </sp>
+   <sp who="#bridegroom">
+    <speaker>
+     The
+     Bridegroom
+     .
+    </speaker>
+    <p>
+     What! Shall I be made the brother of ...?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     No.
+     <stage>
+      ( To Groom's Father .)
+     </stage>
+     I rob you of a son — a son by adoption. I replace him by a daughter — a daughter of your own flesh and blood. Recall that baby girl who was stolen by a band of gypsies. I knew them and their camp. One night a guilty nurse, who had lost the infant committed to her care, came to that camp and bargained for a child. The lost child was Belcaro's, and the child substituted for it was yours.
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+    </speaker>
+    <stage>
+     ( to the Wayfarer ).
+    </stage>
+    <p>
+     You were dwelling in that gipsy camp?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+    </speaker>
+    <stage>
+     ( menacingly ).
+    </stage>
+    <p>
+     I was. Do not question it.
+    </p>
+   </sp>
+   <sp who="#bride">
+    <speaker>
+     The
+     Bride
+     .
+    </speaker>
+    <p>
+     What! Must I believe myself the daughter of ...?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+    </speaker>
+    <stage>
+     ( in a fine glow of exaltation ).
+    </stage>
+    <p>
+     Now you know all. Well and good. Let the church-door close; let the bridal procession turn back; do what you may, undo what you can. But these facts remain: for twenty years and more, you
+     <stage>
+      ( to Montegrifone )
+     </stage>
+     have fed and lodged and instructed Belcaro's son; and for twenty years or less you
+     <stage>
+      ( to Belcaro )
+     </stage>
+     have cherished and protected Montegrifone's daughter. What can either of you do now that will undo all this?
+     <stage>
+      [A pause.
+     </stage>
+    </p>
+   </sp>
+   <sp who="#bridesfather">
+    <speaker>
+     The
+     Bride's Father
+     .
+    </speaker>
+    <p>
+     The bell is still ringing.
+    </p>
+   </sp>
+   <sp who="#groomsfather">
+    <speaker>
+     The
+     Groom's Father
+     .
+    </speaker>
+    <p>
+     The door is still open.
+    </p>
+   </sp>
+   <sp who="#bridesgrandmother">
+    <speaker>
+     The
+     Bride's Grandmother
+     .
+    </speaker>
+    <p>
+     I no longer oppose.
+    </p>
+   </sp>
+   <sp who="#groomsuncle">
+    <speaker>
+     The
+     Groom's Uncle
+     .
+    </speaker>
+    <p>
+     I willingly submit.
+    </p>
+   </sp>
+   <sp who="#bridegroom">
+    <speaker>
+     The
+     Bridegroom
+     .
+    </speaker>
+    <p>
+     These varying heirships shall blend.
+    </p>
+   </sp>
+   <sp who="#bride">
+    <speaker>
+     The
+     Bride
+     .
+    </speaker>
+    <p>
+     These perplexing parentages must fuse.
+    </p>
+   </sp>
+   <sp who="#bridesmother">
+    <speaker>
+     The
+     Bride's Mother
+    </speaker>
+    <stage>
+     ( to the Wayfarer ).
+    </stage>
+    <p>
+     Pray join us in our festivities.
+    </p>
+   </sp>
+   <sp who="#groomsmother">
+    <speaker>
+     The
+     Groom's Mother
+    </speaker>
+    <stage>
+     ( to her husband ).
+    </stage>
+    <p>
+     Such services as these must not be allowed to go unrecompensed.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     The bell is ringing; the door is open; the priest is waiting. Pass in, pass in!
+    </p>
+   </sp>
+   <stage>
+    [The Bridal Procession enters the chapel. There remain outside only the Wayfarer and the Nurse
+   </stage>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+    </speaker>
+    <stage>
+     ( after a long pause ).
+    </stage>
+    <p>
+     Who are you?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     A poor plodder along life's highway. One whose pleasure it is to view the passing show — and to direct it, when such seems fit.
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     You have done great things to-day.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     I have done greater. It is my office to smooth the rough places, to untangle the tangled skein.
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     What do you call yourself?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     A fiction-monger — a story-spinner. I work in words when I must, but in deeds when I may; by tongue or pen when nothing better offers, in human heart-beats when the chance but comes my way.
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     You are leaving? You will not wait to see the bride come forth from the chapel?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     My task here is finished.
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     You will not tarry to take your place in the banquet hall? — right bravely have you earned it!
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     The world is wide and other tasks await me in it.
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     But before you go, one word.
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     What is it?
+    </p>
+   </sp>
+   <sp who="#nurse">
+    <speaker>
+     The
+     Nurse
+     .
+    </speaker>
+    <p>
+     All these things, — are they — are they — true?
+    </p>
+   </sp>
+   <sp who="#wayfarer">
+    <speaker>
+     The
+     Wayfarer
+     .
+    </speaker>
+    <p>
+     They may be. They ought to be — Farewell.
+     <stage>
+      [He goes.
+     </stage>
+    </p>
+   </sp>
+  </body>
+ </text>
+</TEI>

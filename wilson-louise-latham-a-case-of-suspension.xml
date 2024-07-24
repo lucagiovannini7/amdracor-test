@@ -1,0 +1,2402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="am681" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     A Case of Suspension
+    </title>
+    <author>
+     Wilson, Louise Latham.
+    </author>
+   </titleStmt>
+   <publicationStmt>
+    <publisher xml:id="dracor">
+     DraCor
+    </publisher>
+    <idno type="URL">
+     https://dracor.org
+    </idno>
+    <availability>
+     <licence>
+      <ab>
+       CC0 1.0
+      </ab>
+      <ref target="https://creativecommons.org/publicdomain/zero/1.0/">
+       Licence
+      </ref>
+     </licence>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <name>
+      Internet Archive
+     </name>
+     <idno>
+      https://archive.org/details/caseofsuspension00wils
+     </idno>
+    </bibl>
+    <bibl type="originalSource">
+     <title>
+      Wilson, Louise Latham. A case of suspension; a comedietta in one act
+     </title>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <particDesc>
+    <listPerson>
+     <person xml:id="alice" sex="FEMALE">
+      <persName>ALICE.</persName>
+     </person>
+     <person xml:id="missjudkins" sex="FEMALE">
+      <persName>MISS JUDKINS</persName>
+     </person>
+     <personGrp xml:id="others" sex="UNKNOWN">
+      <persName>OTHERS.</persName>
+     </personGrp>
+     <person xml:id="manoutside" sex="MALE">
+      <persName>MAN OUTSIDE.</persName>
+     </person>
+     <person xml:id="kathleen" sex="FEMALE">
+      <persName>KATHLEEN.</persName>
+     </person>
+     <person xml:id="harold" sex="MALE">
+      <persName>HAROLD.</persName>
+     </person>
+     <person xml:id="professor" sex="MALE">
+      <persName>PROFESSOR</persName>
+     </person>
+     <person xml:id="voice" sex="UNKNOWN">
+      <persName>VOICE</persName>
+     </person>
+     <person xml:id="tom" sex="MALE">
+      <persName>TOM.</persName>
+     </person>
+     <person xml:id="man" sex="MALE">
+      <persName>MAN.</persName>
+     </person>
+     <person xml:id="jonas" sex="MALE">
+      <persName>JONAS.</persName>
+     </person>
+     <person xml:id="dorothy" sex="FEMALE">
+      <persName>DOROTHY.</persName>
+     </person>
+     <person xml:id="mildred" sex="FEMALE">
+      <persName>MILDRED.</persName>
+     </person>
+     <person xml:id="jack" sex="MALE">
+      <persName>JACK.</persName>
+     </person>
+    </listPerson>
+   </particDesc>
+   <textClass>
+    <keywords>
+     <term subtype="am" type="genreTitle">
+      Comedy
+     </term>
+     <term subtype="am" type="genreTitle">
+      One-act
+     </term>
+     <term subtype="am" type="playtype">
+      verse
+     </term>
+     <term subtype="am" type="content">
+      Prose
+     </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <standOff>
+  <listEvent>
+   <event type="print" when="1916">
+    <desc/>
+   </event>
+  </listEvent>
+ </standOff>
+ <text>
+  <front>
+   <div type="Dramatis_Personae">
+    <castList>
+     <head>
+      A Case of Suspension
+     </head>
+     <head>
+      DRAMATIS PERSONÆ
+     </head>
+     <castItem>
+      DOROTHY Young lady of the Seminary
+     </castItem>
+     <castItem>
+      ALICE Young lady of the Seminary
+     </castItem>
+     <castItem>
+      MILDRED Young lady of the Seminary
+     </castItem>
+     <castItem>
+      HAROLD Undergraduate of a College near by
+     </castItem>
+     <castItem>
+      TOM Undergraduate of a College near by
+     </castItem>
+     <castItem>
+      JACK Undergraduate of a College near by
+     </castItem>
+     <castItem>
+      MISS OPHELIA JUDKINS Of the Faculty
+     </castItem>
+     <castItem>
+      PROFESSOR EMILIUS EDGERTON Of the Faculty
+     </castItem>
+     <castItem>
+      KATHLEEN A Celtic maiden
+     </castItem>
+     <castItem>
+      JONAS The Seminary "man"
+     </castItem>
+    </castList>
+   </div>
+   <set>
+    <p>
+     COSTUMES AS DESIRED. TIME OF PLAYING — One Hour
+    </p>
+   </set>
+  </front>
+  <body>
+   <stage>
+    SCENE. — A young ladies' sitting-room, entrance R., window L., sofa and piano at back of stage, chairs and other things as desired .
+   </stage>
+   <stage>
+    ( Enter KATHLEEN, duster in hand .)
+   </stage>
+   <sp who="#kathleen">
+    <speaker>
+     KATHLEEN.
+    </speaker>
+    <p>
+     Faith, an' did Oi iver see the loike av the young leddies in this Siminary. Up to some thrick from the roise av mornin' to the settin' av avenin', they do be the loiveliest set. An' it's Kathleen this, an' Kathleen that, and won't ye jist run up the shtairs, Kathleen, an' come down agin, till me fate are ready to dhrop off av me entirely. An' all the toime they doin' nothing but wearin' foine clothes, and paradin' out around so's the young college fellers'll take notice. An' me driv to death waitin' on them to earn the little bit that Oi have to live on. Sure, Oi'll get aven wid 'em some foine day for all the exthra trouble they're always makin' me. What's this? Miss Dorothy's new bonnet, Oi do belave, left layin' on the chair so careless loike.
+     <stage>
+      ( Tries it on .)
+     </stage>
+     Faith, but I think that must look foine. An' here's one of them feather bo-eys, too. Ain't that ilegant, now?
+     <stage>
+      ( Footsteps heard outside .)
+     </stage>
+     Hist! What's that? An' me wid the bonnet on!
+    </p>
+   </sp>
+   <stage>
+    ( Hastily hides behind sofa as DOROTHY enters; DOROTHY carries two bottles of olives, and some fruit .)
+   </stage>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY
+    </speaker>
+    <stage>
+     ( breathlessly ).
+    </stage>
+    <p>
+     Dear me, but that was a narrow escape! Whew! Just think of running into Judkins when I was flying from the kitchen with these things for our spread. She'd have asked some rather embarrassing questions, I fear. Now I believe I'll put my things on, and go down the street to meet Mildred, so she won't come in the front way, and get caught. Where's my hat? —
+     <stage>
+      ( Searches .)
+     </stage>
+     <pb n="6"/>
+     That's queer! I left it right here when I went downstairs. Well, probably one of the girls has it on. They don't seem to know how to discriminate between their clothes and mine, anyway.
+    </p>
+   </sp>
+   <stage>
+    ( Enter ALICE.)
+   </stage>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Oh, Dorothy. You back so soon? Did you get the things?
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Didn't I, though! Just look on the table.
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Two lovely bottles! And oranges! You dear girl! How did you ever manage it?
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Well, I had a time. I went bravely down to the kitchen, and stole them, absolutely stole them, which was a perfect miracle, for the cook was right there. And when I was coming back with them, I met Judkins coming right down the hall.
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Oh, you didn't!
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Yes, and she drew herself up and said in her most majestic tones (that always reminds me of the time she found us on the annex roof,) "My dear Miss Talcott I wish to speak to you a moment.
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Oh, what did you do?
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     I pretended not to hear her, and I just gathered up my skirts and flew. And she knows I couldn't help but hear. So I expect her up here any minute.
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     You brave girl! — Well, I think we'd better get our books out where we can grab them in case of an emergency. Better have her come now than later, when the boys are here.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Oh, yes, much better. I do hope Mildred won't get caught. You know she went down town to invest in some things for our spread, and now that Judkins has one little suspicion, she will keep her eagle eye out for more evidence. You know, it absolutely makes me shudder, that eye of Judkins's. By the way, Alice, have you seen my new hat anywhere?
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Certainly, about an hour ago, on that chair. You never do put your things up, you know, Dorothy.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     I knew I left it there. And I've hunted and hunted, and I can't find it anywhere. I believe Mildred wore it down town.
+    </p>
+   </sp>
+   <stage>
+    (KATHLEEN carelessly raises head, so that hat comes just above edge of sofa .)
+   </stage>
+   <sp who="#alice">
+    <speaker>
+     ALICE
+    </speaker>
+    <stage>
+     ( looking across ).
+    </stage>
+    <p>
+     Well, I guess you didn't look very hard when you hunted. I see it now.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Where? Well, I declare! I know it wasn't there before.
+    </p>
+   </sp>
+   <stage>
+    ( She attempts to seize it — hat suddenly disappears .)
+   </stage>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY
+    </speaker>
+    <stage>
+     ( screams ).
+    </stage>
+    <p>
+     Oh, it moved!
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Moved? How could it?
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     But it did! And I think it must be a man — a burglar, probably, and he's taken it for a disguise.
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Oh, don't breathe such a thing, for mercy's sake! If he thinks we suspect him, he'll come out, and there's no telling what he will do! We must be perfectly cool.
+    </p>
+   </sp>
+   <stage>
+    ( Wildly paces up and down the floor .)
+   </stage>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Oh, yes, we must be calm!
+     <stage>
+      ( Wringing hands .)
+     </stage>
+     Oh, what shall we do!
+    </p>
+   </sp>
+   <stage>
+    ( Steps heard; girls in fear and trembling fly to door; open it a crack .)
+   </stage>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Who's that? Oh! It's you!
+    </p>
+   </sp>
+   <stage>
+    ( Enter MILDRED, carrying box of crackers, etc. )
+   </stage>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Oh, girls! I've just had a narrow escape — so exciting —
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Ss-h-h-h! There's a burglar in the room!
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED
+    </speaker>
+    <stage>
+     ( screams ).
+    </stage>
+    <p>
+     Oh! Where? What for?
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     S-s-h-h-h! He's behind that sofa, and he's disguised! Mildred, he's got our clothes on!
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     O-o-o-h-h-h!
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Don't scream, Mildred, you must keep calm, as Dorothy and I are doing, or he'll come out, and there's no telling what he will do.
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     But what shall we do? We can't stay in here with him. He might get tired, and come out anyway.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     S-s-h-h-h! Come over here, where he can't hear what I say! I'm going down for Jonas!
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     I'll go with you.
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     So will I.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     No, you can't. It isn't safe to leave him alone here; he — he might eat up the spread. You just wait a minute.
+    </p>
+   </sp>
+   <stage>
+    ( Exit DOROTHY.)
+   </stage>
+   <stage>
+    ( A movement from behind sofa; girls scream; presently JONAS enters, with a large pitchfork in one hand, and a piece of rope in the other . DOROTHY follows him .)
+   </stage>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Naow, whar'd yeou say the fellah was?
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Right there, behind the sofa.
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Oh, Jonas! He may be armed! Be careful!
+    </p>
+   </sp>
+   <stage>
+    (JONAS very cautiously moves sofa and discloses KATHLEEN.)
+   </stage>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Good land of liberty! What be yeou a-doin' here?
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     My new hat on you!
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     You wretch! — to frighten us so!
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Miss Judkins shall hear of this, Kathleen.
+    </p>
+   </sp>
+   <stage>
+    (KATHLEEN sobs .)
+   </stage>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Naow, don't be too hard on the gal. What ever was you doin', Katie, raisin' up sech a row? Stop cryin' 'n' speak up, naow, there's a good gal.
+    </p>
+   </sp>
+   <sp who="#kathleen">
+    <speaker>
+     KATHLEEN
+    </speaker>
+    <stage>
+     ( sobbing ).
+    </stage>
+    <p>
+     Faith, thin, an' Oi wasn't doin' nothin' to hurt nobody. Oi jist came in a-dhusvin', whin I see Miss Dorothy's bonnet, and Oi koind av thried it on, loike. Thin whin Oi heard the young leddies come in, Oi jist moved the sofy a mite, and sot on the flure to dust the base boards a bit, an' Oi've been here iver since. An' whin Oi heard thim talkin' so terrible about burglars, sure, Oi was that scared, Oi cudn't move hand ner fut av me!
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Naow, that's a purty tolerable yarn, ain't it!
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Kathleen, do you expect us to believe that rubbish? I shall report you to Miss Judkins immediately.
+    </p>
+   </sp>
+   <sp who="#kathleen">
+    <speaker>
+     KATHLEEN
+    </speaker>
+    <stage>
+     ( drying tears ).
+    </stage>
+    <p>
+     Faith, thin, an' if that's the way it is, there'll be two reports comin' in to Miss Judkins! As sure as me name is Kathleen O'Brady, Oi'll inform about the gintlemen what's comin' in here to-night to your little shpread, an' the two little bottles what you shtole, yes, absholutely shtole, from the kitchen, an' a few other things it's me good luck to know!
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Good heavens, girls!
+    </p>
+   </sp>
+   <stage>
+    ( All look blank .)
+   </stage>
+   <sp who="#jonas">
+    <speaker>
+     JONAS
+    </speaker>
+    <stage>
+     ( chuckling ).
+    </stage>
+    <p>
+     Wal, Katie, my gal, I bet yeou've outwitted 'em this time, sure enough. Naow, what do you calculate to do abaout it? Fight it aout?
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     I don't see any way out of it. She has evidently overheard. Kathleen, can you keep a secret?
+    </p>
+   </sp>
+   <sp who="#kathleen">
+    <speaker>
+     KATHLEEN.
+    </speaker>
+    <p>
+     It depinds, ma'am. If it's to me advantage, Oi can guard a secret as I would me loife.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Well, now, see here. Of course your conduct has been scandalous, perfectly scandalous! But we will overlook it this time on condition that you will keep still
+     <pb n="9"/>
+     about anything you may have overheard, and on condition that you will lend us your clothes basket.
+    </p>
+   </sp>
+   <sp who="#kathleen">
+    <speaker>
+     KATHLEEN.
+    </speaker>
+    <p>
+     Bless your koind heart, Oi'll promise ye anything. An' Oi'd loike proper well to help ye this avenin'; put what would ye be wantin' a clothes basket for?
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Never mind; you just bring it up, and remember! — if you ever breathe about this, it will cost you your situation.
+    </p>
+   </sp>
+   <sp who="#kathleen">
+    <speaker>
+     KATHLEEN.
+    </speaker>
+    <p>
+     Yis, mum.
+    </p>
+   </sp>
+   <stage>
+    KATHLEEN exits .)
+   </stage>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED
+    </speaker>
+    <stage>
+     ( calling ).
+    </stage>
+    <p>
+     Oh, Kathleen!
+    </p>
+   </sp>
+   <sp who="#kathleen">
+    <speaker>
+     KATHLEEN
+    </speaker>
+    <stage>
+     ( from outside ).
+    </stage>
+    <p>
+     Yis, mum?
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Steer clear of Miss Judkins!
+    </p>
+   </sp>
+   <sp who="#kathleen">
+    <speaker>
+     KATHLEEN.
+    </speaker>
+    <p>
+     Yis, mum!
+    </p>
+   </sp>
+   <stage>
+    (JONAS picks up pitchfork and rope; moves toward door .)
+   </stage>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     No, don't go, Jonas, we want you. See, sit down here.
+     <stage>
+      ( She seats JONAS on sofa , DOROTHY puts pillow at his back , ALICE sits on right side of him , DOROTHY sits on left , MILDRED on stool at feet .)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Now you know we think everything of you, don't you, Jonas?
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS
+    </speaker>
+    <stage>
+     ( grinning ).
+    </stage>
+    <p>
+     What be you young ones up to naow?
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     But we do, Jonas! You've always been so good to us. I shall never forget the time you let me in the library window.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     And I shall always swell with gratitude when I think of the time you waited for me till two o'clock with that ladder.
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     We can never, never repay you, Jonas, for all your goodness.
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Wal, as near as I can figger, thet means thet there's some new scrape a-hangin' in the air, 'n' yeou want to git me into it. I'm gitting pretty old fer sech tricks.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Oh, no, you aren't! You're just too young and lovely for anything!
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Wal, naow, thet does saound pretty tolerable, don't it? No man can't refuse nothing after thet! Aout with yer scheme.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Oh, it's no scheme, Jonas! We just want you to tell us how much a — well, an object, a heavy object weighs.
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Wal, naow, thet's speakin' pretty generally. They varies, accordin' to their size an' weight.
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Well, Jonas, just suppose an object that was about — several feet long, and — well, two feet broad.
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Haow thick through?
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Oh! I'm not sure — about a foot, I guess.
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Animal, vegeterble, 'r mineral?
+    </p>
+   </sp>
+   <sp who="#dorothy #alice #mildred">
+    <speaker>
+     ALL.
+    </speaker>
+    <p>
+     Oh! — animal.
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Wal, supposin' 'twas a hawg, it'd weigh —
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Jonas, you're just horrid. Now be good, and tell us how much an average-sized — well, man — would weigh. You know that's what we meant, all the time.
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Land, haow was I to know? Wal, if it's a man, I've seen 'em that'd weigh upwards of three hundred paounds. There's Professor Hendly, naow —
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Oh! Jonas, we don't care about him. We want an average weight like — well, anybody.
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Oh! Wal, I sh'd figger it at about a hundred 'n' fifty paounds, more 'r less.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Well, Jonas, have you got a rope that would hold a very heavy weight — say about one hundred and fifty pounds?
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Happy days! Yeou ain't goin' to hang nobody, be ye?
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Of course not, Jonas.
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Wal, they ain't no tellin' what yeou will do next, 'n' I felt kind o' oneasy fer a minute. Naow, I sh'd jedge that this here rope 'd be abaout what yeou'd want. It's good and strong, 'n' yeou didn't need it fer no burglar.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Do you suppose that's long enough to reach from — from a window to the ground, for instance?
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Land, yes, 'n' plenty left over.
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Then, Jonas, if you'll just let us keep that rope, we'll be awfully obliged to you.
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Sartinly, yeou can hev the rope, 'n' welcome. I knew there was something up the minute I see all them vittles settin' around. But I'm dreadful afraid yeou young folks is gettin' in a deeper scrape 'n' yeou've calculated on this trip.
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Oh! don't you worry, Jonas.
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Wal, if anybody happens to ask yeou, yeou can tell 'em that old Jonas don't know nothin' about yer jamboree.
+    </p>
+   </sp>
+   <stage>
+    ( Exit JONAS.)
+   </stage>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY
+    </speaker>
+    <stage>
+     ( examining rope ).
+    </stage>
+    <p>
+     I do hope it's strong enough. It would be awful if it should break and let them down.
+    </p>
+   </sp>
+   <stage>
+    ( Enter KATHLEEN, with basket .)
+   </stage>
+   <sp who="#kathleen">
+    <speaker>
+     KATHLEEN.
+    </speaker>
+    <p>
+     Faith, 'n' such a toime as Oi've had. Oi was jist comin' down the dinin' hall wid me basket, whin who should come in but Miss Judkins, and wid her Professor Edgerton. An' so Oi had to hoide in the chiny closet, as the quickest place to be got at. An' they was a-talkin' away about how discipline must be maintained in this school, and the Professor he says as how Miss Judkins didn't kape a strict enough eye on her young leddies.
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Oh, glory!
+    </p>
+   </sp>
+   <sp who="#kathleen">
+    <speaker>
+     KATHLEEN.
+    </speaker>
+    <p>
+     That's jist what Oi think mesilf, mum; an' then Miss Judkins says, says she, what's the matter wid 'em now, or words av loike manin'. An' thin, says Professor Edgerton, they's somethin' in the air to-day, sure, says he. An' he told as how he see Miss Mildred down to the bakery in study hours, an' as how the hull lot of ye seemed so kind of restless an' onasey loike, that Oi trimbled in me shoes fer ye. An' thin they wint, an' Oi came quick to warn ye.
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Thank you. Kathleen. Now you can go. And if you see Miss Judkins coming for our door, just cough good and loud.
+    </p>
+   </sp>
+   <sp who="#kathleen">
+    <speaker>
+     KATHLEEN.
+    </speaker>
+    <p>
+     Oi will, mum.
+    </p>
+   </sp>
+   <stage>
+    ( Exit KATHLEEN.)
+   </stage>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Now the only safe thing to do is to put all these articles out of sight as quickly as we can. You bring the basket here, Alice, and we'll put the rope and provisions inside, and then shove the whole thing under the sofa here.
+    </p>
+   </sp>
+   <stage>
+    (KATHLEEN coughs, outside .)
+   </stage>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Do you hear that cough? Hurry, hurry!
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Now all the evidences are cleared away, and it must be tea time.
+     <stage>
+      ( Bell rings off L.)
+     </stage>
+     There's the bell now. Come on; we'll have to go for appearance's sake. There's another cough. Come, girls!
+    </p>
+   </sp>
+   <stage>
+    ( All exit .) ( Enter PROFESSOR EDGERTON.)
+   </stage>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Ah I observe that the room is empty, quite empty, and I regard it as a duty — yes, quite a duty — to make a few — ah! — investigations. I have every reason to think that something very unusual is brewing for to-night, and these things should be thoroughly, quite thoroughly, investigated, and managed with a firm hand. Miss Ophelia Judkins
+     <pb n="12"/>
+     is a very estimable lady, but I fear — I very much fear — that she does not thoroughly investigate things.
+     <stage>
+      ( Looking beneath sofa .)
+     </stage>
+     Aha! what is this? A large basket, and in an extremely peculiar place! It is really my duty to examine the contents. How very odd! Candy — oranges — olives — cakes — ah! a long, stout rope. Now I will replace these things quite as I found them, and wait for developments by the young ladies. I now know quite whom to watch. Indeed, my dear young ladies, two can play at this little — ahem — game, as it were.
+     <stage>
+      ( Low whistle is heard outside of window; PROFESSOR listens. Another is heard .)
+     </stage>
+     Can it be that that whistle and this basket bear any intimate relationship with each other! I regard it as a duty, yes, as a duty, to investigate.
+    </p>
+   </sp>
+   <stage>
+    ( Steps to one side of window, careful not to be seen from outside. Low whistle heard again .)
+   </stage>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <stage>
+     ( Whistles same way .)
+    </stage>
+    <p/>
+   </sp>
+   <sp who="#manoutside">
+    <speaker>
+     MAN OUTSIDE.
+    </speaker>
+    <stage>
+     ( Two short whistles .)
+    </stage>
+    <p/>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <stage>
+     ( Two short whistles .)
+    </stage>
+    <p/>
+   </sp>
+   <sp who="#manoutside">
+    <speaker>
+     MAN OUTSIDE.
+    </speaker>
+    <stage>
+     ( One long, two short .)
+    </stage>
+    <p/>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <stage>
+     ( One long, two short .)
+    </stage>
+    <p/>
+   </sp>
+   <sp who="#manoutside">
+    <speaker>
+     MAN OUTSIDE.
+    </speaker>
+    <stage>
+     ( Three prolonged .)
+    </stage>
+    <p/>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <stage>
+     ( Three prolonged .)
+    </stage>
+    <p/>
+   </sp>
+   <sp who="#man">
+    <speaker>
+     MAN
+    </speaker>
+    <stage>
+     ( in low voice ).
+    </stage>
+    <p>
+     It's all right, then, isn't it? We'll be around after supper? Whistle once for yes.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <stage>
+     ( Whistles .)
+    </stage>
+    <p/>
+   </sp>
+   <sp who="#man">
+    <speaker>
+     MAN.
+    </speaker>
+    <p>
+     Say, do you suppose old Edgerton is on to us? He's the worst man in the whole Faculty to shadow a fellow.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR
+    </speaker>
+    <stage>
+     ( silently shakes fists, unobserved. Then leans toward window ).
+    </stage>
+    <p>
+     S-s-h-h-h!
+    </p>
+   </sp>
+   <sp who="#man">
+    <speaker>
+     MAN.
+    </speaker>
+    <p>
+     All right. It know it isn't safe to stand here. But whistle just once if you're entirely alone.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <stage>
+     ( Whistles .)
+    </stage>
+    <p/>
+   </sp>
+   <sp who="#man">
+    <speaker>
+     MAN
+    </speaker>
+    <stage>
+     ( voice still lower ).
+    </stage>
+    <p>
+     Say, dear, I want to tell you something before the crowd comes up from supper. You looked awfully sweet last night. Can you meet me in the same place to-morrow?
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <stage>
+     ( Whistles .)
+    </stage>
+    <p/>
+   </sp>
+   <sp who="#man">
+    <speaker>
+     MAN.
+    </speaker>
+    <p>
+     All right, dear. I wish it wasn't so dark, so I could see you. Good-bye. I'll be around soon.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR
+    </speaker>
+    <stage>
+     ( turning from window ).
+    </stage>
+    <p>
+     I see that it was my duty, yes, quite my duty, to make these little investigations. Yes, good-bye, I will be around soon, also, as it were.
+    </p>
+   </sp>
+   <stage>
+    ( Cautiously exits .) ( Enter ALICE, DOROTHY, MILDRED.)
+   </stage>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     At last we're safely here again. And I declare —
+     <stage>
+      ( looks at watch )
+     </stage>
+     it's time the boys were here. Close the door, Mildred. Dorothy, you help Mildred fix the spread, and I'll tie the rope on the basket.
+    </p>
+   </sp>
+   <stage>
+    ( While they are busy at preparations, low whistle is heard .)
+   </stage>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY
+    </speaker>
+    <stage>
+     ( jumping up ).
+    </stage>
+    <p>
+     That's Tom, I know!
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     No, Dorothy, I'm positive it's Harold!
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     And I'm sure it's Jack, so now!
+    </p>
+   </sp>
+   <stage>
+    ( Basket is softly let down through window — then girls pull very hard, and HAROLD climbs in over sill .)
+   </stage>
+   <sp who="#harold">
+    <speaker>
+     HAROLD.
+    </speaker>
+    <p>
+     Whew! But it's a shaky sensation to dangle between earth and sky and wonder how long you girls can hang on to the rope! I thought once you'd drop me! I'm glad I'm in. Hello, Mildred!
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     S-s-h-h-h! Harold, don't breathe! We've been suspected and watched all day, and we must be so careful!
+    </p>
+   </sp>
+   <stage>
+    ( Low whistle heard outside .)
+   </stage>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     I know that's Tom.
+    </p>
+   </sp>
+   <sp who="#harold">
+    <speaker>
+     HAROLD.
+    </speaker>
+    <p>
+     I guess you're right.
+     <stage>
+      ( Leans over window, calls softly .)
+     </stage>
+     Hello, Tom!
+    </p>
+   </sp>
+   <sp who="#tom">
+    <speaker>
+     TOM.
+    </speaker>
+    <p>
+     Don't talk — just get me up as soon as you can. I'm being shadowed.
+    </p>
+   </sp>
+   <stage>
+    ( Basket is hastily let down — they pull him in .)
+   </stage>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     You're a great help, Harold.
+    </p>
+   </sp>
+   <stage>
+    (TOM climbs in over sill .)
+   </stage>
+   <sp who="#tom">
+    <speaker>
+     TOM.
+    </speaker>
+    <p>
+     Holy smoke! But I've had a time! Met Professor Edgerton down town, and he stuck to me like a brother. Asked me where I was going, and when I said I was just strolling around, the old fellow said 'twas such a fine evening he believed he'd go along.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     How did you ever get rid of him?
+    </p>
+   </sp>
+   <sp who="#tom">
+    <speaker>
+     TOM.
+    </speaker>
+    <p>
+     Well, we walked along for a while like a couple of long parted chums, and I tried to shake him all kinds of ways, but it was no good —
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Hush! You mustn't talk so loud?
+    </p>
+   </sp>
+   <sp who="#tom">
+    <speaker>
+     TOM.
+    </speaker>
+    <p>
+     And we'd be walking yet if it hadn't been for Jack. We met him on Elm Street, and he saw through the little
+     <pb n="14"/>
+     game at once. And he said, serious as a deacon, — "Tom, have you forgotten that you were going to coach poor Brown to-night? He's waiting for you now!" Of course the Professor couldn't keep me from such a righteous act of mercy, so I broke away. But I'm dead sure that he's shadowed me up here.
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Oh, poor Jack! He'll be caught! Where did he go?
+    </p>
+   </sp>
+   <sp who="#harold">
+    <speaker>
+     HAROLD.
+    </speaker>
+    <p>
+     Don't you worry — Jack's capable of taking care of himself. Just tell me if those things are to eat? I'm awfully hungry.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Well, you can't have a mouthful till we say you may. We're going to wait for Jack.
+    </p>
+   </sp>
+   <stage>
+    ( Another low whistle outside .)
+   </stage>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Here he is now! Let down the basket, quick.
+    </p>
+   </sp>
+   <stage>
+    ( Basket let down, rope drawn half way up .)
+   </stage>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED
+    </speaker>
+    <stage>
+     ( leaning over sill ).
+    </stage>
+    <p>
+     How old the moonlight makes him look! O-o-o-h-h! don't pull him in!
+    </p>
+   </sp>
+   <sp who="#others">
+    <speaker>
+     OTHERS
+    </speaker>
+    <stage>
+     ( amazed ).
+    </stage>
+    <p>
+     Why? Why? What's the matter?
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED
+    </speaker>
+    <stage>
+     ( catching rope ).
+    </stage>
+    <p>
+     Don't pull one inch! It isn't Jack!
+    </p>
+   </sp>
+   <sp who="#others">
+    <speaker>
+     OTHERS.
+    </speaker>
+    <p>
+     Not Jack? Who? Who?
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     I'm positive it's — it's — Professor Edgerton.
+    </p>
+   </sp>
+   <sp who="#others">
+    <speaker>
+     OTHERS.
+    </speaker>
+    <p>
+     It can't be!
+     <stage>
+      ( They lean over sill .)
+     </stage>
+     It is! It is!
+    </p>
+   </sp>
+   <sp who="#harold">
+    <speaker>
+     HAROLD.
+    </speaker>
+    <p>
+     By Jove!
+    </p>
+   </sp>
+   <sp who="#tom">
+    <speaker>
+     TOM.
+    </speaker>
+    <p>
+     Well, we're done for now.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Done for! Indeed we're not! If that's Professor Edgerton, he's where he has no business to be, so we'll just let him hang where he is for a while.
+    </p>
+   </sp>
+   <sp who="#others">
+    <speaker>
+     OTHERS.
+    </speaker>
+    <p>
+     Good! Capital! Oh, what a joke on the Professor!
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Now, keep still, everybody, and we'll have some fun.
+     <stage>
+      ( Leaning out — politely ).
+     </stage>
+     Good-evening, Professor!
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Young ladies, I have long suspected your conduct, and have endeavored, by means of this scheme. which I think is remarkably clever, to obtain proof of it. I have now obtained all that I judge necessary, and I feel compelled to take severe measures with you all. I will immediately turn the whole matter over to the Faculty.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY
+    </speaker>
+    <stage>
+     ( sweetly ).
+    </stage>
+    <p>
+     You can't till you get down, Professor.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     I was about to request you, young woman, to lower this basket at once.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Oh, Professor! Pray don't go yet! You have only just come!
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Indeed, young woman, this lightness is unseemly. I command you to obey at once!
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED
+    </speaker>
+    <stage>
+     ( mockingly ).
+    </stage>
+    <p>
+     But we feel it a duty, yes, quite a duty, to keep you — ah — where you are!
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     I never heard of such unadulterated impudence in my life! I'll have you all suspended!
+    </p>
+   </sp>
+   <sp who="#tom">
+    <speaker>
+     TOM.
+    </speaker>
+    <p>
+     Meanwhile, Professor, we take great pleasure in suspending you!
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     You young upstart! Am I to be dangled here between heaven and earth at the mercy of a pack of undergraduates?
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     We're awfully sorry for you, Professor! And it must be dreadfully cold out there — but you know you got yourself into this scrape!
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Just think, Professor, what fun it would be if any one should pass by underneath!
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR
+    </speaker>
+    <stage>
+     ( groans ).
+    </stage>
+    <p/>
+   </sp>
+   <sp who="#harold">
+    <speaker>
+     HAROLD.
+    </speaker>
+    <p>
+     Suffering Moses! but isn't this a lark!
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR
+    </speaker>
+    <stage>
+     ( with the energy of despair ).
+    </stage>
+    <p>
+     Young people, I command that you lower this apparatus immediately!
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     We're in command now, Professor. But since our time is flying, and you're slowly congealing out there, we'll let you down on one condition.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Am I, a member of the Faculty, to submit to your conditions?
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Why, no, not necessarily. Perhaps you would rather hang there. We can tie down the ropes and close the window.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     What are your conditions?
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     That you never, never breathe a word about our spread, or anything else you may have seen, to any living soul!
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     I can't promise that.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     All right, Professor. We'll leave you out there to wrestle with your conscience awhile! Tie him up, Harold.
+    </p>
+   </sp>
+   <sp who="#harold">
+    <speaker>
+     HAROLD.
+    </speaker>
+    <p>
+     Don't wriggle any more than you can help, Professor, because I'm afraid these ropes aren't very strong!
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Here — hold on — wait a minute! If there is no way out, I will — ah — surrender. I will promise as you suggested.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Solemnly, on your honor?
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Solemnly, upon my honor.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Then come, boys, let him down. — Or no! Let's pull him in! He shall come to our spread, and he can't tell!
+    </p>
+   </sp>
+   <stage>
+    ( Basket is pulled in .)
+   </stage>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR
+    </speaker>
+    <stage>
+     ( climbing over sill ).
+    </stage>
+    <p>
+     Young people, do you consider this fair treatment? I understood that I was to be lowered — as it were — to the ground.
+    </p>
+   </sp>
+   <sp who="#tom">
+    <speaker>
+     TOM.
+    </speaker>
+    <p>
+     Well, you will be, all in good time, never fear. You see this is an honor too great to be passed by.
+    </p>
+   </sp>
+   <sp who="#harold">
+    <speaker>
+     HAROLD.
+    </speaker>
+    <p>
+     We've always felt delicate about inviting the Professors to little concerns of this kind, but since you were so anxious to come, we feel highly complimented. It's really a chance of a life-time! Do have a chair. Professor. You look so tired!
+    </p>
+   </sp>
+   <stage>
+    ( Seats PROFESSOR in chair. Low whistle heard outside .)
+   </stage>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     That must be Jack! Lower the basket, boys.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Young people, I protest!
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     We're sorry to wound your feelings, Professor, but it must be done!
+    </p>
+   </sp>
+   <stage>
+    (JACK tumbles in .)
+   </stage>
+   <sp who="#jack">
+    <speaker>
+     JACK.
+    </speaker>
+    <p>
+     I did think I never would get here to-night, because the Faculty is on to us — Je-rusalem!
+     <stage>
+      ( Stares blankly at PROFESSOR.)
+     </stage>
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Oh, yes, Jack, Professor Edgerton is joining in our little spread to-night.
+    </p>
+   </sp>
+   <sp who="#jack">
+    <speaker>
+     JACK.
+    </speaker>
+    <p>
+     Well — how — what —
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Are you taking part in this disgraceful affair, young man?
+    </p>
+   </sp>
+   <sp who="#jack">
+    <speaker>
+     JACK
+    </speaker>
+    <stage>
+     ( blankly ).
+    </stage>
+    <p>
+     Are — are you, Professor? — I must say it's unusual to invite the Faculty to these little — gatherings — I'll be hanged if I see —
+    </p>
+   </sp>
+   <sp who="#harold">
+    <speaker>
+     HAROLD.
+    </speaker>
+    <p>
+     Come here, old man!
+    </p>
+   </sp>
+   <stage>
+    ( They whisper in corner; JACK seems greatly amused .)
+   </stage>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Well, now, we're all here, and we might just as well begin to eat. I'm hungry. Sit down, everybody on the floor!
+    </p>
+   </sp>
+   <sp who="#tom">
+    <speaker>
+     TOM.
+    </speaker>
+    <p>
+     I tell you, you girls know how to fix up a spread!
+     <stage>
+      ( They all eat hungrily , PROFESSOR sits gloomily in the chair .)
+     </stage>
+     You don't seem to have any appetite, Professor.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Poor Professor! Let's fix him up a nice little plate all for himself. Pass over those chocolates, Alice.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Young people, my feelings are greatly wounded by your conduct this evening. Think how embarrassing, how quite embarrassing, it would be for me if we were to be — ah — discovered.
+    </p>
+   </sp>
+   <sp who="#jack">
+    <speaker>
+     JACK.
+    </speaker>
+    <p>
+     Come, now, Professor, we're all in the same boat. Cheer up and be lively. We're going to have no end of fun.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Come, jump up, everybody, and see if we can't enliven the poor man a little. I've seen the time when I felt just so, Professor, and nothing would drive it away but a good dance.
+    </p>
+   </sp>
+   <stage>
+    ( Seats herself at piano and plays lively jig .)
+   </stage>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     All join hands and circle round.
+    </p>
+   </sp>
+   <stage>
+    ( They force PROFESSOR to circle awkwardly with them .)
+   </stage>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR
+    </speaker>
+    <stage>
+     ( circling ).
+    </stage>
+    <p>
+     Young people, I command — I protest — is not this a singularly — yes, quite a singularly — unusual thing for a member of the Faculty?
+    </p>
+   </sp>
+   <sp who="#tom">
+    <speaker>
+     TOM.
+    </speaker>
+    <p>
+     Unusual! Ye gods! I should think it was.
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Faster, faster, Dorothy; don't stop!
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Faster! I'm just spinning now!
+    </p>
+   </sp>
+   <stage>
+    (DOROTHY plays "We won't go home till morning." All join in the song. Door opens and MISS JUDKINS stands in view. Sudden stoppage .)
+   </stage>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY
+    </speaker>
+    <stage>
+     ( from piano ).
+    </stage>
+    <p>
+     What's the matter? Keep it up! Keep it up! Judkins is three stories below, and deaf at that.
+    </p>
+   </sp>
+   <stage>
+    ( Wheels around, sees MISS JUDKINS, hides head and screams .)
+   </stage>
+   <sp who="#missjudkins">
+    <speaker>
+     MISS JUDKINS.
+    </speaker>
+    <p>
+     Professor Edgerton! Do you call this discipline? Explain yourself.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Indeed — ah! — indeed I fear you will not quite understand — but I was making merely a few investigations, and — ah! —
+    </p>
+   </sp>
+   <sp who="#harold">
+    <speaker>
+     HAROLD.
+    </speaker>
+    <p>
+     And he got investigated himself.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY
+    </speaker>
+    <stage>
+     ( seriously ).
+    </stage>
+    <p>
+     You see, Miss Judkins, we're teaching the Faculty to dance.
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Yes. We started with the Professor, and we can take you next, Miss Judkins.
+    </p>
+   </sp>
+   <sp who="#missjudkins">
+    <speaker>
+     MISS JUDKINS.
+    </speaker>
+    <p>
+     Such unparalleled impudence. I certainly fail to understand, Professor, why you are in your present position. I can only command that you and these — gentlemen — betake yourselves elsewhere at once. I will attend to you, young ladies.
+    </p>
+   </sp>
+   <stage>
+    ( Whistle heard outside . DOROTHY answers with similar whistle .)
+   </stage>
+   <sp who="#voice">
+    <speaker>
+     VOICE.
+    </speaker>
+    <p>
+     Say, yeou young 'uns want to look aout sharp, naow. Thet there foxy Judkins, she's onto ye.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY
+    </speaker>
+    <stage>
+     ( smothering a laugh ).
+    </stage>
+    <p>
+     All right, Jonas! Thank you.
+    </p>
+   </sp>
+   <sp who="#missjudkins">
+    <speaker>
+     MISS JUDKINS.
+    </speaker>
+    <p>
+     Jonas, too, in league.
+    </p>
+   </sp>
+   <sp who="#voice">
+    <speaker>
+     VOICE
+    </speaker>
+    <stage>
+     ( from doorway ).
+    </stage>
+    <p>
+     Faith, Miss Dorothy, you an' the young gintlemen had better go soft loike, for Oi mistrust that Miss Judkins she's a-watchin' for something.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     Thank you, Kathleen, we'll watch her.
+    </p>
+   </sp>
+   <sp who="#missjudkins">
+    <speaker>
+     MISS JUDKINS.
+    </speaker>
+    <p>
+     Young ladies, if the Faculty, and the hired men. and all the maids of this establishment are in league with you against me, it is useless to interfere. I shall send in my resignation at once.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Indeed, my dear Miss Judkins, if only you could understand how — ah! — how very false my position is —
+    </p>
+   </sp>
+   <sp who="#missjudkins">
+    <speaker>
+     MISS JUDKINS.
+    </speaker>
+    <p>
+     False! I should think it was. You, sir, were telling me but an hour ago that discipline must be maintained at any cost. There is nothing, sir, for you to say. You can only leave the room, even as you came into it.
+    </p>
+   </sp>
+   <stage>
+    ( Shrieks of laughter .)
+   </stage>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Come, now, Miss Judkins, don't be hard on the Professor. He came in here to-night with the best of intentions, I assure you.
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     Yes, Miss Judkins, and as long as we are all here, and discovered, and you see you really can't do anything, you'll just have to make the best of it. Sit down, now, and let me help you to something.
+    </p>
+   </sp>
+   <sp who="#missjudkins">
+    <speaker>
+     MISS JUDKINS.
+    </speaker>
+    <p>
+     Miss Bartlett! I —
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Ah! — but do, Miss Judkins. I'm sure it would be very kind of you, and I — you — that is, we — need never mention this — er — little occurrence to the — er — Faculty. In fact, my dear Miss Judkins, I — that is, false as my position is, and much as I — er — regret it, I feel as though I had gone back twenty years, my dear Miss Judlee.
+    </p>
+   </sp>
+   <sp who="#missjudkins">
+    <speaker>
+     MISS JUDKINS.
+    </speaker>
+    <p>
+     I'm amazed at you, Professor Edgerton, Yet, since you speak of it, this — this much to be regretted affair wakens memories within me that I thought had gone to sleep forever.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     Miss Judkins! My dear lady! Ophelia! Er — I was just going to mention — that since the circumstances have been forced upon us, as it were, can we not
+     <pb n="19"/>
+     roll back the years for one short hour, and — er — participate, as it were, in these — festivities?
+    </p>
+   </sp>
+   <sp who="#harold">
+    <speaker>
+     HAROLD.
+    </speaker>
+    <p>
+     Professor, you're a brick.
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Oh! do, Miss Judkins; we'll never tell.
+    </p>
+   </sp>
+   <sp who="#missjudkins">
+    <speaker>
+     MISS JUDKINS.
+    </speaker>
+    <p>
+     Professor Edgerton, since you, as a member of the Faculty, have requested it, I will consent to stay a short time and act as — as chaperon for these young people.
+    </p>
+   </sp>
+   <sp who="#tom">
+    <speaker>
+     TOM.
+    </speaker>
+    <p>
+     Hurrah! Sit down, everybody, and eat your fill.
+    </p>
+   </sp>
+   <stage>
+    ( They seat themselves. Enter KATHLEEN, breathless .)
+   </stage>
+   <sp who="#kathleen">
+    <speaker>
+     KATHLEEN.
+    </speaker>
+    <p>
+     Faith, thin, an' it's prowlin' around she is, an' if you young gintlemen — howly Saint Pater! An' the Perfisser, too!
+    </p>
+   </sp>
+   <stage>
+    ( Stares in open-mouthed astonishment .)
+   </stage>
+   <sp who="#jonas">
+    <speaker>
+     JONAS
+    </speaker>
+    <stage>
+     ( entering ).
+    </stage>
+    <p>
+     Naow yeou young 'uns better quit 'n' light aout ef ye want to git off with hull skins. It strikes me she's — gee whiz!
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Come on, Kathleen. This is a time of joy for all, from the Faculty down. Join the circle; here's a place for you.
+    </p>
+   </sp>
+   <sp who="#tom">
+    <speaker>
+     TOM.
+    </speaker>
+    <p>
+     And you can sit right here, Jonas. Don't be bashful.
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED
+    </speaker>
+    <stage>
+     ( sings ).
+    </stage>
+    <p>
+     "And we'll all have tea."
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Wal, all I can say is — I swan! Haow'd it all happen? I never see the like of this, an' I've seen some mighty peculiar things sence I've worked to this seminary.
+    </p>
+   </sp>
+   <sp who="#missjudkins">
+    <speaker>
+     MISS JUDKINS
+    </speaker>
+    <stage>
+     ( dryly ).
+    </stage>
+    <p>
+     I don't doubt it, Jonas.
+    </p>
+   </sp>
+   <sp who="#jonas">
+    <speaker>
+     JONAS.
+    </speaker>
+    <p>
+     Wal, Miss Judkins, you 'n' the Professor mustn't be too hard on old Jonas fer a-helpin' of the young folks a little. You see, I had a boy once myself, jest about the age of these young fellers; an' one time I was pretty hard on him on account of a jamboree that was considerable like this; — an' he went away, an' — wal, we ain't heard from him sence.
+    </p>
+   </sp>
+   <sp who="#jack">
+    <speaker>
+     JACK.
+    </speaker>
+    <p>
+     There, old fellow, cheer up. He'll come back before long, a sadder and a wiser man, see if he doesn't.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR.
+    </speaker>
+    <p>
+     And Miss Judkins and myself are quite willing to overlook this — ah — laxity of demeanor, Jonas.
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     There! Everything is all right now. And we can — oh! listen.
+    </p>
+   </sp>
+   <stage>
+    ( Tuning of guitars is heard; then a college song is sung by a male quartet .)
+   </stage>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     What a lovely serenade! It was just the
+     <pb n="20"/>
+     finishing touch for our spread. But it is getting late. Jump up! jump up! One parting whirl, for soon we must sever.
+    </p>
+   </sp>
+   <stage>
+    (DOROTHY plays .)
+   </stage>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     Join hands, everybody, Miss Judkins and the Professor, Kathleen and Jonas, and all the rest. One — two — three — four, and away we go.
+    </p>
+   </sp>
+   <sp who="#professor">
+    <speaker>
+     PROFESSOR
+    </speaker>
+    <stage>
+     ( breathlessly ).
+    </stage>
+    <p>
+     This is — ah — er — very violent exercise — cannot we desist, my young friends, with a parting bow, as it were?
+    </p>
+   </sp>
+   <sp who="#mildred">
+    <speaker>
+     MILDRED.
+    </speaker>
+    <p>
+     So we will. Come here, Dorothy — we'll all join hands, and now to the greatness of the occasion!
+    </p>
+   </sp>
+   <sp who="#tom">
+    <speaker>
+     TOM.
+    </speaker>
+    <p>
+     And to its unusual circumstances!
+    </p>
+   </sp>
+   <sp who="#alice">
+    <speaker>
+     ALICE.
+    </speaker>
+    <p>
+     And to the health of Miss Judkins!
+    </p>
+   </sp>
+   <sp who="#harold">
+    <speaker>
+     HAROLD.
+    </speaker>
+    <p>
+     And to the happiness of the Professor!
+    </p>
+   </sp>
+   <sp who="#jack">
+    <speaker>
+     JACK.
+    </speaker>
+    <p>
+     And to our loyal friends, Kathleen and Jonas, who rushed into the very teeth of danger to warn us of approaching peril!
+    </p>
+   </sp>
+   <sp who="#dorothy">
+    <speaker>
+     DOROTHY.
+    </speaker>
+    <p>
+     And to the honor of the Faculty!
+    </p>
+   </sp>
+   <sp who="#dorothy #jack #harold #alice #tom #mildred #professor #jonas">
+    <speaker>
+     ALL.
+    </speaker>
+    <p>
+     One grand sweeping bow.
+    </p>
+   </sp>
+  </body>
+  <back>
+   <p>
+    CURTAIN
+   </p>
+  </back>
+ </text>
+</TEI>
